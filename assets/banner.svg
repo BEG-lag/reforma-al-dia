@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 440" width="1280" height="440" role="img" aria-labelledby="t d">
+  <title id="t">reforma-al-dia</title>
+  <desc id="d">The morning the DOF publishes a reform, an AI agent applies it to leyes-mx and opens a pull request for a human to review; when the official text arrives it audits itself. A terminal shows the 40-hour work week reform applied to article 123 of the Constitution and the audit result: exact.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#eceee6" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.82" cy="0.12" r="0.6">
+      <stop offset="0" stop-color="#cfff45" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#cfff45" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect x="676" y="44" width="548" height="352" rx="14"/></clipPath>
+  </defs>
+  <style>
+    .mono { font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    .serif { font-family: "Cormorant Garamond", "Cormorant", Garamond, Georgia, "Times New Roman", serif; font-style: italic; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    .l1, .l2, .l3, .l4, .l5, .l6 { opacity: 0; animation: show 9s linear infinite; }
+    .l2 { animation-delay: .6s; } .l3 { animation-delay: 1.4s; } .l4 { animation-delay: 2.2s; }
+    .l5 { animation-delay: 3.2s; } .l6 { animation-delay: 4.4s; }
+    .pulse { animation: pulse 6s ease-in-out infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes show { 0% { opacity: 0; } 4% { opacity: 1; } 88% { opacity: 1; } 96%, 100% { opacity: 0; } }
+    @keyframes pulse { 0%, 100% { opacity: .55; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .cursor, .pulse { animation: none; }
+      .l1, .l2, .l3, .l4, .l5, .l6 { animation: none; opacity: 1; }
+    }
+  </style>
+
+  <rect width="1280" height="440" fill="#0a0c10"/>
+  <rect width="1280" height="440" fill="url(#grid)"/>
+  <rect width="1280" height="440" fill="url(#glow)" class="pulse"/>
+
+  <!-- Left: identity -->
+  <rect x="64" y="80" width="9" height="9" fill="#cfff45"/>
+  <text x="84" y="89" class="mono" font-size="13" letter-spacing="3" fill="#969dab">DOF → IA → PULL REQUEST → AUDITORÍA</text>
+  <text x="60" y="184" class="mono" font-size="64" font-weight="700" letter-spacing="-3" fill="#eceee6">reforma<tspan fill="#cfff45">-</tspan>al<tspan fill="#cfff45">-</tspan>día</text>
+  <text x="64" y="240" class="serif" font-size="36" fill="#eceee6">La reforma, aplicada la misma mañana.</text>
+  <text x="64" y="280" class="sans" font-size="18" fill="#969dab">An AI agent applies each DOF reform and opens a PR.</text>
+  <text x="64" y="304" class="sans" font-size="18" fill="#969dab">A human reviews it. Then it audits itself in public.</text>
+
+  <g class="mono" font-size="13">
+    <rect x="64" y="336" width="150" height="30" rx="15" fill="none" stroke="#cfff45" stroke-opacity=".55"/>
+    <text x="139" y="356" text-anchor="middle" fill="#cfff45">90.7% exacto</text>
+    <rect x="224" y="336" width="200" height="30" rx="15" fill="none" stroke="#eceee6" stroke-opacity=".22"/>
+    <text x="324" y="356" text-anchor="middle" fill="#eceee6">642 artículos · 34 DOF</text>
+    <rect x="434" y="336" width="200" height="30" rx="15" fill="none" stroke="#ffb648" stroke-opacity=".5"/>
+    <text x="534" y="356" text-anchor="middle" fill="#ffb648">humano en el circuito</text>
+  </g>
+
+  <!-- Right: terminal -->
+  <rect x="676" y="44" width="548" height="352" rx="14" fill="#11141b" stroke="#eceee6" stroke-opacity=".1"/>
+  <g clip-path="url(#card)">
+    <rect x="676" y="44" width="548" height="34" fill="#191d27"/>
+    <circle cx="700" cy="61" r="5" fill="#ff5d47"/>
+    <circle cx="718" cy="61" r="5" fill="#ffb648"/>
+    <circle cx="736" cy="61" r="5" fill="#cfff45"/>
+    <text x="950" y="65" text-anchor="middle" class="mono" font-size="12" fill="#969dab">reforma-al-dia · 08:45</text>
+
+    <g class="mono" font-size="13.5">
+      <text x="698" y="108" class="l1"><tspan fill="#cfff45">$</tspan><tspan fill="#eceee6"> reforma-al-dia run --date 2026-03-03</tspan></text>
+      <text x="698" y="134" class="l2"><tspan fill="#7fd8ff">DOF</tspan><tspan fill="#969dab"> nota 5781417 · CPEUM · art. 123, A, IV</tspan></text>
+      <text x="698" y="166" class="l3"><tspan fill="#cfff45">+</tspan><tspan x="716" fill="#cfff45">IV. La jornada laboral será de cuarenta</tspan></text>
+      <text x="698" y="186" class="l3"><tspan fill="#cfff45">+</tspan><tspan x="749" fill="#cfff45">horas semanales en los términos que</tspan></text>
+      <text x="698" y="206" class="l3"><tspan fill="#cfff45">+</tspan><tspan x="749" fill="#cfff45">establezca la Ley.</tspan></text>
+      <text x="698" y="226" class="l3"><tspan fill="#969dab">  *Fracción reformada DOF 03-03-2026*</tspan></text>
+      <text x="698" y="262" class="l4"><tspan fill="#ffb648">PR</tspan><tspan fill="#eceee6"> reforma/2026-03-03-cpeum</tspan><tspan fill="#ffb648">  [provisional]</tspan></text>
+      <text x="698" y="286" class="l4"><tspan fill="#969dab">   1 edición · 0 a revisión · validaciones OK</tspan></text>
+      <text x="698" y="324" class="l5"><tspan fill="#cfff45">$</tspan><tspan fill="#eceee6"> reforma-al-dia audit</tspan></text>
+      <rect x="690" y="336" width="520" height="30" rx="5" fill="#cfff45" fill-opacity=".08" class="l6"/>
+      <text x="698" y="356" class="l6"><tspan fill="#eceee6">vs texto oficial: </tspan><tspan fill="#cfff45" font-weight="700">EXACTO</tspan><tspan fill="#eceee6">, byte por byte</tspan><tspan class="cursor" fill="#cfff45"> ▍</tspan></text>
+    </g>
+  </g>
+</svg>
