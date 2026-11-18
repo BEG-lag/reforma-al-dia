@@ -1,0 +1,36 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      matrix:
+        python: ["3.12", "3.13", "3.14"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+          python-version: ${{ matrix.python }}
+      - name: Install
+        run: uv sync --locked --python ${{ matrix.python }}
+      - name: Lint
+        run: |
+          uv run ruff check .
+          uv run ruff format --check .
+      - name: Tests (recorded DOF and Claude fixtures; no network, no model calls)
+        run: uv run pytest -q
+      - name: The published scoreboard is exactly what the recorded cases produce
+        run: |
+          uv run reforma-al-dia scoreboard
+          git diff --exit-code -- data/auditoria.json
