@@ -1,0 +1,4 @@
+# Generated data and site: keep them out of the language statistics.
+data/** linguist-generated=true
+docs/** linguist-generated=true
+tests/fixtures/** linguist-generated=true
