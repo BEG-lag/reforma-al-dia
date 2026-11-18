@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  reforma-al-dia: every day at 08:45 (the Mac's local time; set the Mac to America/Mexico_City).
+  NOT installed by this repository. To install, see scheduling/README.md:
+    cp scheduling/mx.pivotek.reforma-al-dia.plist ~/Library/LaunchAgents/
+    launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/mx.pivotek.reforma-al-dia.plist
+  Replace /Users/esponda/GitHub/reforma-al-dia if the repository lives elsewhere.
+-->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>mx.pivotek.reforma-al-dia</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>-l</string>
+    <string>/Users/esponda/GitHub/reforma-al-dia/scheduling/run-daily.sh</string>
+  </array>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <!-- 0 = dry run (branches and PR texts only). Set to 1 once you trust it. -->
+    <key>REFORMA_LIVE</key>
+    <string>0</string>
+    <key>REFORMA_PUBLISH</key>
+    <string>0</string>
+  </dict>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>8</integer>
+    <key>Minute</key>
+    <integer>45</integer>
+  </dict>
+  <key>WorkingDirectory</key>
+  <string>/Users/esponda/GitHub/reforma-al-dia</string>
+  <key>StandardOutPath</key>
+  <string>/Users/esponda/GitHub/reforma-al-dia/.work/launchd.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/esponda/GitHub/reforma-al-dia/.work/launchd.log</string>
+  <key>RunAtLoad</key>
+  <false/>
+</dict>
+</plist>
