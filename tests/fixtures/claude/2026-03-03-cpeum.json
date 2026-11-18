@@ -1,0 +1,33 @@
+[
+ {
+  "edits": [
+   {
+    "article": "Artículo 123.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado A, fracción IV",
+    "from_block": 14,
+    "to_block": 14,
+    "paragraphs": [
+     "IV. La jornada laboral será de cuarenta horas semanales en los términos que establezca la Ley.",
+     "Por cada seis días de trabajo las personas trabajadoras deberán disfrutar por lo menos de un día de descanso con goce de salario íntegro."
+    ]
+   },
+   {
+    "article": "Artículo 123.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado A, fracción XI",
+    "from_block": 34,
+    "to_block": 34,
+    "paragraphs": [
+     "XI. Cuando por circunstancias extraordinarias deban aumentarse las horas de la jornada, se abonará como salario por este tiempo un cien por ciento más de lo fijado para las horas ordinarias. El trabajo extraordinario no excederá de doce horas en una semana, las cuales podrán distribuirse en hasta cuatro horas diarias, en un máximo de cuatro días en ese periodo.",
+     "La prolongación del tiempo extraordinario que supere lo establecido en el párrafo que antecede, obliga a la persona empleadora a pagar doscientos por ciento más del salario que corresponda a las horas de la jornada ordinaria conforme a lo establecido en la Ley de la materia.",
+     "Las personas menores de dieciocho años no podrán laborar tiempo extraordinario."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ }
+]

@@ -1,0 +1,5 @@
+groups:
+  test: Test
+laws:
+  - {key: cpeum, slug: cpeum, group: test}
+  - {key: lgra, slug: lgra, group: test}
