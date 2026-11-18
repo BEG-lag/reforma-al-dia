@@ -1,0 +1,70 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 62.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Los servidores públicos de la Secretaría responsables de determinar y verificar las condiciones económicas relativas a los términos fiscales, así como los servidores públicos de la Secretaría de Energía responsables de adjudicar las Asignaciones o del diseño técnico de los Contratos, así como de los lineamientos técnicos que deben observarse en el proceso de licitación de dichos contratos, deben contar, en términos de los lineamientos que emita la Secretaría, con seguros, fianzas o cauciones, que cubran el monto de la indemnización por los daños que cause su actuación en el ejercicio de sus atribuciones, y seguros para asumir los servicios de defensa y asistencia legal de dichos servidores públicos. Dichos seguros, fianzas o cauciones no forman parte de las prestaciones de los servidores públicos mencionados."
+    ]
+   },
+   {
+    "article": "Artículo 64.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Para los efectos de esta Ley, así como para la Ley del Impuesto sobre la Renta se considera que se constituye establecimiento permanente cuando un residente en el extranjero realice las actividades a que se refiere la Ley del Sector Hidrocarburos, en territorio nacional o en la zona económica exclusiva sobre la cual México tenga derecho, en un periodo que sume en conjunto más de 30 días en cualquier periodo de 12 meses."
+    ]
+   },
+   {
+    "article": "Artículo 64.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Los ingresos por sueldos, salarios y remuneraciones similares que obtengan residentes en el extranjero, que se paguen por residentes en el extranjero sin establecimiento permanente en el país o, que teniéndolo no se relacionen con dicho establecimiento, respecto de un empleo relacionado con las actividades de los Contratistas o Asignatarios a los que se refiere la Ley del Sector Hidrocarburos, realizado en territorio nacional o en la zona económica exclusiva sobre la cual México tenga derecho, en un plazo que exceda de 30 días en cualquier período de 12 meses, están gravados de conformidad con el artículo 154 de la Ley del Impuesto sobre la Renta."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "Artículo 64.",
+    "reason": "El texto vigente del artículo 64 incluye, de los bloques [5] a [20], las disposiciones transitorias del decreto original (ARTÍCULO SEGUNDO, fracciones I a X, y ARTÍCULOS TERCERO A OCTAVO), que no forman parte del artículo 64. No se modificaron, pero conviene revisar si deben separarse del cuerpo del artículo."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 62.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Los servidores públicos de la Secretaría responsables de determinar y verificar las condiciones económicas relativas a los términos fiscales, así como los servidores públicos de la Secretaría de Energía responsables de adjudicar las Asignaciones o del diseño técnico de los Contratos, así como de los lineamientos técnicos que deben observarse en el proceso de licitación de dichos contratos, deben contar, en términos de los lineamientos que emita la Secretaría, con seguros, fianzas o cauciones, que cubran el monto de la indemnización por los daños que cause su actuación en el ejercicio de sus atribuciones, y seguros para asumir los servicios de defensa y asistencia legal de dichos servidores públicos. Dichos seguros, fianzas o cauciones no forman parte de las prestaciones de los servidores públicos mencionados.\"]},{\"article\":\"Artículo 64.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Para los efectos de esta Ley, así como para la Ley del Impuesto sobre la Renta se considera que se constituye establecimiento permanente cuando un residente en el extranjero realice las actividades a que se refiere la Ley del Sector Hidrocarburos, en territorio nacional o en la zona económica exclusiva sobre la cual México tenga derecho, en un periodo que sume en conjunto más de 30 días en cualquier periodo de 12 meses.\"]},{\"article\":\"Artículo 64.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Los ingresos por sueldos, salarios y remuneraciones similares que obtengan residentes en el extranjero, que se paguen por residentes en el extranjero sin establecimiento permanente en el país o, que teniéndolo no se relacionen con dicho establecimiento, respecto de un empleo relacionado con las actividades de los Contratistas o Asignatarios a los que se refiere la Ley del Sector Hidrocarburos, realizado en territorio nacional o en la zona económica exclusiva sobre la cual México tenga derecho, en un plazo que exceda de 30 días en cualquier período de 12 meses, están gravados de conformidad con el artículo 154 de la Ley del Impuesto sobre la Renta.\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"Artículo 64.\",\"reason\":\"El texto vigente del artículo 64 incluye, de los bloques [5] a [20], las disposiciones transitorias del decreto original (ARTÍCULO SEGUNDO, fracciones I a X, y ARTÍCULOS TERCERO A OCTAVO), que no forman parte del artículo 64. No se modificaron, pero conviene revisar si deben separarse del cuerpo del artículo.\"}]}",
+ "duration_ms": 9182,
+ "total_cost_usd": 0.0762738,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 1202,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 6453,
+   "webSearchRequests": 0,
+   "costUSD": 0.0762738,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 67,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 6453,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

@@ -1,0 +1,351 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "ARTÍCULO 7 BIS.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. La descentralización y mejoramiento de la gestión de los recursos hídricos con la participación de los estados, de la Ciudad de México y de los municipios;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "I. Fungir como la Autoridad en materia de la cantidad y de la calidad de las aguas y su gestión en el territorio nacional y ejercer en consecuencia aquellas atribuciones que conforme a la presente Ley corresponden a la autoridad en materia hídrica, dentro del ámbito de la competencia federal, con apego a la descentralización del sector agua, excepto las que debe ejercer directamente el Ejecutivo Federal o \"la Secretaría\" y las que estén bajo la responsabilidad de los Gobiernos de los estados, de la Ciudad de México o municipios;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "II. Formular la política hídrica nacional y proponerla a la persona Titular del Poder Ejecutivo Federal, por conducto de \"la Secretaría\", así como dar seguimiento y evaluar de manera periódica el cumplimiento de dicha política;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "III. Integrar, formular y proponer a la persona Titular del Poder Ejecutivo Federal, el Programa Nacional Hídrico, actualizarlo y vigilar su cumplimiento;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VIII",
+    "from_block": 15,
+    "to_block": 15,
+    "paragraphs": [
+     "VIII. Formular y aplicar lineamientos técnicos y administrativos para jerarquizar inversiones en obras públicas federales de infraestructura hídrica y contribuir cuando le sea solicitado por estados, la Ciudad de México y municipios, con lineamientos para la jerarquización de sus inversiones en la materia;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "X",
+    "from_block": 17,
+    "to_block": 17,
+    "paragraphs": [
+     "X. Apoyar, concesionar, contratar, convenir y normar las obras de infraestructura hídrica que se realicen con recursos totales o parciales de la federación o con su aval o garantía, en coordinación con otras dependencias y entidades federales, con el gobierno de la Ciudad de México, con gobiernos de los estados que correspondan y, por medio de éstos, con los gobiernos de los municipios beneficiados con dichas obras, en los casos establecidos en la fracción anterior;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XI",
+    "from_block": 18,
+    "to_block": 18,
+    "paragraphs": [
+     "XI. Operar, conservar y mantener obras y servicios hidráulicos rurales y urbanos cuando la persona Titular del Ejecutivo Federal así lo disponga en casos de seguridad nacional o de carácter estratégico de conformidad con las Leyes en la materia;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XII",
+    "from_block": 19,
+    "to_block": 19,
+    "paragraphs": [
+     "XII. Participar en la concertación de créditos y otros mecanismos financieros, incluso sobre la participación de terceros en el financiamiento de obras y servicios, que apoyen la construcción y el desarrollo de las obras y servicios federales hidráulicos; igualmente podrá fomentar y apoyar gestiones de crédito y otros mecanismos financieros en favor de estados, de la Ciudad de México y municipios conforme a sus atribuciones y a solicitud de parte;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XV",
+    "from_block": 22,
+    "to_block": 22,
+    "paragraphs": [
+     "XV. Proponer a la persona Titular del Poder Ejecutivo Federal el establecimiento de Distritos de Riego y en su caso, la expropiación de los bienes inmuebles correspondientes;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XX",
+    "from_block": 27,
+    "to_block": 27,
+    "paragraphs": [
+     "XX. Expedir títulos de concesión, asignación o permisos a que se refiere la presente Ley y sus reglamentos, reconocer derechos y llevar el Registro Público Nacional del Agua;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XXV",
+    "from_block": 32,
+    "to_block": 32,
+    "paragraphs": [
+     "XXV. Celebrar convenios de coordinación y participación en materia de gestión del agua con la Federación, la Ciudad de México, estados, y a través de éstos, con los municipios y sus respectivas administraciones públicas, así como de concertación con el sector social y privado, y favorecer, en el ámbito de su competencia, en forma sistemática y con medidas específicas, la descentralización de la gestión de los recursos hídricos en términos de Ley;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XXXIV",
+    "from_block": 41,
+    "to_block": 41,
+    "paragraphs": [
+     "XXXIV. Emitir disposiciones sobre la estructuración y operación del Registro Público Nacional del Agua a nivel nacional, apoyarlo financieramente y coordinarlo;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XLII",
+    "from_block": 49,
+    "to_block": 49,
+    "paragraphs": [
+     "XLII. Proponer a la persona Titular del Poder Ejecutivo Federal la expedición de Decretos para el establecimiento, modificación o extinción de Zonas de Veda y de Zonas Reglamentadas para la Extracción y Distribución de Aguas Nacionales y para su explotación, uso o aprovechamiento, así como Declaratorias de Reserva de Aguas Nacionales y de zonas de desastre;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XLVII",
+    "from_block": 54,
+    "to_block": 54,
+    "paragraphs": [
+     "XLVII. Integrar el Sistema Nacional de Información sobre cantidad, calidad, usos y conservación del agua, con la participación de los Organismos de Cuenca, en coordinación con los gobiernos de los estados y de la Ciudad de México y con los Consejos de Cuenca, y en concordancia con la Ley General de Transparencia y Acceso a la Información Pública."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo de la fracción XLVII",
+    "insert_after": 54,
+    "paragraphs": [
+     "El Sistema Nacional de Información sobre cantidad, calidad, usos y conservación del agua también se integrará con la información que obre en los sistemas y archivos de \"la Secretaría\", así como en sus órganos administrativos desconcentrados y descentralizados;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XLVIII",
+    "from_block": 55,
+    "to_block": 55,
+    "paragraphs": [
+     "XLVIII. Gestionar y resolver de manera expedita las solicitudes de trámite que le sean presentadas en los plazos establecidos en la presente Ley;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "L",
+    "from_block": 58,
+    "to_block": 58,
+    "paragraphs": [
+     "L. Emitir las medidas necesarias y los acuerdos específicos, de carácter transitorio o permanente, para atender situaciones de emergencia, escasez y sobreexplotación, así como para garantizar la seguridad hídrica;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "LII",
+    "from_block": 60,
+    "to_block": 60,
+    "paragraphs": [
+     "LII. Regular y autorizar la reasignación de volúmenes, en los casos que prevé la presente Ley;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "LIII",
+    "from_block": 61,
+    "to_block": 61,
+    "paragraphs": [
+     "LIII. Adquirir los bienes necesarios para los fines que le son propios;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "LIII BIS",
+    "insert_after": 61,
+    "paragraphs": [
+     "LIII BIS. Atraer a su conocimiento cualquier asunto de la competencia del nivel regional mediante acuerdo que al efecto se emita, conforme a la normativa aplicable, y"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 9 BIS 1.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "b.",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "b. Una persona Titular de la Dirección General."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 10.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El Consejo Técnico de \"la Comisión\" estará integrado por las personas titulares de las Secretarías de Medio Ambiente y Recursos Naturales, quien lo presidirá; Hacienda y Crédito Público; de Ciencias, Humanidades, Tecnología e Innovación; de Bienestar; de Energía; de Economía; de Salud; y de Agricultura y Desarrollo Rural; así como del Instituto Mexicano de Tecnología del Agua y de la Comisión Nacional Forestal. Por cada persona representante propietaria se designará a las suplencias necesarias con nivel de Subsecretaría o equivalente. A propuesta del Consejo Técnico, la persona Titular del Ejecutivo Federal designará como miembros del propio Consejo, observando el principio de paridad de género, a dos representantes de los gobiernos de los estados y a un representante de una Organización Ciudadana de prestigio y experiencia relacionada con las funciones de \"la Comisión\"."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 10.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "El Consejo Técnico cuando así lo considere conveniente, podrá invitar a sus sesiones a las personas titulares de las demás dependencias y entidades de la Administración Pública Federal y a otras personas representantes de los estados, de los municipios, de los usuarios y de la sociedad organizada, quienes podrán intervenir con voz, pero sin voto. En las sesiones del Consejo Técnico, participará con voz y voto, la persona titular de la Dirección General de \"la Comisión\"."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 11.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Aprobar, de conformidad con la presente Ley y su reglamento, presupuesto y operaciones de \"la Comisión\", supervisar su ejecución, así como conocer y aprobar los informes que presente la persona Titular de la Dirección General;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 11.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Nombrar y remover a propuesta de la persona Titular de la Dirección General de \"la Comisión\" a las personas titulares de las direcciones generales de los Organismos de Cuenca, así como a las personas servidoras públicas de \"la Comisión\" de los niveles central y regional hidrológico-administrativo, que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquélla, conforme a las disposiciones aplicables;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 11.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IX",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "IX. Aprobar el Manual de Integración, Estructura Orgánica y Funcionamiento de \"la Comisión\" a propuesta de la persona Titular de la Dirección General, así como las modificaciones, en su caso, y"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 11 BIS.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 11 BIS.",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "\"La Comisión\" contará con un Órgano Interno de Control el cual se regulará en términos de las disposiciones aplicables."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La persona Titular de la Dirección General de \"la Comisión\" tendrá las facultades siguientes:"
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "ARTÍCULO 9.",
+    "reason": "La fracción LIII no aparece en la instrucción, pero el decreto la reproduce completa y le quita la \"y\" final (que pasa a LIII BIS). Se aplicó como reforma de la fracción LIII; hay que confirmar que el texto consolidado de la Cámara recoja ese cambio."
+   },
+   {
+    "article": "ARTÍCULO 9.",
+    "reason": "El decreto pone cuatro \"...\" antes de la fracción I, pero el texto vigente tiene cinco párrafos más los incisos a. y b. antes de las fracciones. Esa parte no cambia y las fracciones se ubicaron por su número, pero conviene revisarlo."
+   },
+   {
+    "article": "ARTÍCULO 10.",
+    "reason": "La instrucción reforma el artículo 10 completo, pero el decreto deja el tercer párrafo con \"...\". Por eso sólo se reformaron los párrafos primero y segundo y el tercero se dejó igual."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"ARTÍCULO 7 BIS.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. La descentralización y mejoramiento de la gestión de los recursos hídricos con la participación de los estados, de la Ciudad de México y de los municipios;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"I. Fungir como la Autoridad en materia de la cantidad y de la calidad de las aguas y su gestión en el territorio nacional y ejercer en consecuencia aquellas atribuciones que conforme a la presente Ley corresponden a la autoridad en materia hídrica, dentro del ámbito de la competencia federal, con apego a la descentralización del sector agua, excepto las que debe ejercer directamente el Ejecutivo Federal o \\\"la Secretaría\\\" y las que estén bajo la responsabilidad de los Gobiernos de los estados, de la Ciudad de México o municipios;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"II. Formular la política hídrica nacional y proponerla a la persona Titular del Poder Ejecutivo Federal, por conducto de \\\"la Secretaría\\\", así como dar seguimiento y evaluar de manera periódica el cumplimiento de dicha política;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"III. Integrar, formular y proponer a la persona Titular del Poder Ejecutivo Federal, el Programa Nacional Hídrico, actualizarlo y vigilar su cumplimiento;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VIII\",\"from_block\":15,\"to_block\":15,\"paragraphs\":[\"VIII. Formular y aplicar lineamientos técnicos y administrativos para jerarquizar inversiones en obras públicas federales de infraestructura hídrica y contribuir cuando le sea solicitado por estados, la Ciudad de México y municipios, con lineamientos para la jerarquización de sus inversiones en la materia;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"X\",\"from_block\":17,\"to_block\":17,\"paragraphs\":[\"X. Apoyar, concesionar, contratar, convenir y normar las obras de infraestructura hídrica que se realicen con recursos totales o parciales de la federación o con su aval o garantía, en coordinación con otras dependencias y entidades federales, con el gobierno de la Ciudad de México, con gobiernos de los estados que correspondan y, por medio de éstos, con los gobiernos de los municipios beneficiados con dichas obras, en los casos establecidos en la fracción anterior;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XI\",\"from_block\":18,\"to_block\":18,\"paragraphs\":[\"XI. Operar, conservar y mantener obras y servicios hidráulicos rurales y urbanos cuando la persona Titular del Ejecutivo Federal así lo disponga en casos de seguridad nacional o de carácter estratégico de conformidad con las Leyes en la materia;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XII\",\"from_block\":19,\"to_block\":19,\"paragraphs\":[\"XII. Participar en la concertación de créditos y otros mecanismos financieros, incluso sobre la participación de terceros en el financiamiento de obras y servicios, que apoyen la construcción y el desarrollo de las obras y servicios federales hidráulicos; igualmente podrá fomentar y apoyar gestiones de crédito y otros mecanismos financieros en favor de estados, de la Ciudad de México y municipios conforme a sus atribuciones y a solicitud de parte;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XV\",\"from_block\":22,\"to_block\":22,\"paragraphs\":[\"XV. Proponer a la persona Titular del Poder Ejecutivo Federal el establecimiento de Distritos de Riego y en su caso, la expropiación de los bienes inmuebles correspondientes;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XX\",\"from_block\":27,\"to_block\":27,\"paragraphs\":[\"XX. Expedir títulos de concesión, asignación o permisos a que se refiere la presente Ley y sus reglamentos, reconocer derechos y llevar el Registro Público Nacional del Agua;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XXV\",\"from_block\":32,\"to_block\":32,\"paragraphs\":[\"XXV. Celebrar convenios de coordinación y participación en materia de gestión del agua con la Federación, la Ciudad de México, estados, y a través de éstos, con los municipios y sus respectivas administraciones públicas, así como de concertación con el sector social y privado, y favorecer, en el ámbito de su competencia, en forma sistemática y con medidas específicas, la descentralización de la gestión de los recursos hídricos en términos de Ley;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XXXIV\",\"from_block\":41,\"to_block\":41,\"paragraphs\":[\"XXXIV. Emitir disposiciones sobre la estructuración y operación del Registro Público Nacional del Agua a nivel nacional, apoyarlo financieramente y coordinarlo;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XLII\",\"from_block\":49,\"to_block\":49,\"paragraphs\":[\"XLII. Proponer a la persona Titular del Poder Ejecutivo Federal la expedición de Decretos para el establecimiento, modificación o extinción de Zonas de Veda y de Zonas Reglamentadas para la Extracción y Distribución de Aguas Nacionales y para su explotación, uso o aprovechamiento, así como Declaratorias de Reserva de Aguas Nacionales y de zonas de desastre;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XLVII\",\"from_block\":54,\"to_block\":54,\"paragraphs\":[\"XLVII. Integrar el Sistema Nacional de Información sobre cantidad, calidad, usos y conservación del agua, con la participación de los Organismos de Cuenca, en coordinación con los gobiernos de los estados y de la Ciudad de México y con los Consejos de Cuenca, y en concordancia con la Ley General de Transparencia y Acceso a la Información Pública.\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo de la fracción XLVII\",\"insert_after\":54,\"paragraphs\":[\"El Sistema Nacional de Información sobre cantidad, calidad, usos y conservación del agua también se integrará con la información que obre en los sistemas y archivos de \\\"la Secretaría\\\", así como en sus órganos administrativos desconcentrados y descentralizados;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XLVIII\",\"from_block\":55,\"to_block\":55,\"paragraphs\":[\"XLVIII. Gestionar y resolver de manera expedita las solicitudes de trámite que le sean presentadas en los plazos establecidos en la presente Ley;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"L\",\"from_block\":58,\"to_block\":58,\"paragraphs\":[\"L. Emitir las medidas necesarias y los acuerdos específicos, de carácter transitorio o permanente, para atender situaciones de emergencia, escasez y sobreexplotación, así como para garantizar la seguridad hídrica;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"LII\",\"from_block\":60,\"to_block\":60,\"paragraphs\":[\"LII. Regular y autorizar la reasignación de volúmenes, en los casos que prevé la presente Ley;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"LIII\",\"from_block\":61,\"to_block\":61,\"paragraphs\":[\"LIII. Adquirir los bienes necesarios para los fines que le son propios;\"]},{\"article\":\"ARTÍCULO 9.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"LIII BIS\",\"insert_after\":61,\"paragraphs\":[\"LIII BIS. Atraer a su conocimiento cualquier asunto de la competencia del nivel regional mediante acuerdo que al efecto se emita, conforme a la normativa aplicable, y\"]},{\"article\":\"ARTÍCULO 9 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"b.\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"b. Una persona Titular de la Dirección General.\"]},{\"article\":\"ARTÍCULO 10.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El Consejo Técnico de \\\"la Comisión\\\" estará integrado por las personas titulares de las Secretarías de Medio Ambiente y Recursos Naturales, quien lo presidirá; Hacienda y Crédito Público; de Ciencias, Humanidades, Tecnología e Innovación; de Bienestar; de Energía; de Economía; de Salud; y de Agricultura y Desarrollo Rural; así como del Instituto Mexicano de Tecnología del Agua y de la Comisión Nacional Forestal. Por cada persona representante propietaria se designará a las suplencias necesarias con nivel de Subsecretaría o equivalente. A propuesta del Consejo Técnico, la persona Titular del Ejecutivo Federal designará como miembros del propio Consejo, observando el principio de paridad de género, a dos representantes de los gobiernos de los estados y a un representante de una Organización Ciudadana de prestigio y experiencia relacionada con las funciones de \\\"la Comisión\\\".\"]},{\"article\":\"ARTÍCULO 10.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"El Consejo Técnico cuando así lo considere conveniente, podrá invitar a sus sesiones a las personas titulares de las demás dependencias y entidades de la Administración Pública Federal y a otras personas representantes de los estados, de los municipios, de los usuarios y de la sociedad organizada, quienes podrán intervenir con voz, pero sin voto. En las sesiones del Consejo Técnico, participará con voz y voto, la persona titular de la Dirección General de \\\"la Comisión\\\".\"]},{\"article\":\"ARTÍCULO 11.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Aprobar, de conformidad con la presente Ley y su reglamento, presupuesto y operaciones de \\\"la Comisión\\\", supervisar su ejecución, así como conocer y aprobar los informes que presente la persona Titular de la Dirección General;\"]},{\"article\":\"ARTÍCULO 11.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Nombrar y remover a propuesta de la persona Titular de la Dirección General de \\\"la Comisión\\\" a las personas titulares de las direcciones generales de los Organismos de Cuenca, así como a las personas servidoras públicas de \\\"la Comisión\\\" de los niveles central y regional hidrológico-administrativo, que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquélla, conforme a las disposiciones aplicables;\"]},{\"article\":\"ARTÍCULO 11.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IX\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"IX. Aprobar el Manual de Integración, Estructura Orgánica y Funcionamiento de \\\"la Comisión\\\" a propuesta de la persona Titular de la Dirección General, así como las modificaciones, en su caso, y\"]},{\"article\":\"ARTÍCULO 11 BIS.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 11 BIS.\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"\\\"La Comisión\\\" contará con un Órgano Interno de Control el cual se regulará en términos de las disposiciones aplicables.\"]},{\"article\":\"ARTÍCULO 12.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La persona Titular de la Dirección General de \\\"la Comisión\\\" tendrá las facultades siguientes:\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"ARTÍCULO 9.\",\"reason\":\"La fracción LIII no aparece en la instrucción, pero el decreto la reproduce completa y le quita la \\\"y\\\" final (que pasa a LIII BIS). Se aplicó como reforma de la fracción LIII; hay que confirmar que el texto consolidado de la Cámara recoja ese cambio.\"},{\"article\":\"ARTÍCULO 9.\",\"reason\":\"El decreto pone cuatro \\\"...\\\" antes de la fracción I, pero el texto vigente tiene cinco párrafos más los incisos a. y b. antes de las fracciones. Esa parte no cambia y las fracciones se ubicaron por su número, pero conviene revisarlo.\"},{\"article\":\"ARTÍCULO 10.\",\"reason\":\"La instrucción reforma el artículo 10 completo, pero el decreto deja el tercer párrafo con \\\"...\\\". Por eso sólo se reformaron los párrafos primero y segundo y el tercero se dejó igual.\"}]}",
+ "duration_ms": 44040,
+ "total_cost_usd": 0.2690018,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 6216,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 18009,
+   "webSearchRequests": 0,
+   "costUSD": 0.2690018,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 1011,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 18009,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

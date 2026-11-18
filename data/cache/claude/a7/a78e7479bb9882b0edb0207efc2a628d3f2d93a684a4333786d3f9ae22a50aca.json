@@ -1,0 +1,480 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 119.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Toda persona que tenga conocimiento o relación con algún hecho que investigue la Comisión o con la materia de sus procedimientos en trámite, tiene la obligación de proporcionar en el término de diez días la información, cosas y documentos que obren en su poder en el medio que le sean requeridos; de presentarse a declarar en el lugar, fecha y hora en que sea citada, contestando todas las preguntas que le sean formuladas; así como de permitir que se realicen las visitas de verificación."
+    ]
+   },
+   {
+    "article": "Artículo 119.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "insert_after": 2,
+    "paragraphs": [
+     "Para el debido desahogo de los procedimientos a su cargo, la Comisión puede hacer las prevenciones y reiteraciones que estime pertinentes, salvo disposición en contrario."
+    ]
+   },
+   {
+    "article": "Artículo 121.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En lo no previsto por esta Ley, su Reglamento o en las Disposiciones Regulatorias, se aplicará supletoriamente el Código Federal de Procedimientos Civiles."
+    ]
+   },
+   {
+    "article": "Artículo 125.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "La Comisión en ningún caso estará obligada a proporcionar la Información Confidencial o Reservada, en términos de esta Ley, ni podrá publicarla y deberá guardarla en el seguro que para tal efecto tenga."
+    ]
+   },
+   {
+    "article": "Artículo 125.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "insert_after": 3,
+    "paragraphs": [
+     "Al efecto, lo dispuesto por el artículo 10 de la Ley Federal de las Entidades Paraestatales no será aplicable únicamente respecto de la información Confidencial o Reservada obtenida por la Comisión en ejercicio de sus atribuciones."
+    ]
+   },
+   {
+    "article": "Artículo 126.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La Comisión, para el desempeño de las funciones que le atribuye esta Ley, podrá aplicar separada o indistintamente las siguientes medidas de apremio:"
+    ]
+   },
+   {
+    "article": "Artículo 126.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Multa hasta por el importe del equivalente a ocho mil veces el valor diario de la Unidad de Medida y Actualización, cantidad que podrá aplicarse por cada día que transcurra sin cumplimentarse con lo ordenado;"
+    ]
+   },
+   {
+    "article": "Artículo 126.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "II Bis",
+    "insert_after": 3,
+    "paragraphs": [
+     "II Bis. Multa hasta por el importe equivalente a treinta mil veces el valor diario de la Unidad de Medida y Actualización por no asistir a una comparecencia, sin causa justificada, por no contestar las preguntas o posiciones realizadas, o por contestar con ambigüedades o evasivas;"
+    ]
+   },
+   {
+    "article": "Artículo 126.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "II Bis 1",
+    "insert_after": 3,
+    "paragraphs": [
+     "II Bis 1. Multa hasta por el importe equivalente a doscientas mil veces el valor diario de la Unidad de Medida y Actualización al Agente Económico que impida u obstaculice el desarrollo de una visita de verificación en los términos que señala el artículo 75 de esta Ley;"
+    ]
+   },
+   {
+    "article": "Artículo 126.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "II Bis 2",
+    "insert_after": 3,
+    "paragraphs": [
+     "II Bis 2. Multa hasta por el importe equivalente a diez mil veces el valor diario de la Unidad de Medida y Actualización por incumplir una orden de inhabilitación en términos de la fracción X del artículo 127, cantidad que podrá aplicarse por cada día que transcurra sin cumplimentarse con lo ordenado;"
+    ]
+   },
+   {
+    "article": "Artículo 126.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Arresto administrativo hasta por 36 horas."
+    ]
+   },
+   {
+    "article": "Artículo 126.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "insert_after": 5,
+    "paragraphs": [
+     "La Comisión podrá aplicar las medidas de apremio establecidas en este artículo de manera independiente a las sanciones penales y administrativas correspondientes. En tal caso, no será requerido agotar previamente las medidas de apremio contempladas en este mismo artículo."
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Ordenar las medidas necesarias para la corrección o supresión de la práctica monopólica o concentración ilícita de que se trate;"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Multa de una a doscientas mil veces el valor diario de la Unidad de Medida y Actualización, por haber declarado falsamente o entregado información falsa a la Comisión, con independencia de la responsabilidad penal en que se incurra;"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al quince por ciento de los ingresos del Agente Económico, por haber incurrido en una práctica monopólica absoluta, con independencia de la responsabilidad civil y penal en que se incurra;"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "V. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por haber incurrido en una práctica monopólica relativa, con independencia de la responsabilidad civil en que se incurra;"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VII",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "VII. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por haber incurrido en una concentración ilícita en términos de esta Ley, con independencia de la responsabilidad civil en que se incurra;"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VIII",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "VIII. Multa de cincuenta mil veces el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al ocho por ciento de los ingresos del Agente Económico, por haber llevado a cabo una concentración que exceda los umbrales monetarios establecidos en el artículo 86, sin haber obtenido previamente la autorización correspondiente.",
+     "La multa establecida en esta fracción será de doscientas mil veces el valor diario de la Unidad de Medida y Actualización y hasta el equivalente al quince por ciento de los ingresos del Agente Económico cuando la Comisión haya previamente objetado la realización de la concentración correspondiente.",
+     "Lo anterior, sin perjuicio de poder ordenar la desconcentración parcial o total, la terminación del control o la supresión de los actos, según corresponda, de la concentración correspondiente;"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IX",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "IX. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al doce por ciento de los ingresos del Agente Económico, por haber incumplido con las condiciones fijadas en la resolución de una concentración, sin perjuicio de ordenar la desconcentración;"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "X",
+    "from_block": 11,
+    "to_block": 11,
+    "paragraphs": [
+     "X. Inhabilitación para ejercer como persona consejera, administradora, directora, gerente, directiva, ejecutiva, agente, asesora, representante o apoderada en una persona moral en el mercado del que se trate hasta por un plazo de cinco años y multas hasta por el equivalente a trescientas cincuenta mil veces el valor diario de la Unidad de Medida y Actualización, a quienes participen directa o indirectamente en prácticas monopólicas o concentraciones ilícitas, en representación o por cuenta y orden de personas físicas o morales;"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XI",
+    "from_block": 12,
+    "to_block": 12,
+    "paragraphs": [
+     "XI. Multa de una a trescientas mil veces el valor diario de la Unidad de Medida y Actualización, a quienes hayan coadyuvado, propiciado o inducido en la comisión de prácticas monopólicas, concentraciones ilícitas o demás restricciones al funcionamiento eficiente de los mercados en términos de esta Ley;"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XII",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "XII. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al doce por ciento de los ingresos del Agente Económico, por haber incumplido la resolución emitida en términos del artículo 102 de esta Ley;"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XII Bis",
+    "insert_after": 13,
+    "paragraphs": [
+     "XII Bis. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente a diez por ciento de los ingresos del Agente Económico, por incumplir con lo establecido en las fracciones I, II y VIII, párrafo tercero, de este artículo. Lo anterior con independencia de la responsabilidad penal en que se incurra, para lo cual la Comisión deberá denunciar tal circunstancia al Ministerio Público;"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIII",
+    "from_block": 14,
+    "to_block": 14,
+    "paragraphs": [
+     "XIII. Multas de una y hasta por el equivalente a doscientas mil veces el valor diario de la Unidad de Medida y Actualización, a los fedatarios públicos que intervengan en los actos relativos a una concentración que exceda los umbrales monetarios establecidos en el artículo 86, sin haber obtenido previamente la autorización correspondiente;"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIV",
+    "from_block": 15,
+    "to_block": 15,
+    "paragraphs": [
+     "XIV. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al doce por ciento de los ingresos del Agente Económico que controle un insumo esencial, por incumplir la regulación establecida con respecto al mismo y a quien no obedezca la orden de eliminar una barrera a la competencia o desincorporar activos en términos del artículo 94, fracción VII, de esta Ley;"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XV",
+    "from_block": 16,
+    "to_block": 16,
+    "paragraphs": [
+     "XV. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por incumplir la orden cautelar a la que se refiere esta Ley;"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XVI",
+    "insert_after": 16,
+    "paragraphs": [
+     "XVI. Inhabilitación temporal para participar, de manera directa o por interpósita persona, en procedimientos de contratación pública por un periodo que no será menor de seis meses ni mayor a cinco años, por haber incurrido en una práctica monopólica absoluta en términos del artículo 53, fracción IV, del presente ordenamiento, con independencia de la responsabilidad administrativa, civil y penal en que se incurra y lo previsto en otros ordenamientos, y"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XVII",
+    "insert_after": 16,
+    "paragraphs": [
+     "XVII. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por haber incumplido con alguna de las medidas específicas impuestas en virtud de su determinación como preponderante o con las medidas establecidas en el artículo 142 de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "a)",
+    "from_block": 21,
+    "to_block": 21,
+    "paragraphs": [
+     "a) Habiendo incurrido en una infracción que haya sido sancionada en sede administrativa, realice otra conducta prohibida por esta Ley, independientemente de su mismo tipo o naturaleza;"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "b)",
+    "from_block": 22,
+    "to_block": 22,
+    "paragraphs": [
+     "b) Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado en sede administrativa, y"
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "c)",
+    "from_block": 23,
+    "to_block": 23,
+    "paragraphs": [
+     "c) Que entre el inicio del procedimiento y la resolución que haya causado estado en sede administrativa no hayan transcurrido más de diez años."
+    ]
+   },
+   {
+    "article": "Artículo 128.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 4,
+    "paragraphs": [
+     "En el caso de aquellos Agentes Económicos que, por cualquier causa, no declaren o no se les hayan determinado ingresos acumulables para efectos del Impuesto sobre la Renta o la Comisión no cuente con la información correspondiente por causas imputables al Agente Económico, se les aplicarán las multas siguientes:",
+     "I. Multa de una a tres millones de veces el valor diario de la Unidad de Medida y Actualización, para las infracciones a que se refieren las fracciones IV, IX, XIV y XV del artículo 127 de la Ley;",
+     "II. Multa de una a dos millones de veces el valor diario de la Unidad de Medida y Actualización, para las infracciones a que se refieren las fracciones V, VII y XII del artículo 127 de la Ley, y",
+     "III. Multa de una a un millón cuatrocientas mil veces el valor diario de la Unidad de Medida y Actualización, para la infracción a que se refiere la fracción VIII del artículo 127 de la Ley."
+    ]
+   },
+   {
+    "article": "Artículo 129.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La Comisión deberá garantizar que las multas impuestas en términos de esta Ley tengan carácter disuasivo.",
+     "La Comisión deberá emitir Disposiciones Regulatorias que establezcan de manera clara, transparente y predecible la metodología y los criterios para la imposición de multas."
+    ]
+   },
+   {
+    "article": "Artículo 130.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Para individualizar las multas como sanción se deberá considerar, cuando sean aplicables según el tipo de infracción; la gravedad de la infracción; el daño causado; los indicios de intencionalidad; la participación del infractor en los mercados; el tamaño del mercado afectado; la duración de la práctica o concentración; así como su capacidad económica; y en su caso, la afectación al ejercicio de las atribuciones de la Comisión."
+    ]
+   },
+   {
+    "article": "Artículo 130.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "insert_after": 1,
+    "paragraphs": [
+     "Cuando así proceda, la Comisión podrá estimar un daño para individualizar la sanción que corresponda; en el entendido que este importe base sería uno de los diversos elementos que pueden tomarse en consideración conforme el párrafo anterior. Las sanciones que imponga la Comisión con base en Unidades de Medida y Actualización, se calcularán utilizando el valor diario de la Unidad de Medida y Actualización vigente al momento de la realización de la conducta."
+    ]
+   },
+   {
+    "article": "Artículo 131.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "I. Las resoluciones que impongan sanciones hayan causado estado en sede administrativa, y"
+    ]
+   },
+   {
+    "article": "Artículo 131.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "II. Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado en sede administrativa, y que entre el inicio del procedimiento y la resolución que haya causado estado en sede administrativa no hayan transcurrido más de diez años."
+    ]
+   },
+   {
+    "article": "Artículo 132.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Los incidentes relativos a la verificación del cumplimiento y ejecución de las resoluciones de la Comisión, la imposición de sanciones relacionadas con el incumplimiento a las medidas específicas impuestas a los Agentes Económicos Preponderantes, la recusación, el otorgamiento de medidas cautelares y la reposición de autos, así como cualquier cuestión procesal accesoria al procedimiento principal se desahogarán de conformidad con el procedimiento incidental previsto en esta Ley y en términos de lo establecido en el Reglamento. En lo no previsto se aplicará lo dispuesto en el Código Federal de Procedimientos Civiles."
+    ]
+   },
+   {
+    "article": "Artículo 132.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "insert_after": 1,
+    "paragraphs": [
+     "Previo y durante el desahogo del procedimiento incidental establecido, la Comisión puede allegarse y requerir la información y documentos que estime convenientes a los sujetos obligados por la resolución y a cualquier persona que pueda aportar información relevante para la verificación de su cumplimiento, quienes deben presentar la información requerida en un plazo de diez días, mismos que pueden prorrogarse por una sola ocasión."
+    ]
+   },
+   {
+    "article": "Artículo 134.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "Aquellas personas que hayan sufrido daños o perjuicios a causa de una práctica monopólica o una concentración ilícita, así como la Comisión, cuando corresponda, podrán interponer las acciones judiciales individuales o colectivas en defensa de sus derechos ante los tribunales especializados en materia de competencia económica, radiodifusión y telecomunicaciones una vez que la Comisión haya emitido la resolución correspondiente.",
+     "El plazo de prescripción para reclamar el pago de daños y perjuicios se contabilizará a partir de la emisión de la resolución por parte de la Comisión.",
+     "Con la resolución definitiva que se dicte en el procedimiento seguido en forma de juicio se tendrá por acreditada la ilicitud en el obrar del Agente Económico de que se trate para efectos de las acciones previstas en este artículo."
+    ]
+   },
+   {
+    "article": "Artículo 135.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En cualquier momento, la Autoridad Investigadora podrá solicitar al Pleno la emisión de las medidas cautelares relacionadas con la materia del procedimiento que considere necesarias para evitar un daño de difícil reparación o asegurar la eficacia del resultado del procedimiento y de su resolución. Dicha facultad incluye, pero no se limita a:"
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 119.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Toda persona que tenga conocimiento o relación con algún hecho que investigue la Comisión o con la materia de sus procedimientos en trámite, tiene la obligación de proporcionar en el término de diez días la información, cosas y documentos que obren en su poder en el medio que le sean requeridos; de presentarse a declarar en el lugar, fecha y hora en que sea citada, contestando todas las preguntas que le sean formuladas; así como de permitir que se realicen las visitas de verificación.\"]},{\"article\":\"Artículo 119.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"insert_after\":2,\"paragraphs\":[\"Para el debido desahogo de los procedimientos a su cargo, la Comisión puede hacer las prevenciones y reiteraciones que estime pertinentes, salvo disposición en contrario.\"]},{\"article\":\"Artículo 121.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En lo no previsto por esta Ley, su Reglamento o en las Disposiciones Regulatorias, se aplicará supletoriamente el Código Federal de Procedimientos Civiles.\"]},{\"article\":\"Artículo 125.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"La Comisión en ningún caso estará obligada a proporcionar la Información Confidencial o Reservada, en términos de esta Ley, ni podrá publicarla y deberá guardarla en el seguro que para tal efecto tenga.\"]},{\"article\":\"Artículo 125.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"insert_after\":3,\"paragraphs\":[\"Al efecto, lo dispuesto por el artículo 10 de la Ley Federal de las Entidades Paraestatales no será aplicable únicamente respecto de la información Confidencial o Reservada obtenida por la Comisión en ejercicio de sus atribuciones.\"]},{\"article\":\"Artículo 126.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La Comisión, para el desempeño de las funciones que le atribuye esta Ley, podrá aplicar separada o indistintamente las siguientes medidas de apremio:\"]},{\"article\":\"Artículo 126.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Multa hasta por el importe del equivalente a ocho mil veces el valor diario de la Unidad de Medida y Actualización, cantidad que podrá aplicarse por cada día que transcurra sin cumplimentarse con lo ordenado;\"]},{\"article\":\"Artículo 126.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"II Bis\",\"insert_after\":3,\"paragraphs\":[\"II Bis. Multa hasta por el importe equivalente a treinta mil veces el valor diario de la Unidad de Medida y Actualización por no asistir a una comparecencia, sin causa justificada, por no contestar las preguntas o posiciones realizadas, o por contestar con ambigüedades o evasivas;\"]},{\"article\":\"Artículo 126.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"II Bis 1\",\"insert_after\":3,\"paragraphs\":[\"II Bis 1. Multa hasta por el importe equivalente a doscientas mil veces el valor diario de la Unidad de Medida y Actualización al Agente Económico que impida u obstaculice el desarrollo de una visita de verificación en los términos que señala el artículo 75 de esta Ley;\"]},{\"article\":\"Artículo 126.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"II Bis 2\",\"insert_after\":3,\"paragraphs\":[\"II Bis 2. Multa hasta por el importe equivalente a diez mil veces el valor diario de la Unidad de Medida y Actualización por incumplir una orden de inhabilitación en términos de la fracción X del artículo 127, cantidad que podrá aplicarse por cada día que transcurra sin cumplimentarse con lo ordenado;\"]},{\"article\":\"Artículo 126.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Arresto administrativo hasta por 36 horas.\"]},{\"article\":\"Artículo 126.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"insert_after\":5,\"paragraphs\":[\"La Comisión podrá aplicar las medidas de apremio establecidas en este artículo de manera independiente a las sanciones penales y administrativas correspondientes. En tal caso, no será requerido agotar previamente las medidas de apremio contempladas en este mismo artículo.\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Ordenar las medidas necesarias para la corrección o supresión de la práctica monopólica o concentración ilícita de que se trate;\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Multa de una a doscientas mil veces el valor diario de la Unidad de Medida y Actualización, por haber declarado falsamente o entregado información falsa a la Comisión, con independencia de la responsabilidad penal en que se incurra;\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al quince por ciento de los ingresos del Agente Económico, por haber incurrido en una práctica monopólica absoluta, con independencia de la responsabilidad civil y penal en que se incurra;\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"V. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por haber incurrido en una práctica monopólica relativa, con independencia de la responsabilidad civil en que se incurra;\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VII\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"VII. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por haber incurrido en una concentración ilícita en términos de esta Ley, con independencia de la responsabilidad civil en que se incurra;\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VIII\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"VIII. Multa de cincuenta mil veces el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al ocho por ciento de los ingresos del Agente Económico, por haber llevado a cabo una concentración que exceda los umbrales monetarios establecidos en el artículo 86, sin haber obtenido previamente la autorización correspondiente.\",\"La multa establecida en esta fracción será de doscientas mil veces el valor diario de la Unidad de Medida y Actualización y hasta el equivalente al quince por ciento de los ingresos del Agente Económico cuando la Comisión haya previamente objetado la realización de la concentración correspondiente.\",\"Lo anterior, sin perjuicio de poder ordenar la desconcentración parcial o total, la terminación del control o la supresión de los actos, según corresponda, de la concentración correspondiente;\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IX\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"IX. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al doce por ciento de los ingresos del Agente Económico, por haber incumplido con las condiciones fijadas en la resolución de una concentración, sin perjuicio de ordenar la desconcentración;\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"X\",\"from_block\":11,\"to_block\":11,\"paragraphs\":[\"X. Inhabilitación para ejercer como persona consejera, administradora, directora, gerente, directiva, ejecutiva, agente, asesora, representante o apoderada en una persona moral en el mercado del que se trate hasta por un plazo de cinco años y multas hasta por el equivalente a trescientas cincuenta mil veces el valor diario de la Unidad de Medida y Actualización, a quienes participen directa o indirectamente en prácticas monopólicas o concentraciones ilícitas, en representación o por cuenta y orden de personas físicas o morales;\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XI\",\"from_block\":12,\"to_block\":12,\"paragraphs\":[\"XI. Multa de una a trescientas mil veces el valor diario de la Unidad de Medida y Actualización, a quienes hayan coadyuvado, propiciado o inducido en la comisión de prácticas monopólicas, concentraciones ilícitas o demás restricciones al funcionamiento eficiente de los mercados en términos de esta Ley;\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XII\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"XII. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al doce por ciento de los ingresos del Agente Económico, por haber incumplido la resolución emitida en términos del artículo 102 de esta Ley;\"]},{\"article\":\"Artículo 127.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"XII Bis\",\"insert_after\":13,\"paragraphs\":[\"XII Bis. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente a diez por ciento de los ingresos del Agente Económico, por incumplir con lo establecido en las fracciones I, II y VIII, párrafo tercero, de este artículo. Lo anterior con independencia de la responsabilidad penal en que se incurra, para lo cual la Comisión deberá denunciar tal circunstancia al Ministerio Público;\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XIII\",\"from_block\":14,\"to_block\":14,\"paragraphs\":[\"XIII. Multas de una y hasta por el equivalente a doscientas mil veces el valor diario de la Unidad de Medida y Actualización, a los fedatarios públicos que intervengan en los actos relativos a una concentración que exceda los umbrales monetarios establecidos en el artículo 86, sin haber obtenido previamente la autorización correspondiente;\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XIV\",\"from_block\":15,\"to_block\":15,\"paragraphs\":[\"XIV. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al doce por ciento de los ingresos del Agente Económico que controle un insumo esencial, por incumplir la regulación establecida con respecto al mismo y a quien no obedezca la orden de eliminar una barrera a la competencia o desincorporar activos en términos del artículo 94, fracción VII, de esta Ley;\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XV\",\"from_block\":16,\"to_block\":16,\"paragraphs\":[\"XV. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por incumplir la orden cautelar a la que se refiere esta Ley;\"]},{\"article\":\"Artículo 127.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"XVI\",\"insert_after\":16,\"paragraphs\":[\"XVI. Inhabilitación temporal para participar, de manera directa o por interpósita persona, en procedimientos de contratación pública por un periodo que no será menor de seis meses ni mayor a cinco años, por haber incurrido en una práctica monopólica absoluta en términos del artículo 53, fracción IV, del presente ordenamiento, con independencia de la responsabilidad administrativa, civil y penal en que se incurra y lo previsto en otros ordenamientos, y\"]},{\"article\":\"Artículo 127.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"XVII\",\"insert_after\":16,\"paragraphs\":[\"XVII. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por haber incumplido con alguna de las medidas específicas impuestas en virtud de su determinación como preponderante o con las medidas establecidas en el artículo 142 de esta Ley.\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"a)\",\"from_block\":21,\"to_block\":21,\"paragraphs\":[\"a) Habiendo incurrido en una infracción que haya sido sancionada en sede administrativa, realice otra conducta prohibida por esta Ley, independientemente de su mismo tipo o naturaleza;\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"b)\",\"from_block\":22,\"to_block\":22,\"paragraphs\":[\"b) Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado en sede administrativa, y\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"c)\",\"from_block\":23,\"to_block\":23,\"paragraphs\":[\"c) Que entre el inicio del procedimiento y la resolución que haya causado estado en sede administrativa no hayan transcurrido más de diez años.\"]},{\"article\":\"Artículo 128.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":4,\"paragraphs\":[\"En el caso de aquellos Agentes Económicos que, por cualquier causa, no declaren o no se les hayan determinado ingresos acumulables para efectos del Impuesto sobre la Renta o la Comisión no cuente con la información correspondiente por causas imputables al Agente Económico, se les aplicarán las multas siguientes:\",\"I. Multa de una a tres millones de veces el valor diario de la Unidad de Medida y Actualización, para las infracciones a que se refieren las fracciones IV, IX, XIV y XV del artículo 127 de la Ley;\",\"II. Multa de una a dos millones de veces el valor diario de la Unidad de Medida y Actualización, para las infracciones a que se refieren las fracciones V, VII y XII del artículo 127 de la Ley, y\",\"III. Multa de una a un millón cuatrocientas mil veces el valor diario de la Unidad de Medida y Actualización, para la infracción a que se refiere la fracción VIII del artículo 127 de la Ley.\"]},{\"article\":\"Artículo 129.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La Comisión deberá garantizar que las multas impuestas en términos de esta Ley tengan carácter disuasivo.\",\"La Comisión deberá emitir Disposiciones Regulatorias que establezcan de manera clara, transparente y predecible la metodología y los criterios para la imposición de multas.\"]},{\"article\":\"Artículo 130.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Para individualizar las multas como sanción se deberá considerar, cuando sean aplicables según el tipo de infracción; la gravedad de la infracción; el daño causado; los indicios de intencionalidad; la participación del infractor en los mercados; el tamaño del mercado afectado; la duración de la práctica o concentración; así como su capacidad económica; y en su caso, la afectación al ejercicio de las atribuciones de la Comisión.\"]},{\"article\":\"Artículo 130.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"insert_after\":1,\"paragraphs\":[\"Cuando así proceda, la Comisión podrá estimar un daño para individualizar la sanción que corresponda; en el entendido que este importe base sería uno de los diversos elementos que pueden tomarse en consideración conforme el párrafo anterior. Las sanciones que imponga la Comisión con base en Unidades de Medida y Actualización, se calcularán utilizando el valor diario de la Unidad de Medida y Actualización vigente al momento de la realización de la conducta.\"]},{\"article\":\"Artículo 131.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"I. Las resoluciones que impongan sanciones hayan causado estado en sede administrativa, y\"]},{\"article\":\"Artículo 131.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"II. Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado en sede administrativa, y que entre el inicio del procedimiento y la resolución que haya causado estado en sede administrativa no hayan transcurrido más de diez años.\"]},{\"article\":\"Artículo 132.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Los incidentes relativos a la verificación del cumplimiento y ejecución de las resoluciones de la Comisión, la imposición de sanciones relacionadas con el incumplimiento a las medidas específicas impuestas a los Agentes Económicos Preponderantes, la recusación, el otorgamiento de medidas cautelares y la reposición de autos, así como cualquier cuestión procesal accesoria al procedimiento principal se desahogarán de conformidad con el procedimiento incidental previsto en esta Ley y en términos de lo establecido en el Reglamento. En lo no previsto se aplicará lo dispuesto en el Código Federal de Procedimientos Civiles.\"]},{\"article\":\"Artículo 132.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"insert_after\":1,\"paragraphs\":[\"Previo y durante el desahogo del procedimiento incidental establecido, la Comisión puede allegarse y requerir la información y documentos que estime convenientes a los sujetos obligados por la resolución y a cualquier persona que pueda aportar información relevante para la verificación de su cumplimiento, quienes deben presentar la información requerida en un plazo de diez días, mismos que pueden prorrogarse por una sola ocasión.\"]},{\"article\":\"Artículo 134.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"Aquellas personas que hayan sufrido daños o perjuicios a causa de una práctica monopólica o una concentración ilícita, así como la Comisión, cuando corresponda, podrán interponer las acciones judiciales individuales o colectivas en defensa de sus derechos ante los tribunales especializados en materia de competencia económica, radiodifusión y telecomunicaciones una vez que la Comisión haya emitido la resolución correspondiente.\",\"El plazo de prescripción para reclamar el pago de daños y perjuicios se contabilizará a partir de la emisión de la resolución por parte de la Comisión.\",\"Con la resolución definitiva que se dicte en el procedimiento seguido en forma de juicio se tendrá por acreditada la ilicitud en el obrar del Agente Económico de que se trate para efectos de las acciones previstas en este artículo.\"]},{\"article\":\"Artículo 135.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En cualquier momento, la Autoridad Investigadora podrá solicitar al Pleno la emisión de las medidas cautelares relacionadas con la materia del procedimiento que considere necesarias para evitar un daño de difícil reparación o asegurar la eficacia del resultado del procedimiento y de su resolución. Dicha facultad incluye, pero no se limita a:\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 56192,
+ "total_cost_usd": 0.28378580000000003,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 8522,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 14092,
+   "webSearchRequests": 0,
+   "costUSD": 0.28378580000000003,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 973,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 14092,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

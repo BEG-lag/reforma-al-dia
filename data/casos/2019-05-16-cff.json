@@ -1,0 +1,159 @@
+{
+ "id": "2019-05-16-cff",
+ "source": "backtest",
+ "law": {
+  "slug": "cff",
+  "title": "Código Fiscal de la Federación",
+  "abbreviation": "CFF"
+ },
+ "decree": {
+  "code": 5560466,
+  "title": "Decreto por el que se reforma la fracción III del artículo 113 y se adiciona un artículo 113 Bis del Código Fiscal de la Federación.",
+  "date": "2019-05-16",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5560466&fecha=16/05/2019",
+  "pdf": null,
+  "instruction": [
+   "Artículo Único.- Se reforma la fracción III del artículo 113 y se adiciona un artículo 113 Bis del Código Fiscal de la Federación, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "904b1d05652528631171477441e54da3eae2a075"
+ },
+ "official": {
+  "commit": "8cbef392d17186fb97df9c4f03ef11978b01a6e6",
+  "date": "2019-05-16",
+  "same_day": true
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "Artículo 113.",
+    "Artículo 113 Bis."
+   ],
+   "key": "8b43fea94661b7c10c60cb3b03a65ff5be7d111fe4ebf9d846b9e44f55e39302",
+   "cached": true,
+   "duration_ms": 3331,
+   "cost_usd": 0.0190578,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "113": {
+   "label": "Artículo 113.",
+   "headings": [],
+   "lines": [
+    "Artículo 113.- Se impondrá sanción de tres meses a seis años de prisión, al que:",
+    "I. y II. ...",
+    "III. Adquiera comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados."
+   ]
+  },
+  "113 bis": {
+   "label": "Artículo 113 Bis.",
+   "headings": [],
+   "lines": [
+    "Artículo 113 Bis.- Se impondrá sanción de tres a seis años de prisión, al que expida o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "Artículo 113.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "paragraphs": [
+     "III. Adquiera comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados."
+    ],
+    "from_block": 4,
+    "to_block": 4,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 113 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 113 Bis.",
+    "paragraphs": [
+     "Se impondrá sanción de tres a seis años de prisión, al que expida o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": null,
+    "batch": 1
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "needs_review": [],
+ "counts": {
+  "exact": 2,
+  "normalized": 0,
+  "mismatch": 0,
+  "not_applied": 0,
+  "outside_decree": 0,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 0,
+  "notes_match": 0
+ },
+ "transitorios": "mismatch",
+ "body_identical": false,
+ "articles": [
+  {
+   "key": "113",
+   "label": "Artículo 113.",
+   "status": "exact",
+   "notes_match": false,
+   "before": [
+    "Se impondrá sanción de tres meses a seis años de prisión, al que:",
+    "I. Altere o destruya los aparatos de control, sellos o marcas oficiales colocados con fines fiscales o impida que se logre el propósito para el que fueron colocados.",
+    "II. Altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras, o al que tenga en su poder marbetes o precintos sin haberlos adquirido legalmente o los enajene, sin estar autorizado para ello.",
+    "III. Expida, adquiera o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados."
+   ],
+   "ai": [
+    "Se impondrá sanción de tres meses a seis años de prisión, al que:",
+    "I. Altere o destruya los aparatos de control, sellos o marcas oficiales colocados con fines fiscales o impida que se logre el propósito para el que fueron colocados.",
+    "II. Altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras, o al que tenga en su poder marbetes o precintos sin haberlos adquirido legalmente o los enajene, sin estar autorizado para ello.",
+    "III. Adquiera comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.",
+    "Fracción reformada DOF 16-05-2019"
+   ],
+   "official": [
+    "Se impondrá sanción de tres meses a seis años de prisión, al que:",
+    "I. Altere o destruya los aparatos de control, sellos o marcas oficiales colocados con fines fiscales o impida que se logre el propósito para el que fueron colocados.",
+    "II. Altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras, o al que tenga en su poder marbetes o precintos sin haberlos adquirido legalmente o los enajene, sin estar autorizado para ello.",
+    "III. Adquiera comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados."
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "113 bis",
+   "label": "Artículo 113 Bis.",
+   "status": "exact",
+   "notes_match": false,
+   "before": [],
+   "ai": [
+    "Se impondrá sanción de tres a seis años de prisión, al que expida o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.",
+    "Artículo adicionado DOF 16-05-2019"
+   ],
+   "official": [
+    "Se impondrá sanción de tres a seis años de prisión, al que expida o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados."
+   ],
+   "diff": [],
+   "cause": null
+  }
+ ]
+}

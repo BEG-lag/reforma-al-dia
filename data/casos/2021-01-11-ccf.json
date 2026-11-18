@@ -1,0 +1,244 @@
+{
+ "id": "2021-01-11-ccf",
+ "source": "backtest",
+ "law": {
+  "slug": "ccf",
+  "title": "Código Civil Federal",
+  "abbreviation": "CCF"
+ },
+ "decree": {
+  "code": 5609666,
+  "title": "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes, y del Código Civil Federal.",
+  "date": "2021-01-11",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5609666&fecha=11/01/2021",
+  "pdf": null,
+  "instruction": [
+   "Artículo Segundo. Se reforman los artículos 323 bis; 323 ter, párrafo segundo, y 423, párrafo segundo; y se adiciona un párrafo segundo, recorriendo el actual para ser tercero, al artículo 323 ter y un párrafo tercero al artículo 423 del Código Civil Federal, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "9143cd6a7346039e5cd24d578e57bb0b8bec9774"
+ },
+ "official": {
+  "commit": "f87d2ee659b245489c9d884d45344b8c79b781cc",
+  "date": "2021-01-11",
+  "same_day": true
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "Artículo 323 bis.",
+    "Artículo 323 ter.",
+    "Artículo 423."
+   ],
+   "key": "a13898662f5fd8238823891a2651c535e5b2f1f64e57135ea543bdae9c14699c",
+   "cached": true,
+   "duration_ms": 14896,
+   "cost_usd": 0.058957800000000005,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "323 bis": {
+   "label": "Artículo 323 bis.",
+   "headings": [],
+   "lines": [
+    "Artículo 323 bis.- Los integrantes de la familia, en particular niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes."
+   ]
+  },
+  "323 ter": {
+   "label": "Artículo 323 ter.",
+   "headings": [],
+   "lines": [
+    "Artículo 323 ter.- ...",
+    "Queda prohibido que la madre, padre o cualquier persona en la familia, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños o adolescentes. Se define el castigo corporal y humillante según lo dispuesto por la fracción VIII del artículo 47",
+    "de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+    "Por violencia familiar se considera el uso intencional de la fuerza física, moral o de cualquier acto que tenga como objetivo provocar dolor, molestia o humillación, incluyendo el castigo corporal y humillante contra niñas, niños y adolescentes, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica y emocional independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato."
+   ]
+  },
+  "423": {
+   "label": "Artículo 423.",
+   "headings": [],
+   "lines": [
+    "Artículo 423.- ...",
+    "Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole.",
+    "Queda prohibido que la madre, padre o cualquier persona que ejerza la patria potestad, tutela o guarda, custodia y crianza de niñas, niños y adolescentes, utilice el castigo corporal o humillante como forma de corrección o disciplina de niñas, niños o adolescentes."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "Artículo 323 bis.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "paragraphs": [
+     "Los integrantes de la familia, en particular niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 323 ter.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "paragraphs": [
+     "Queda prohibido que la madre, padre o cualquier persona en la familia, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños o adolescentes. Se define el castigo corporal y humillante según lo dispuesto por la fracción VIII del artículo 47 de la Ley General de los Derechos de Niñas, Niños y Adolescentes."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 1,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 323 ter.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero (antes segundo)",
+    "paragraphs": [
+     "Por violencia familiar se considera el uso intencional de la fuerza física, moral o de cualquier acto que tenga como objetivo provocar dolor, molestia o humillación, incluyendo el castigo corporal y humillante contra niñas, niños y adolescentes, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica y emocional independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato."
+    ],
+    "from_block": 2,
+    "to_block": 2,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 423.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "paragraphs": [
+     "Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole."
+    ],
+    "from_block": 2,
+    "to_block": 2,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 423.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "paragraphs": [
+     "Queda prohibido que la madre, padre o cualquier persona que ejerza la patria potestad, tutela o guarda, custodia y crianza de niñas, niños y adolescentes, utilice el castigo corporal o humillante como forma de corrección o disciplina de niñas, niños o adolescentes."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 2,
+    "batch": 1
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "needs_review": [],
+ "counts": {
+  "exact": 3,
+  "normalized": 0,
+  "mismatch": 0,
+  "not_applied": 0,
+  "outside_decree": 0,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 0,
+  "notes_match": 3
+ },
+ "transitorios": "normalized",
+ "body_identical": true,
+ "articles": [
+  {
+   "key": "323 bis",
+   "label": "Artículo 323 bis.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.",
+    "Artículo adicionado DOF 30-12-1997"
+   ],
+   "ai": [
+    "Los integrantes de la familia, en particular niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.",
+    "Artículo adicionado DOF 30-12-1997. Reformado DOF 11-01-2021"
+   ],
+   "official": [
+    "Los integrantes de la familia, en particular niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.",
+    "Artículo adicionado DOF 30-12-1997. Reformado DOF 11-01-2021"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "323 ter",
+   "label": "Artículo 323 ter.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.",
+    "Por violencia familiar se considera el uso de la fuerza física o moral, así como las omisiones graves, que de manera reiterada ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica o ambas independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.",
+    "Artículo adicionado DOF 30-12-1997"
+   ],
+   "ai": [
+    "Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.",
+    "Queda prohibido que la madre, padre o cualquier persona en la familia, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños o adolescentes. Se define el castigo corporal y humillante según lo dispuesto por la fracción VIII del artículo 47 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+    "Párrafo adicionado DOF 11-01-2021",
+    "Por violencia familiar se considera el uso intencional de la fuerza física, moral o de cualquier acto que tenga como objetivo provocar dolor, molestia o humillación, incluyendo el castigo corporal y humillante contra niñas, niños y adolescentes, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica y emocional independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.",
+    "Párrafo reformado DOF 11-01-2021",
+    "Artículo adicionado DOF 30-12-1997"
+   ],
+   "official": [
+    "Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.",
+    "Queda prohibido que la madre, padre o cualquier persona en la familia, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños o adolescentes. Se define el castigo corporal y humillante según lo dispuesto por la fracción VIII del artículo 47 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+    "Párrafo adicionado DOF 11-01-2021",
+    "Por violencia familiar se considera el uso intencional de la fuerza física, moral o de cualquier acto que tenga como objetivo provocar dolor, molestia o humillación, incluyendo el castigo corporal y humillante contra niñas, niños y adolescentes, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica y emocional independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.",
+    "Párrafo reformado DOF 11-01-2021",
+    "Artículo adicionado DOF 30-12-1997"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "423",
+   "label": "Artículo 423.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.",
+    "La facultad de corregir no implica infligir al menor actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 323 ter de este Código.",
+    "Artículo reformado DOF 31-12-1974, 30-12-1997"
+   ],
+   "ai": [
+    "Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.",
+    "Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole.",
+    "Párrafo reformado DOF 11-01-2021",
+    "Queda prohibido que la madre, padre o cualquier persona que ejerza la patria potestad, tutela o guarda, custodia y crianza de niñas, niños y adolescentes, utilice el castigo corporal o humillante como forma de corrección o disciplina de niñas, niños o adolescentes.",
+    "Párrafo adicionado DOF 11-01-2021",
+    "Artículo reformado DOF 31-12-1974, 30-12-1997"
+   ],
+   "official": [
+    "Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.",
+    "Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole.",
+    "Párrafo reformado DOF 11-01-2021",
+    "Queda prohibido que la madre, padre o cualquier persona que ejerza la patria potestad, tutela o guarda, custodia y crianza de niñas, niños y adolescentes, utilice el castigo corporal o humillante como forma de corrección o disciplina de niñas, niños o adolescentes.",
+    "Párrafo adicionado DOF 11-01-2021",
+    "Artículo reformado DOF 31-12-1974, 30-12-1997"
+   ],
+   "diff": [],
+   "cause": null
+  }
+ ]
+}

@@ -1,0 +1,330 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 13.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 13.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Cuando la demanda se promueva por dos o más personas quejosas con un interés común, deberán designar entre ellas un o una representante, en su defecto, lo hará el órgano jurisdiccional en su primer auto sin perjuicio de que la parte respectiva lo substituya por otro. Las personas terceras interesadas podrán también nombrar representante común.",
+     "Cuando dos o más personas quejosas reclamen y aduzcan sobre un mismo acto u omisión ser titulares de un interés legítimo, o bien en ese mismo carácter reclamen actos u omisiones distintos pero con perjuicios análogos, provenientes de la misma autoridad, y se tramiten en órganos jurisdiccionales distintos, cualquiera de las partes podrá solicitar al Órgano de Administración Judicial que determine la concentración de todos los procedimientos ante un mismo órgano del Poder Judicial de la Federación, según corresponda. Recibida la solicitud, el Órgano de Administración Judicial, en atención al interés social y al orden público, resolverá lo conducente y dictará las providencias que resulten necesarias."
+    ]
+   },
+   {
+    "article": "Artículo 14.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 14.",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "Para el trámite de la demanda de amparo indirecto en materia penal bastará que la persona defensora manifieste, bajo protesta de decir verdad, tener tal carácter. En este caso, la autoridad ante quien se presente la demanda pedirá a la persona juzgadora o tribunal que conozca del asunto, que le remita la certificación correspondiente.",
+     "Si la persona promovente del juicio posteriormente carece del carácter con el que se ostentó, el órgano jurisdiccional de amparo le impondrá una multa de ciento quince a mil ciento cuarenta y cinco Unidades de Medida y Actualización al momento de realizarse la conducta sancionada y ordenará la ratificación de la demanda a la persona agraviada dentro de un término de tres días.",
+     "Al ratificarse la demanda se tramitará el juicio, entendiéndose las diligencias directamente con la persona agraviada siempre en presencia de su defensor o defensora, ya sea de oficio o designado por aquella, mientras no constituya representante dentro del juicio de amparo. De lo contrario, la demanda se tendrá por no interpuesta y quedarán sin efecto las providencias dictadas en el expediente principal y en el incidente de suspensión."
+    ]
+   },
+   {
+    "article": "Artículo 15.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 15.",
+    "from_block": 1,
+    "to_block": 7,
+    "paragraphs": [
+     "Cuando se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, y la persona agraviada se encuentre imposibilitada para promover el amparo, podrá hacerlo cualquiera otra persona en su nombre, aunque sea menor de edad.",
+     "En estos casos, el órgano jurisdiccional de amparo decretará la suspensión de los actos reclamados, y dictará todas las medidas necesarias para lograr la comparecencia de la persona agraviada.",
+     "Una vez lograda la comparecencia, se requerirá a la persona agraviada para que dentro del término de tres días ratifique la demanda de amparo. Si ésta la ratifica por sí o por medio de su representante se tramitará el juicio; de lo contrario se tendrá por no presentada la demanda y quedarán sin efecto las providencias dictadas.",
+     "Si a pesar de las medidas tomadas por el órgano jurisdiccional de amparo no se logra la comparecencia de la persona agraviada, resolverá la suspensión definitiva, ordenará suspender el procedimiento en lo principal y se harán los hechos del conocimiento del o la Ministerio Público de la Federación. En caso de que éste sea autoridad responsable, se hará del conocimiento a la persona Fiscal General de la República. Cuando haya solicitud expresa de la Comisión Nacional de los Derechos Humanos, se remitirá copia certificada de lo actuado en estos casos.",
+     "Transcurrido un año sin que nadie se apersone en el juicio, se tendrá por no interpuesta la demanda.",
+     "Cuando, por las circunstancias del caso o lo manifieste la persona que presenta la demanda en lugar de la persona quejosa, se trate de una posible comisión del delito de desaparición forzada de personas, el juez o jueza tendrá un término no mayor de veinticuatro horas para darle trámite al amparo, dictar la suspensión de los actos reclamados, y requerir a las autoridades correspondientes toda la información que pueda resultar conducente para la localización y liberación de la probable víctima. Bajo este supuesto, ninguna autoridad podrá determinar que transcurra un plazo determinado para que comparezca la persona agraviada, ni podrán las autoridades negarse a practicar las diligencias que de ellas se soliciten o sean ordenadas bajo el argumento de que existen plazos legales para considerar la desaparición de una persona."
+    ]
+   },
+   {
+    "article": "Artículo 16.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 16.",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "En caso de fallecimiento de la persona quejosa o de la tercera interesada, siempre que lo planteado en el juicio de amparo no afecte sus derechos estrictamente personales, el o la representante legal de la persona fallecida continuará el juicio en tanto interviene el o la representante de la sucesión.",
+     "Si la persona fallecida no tiene representación legal en el juicio, éste se suspenderá inmediatamente que se tenga conocimiento de la defunción. Si la sucesión no interviene dentro del plazo de sesenta días siguientes al en que se decrete la suspensión, el juez o la jueza ordenará lo conducente según el caso de que se trate.",
+     "Cualquiera de las partes que tenga noticia del fallecimiento de la persona quejosa o de la tercera interesada deberá hacerlo del conocimiento del órgano jurisdiccional de amparo, acreditando tal circunstancia, o proporcionando los datos necesarios para ese efecto."
+    ]
+   },
+   {
+    "article": "Artículo 18.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 18.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Los plazos a que se refiere el artículo anterior se computarán a partir del día siguiente a aquél en que surta efectos, conforme a la ley del acto, la notificación a la persona quejosa del acto o resolución que reclame o a aquella en que haya tenido conocimiento o se ostente sabedora del acto reclamado o de su ejecución, salvo el caso de la fracción I del artículo anterior en el que se computará a partir del día de su entrada en vigor."
+    ]
+   },
+   {
+    "article": "Artículo 20.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Para los efectos de esta disposición, los jefes, jefas y personas encargadas de las oficinas públicas de comunicaciones estarán obligados a recibir y transmitir, sin costo alguno para las personas interesadas, los mensajes en que se demande amparo por alguno de los actos enunciados, así como las resoluciones y oficios que expidan las autoridades que conozcan de la suspensión, fuera de las horas del despacho y a pesar de que existan disposiciones en contrario de autoridades administrativas."
+    ]
+   },
+   {
+    "article": "Artículo 23.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 23.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Si alguna de las partes reside fuera de la jurisdicción del órgano de amparo que conozca o deba conocer del juicio, la demanda y la primera promoción de la persona tercera interesada podrán presentarse, dentro de los plazos legales, en la oficina pública de comunicaciones del lugar de su residencia, en la más cercana en caso de no haberla, o bien, en forma electrónica a través del uso de la Firma Electrónica."
+    ]
+   },
+   {
+    "article": "Artículo 24.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 24.",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "Las resoluciones que se dicten en los juicios de amparo deben notificarse a más tardar dentro del tercer día hábil siguiente, salvo en materia penal, dentro o fuera de procedimiento, en que se notificarán inmediatamente en que sean pronunciadas. La razón que corresponda se asentará inmediatamente después de dicha resolución.",
+     "La persona quejosa y la tercera interesada podrán autorizar a cualquier persona con capacidad legal exclusivamente para oír notificaciones aún las de carácter personal e imponerse de los autos, quien no gozará de las demás facultades previstas en el artículo 12 de esta Ley.",
+     "Cuando la persona quejosa y la tercera interesada cuenten con Firma Electrónica y pretendan que los autorizados en términos del párrafo anterior, utilicen o hagan uso de ésta en su representación, deberán comunicarlo al órgano jurisdiccional correspondiente, señalando las limitaciones o revocación de facultades en el uso de la misma."
+    ]
+   },
+   {
+    "article": "Artículo 25.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las notificaciones a la persona titular del Poder Ejecutivo Federal se entenderán con el o la titular de la Secretaría de Estado o de la Consejería Jurídica del Ejecutivo Federal, que deba representarla en el juicio de amparo, de acuerdo con lo dispuesto en el acuerdo general al que hace referencia el artículo 9o. de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 26.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción I, inciso a)",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "a) A la persona quejosa privada de su libertad, en el local del órgano jurisdiccional que conozca del juicio, o en el de su reclusión o a su defensor o defensora, representante legal o persona designada para oír notificaciones;"
+    ]
+   },
+   {
+    "article": "Artículo 26.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción I, inciso b)",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "b) La primera notificación a la persona tercera interesada y al o la particular señalada como autoridad responsable;"
+    ]
+   },
+   {
+    "article": "Artículo 26.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción II, inciso a)",
+    "from_block": 16,
+    "to_block": 16,
+    "paragraphs": [
+     "a) A la autoridad responsable, salvo que se trate de la primera notificación a un o una particular señalada como tal, en cuyo caso se observará lo establecido en el inciso b) de la fracción I del presente artículo;"
+    ]
+   },
+   {
+    "article": "Artículo 26.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción II, inciso b)",
+    "from_block": 17,
+    "to_block": 17,
+    "paragraphs": [
+     "b) A la autoridad que tenga el carácter de tercera interesada, y"
+    ]
+   },
+   {
+    "article": "Artículo 26.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción II, inciso c)",
+    "from_block": 18,
+    "to_block": 18,
+    "paragraphs": [
+     "c) Al o la Ministerio Público de la Federación en el caso de amparo contra normas generales."
+    ]
+   },
+   {
+    "article": "Artículo 27.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción I, inciso a)",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "a) El actuario o actuaria buscará a la persona que deba ser notificada, se cerciorará de su identidad, le hará saber el órgano jurisdiccional que ordena la notificación y el número de expediente y le entregará copia autorizada de la resolución que se notifica y, en su caso, de los documentos a que se refiera dicha resolución. Si la persona se niega a recibir o a firmar la notificación, la negativa se asentará en autos y aquélla se tendrá por hecha;"
+    ]
+   },
+   {
+    "article": "Artículo 27.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción I, inciso b)",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "b) Si no se encuentra a la persona que deba ser notificada, el actuario o actuaria se cerciorará de que es el domicilio y le dejará citatorio para que, dentro de los dos días hábiles siguientes, acuda al órgano jurisdiccional a notificarse, especificándose el mismo y el número del expediente. El citatorio se dejará con la persona que se encuentre en el domicilio; si la persona por notificar no acude a la cita, la notificación se hará por lista; y por lista en una página electrónica, y"
+    ]
+   },
+   {
+    "article": "Artículo 27.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción I, inciso c)",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "c) Si el actuario o actuaria encuentra el domicilio cerrado y ninguna persona acude a su llamado, se cerciorará de que es el domicilio correcto, lo hará constar y fijará aviso en la puerta a fin de que, dentro de los dos días hábiles siguientes, acuda al órgano jurisdiccional a notificarse. Si no se presenta se notificará por lista y por lista en una página electrónica pudiendo, el referido órgano, tomar las medidas necesarias para lograr la notificación personal si lo estima pertinente."
+    ]
+   },
+   {
+    "article": "Artículo 27.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción I, párrafo segundo",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "En todos los casos a que se refieren los incisos anteriores, el actuario o actuaria asentará razón circunstanciada en el expediente;"
+    ]
+   },
+   {
+    "article": "Artículo 27.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción II, párrafo primero",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "II. Cuando el domicilio señalado de la persona a notificar no se encuentre en el mismo lugar en que resida el órgano jurisdiccional, la primera notificación se hará por exhorto o despacho en términos del Código Nacional de Procedimientos Civiles y Familiares, los que podrán ser enviados y recibidos haciendo uso de la Firma Electrónica. En el exhorto o despacho se requerirá que se señale domicilio en el lugar del juicio, con apercibimiento que de no hacerlo, las siguientes notificaciones, aún las personales, se practicarán por lista, sin perjuicio de que pueda hacer la solicitud a que se refiere la fracción IV del artículo 26 de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 27.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción III, inciso a)",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "a) Las notificaciones personales a la persona quejosa se efectuarán por lista."
+    ]
+   },
+   {
+    "article": "Artículo 27.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción III, inciso b)",
+    "from_block": 11,
+    "to_block": 12,
+    "paragraphs": [
+     "b) Tratándose de la primera notificación la persona tercera interesada y al o la particular señalada como autoridad responsable, el órgano jurisdiccional dictará las medidas que estime pertinentes con el propósito de que se investigue su domicilio y podrá requerir a la autoridad responsable para que proporcione el que ante ella se hubiera señalado. Siempre que el acto reclamado emane de un procedimiento judicial la notificación se hará en el último domicilio señalado para oír notificaciones en el juicio de origen.",
+     "Si a pesar de lo anterior no pudiere efectuarse la notificación, se hará por edictos a costa de la persona quejosa en términos del Código Nacional de Procedimientos Civiles y Familiares. En caso de que la persona quejosa no acredite haber entregado para su publicación los edictos dentro del plazo de veinte días siguientes al en que se pongan a su disposición, se sobreseerá el amparo."
+    ]
+   },
+   {
+    "article": "Artículo 27.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción III, inciso c)",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "c) Cuando se trate de personas de escasos recursos a juicio del órgano jurisdiccional, se ordenará la publicación correspondiente en el Diario Oficial de la Federación sin costo para la persona quejosa."
+    ]
+   },
+   {
+    "article": "Artículo 27.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 14,
+    "to_block": 14,
+    "paragraphs": [
+     "Cuando deba notificarse a la persona interesada la providencia que mande ratificar el escrito de desistimiento de la demanda o de cualquier recurso, si no consta en autos el domicilio para oír notificaciones, ni se expresan estos datos en el escrito, continuará el juicio."
+    ]
+   },
+   {
+    "article": "Artículo 28.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 3,
+    "paragraphs": [
+     "I. Si el domicilio de la oficina principal de la autoridad se encuentra en el lugar del juicio, un empleado o empleada hará la entrega, recabando la constancia de recibo correspondiente.",
+     "Si la autoridad se niega a recibir el oficio, el actuario o actuaria hará del conocimiento de la persona encargada de la oficina correspondiente que no obstante esta circunstancia, se tendrá por hecha la notificación. Si a pesar de esto subsiste la negativa, asentará la razón en autos y se tendrá por hecha;"
+    ]
+   },
+   {
+    "article": "Artículo 28.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción II, párrafo segundo",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "En casos urgentes, cuando el domicilio se encuentre fuera de la circunscripción territorial del órgano jurisdiccional que conozca del juicio, pero en zona conurbada, podrá ordenarse que la notificación se haga por medio del actuario o actuaria, y"
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "Artículo 27.",
+    "reason": "La instrucción dice que se reforman el párrafo primero y el párrafo primero de la fracción I, pero el decreto imprime para ambos sólo marcadores (\"Artículo 27. ...\" e \"I. ...\"). Se siguieron los marcadores y ambos quedan sin cambio."
+   },
+   {
+    "article": "Artículo 27.",
+    "reason": "No está claro a qué se refiere \"párrafo segundo\" en la instrucción. Se reformó el párrafo final del artículo (bloque 14) como párrafo segundo. El párrafo que sigue al inciso b) de la fracción III (bloque 12) se trató como parte de ese inciso, porque el decreto lo imprime con texto nuevo."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 13.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 13.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Cuando la demanda se promueva por dos o más personas quejosas con un interés común, deberán designar entre ellas un o una representante, en su defecto, lo hará el órgano jurisdiccional en su primer auto sin perjuicio de que la parte respectiva lo substituya por otro. Las personas terceras interesadas podrán también nombrar representante común.\",\"Cuando dos o más personas quejosas reclamen y aduzcan sobre un mismo acto u omisión ser titulares de un interés legítimo, o bien en ese mismo carácter reclamen actos u omisiones distintos pero con perjuicios análogos, provenientes de la misma autoridad, y se tramiten en órganos jurisdiccionales distintos, cualquiera de las partes podrá solicitar al Órgano de Administración Judicial que determine la concentración de todos los procedimientos ante un mismo órgano del Poder Judicial de la Federación, según corresponda. Recibida la solicitud, el Órgano de Administración Judicial, en atención al interés social y al orden público, resolverá lo conducente y dictará las providencias que resulten necesarias.\"]},{\"article\":\"Artículo 14.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 14.\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"Para el trámite de la demanda de amparo indirecto en materia penal bastará que la persona defensora manifieste, bajo protesta de decir verdad, tener tal carácter. En este caso, la autoridad ante quien se presente la demanda pedirá a la persona juzgadora o tribunal que conozca del asunto, que le remita la certificación correspondiente.\",\"Si la persona promovente del juicio posteriormente carece del carácter con el que se ostentó, el órgano jurisdiccional de amparo le impondrá una multa de ciento quince a mil ciento cuarenta y cinco Unidades de Medida y Actualización al momento de realizarse la conducta sancionada y ordenará la ratificación de la demanda a la persona agraviada dentro de un término de tres días.\",\"Al ratificarse la demanda se tramitará el juicio, entendiéndose las diligencias directamente con la persona agraviada siempre en presencia de su defensor o defensora, ya sea de oficio o designado por aquella, mientras no constituya representante dentro del juicio de amparo. De lo contrario, la demanda se tendrá por no interpuesta y quedarán sin efecto las providencias dictadas en el expediente principal y en el incidente de suspensión.\"]},{\"article\":\"Artículo 15.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 15.\",\"from_block\":1,\"to_block\":7,\"paragraphs\":[\"Cuando se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, y la persona agraviada se encuentre imposibilitada para promover el amparo, podrá hacerlo cualquiera otra persona en su nombre, aunque sea menor de edad.\",\"En estos casos, el órgano jurisdiccional de amparo decretará la suspensión de los actos reclamados, y dictará todas las medidas necesarias para lograr la comparecencia de la persona agraviada.\",\"Una vez lograda la comparecencia, se requerirá a la persona agraviada para que dentro del término de tres días ratifique la demanda de amparo. Si ésta la ratifica por sí o por medio de su representante se tramitará el juicio; de lo contrario se tendrá por no presentada la demanda y quedarán sin efecto las providencias dictadas.\",\"Si a pesar de las medidas tomadas por el órgano jurisdiccional de amparo no se logra la comparecencia de la persona agraviada, resolverá la suspensión definitiva, ordenará suspender el procedimiento en lo principal y se harán los hechos del conocimiento del o la Ministerio Público de la Federación. En caso de que éste sea autoridad responsable, se hará del conocimiento a la persona Fiscal General de la República. Cuando haya solicitud expresa de la Comisión Nacional de los Derechos Humanos, se remitirá copia certificada de lo actuado en estos casos.\",\"Transcurrido un año sin que nadie se apersone en el juicio, se tendrá por no interpuesta la demanda.\",\"Cuando, por las circunstancias del caso o lo manifieste la persona que presenta la demanda en lugar de la persona quejosa, se trate de una posible comisión del delito de desaparición forzada de personas, el juez o jueza tendrá un término no mayor de veinticuatro horas para darle trámite al amparo, dictar la suspensión de los actos reclamados, y requerir a las autoridades correspondientes toda la información que pueda resultar conducente para la localización y liberación de la probable víctima. Bajo este supuesto, ninguna autoridad podrá determinar que transcurra un plazo determinado para que comparezca la persona agraviada, ni podrán las autoridades negarse a practicar las diligencias que de ellas se soliciten o sean ordenadas bajo el argumento de que existen plazos legales para considerar la desaparición de una persona.\"]},{\"article\":\"Artículo 16.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 16.\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"En caso de fallecimiento de la persona quejosa o de la tercera interesada, siempre que lo planteado en el juicio de amparo no afecte sus derechos estrictamente personales, el o la representante legal de la persona fallecida continuará el juicio en tanto interviene el o la representante de la sucesión.\",\"Si la persona fallecida no tiene representación legal en el juicio, éste se suspenderá inmediatamente que se tenga conocimiento de la defunción. Si la sucesión no interviene dentro del plazo de sesenta días siguientes al en que se decrete la suspensión, el juez o la jueza ordenará lo conducente según el caso de que se trate.\",\"Cualquiera de las partes que tenga noticia del fallecimiento de la persona quejosa o de la tercera interesada deberá hacerlo del conocimiento del órgano jurisdiccional de amparo, acreditando tal circunstancia, o proporcionando los datos necesarios para ese efecto.\"]},{\"article\":\"Artículo 18.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 18.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Los plazos a que se refiere el artículo anterior se computarán a partir del día siguiente a aquél en que surta efectos, conforme a la ley del acto, la notificación a la persona quejosa del acto o resolución que reclame o a aquella en que haya tenido conocimiento o se ostente sabedora del acto reclamado o de su ejecución, salvo el caso de la fracción I del artículo anterior en el que se computará a partir del día de su entrada en vigor.\"]},{\"article\":\"Artículo 20.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Para los efectos de esta disposición, los jefes, jefas y personas encargadas de las oficinas públicas de comunicaciones estarán obligados a recibir y transmitir, sin costo alguno para las personas interesadas, los mensajes en que se demande amparo por alguno de los actos enunciados, así como las resoluciones y oficios que expidan las autoridades que conozcan de la suspensión, fuera de las horas del despacho y a pesar de que existan disposiciones en contrario de autoridades administrativas.\"]},{\"article\":\"Artículo 23.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 23.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Si alguna de las partes reside fuera de la jurisdicción del órgano de amparo que conozca o deba conocer del juicio, la demanda y la primera promoción de la persona tercera interesada podrán presentarse, dentro de los plazos legales, en la oficina pública de comunicaciones del lugar de su residencia, en la más cercana en caso de no haberla, o bien, en forma electrónica a través del uso de la Firma Electrónica.\"]},{\"article\":\"Artículo 24.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 24.\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"Las resoluciones que se dicten en los juicios de amparo deben notificarse a más tardar dentro del tercer día hábil siguiente, salvo en materia penal, dentro o fuera de procedimiento, en que se notificarán inmediatamente en que sean pronunciadas. La razón que corresponda se asentará inmediatamente después de dicha resolución.\",\"La persona quejosa y la tercera interesada podrán autorizar a cualquier persona con capacidad legal exclusivamente para oír notificaciones aún las de carácter personal e imponerse de los autos, quien no gozará de las demás facultades previstas en el artículo 12 de esta Ley.\",\"Cuando la persona quejosa y la tercera interesada cuenten con Firma Electrónica y pretendan que los autorizados en términos del párrafo anterior, utilicen o hagan uso de ésta en su representación, deberán comunicarlo al órgano jurisdiccional correspondiente, señalando las limitaciones o revocación de facultades en el uso de la misma.\"]},{\"article\":\"Artículo 25.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las notificaciones a la persona titular del Poder Ejecutivo Federal se entenderán con el o la titular de la Secretaría de Estado o de la Consejería Jurídica del Ejecutivo Federal, que deba representarla en el juicio de amparo, de acuerdo con lo dispuesto en el acuerdo general al que hace referencia el artículo 9o. de esta Ley.\"]},{\"article\":\"Artículo 26.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción I, inciso a)\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"a) A la persona quejosa privada de su libertad, en el local del órgano jurisdiccional que conozca del juicio, o en el de su reclusión o a su defensor o defensora, representante legal o persona designada para oír notificaciones;\"]},{\"article\":\"Artículo 26.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción I, inciso b)\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"b) La primera notificación a la persona tercera interesada y al o la particular señalada como autoridad responsable;\"]},{\"article\":\"Artículo 26.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción II, inciso a)\",\"from_block\":16,\"to_block\":16,\"paragraphs\":[\"a) A la autoridad responsable, salvo que se trate de la primera notificación a un o una particular señalada como tal, en cuyo caso se observará lo establecido en el inciso b) de la fracción I del presente artículo;\"]},{\"article\":\"Artículo 26.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción II, inciso b)\",\"from_block\":17,\"to_block\":17,\"paragraphs\":[\"b) A la autoridad que tenga el carácter de tercera interesada, y\"]},{\"article\":\"Artículo 26.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción II, inciso c)\",\"from_block\":18,\"to_block\":18,\"paragraphs\":[\"c) Al o la Ministerio Público de la Federación en el caso de amparo contra normas generales.\"]},{\"article\":\"Artículo 27.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción I, inciso a)\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"a) El actuario o actuaria buscará a la persona que deba ser notificada, se cerciorará de su identidad, le hará saber el órgano jurisdiccional que ordena la notificación y el número de expediente y le entregará copia autorizada de la resolución que se notifica y, en su caso, de los documentos a que se refiera dicha resolución. Si la persona se niega a recibir o a firmar la notificación, la negativa se asentará en autos y aquélla se tendrá por hecha;\"]},{\"article\":\"Artículo 27.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción I, inciso b)\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"b) Si no se encuentra a la persona que deba ser notificada, el actuario o actuaria se cerciorará de que es el domicilio y le dejará citatorio para que, dentro de los dos días hábiles siguientes, acuda al órgano jurisdiccional a notificarse, especificándose el mismo y el número del expediente. El citatorio se dejará con la persona que se encuentre en el domicilio; si la persona por notificar no acude a la cita, la notificación se hará por lista; y por lista en una página electrónica, y\"]},{\"article\":\"Artículo 27.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción I, inciso c)\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"c) Si el actuario o actuaria encuentra el domicilio cerrado y ninguna persona acude a su llamado, se cerciorará de que es el domicilio correcto, lo hará constar y fijará aviso en la puerta a fin de que, dentro de los dos días hábiles siguientes, acuda al órgano jurisdiccional a notificarse. Si no se presenta se notificará por lista y por lista en una página electrónica pudiendo, el referido órgano, tomar las medidas necesarias para lograr la notificación personal si lo estima pertinente.\"]},{\"article\":\"Artículo 27.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción I, párrafo segundo\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"En todos los casos a que se refieren los incisos anteriores, el actuario o actuaria asentará razón circunstanciada en el expediente;\"]},{\"article\":\"Artículo 27.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción II, párrafo primero\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"II. Cuando el domicilio señalado de la persona a notificar no se encuentre en el mismo lugar en que resida el órgano jurisdiccional, la primera notificación se hará por exhorto o despacho en términos del Código Nacional de Procedimientos Civiles y Familiares, los que podrán ser enviados y recibidos haciendo uso de la Firma Electrónica. En el exhorto o despacho se requerirá que se señale domicilio en el lugar del juicio, con apercibimiento que de no hacerlo, las siguientes notificaciones, aún las personales, se practicarán por lista, sin perjuicio de que pueda hacer la solicitud a que se refiere la fracción IV del artículo 26 de esta Ley.\"]},{\"article\":\"Artículo 27.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción III, inciso a)\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"a) Las notificaciones personales a la persona quejosa se efectuarán por lista.\"]},{\"article\":\"Artículo 27.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción III, inciso b)\",\"from_block\":11,\"to_block\":12,\"paragraphs\":[\"b) Tratándose de la primera notificación la persona tercera interesada y al o la particular señalada como autoridad responsable, el órgano jurisdiccional dictará las medidas que estime pertinentes con el propósito de que se investigue su domicilio y podrá requerir a la autoridad responsable para que proporcione el que ante ella se hubiera señalado. Siempre que el acto reclamado emane de un procedimiento judicial la notificación se hará en el último domicilio señalado para oír notificaciones en el juicio de origen.\",\"Si a pesar de lo anterior no pudiere efectuarse la notificación, se hará por edictos a costa de la persona quejosa en términos del Código Nacional de Procedimientos Civiles y Familiares. En caso de que la persona quejosa no acredite haber entregado para su publicación los edictos dentro del plazo de veinte días siguientes al en que se pongan a su disposición, se sobreseerá el amparo.\"]},{\"article\":\"Artículo 27.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción III, inciso c)\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"c) Cuando se trate de personas de escasos recursos a juicio del órgano jurisdiccional, se ordenará la publicación correspondiente en el Diario Oficial de la Federación sin costo para la persona quejosa.\"]},{\"article\":\"Artículo 27.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":14,\"to_block\":14,\"paragraphs\":[\"Cuando deba notificarse a la persona interesada la providencia que mande ratificar el escrito de desistimiento de la demanda o de cualquier recurso, si no consta en autos el domicilio para oír notificaciones, ni se expresan estos datos en el escrito, continuará el juicio.\"]},{\"article\":\"Artículo 28.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":3,\"paragraphs\":[\"I. Si el domicilio de la oficina principal de la autoridad se encuentra en el lugar del juicio, un empleado o empleada hará la entrega, recabando la constancia de recibo correspondiente.\",\"Si la autoridad se niega a recibir el oficio, el actuario o actuaria hará del conocimiento de la persona encargada de la oficina correspondiente que no obstante esta circunstancia, se tendrá por hecha la notificación. Si a pesar de esto subsiste la negativa, asentará la razón en autos y se tendrá por hecha;\"]},{\"article\":\"Artículo 28.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción II, párrafo segundo\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"En casos urgentes, cuando el domicilio se encuentre fuera de la circunscripción territorial del órgano jurisdiccional que conozca del juicio, pero en zona conurbada, podrá ordenarse que la notificación se haga por medio del actuario o actuaria, y\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"Artículo 27.\",\"reason\":\"La instrucción dice que se reforman el párrafo primero y el párrafo primero de la fracción I, pero el decreto imprime para ambos sólo marcadores (\\\"Artículo 27. ...\\\" e \\\"I. ...\\\"). Se siguieron los marcadores y ambos quedan sin cambio.\"},{\"article\":\"Artículo 27.\",\"reason\":\"No está claro a qué se refiere \\\"párrafo segundo\\\" en la instrucción. Se reformó el párrafo final del artículo (bloque 14) como párrafo segundo. El párrafo que sigue al inciso b) de la fracción III (bloque 12) se trató como parte de ese inciso, porque el decreto lo imprime con texto nuevo.\"}]}",
+ "duration_ms": 55228,
+ "total_cost_usd": 0.2879938,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 8124,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 15613,
+   "webSearchRequests": 0,
+   "costUSD": 0.2879938,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 740,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 15613,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

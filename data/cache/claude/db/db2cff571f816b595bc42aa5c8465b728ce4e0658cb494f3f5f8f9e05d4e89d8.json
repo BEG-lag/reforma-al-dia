@@ -1,0 +1,99 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "ARTÍCULO 123 BIS 3.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 123 BIS 3.",
+    "insert_after": null,
+    "paragraphs": [
+     "A quien dolosamente traslade aguas nacionales con fines de lucro, a sabiendas de que dichas aguas fueron extraídas de manera ilegal se le sancionará de la siguiente manera:",
+     "I. Cuando la cantidad sea menor a 50,000 litros, se impondrá prisión de tres a cinco meses y multa de cien a doscientas Unidades de Medida y Actualización.",
+     "II. Cuando la cantidad sea mayor o equivalente a 50,000 litros, se impondrá prisión de seis a ocho meses y multa de ciento cincuenta a doscientas cincuenta Unidades de Medida y Actualización."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 123 BIS 4.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 123 BIS 4.",
+    "insert_after": null,
+    "paragraphs": [
+     "Se le impondrán de tres meses a cinco años de prisión y multa de doscientas a dos mil Unidades de Medida y Actualización a quien, sin autorización expedida por la autoridad competente altere, desvíe u obstruya los cauces, vasos, corrientes o flujos de aguas nacionales y genere afectación directa a las condiciones hidráulicas o ponga en peligro la vida de las personas o la seguridad de sus bienes o de los ecosistemas vitales.",
+     "Quedan exceptuadas de las sanciones a que se refiere el presente Artículo las personas que realicen esta actividad para uso personal, doméstico y aquellos sistemas de producción agropecuaria previstos en la fracción LIII BIS del Artículo 3 de la presente Ley."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 123 BIS 5.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 123 BIS 5.",
+    "insert_after": null,
+    "paragraphs": [
+     "Se le impondrán de dos a catorce años de prisión y multa de cuatrocientas a cuatro mil Unidades de Medida y Actualización a la persona servidora pública que otorgue concesiones, asignaciones, prórrogas, permisos o registre títulos de concesión, asignación, permisos o prórrogas para la explotación, uso o aprovechamiento de las aguas nacionales a cambio de un beneficio no comprendido en su remuneración para sí, para su cónyuge, parientes consanguíneos hasta el cuarto grado, parientes por afinidad hasta el segundo grado o para terceros con quien tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que la persona servidora pública o las personas antes referidas formen parte."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 123 BIS 6.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 123 BIS 6.",
+    "insert_after": null,
+    "paragraphs": [
+     "Se le impondrán de uno a ocho años de prisión y multa de trescientas a tres mil Unidades de Medida y Actualización a quien solicite concesiones, asignaciones, prórrogas, permisos o el registro de títulos de concesión, asignación, permisos o prórrogas para la explotación, uso o aprovechamiento de las aguas nacionales mediante el ofrecimiento o entrega de dádivas a la persona servidora pública facultada para autorizar dichos trámites."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 124.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "La interposición del recurso se hará por escrito dirigido a la persona Titular de la Dirección General de \"la Comisión\", en los casos establecidos en la Fracción IX del Artículo 9 de la presente Ley, o a la persona Titular de la Dirección General del Organismo de Cuenca competente, en el que se deberán expresar el nombre y domicilio de la persona recurrente y los agravios, acompañándose los elementos de prueba que se consideren necesarios, así como las constancias que acrediten la personalidad de la persona promovente."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "ARTÍCULO 5.",
+    "reason": "El artículo 5 aparece marcado para reforma, pero la instrucción del Artículo Segundo no lo menciona (pasa del 4 al 6) y el decreto no lo reproduce. No se hace ningún cambio."
+   },
+   {
+    "article": "ARTÍCULO 124.",
+    "reason": "El decreto imprime antes del artículo 124 el encabezado 'Capítulo VI Recurso de Revisión y Denuncia Popular', y la instrucción dice 'Capítulo III, cambia a Capítulo VI'. No se tiene a la vista el texto actual de ese encabezado para hacer el cambio de nombre. Hay que verificarlo y aplicar el cambio de capítulo a mano. Los artículos transitorios que el decreto imprime después del artículo 124 no forman parte de ese artículo y no se agregaron."
+   },
+   {
+    "article": "ARTÍCULO 123 BIS 3.",
+    "reason": "La instrucción adiciona un 'Capítulo V del Título Décimo' antes de los artículos 123 BIS 2 a 123 BIS 6. El artículo 123 BIS 2 y el encabezado de ese capítulo no vienen en esta parte. Hay que confirmar que los artículos 123 BIS 3 a 123 BIS 6 queden después del 123 BIS 2, dentro de ese capítulo."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"ARTÍCULO 123 BIS 3.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 123 BIS 3.\",\"insert_after\":null,\"paragraphs\":[\"A quien dolosamente traslade aguas nacionales con fines de lucro, a sabiendas de que dichas aguas fueron extraídas de manera ilegal se le sancionará de la siguiente manera:\",\"I. Cuando la cantidad sea menor a 50,000 litros, se impondrá prisión de tres a cinco meses y multa de cien a doscientas Unidades de Medida y Actualización.\",\"II. Cuando la cantidad sea mayor o equivalente a 50,000 litros, se impondrá prisión de seis a ocho meses y multa de ciento cincuenta a doscientas cincuenta Unidades de Medida y Actualización.\"]},{\"article\":\"ARTÍCULO 123 BIS 4.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 123 BIS 4.\",\"insert_after\":null,\"paragraphs\":[\"Se le impondrán de tres meses a cinco años de prisión y multa de doscientas a dos mil Unidades de Medida y Actualización a quien, sin autorización expedida por la autoridad competente altere, desvíe u obstruya los cauces, vasos, corrientes o flujos de aguas nacionales y genere afectación directa a las condiciones hidráulicas o ponga en peligro la vida de las personas o la seguridad de sus bienes o de los ecosistemas vitales.\",\"Quedan exceptuadas de las sanciones a que se refiere el presente Artículo las personas que realicen esta actividad para uso personal, doméstico y aquellos sistemas de producción agropecuaria previstos en la fracción LIII BIS del Artículo 3 de la presente Ley.\"]},{\"article\":\"ARTÍCULO 123 BIS 5.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 123 BIS 5.\",\"insert_after\":null,\"paragraphs\":[\"Se le impondrán de dos a catorce años de prisión y multa de cuatrocientas a cuatro mil Unidades de Medida y Actualización a la persona servidora pública que otorgue concesiones, asignaciones, prórrogas, permisos o registre títulos de concesión, asignación, permisos o prórrogas para la explotación, uso o aprovechamiento de las aguas nacionales a cambio de un beneficio no comprendido en su remuneración para sí, para su cónyuge, parientes consanguíneos hasta el cuarto grado, parientes por afinidad hasta el segundo grado o para terceros con quien tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que la persona servidora pública o las personas antes referidas formen parte.\"]},{\"article\":\"ARTÍCULO 123 BIS 6.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 123 BIS 6.\",\"insert_after\":null,\"paragraphs\":[\"Se le impondrán de uno a ocho años de prisión y multa de trescientas a tres mil Unidades de Medida y Actualización a quien solicite concesiones, asignaciones, prórrogas, permisos o el registro de títulos de concesión, asignación, permisos o prórrogas para la explotación, uso o aprovechamiento de las aguas nacionales mediante el ofrecimiento o entrega de dádivas a la persona servidora pública facultada para autorizar dichos trámites.\"]},{\"article\":\"ARTÍCULO 124.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"La interposición del recurso se hará por escrito dirigido a la persona Titular de la Dirección General de \\\"la Comisión\\\", en los casos establecidos en la Fracción IX del Artículo 9 de la presente Ley, o a la persona Titular de la Dirección General del Organismo de Cuenca competente, en el que se deberán expresar el nombre y domicilio de la persona recurrente y los agravios, acompañándose los elementos de prueba que se consideren necesarios, así como las constancias que acrediten la personalidad de la persona promovente.\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"ARTÍCULO 5.\",\"reason\":\"El artículo 5 aparece marcado para reforma, pero la instrucción del Artículo Segundo no lo menciona (pasa del 4 al 6) y el decreto no lo reproduce. No se hace ningún cambio.\"},{\"article\":\"ARTÍCULO 124.\",\"reason\":\"El decreto imprime antes del artículo 124 el encabezado 'Capítulo VI Recurso de Revisión y Denuncia Popular', y la instrucción dice 'Capítulo III, cambia a Capítulo VI'. No se tiene a la vista el texto actual de ese encabezado para hacer el cambio de nombre. Hay que verificarlo y aplicar el cambio de capítulo a mano. Los artículos transitorios que el decreto imprime después del artículo 124 no forman parte de ese artículo y no se agregaron.\"},{\"article\":\"ARTÍCULO 123 BIS 3.\",\"reason\":\"La instrucción adiciona un 'Capítulo V del Título Décimo' antes de los artículos 123 BIS 2 a 123 BIS 6. El artículo 123 BIS 2 y el encabezado de ese capítulo no vienen en esta parte. Hay que confirmar que los artículos 123 BIS 3 a 123 BIS 6 queden después del 123 BIS 2, dentro de ese capítulo.\"}]}",
+ "duration_ms": 17763,
+ "total_cost_usd": 0.1132378,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 2409,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 8056,
+   "webSearchRequests": 0,
+   "costUSD": 0.1132378,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 348,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 8056,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

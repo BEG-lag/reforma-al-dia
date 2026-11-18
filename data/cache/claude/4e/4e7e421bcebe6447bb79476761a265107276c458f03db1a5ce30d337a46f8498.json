@@ -1,0 +1,231 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 190.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Tratándose de laudos o de resoluciones que pongan fin al juicio, dictados por tribunales del trabajo, la suspensión se concederá en los casos en que, a juicio de la persona titular de la presidencia del tribunal respectivo, no se ponga a la parte trabajadora en peligro de no subsistir mientras se resuelve el juicio de amparo, en los cuales sólo se suspenderá la ejecución en cuanto exceda de lo necesario para asegurar tal subsistencia."
+    ]
+   },
+   {
+    "article": "Artículo 191.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando se trate de juicios del orden penal, la autoridad responsable con la sola presentación de la demanda, ordenará suspender de oficio y de plano la resolución reclamada. Si ésta comprende la pena de privación de libertad, la suspensión surtirá el efecto de que la persona quejosa quede a disposición del Órgano jurisdiccional de amparo, por mediación de la autoridad responsable."
+    ]
+   },
+   {
+    "article": "Artículo 192.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Al ordenar la notificación y requerimiento a la autoridad responsable, el órgano judicial de amparo también ordenará notificar y requerir a la persona superior jerárquica de aquélla, en su caso, para que le ordene cumplir con la ejecutoria, bajo el apercibimiento que de no demostrar que dio la orden, se le impondrá a su titular una multa en los términos señalados en esta Ley, además de que incurrirá en las mismas responsabilidades de la autoridad responsable. La persona titular de la Presidencia de la República no podrá ser considerada autoridad responsable o superior jerárquica."
+    ]
+   },
+   {
+    "article": "Artículo 192.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "El órgano judicial de amparo, al hacer los requerimientos, podrá ampliar el plazo de cumplimiento tomando en cuenta su complejidad o dificultad debiendo fijar un plazo razonable y estrictamente determinado. Asimismo, en casos urgentes y de notorio perjuicio para la persona quejosa, ordenará el cumplimiento inmediato por los medios oficiales de que disponga."
+    ]
+   },
+   {
+    "article": "Artículo 193.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Si la ejecutoria no quedó cumplida en el plazo fijado y se trata de amparo indirecto, el órgano judicial de amparo hará el pronunciamiento respectivo, impondrá las multas que procedan y remitirá los autos al tribunal colegiado de circuito, lo cual será notificado a la autoridad responsable y, en su caso, a su superiora o superior jerárquico, cuyos titulares seguirán teniendo responsabilidad aunque dejen el cargo."
+    ]
+   },
+   {
+    "article": "Artículo 193.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo sexto",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "El tribunal colegiado de circuito notificará a las partes la radicación de los autos, revisará el trámite del a quo y dictará la resolución que corresponda; si reitera que hay incumplimiento remitirá los autos a la Suprema Corte de Justicia de la Nación con un proyecto de separación del cargo de la persona titular de la autoridad responsable y, en su caso, del de su superiora o superior jerárquico, lo cual será notificado a éstos."
+    ]
+   },
+   {
+    "article": "Artículo 193.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo séptimo",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "Si la ejecutoria de amparo no quedó cumplida en el plazo fijado y se trata de amparo directo, el tribunal colegiado de circuito seguirá, en lo conducente y aplicable, lo establecido en los párrafos anteriores. Llegado el caso, remitirá los autos a la Suprema Corte de Justicia de la Nación con proyecto de separación del cargo de las personas titulares de la autoridad responsable y su superiora o superior jerárquico."
+    ]
+   },
+   {
+    "article": "Artículo 194.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Se entiende como superiora o superior jerárquico de la autoridad responsable, el que de conformidad con las disposiciones correspondientes ejerza sobre ella poder o mando para obligarla a actuar o dejar de actuar en la forma exigida en la sentencia de amparo, o bien para cumplir esta última por sí misma.",
+     "La autoridad requerida como superiora jerárquica incurre en responsabilidad por falta de cumplimiento de las sentencias, en los términos que las autoridades contra cuyos actos se hubiere concedido el amparo."
+    ]
+   },
+   {
+    "article": "Artículo 195.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El cumplimiento extemporáneo de la ejecutoria de amparo, si es injustificado, no exime de responsabilidad a la autoridad responsable ni, en su caso, a su superiora o superior jerárquico, pero se tomará en consideración como atenuante al imponer la sanción penal."
+    ]
+   },
+   {
+    "article": "Artículo 196.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando el órgano judicial de amparo reciba informe de la autoridad responsable de que ya cumplió la ejecutoria, dará vista a la persona quejosa y, en su caso, a la o el tercero interesado, para que dentro del plazo de tres días manifiesten lo que a su derecho convenga. En los casos de amparo directo la vista será de diez días donde la parte afectada podrá alegar el defecto o exceso en el cumplimiento. Dentro del mismo plazo computado a partir del siguiente al en que haya tenido conocimiento de su afectación por el cumplimiento, podrá comparecer la persona extraña a juicio para defender su interés."
+    ]
+   },
+   {
+    "article": "Artículo 198.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Cuando considere que es inexcusable o hubiere transcurrido el plazo anterior sin que se hubiese cumplido, tomará en cuenta el proyecto del tribunal colegiado de circuito y procederá a separar de su cargo a la persona titular de la autoridad responsable y a consignarlo ante el juez o jueza de distrito por el delito de incumplimiento de sentencias de amparo. Las mismas providencias se tomarán respecto de la superiora o superior jerárquico de la autoridad responsable si hubiese incurrido en responsabilidad, así como de los o las titulares que, habiendo ocupado con anterioridad el cargo de la autoridad responsable, hayan incumplido la ejecutoria."
+    ]
+   },
+   {
+    "article": "Artículo 198.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo quinto",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "En la misma resolución, la Suprema Corte de Justicia de la Nación ordenará que se devuelvan los autos al órgano jurisdiccional de amparo a efecto de que reinicie el trámite de cumplimiento ante los nuevos titulares, sin perjuicio de la consignación que proceda contra las o los anteriores titulares que hayan sido considerados responsables del incumplimiento de la ejecutoria de amparo en términos del párrafo anterior."
+    ]
+   },
+   {
+    "article": "Artículo 200.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "En el primer supuesto, tomará en cuenta el proyecto del tribunal colegiado de circuito y procederá a separar de su cargo a la persona titular de la autoridad responsable, así como a consignarlo ante juez o jueza de distrito por el delito que corresponda."
+    ]
+   },
+   {
+    "article": "Artículo 202.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El recurso de inconformidad podrá interponerse por la persona quejosa o, en su caso, por la o el tercero interesado o la o el promovente de la denuncia a que se refiere el artículo 210 de esta Ley, mediante escrito presentado por conducto del órgano judicial que haya dictado la resolución impugnada, dentro del plazo de quince días contados a partir del siguiente al en que surta efectos la notificación."
+    ]
+   },
+   {
+    "article": "Artículo 202.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "La persona extraña a juicio que resulte afectada por el cumplimiento o ejecución de la sentencia de amparo también podrá interponer el recurso de inconformidad en los mismos términos establecidos en el párrafo anterior, si ya había tenido conocimiento de lo actuado ante el órgano judicial de amparo; en caso contrario, el plazo de quince días se contará a partir del siguiente al que haya tenido conocimiento de la afectación. En cualquier caso, la persona extraña al juicio de amparo sólo podrá alegar en contra del cumplimiento o ejecución indebidos de la ejecutoria en cuanto la afecten, pero no en contra de la ejecutoria misma."
+    ]
+   },
+   {
+    "article": "Artículo 204.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El incidente de cumplimiento sustituto tendrá por efecto que la ejecutoria se dé por cumplida mediante el pago de los daños y perjuicios a la persona quejosa."
+    ]
+   },
+   {
+    "article": "Artículo 205.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "I. La ejecución de la sentencia afecte gravemente a la sociedad en mayor proporción a los beneficios que pudiera obtener la persona quejosa, o"
+    ]
+   },
+   {
+    "article": "Artículo 205.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo sexto",
+    "from_block": 12,
+    "to_block": 12,
+    "paragraphs": [
+     "Independientemente de lo establecido en los párrafos anteriores, la persona quejosa y la autoridad responsable pueden celebrar convenio a través del cual se tenga por cumplida la ejecutoria. Del convenio se dará aviso al órgano judicial de amparo; éste, una vez que se le compruebe que los términos del convenio fueron cumplidos, mandará archivar el expediente."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 190.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Tratándose de laudos o de resoluciones que pongan fin al juicio, dictados por tribunales del trabajo, la suspensión se concederá en los casos en que, a juicio de la persona titular de la presidencia del tribunal respectivo, no se ponga a la parte trabajadora en peligro de no subsistir mientras se resuelve el juicio de amparo, en los cuales sólo se suspenderá la ejecución en cuanto exceda de lo necesario para asegurar tal subsistencia.\"]},{\"article\":\"Artículo 191.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando se trate de juicios del orden penal, la autoridad responsable con la sola presentación de la demanda, ordenará suspender de oficio y de plano la resolución reclamada. Si ésta comprende la pena de privación de libertad, la suspensión surtirá el efecto de que la persona quejosa quede a disposición del Órgano jurisdiccional de amparo, por mediación de la autoridad responsable.\"]},{\"article\":\"Artículo 192.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Al ordenar la notificación y requerimiento a la autoridad responsable, el órgano judicial de amparo también ordenará notificar y requerir a la persona superior jerárquica de aquélla, en su caso, para que le ordene cumplir con la ejecutoria, bajo el apercibimiento que de no demostrar que dio la orden, se le impondrá a su titular una multa en los términos señalados en esta Ley, además de que incurrirá en las mismas responsabilidades de la autoridad responsable. La persona titular de la Presidencia de la República no podrá ser considerada autoridad responsable o superior jerárquica.\"]},{\"article\":\"Artículo 192.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"El órgano judicial de amparo, al hacer los requerimientos, podrá ampliar el plazo de cumplimiento tomando en cuenta su complejidad o dificultad debiendo fijar un plazo razonable y estrictamente determinado. Asimismo, en casos urgentes y de notorio perjuicio para la persona quejosa, ordenará el cumplimiento inmediato por los medios oficiales de que disponga.\"]},{\"article\":\"Artículo 193.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Si la ejecutoria no quedó cumplida en el plazo fijado y se trata de amparo indirecto, el órgano judicial de amparo hará el pronunciamiento respectivo, impondrá las multas que procedan y remitirá los autos al tribunal colegiado de circuito, lo cual será notificado a la autoridad responsable y, en su caso, a su superiora o superior jerárquico, cuyos titulares seguirán teniendo responsabilidad aunque dejen el cargo.\"]},{\"article\":\"Artículo 193.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo sexto\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"El tribunal colegiado de circuito notificará a las partes la radicación de los autos, revisará el trámite del a quo y dictará la resolución que corresponda; si reitera que hay incumplimiento remitirá los autos a la Suprema Corte de Justicia de la Nación con un proyecto de separación del cargo de la persona titular de la autoridad responsable y, en su caso, del de su superiora o superior jerárquico, lo cual será notificado a éstos.\"]},{\"article\":\"Artículo 193.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo séptimo\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"Si la ejecutoria de amparo no quedó cumplida en el plazo fijado y se trata de amparo directo, el tribunal colegiado de circuito seguirá, en lo conducente y aplicable, lo establecido en los párrafos anteriores. Llegado el caso, remitirá los autos a la Suprema Corte de Justicia de la Nación con proyecto de separación del cargo de las personas titulares de la autoridad responsable y su superiora o superior jerárquico.\"]},{\"article\":\"Artículo 194.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Se entiende como superiora o superior jerárquico de la autoridad responsable, el que de conformidad con las disposiciones correspondientes ejerza sobre ella poder o mando para obligarla a actuar o dejar de actuar en la forma exigida en la sentencia de amparo, o bien para cumplir esta última por sí misma.\",\"La autoridad requerida como superiora jerárquica incurre en responsabilidad por falta de cumplimiento de las sentencias, en los términos que las autoridades contra cuyos actos se hubiere concedido el amparo.\"]},{\"article\":\"Artículo 195.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El cumplimiento extemporáneo de la ejecutoria de amparo, si es injustificado, no exime de responsabilidad a la autoridad responsable ni, en su caso, a su superiora o superior jerárquico, pero se tomará en consideración como atenuante al imponer la sanción penal.\"]},{\"article\":\"Artículo 196.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando el órgano judicial de amparo reciba informe de la autoridad responsable de que ya cumplió la ejecutoria, dará vista a la persona quejosa y, en su caso, a la o el tercero interesado, para que dentro del plazo de tres días manifiesten lo que a su derecho convenga. En los casos de amparo directo la vista será de diez días donde la parte afectada podrá alegar el defecto o exceso en el cumplimiento. Dentro del mismo plazo computado a partir del siguiente al en que haya tenido conocimiento de su afectación por el cumplimiento, podrá comparecer la persona extraña a juicio para defender su interés.\"]},{\"article\":\"Artículo 198.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Cuando considere que es inexcusable o hubiere transcurrido el plazo anterior sin que se hubiese cumplido, tomará en cuenta el proyecto del tribunal colegiado de circuito y procederá a separar de su cargo a la persona titular de la autoridad responsable y a consignarlo ante el juez o jueza de distrito por el delito de incumplimiento de sentencias de amparo. Las mismas providencias se tomarán respecto de la superiora o superior jerárquico de la autoridad responsable si hubiese incurrido en responsabilidad, así como de los o las titulares que, habiendo ocupado con anterioridad el cargo de la autoridad responsable, hayan incumplido la ejecutoria.\"]},{\"article\":\"Artículo 198.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo quinto\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"En la misma resolución, la Suprema Corte de Justicia de la Nación ordenará que se devuelvan los autos al órgano jurisdiccional de amparo a efecto de que reinicie el trámite de cumplimiento ante los nuevos titulares, sin perjuicio de la consignación que proceda contra las o los anteriores titulares que hayan sido considerados responsables del incumplimiento de la ejecutoria de amparo en términos del párrafo anterior.\"]},{\"article\":\"Artículo 200.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"En el primer supuesto, tomará en cuenta el proyecto del tribunal colegiado de circuito y procederá a separar de su cargo a la persona titular de la autoridad responsable, así como a consignarlo ante juez o jueza de distrito por el delito que corresponda.\"]},{\"article\":\"Artículo 202.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El recurso de inconformidad podrá interponerse por la persona quejosa o, en su caso, por la o el tercero interesado o la o el promovente de la denuncia a que se refiere el artículo 210 de esta Ley, mediante escrito presentado por conducto del órgano judicial que haya dictado la resolución impugnada, dentro del plazo de quince días contados a partir del siguiente al en que surta efectos la notificación.\"]},{\"article\":\"Artículo 202.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"La persona extraña a juicio que resulte afectada por el cumplimiento o ejecución de la sentencia de amparo también podrá interponer el recurso de inconformidad en los mismos términos establecidos en el párrafo anterior, si ya había tenido conocimiento de lo actuado ante el órgano judicial de amparo; en caso contrario, el plazo de quince días se contará a partir del siguiente al que haya tenido conocimiento de la afectación. En cualquier caso, la persona extraña al juicio de amparo sólo podrá alegar en contra del cumplimiento o ejecución indebidos de la ejecutoria en cuanto la afecten, pero no en contra de la ejecutoria misma.\"]},{\"article\":\"Artículo 204.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El incidente de cumplimiento sustituto tendrá por efecto que la ejecutoria se dé por cumplida mediante el pago de los daños y perjuicios a la persona quejosa.\"]},{\"article\":\"Artículo 205.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"I. La ejecución de la sentencia afecte gravemente a la sociedad en mayor proporción a los beneficios que pudiera obtener la persona quejosa, o\"]},{\"article\":\"Artículo 205.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo sexto\",\"from_block\":12,\"to_block\":12,\"paragraphs\":[\"Independientemente de lo establecido en los párrafos anteriores, la persona quejosa y la autoridad responsable pueden celebrar convenio a través del cual se tenga por cumplida la ejecutoria. Del convenio se dará aviso al órgano judicial de amparo; éste, una vez que se le compruebe que los términos del convenio fueron cumplidos, mandará archivar el expediente.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 33495,
+ "total_cost_usd": 0.1959378,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 4808,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 12396,
+   "webSearchRequests": 0,
+   "costUSD": 0.1959378,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 496,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 12396,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

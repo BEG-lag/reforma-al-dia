@@ -1,0 +1,786 @@
+{
+ "id": "2026-01-15-cnpcf",
+ "source": "backtest",
+ "law": {
+  "slug": "cnpcf",
+  "title": "Código Nacional de Procedimientos Civiles y Familiares",
+  "abbreviation": "CNPCF"
+ },
+ "decree": {
+  "code": 5778297,
+  "title": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley General de Salud; de la Ley General de Educación; de la Ley del Seguro Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Federal del Trabajo; de la Ley Federal del Derecho de Autor; de la Ley Federal de Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.",
+  "date": "2026-01-15",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5778297&fecha=15/01/2026",
+  "pdf": null,
+  "instruction": [
+   "Artículo Tercero.- Se reforman los artículos 5, segundo y tercer párrafos; 7, fracción XIV; 40, segundo párrafo; 89, fracción XV; 150, primer párrafo; 271, quinto párrafo; 553; 570; 573, último párrafo y 576, y se adiciona un segundo párrafo al artículo 3 y un segundo párrafo al artículo 572, del Código Nacional de Procedimientos Civiles y Familiares, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "e0392461932f1cc71377daa0629e3b74d8bf84f1"
+ },
+ "official": {
+  "commit": "48aab2b2bff888597dd93147b0e82e8df3db18df",
+  "date": "2026-01-15",
+  "same_day": true
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "Artículo 3.",
+    "Artículo 5.",
+    "Artículo 7.",
+    "Artículo 40.",
+    "Artículo 89.",
+    "Artículo 150.",
+    "Artículo 271.",
+    "Artículo 553.",
+    "Artículo 570.",
+    "Artículo 572.",
+    "Artículo 573.",
+    "Artículo 576."
+   ],
+   "key": "9fff87b7bbc7a0aca5ca53109795fa23d195663b80dc4d89d8fec087b5867607",
+   "cached": true,
+   "duration_ms": 19267,
+   "cost_usd": 0.1464458,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "3": {
+   "label": "Artículo 3.",
+   "headings": [],
+   "lines": [
+    "Artículo 3. ...",
+    "En la impartición de justicia, las autoridades jurisdiccionales deberán velar en todo momento por garantizar la igualdad sustantiva entre mujeres y hombres, actuando con perspectiva de género y pleno respeto a los derechos humanos."
+   ]
+  },
+  "5": {
+   "label": "Artículo 5.",
+   "headings": [],
+   "lines": [
+    "Artículo 5. ...",
+    "En los casos que se involucren derechos de niñas, niños y adolescentes, así como los derechos de las mujeres, la autoridad jurisdiccional deberá actuar y resolver con base en el interés superior de las niñas, niños, o adolescentes, con perspectiva de género de conformidad con las leyes aplicables y los Tratados Internacionales de los que el Estado Mexicano sea parte. En todo momento, la autoridad jurisdiccional estará obligada a garantizar la implementación de deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, en los términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+    "Asimismo, deberán adecuar sus actuaciones a las circunstancias de los grupos sociales en situación de vulnerabilidad mediante formatos alternativos, a fin de garantizar la igualdad sustantiva, la equidad y accesibilidad estructural y de comunicación, durante el procedimiento, en estricto apego al ejercicio de los derechos humanos."
+   ]
+  },
+  "7": {
+   "label": "Artículo 7.",
+   "headings": [],
+   "lines": [
+    "Artículo 7. ...",
+    "I. a XIII. ...",
+    "XIV. Perspectiva de género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad sustantiva entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;",
+    "XV. a XVII. ..."
+   ]
+  },
+  "40": {
+   "label": "Artículo 40.",
+   "headings": [],
+   "lines": [
+    "Artículo 40. ...",
+    "En los procedimientos de reconocimiento de identidad de género, o de reasignación por concordancia sexo genérica, en la sentencia o constancia se deberá ordenar el levantamiento de una nueva acta de nacimiento, y la cancelación del acta de nacimiento primigenia, observando el respeto a los derechos humanos y la perspectiva de género."
+   ]
+  },
+  "89": {
+   "label": "Artículo 89.",
+   "headings": [],
+   "lines": [
+    "Artículo 89. ...",
+    "I. a XIV. ...",
+    "XV. En los juicios de alimentos, violencia familiar o violencia vicaria, la del domicilio de la persona acreedora alimentaria, la de la receptora de la violencia o la de la parte demandada, a elección de la parte actora;",
+    "XVI. y XVII. ..."
+   ]
+  },
+  "150": {
+   "label": "Artículo 150.",
+   "headings": [],
+   "lines": [
+    "Artículo 150. En los juicios que versen sobre alimentos, derechos de niñas, niños y adolescentes, controversias familiares, cualquier tipo de violencia familiar o violencia vicaria, y los demás que determinen las Leyes, todos los días y horas son hábiles.",
+    "..."
+   ]
+  },
+  "271": {
+   "label": "Artículo 271.",
+   "headings": [],
+   "lines": [
+    "Artículo 271. ...",
+    "...",
+    "...",
+    "...",
+    "Cuando deba recibirse testimonio de menores de edad y se tema por su afectación psicológica o emocional, así como en caso de víctimas de cualquier tipo de violencia, la autoridad jurisdiccional, en cumplimiento de los deberes reforzados del Estado de protección con niñas, niños y adolescentes, ordenará su recepción con el auxilio de familiares o peritos especializados.",
+    "..."
+   ]
+  },
+  "553": {
+   "label": "Artículo 553.",
+   "headings": [],
+   "lines": [
+    "Artículo 553. La admisión de hechos por las partes y el allanamiento de estos sólo vinculan a la autoridad jurisdiccional, cuando no se afecten los derechos de niñas, niños o adolescentes, tratándose de violencia familiar, vicaria, sexual o contra la mujer. Cuando se trate de un delito sexual, la autoridad jurisdiccional estará obligada a dar parte al Ministerio Público, deberá salvaguardarse la integridad y apegarse al principio del interés superior de niñas, niños y adolescentes de manera inmediata."
+   ]
+  },
+  "570": {
+   "label": "Artículo 570.",
+   "headings": [],
+   "lines": [
+    "Artículo 570. Tratándose de las medidas provisionales y de protección dictadas en favor de víctimas de violencia familiar o violencia vicaria, deberán observarse para su revisión y análisis las condiciones establecidas en este Código Nacional, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y demás leyes aplicables."
+   ]
+  },
+  "572": {
+   "label": "Artículo 572.",
+   "headings": [],
+   "lines": [
+    "Artículo 572. ...",
+    "Tratándose de medidas u órdenes de protección para casos de violencias en contra de mujeres, adolescentes, niñas y niños, se observará lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, para su emisión, integración y seguimiento en el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños."
+   ]
+  },
+  "573": {
+   "label": "Artículo 573.",
+   "headings": [],
+   "lines": [
+    "Artículo 573. Son medidas u órdenes de protección:",
+    "I. a XIV. ...",
+    "La autoridad jurisdiccional está obligada a observar aquellos casos en los que pudiera tratarse de violencia vicaria en contra de mujeres, por sí o a través de una tercera persona definida en el artículo 6, fracción VI, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias."
+   ]
+  },
+  "576": {
+   "label": "Artículo 576.",
+   "headings": [],
+   "lines": [
+    "Artículo 576. En el caso de violencia en contra de la mujer, serán aplicables las órdenes de protección que dispone la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, sin perjuicio de cualquier otra medida prevista en la legislación Federal y Local, así como en los tratados internacionales aplicables."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "Artículo 3.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "paragraphs": [
+     "En la impartición de justicia, las autoridades jurisdiccionales deberán velar en todo momento por garantizar la igualdad sustantiva entre mujeres y hombres, actuando con perspectiva de género y pleno respeto a los derechos humanos."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 1,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 5.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "paragraphs": [
+     "En los casos que se involucren derechos de niñas, niños y adolescentes, así como los derechos de las mujeres, la autoridad jurisdiccional deberá actuar y resolver con base en el interés superior de las niñas, niños, o adolescentes, con perspectiva de género de conformidad con las leyes aplicables y los Tratados Internacionales de los que el Estado Mexicano sea parte. En todo momento, la autoridad jurisdiccional estará obligada a garantizar la implementación de deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, en los términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias."
+    ],
+    "from_block": 2,
+    "to_block": 2,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 5.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "paragraphs": [
+     "Asimismo, deberán adecuar sus actuaciones a las circunstancias de los grupos sociales en situación de vulnerabilidad mediante formatos alternativos, a fin de garantizar la igualdad sustantiva, la equidad y accesibilidad estructural y de comunicación, durante el procedimiento, en estricto apego al ejercicio de los derechos humanos."
+    ],
+    "from_block": 3,
+    "to_block": 3,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 7.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIV",
+    "paragraphs": [
+     "XIV. Perspectiva de género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad sustantiva entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;"
+    ],
+    "from_block": 15,
+    "to_block": 15,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 40.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "paragraphs": [
+     "En los procedimientos de reconocimiento de identidad de género, o de reasignación por concordancia sexo genérica, en la sentencia o constancia se deberá ordenar el levantamiento de una nueva acta de nacimiento, y la cancelación del acta de nacimiento primigenia, observando el respeto a los derechos humanos y la perspectiva de género."
+    ],
+    "from_block": 2,
+    "to_block": 2,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 89.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XV",
+    "paragraphs": [
+     "XV. En los juicios de alimentos, violencia familiar o violencia vicaria, la del domicilio de la persona acreedora alimentaria, la de la receptora de la violencia o la de la parte demandada, a elección de la parte actora;"
+    ],
+    "from_block": 23,
+    "to_block": 23,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 150.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "paragraphs": [
+     "En los juicios que versen sobre alimentos, derechos de niñas, niños y adolescentes, controversias familiares, cualquier tipo de violencia familiar o violencia vicaria, y los demás que determinen las Leyes, todos los días y horas son hábiles."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 271.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "quinto",
+    "paragraphs": [
+     "Cuando deba recibirse testimonio de menores de edad y se tema por su afectación psicológica o emocional, así como en caso de víctimas de cualquier tipo de violencia, la autoridad jurisdiccional, en cumplimiento de los deberes reforzados del Estado de protección con niñas, niños y adolescentes, ordenará su recepción con el auxilio de familiares o peritos especializados."
+    ],
+    "from_block": 5,
+    "to_block": 5,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 553.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 553.",
+    "paragraphs": [
+     "La admisión de hechos por las partes y el allanamiento de estos sólo vinculan a la autoridad jurisdiccional, cuando no se afecten los derechos de niñas, niños o adolescentes, tratándose de violencia familiar, vicaria, sexual o contra la mujer. Cuando se trate de un delito sexual, la autoridad jurisdiccional estará obligada a dar parte al Ministerio Público, deberá salvaguardarse la integridad y apegarse al principio del interés superior de niñas, niños y adolescentes de manera inmediata."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 570.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 570.",
+    "paragraphs": [
+     "Tratándose de las medidas provisionales y de protección dictadas en favor de víctimas de violencia familiar o violencia vicaria, deberán observarse para su revisión y análisis las condiciones establecidas en este Código Nacional, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y demás leyes aplicables."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 572.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "paragraphs": [
+     "Tratándose de medidas u órdenes de protección para casos de violencias en contra de mujeres, adolescentes, niñas y niños, se observará lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, para su emisión, integración y seguimiento en el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 1,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 573.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "último",
+    "paragraphs": [
+     "La autoridad jurisdiccional está obligada a observar aquellos casos en los que pudiera tratarse de violencia vicaria en contra de mujeres, por sí o a través de una tercera persona definida en el artículo 6, fracción VI, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias."
+    ],
+    "from_block": 16,
+    "to_block": 16,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 576.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 576.",
+    "paragraphs": [
+     "En el caso de violencia en contra de la mujer, serán aplicables las órdenes de protección que dispone la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, sin perjuicio de cualquier otra medida prevista en la legislación Federal y Local, así como en los tratados internacionales aplicables."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "needs_review": [],
+ "counts": {
+  "exact": 12,
+  "normalized": 0,
+  "mismatch": 0,
+  "not_applied": 0,
+  "outside_decree": 0,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 0,
+  "notes_match": 12
+ },
+ "transitorios": "exact",
+ "body_identical": true,
+ "articles": [
+  {
+   "key": "3",
+   "label": "Artículo 3.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "En el sistema de impartición de justicia en materia civil y familiar se ponderará en todo tiempo la solución de la controversia sobre los formalismos procesales, serán aplicables las reglas y principios del juicio oral en lo que resulte compatible; asimismo, serán considerados los beneficios de la justicia alternativa o procedimientos convencionales que pacten las partes y de conformidad con lo dispuesto en este Código Nacional, podrá tramitarse mediante el uso de las tecnologías de la información y la comunicación."
+   ],
+   "ai": [
+    "En el sistema de impartición de justicia en materia civil y familiar se ponderará en todo tiempo la solución de la controversia sobre los formalismos procesales, serán aplicables las reglas y principios del juicio oral en lo que resulte compatible; asimismo, serán considerados los beneficios de la justicia alternativa o procedimientos convencionales que pacten las partes y de conformidad con lo dispuesto en este Código Nacional, podrá tramitarse mediante el uso de las tecnologías de la información y la comunicación.",
+    "En la impartición de justicia, las autoridades jurisdiccionales deberán velar en todo momento por garantizar la igualdad sustantiva entre mujeres y hombres, actuando con perspectiva de género y pleno respeto a los derechos humanos.",
+    "Párrafo adicionado DOF 15-01-2026"
+   ],
+   "official": [
+    "En el sistema de impartición de justicia en materia civil y familiar se ponderará en todo tiempo la solución de la controversia sobre los formalismos procesales, serán aplicables las reglas y principios del juicio oral en lo que resulte compatible; asimismo, serán considerados los beneficios de la justicia alternativa o procedimientos convencionales que pacten las partes y de conformidad con lo dispuesto en este Código Nacional, podrá tramitarse mediante el uso de las tecnologías de la información y la comunicación.",
+    "En la impartición de justicia, las autoridades jurisdiccionales deberán velar en todo momento por garantizar la igualdad sustantiva entre mujeres y hombres, actuando con perspectiva de género y pleno respeto a los derechos humanos.",
+    "Párrafo adicionado DOF 15-01-2026"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "5",
+   "label": "Artículo 5.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "En los asuntos de orden familiar y civil, y sin alterar el principio de igualdad procesal, las partes podrán revelar su condición de vulnerabilidad, a fin de que la autoridad jurisdiccional provea ajustes de procedimiento en su caso y supla oportunamente de oficio, las deficiencias de sus planteamientos sobre la base de proteger los intereses de la familia, personas mayores, niñas, niños, adolescentes, personas con discapacidad o cualquier otra persona que se encuentre en alguna condición de vulnerabilidad.",
+    "En los casos que se involucren derechos de niñas, niños y adolescentes, así como los derechos de las mujeres, la autoridad jurisdiccional deberá actuar y resolver con base en el interés superior de las niñas, niños, o adolescentes, así como con perspectiva de género de conformidad con los Tratados Internacionales de los que el Estado Mexicano sea parte.",
+    "Asimismo, deberán adecuar sus actuaciones a las circunstancias de los grupos sociales en situación de vulnerabilidad mediante formatos alternativos, a fin de garantizar equidad y accesibilidad estructural y de comunicación, durante el procedimiento, en estricto apego al ejercicio de los derechos humanos."
+   ],
+   "ai": [
+    "En los asuntos de orden familiar y civil, y sin alterar el principio de igualdad procesal, las partes podrán revelar su condición de vulnerabilidad, a fin de que la autoridad jurisdiccional provea ajustes de procedimiento en su caso y supla oportunamente de oficio, las deficiencias de sus planteamientos sobre la base de proteger los intereses de la familia, personas mayores, niñas, niños, adolescentes, personas con discapacidad o cualquier otra persona que se encuentre en alguna condición de vulnerabilidad.",
+    "En los casos que se involucren derechos de niñas, niños y adolescentes, así como los derechos de las mujeres, la autoridad jurisdiccional deberá actuar y resolver con base en el interés superior de las niñas, niños, o adolescentes, con perspectiva de género de conformidad con las leyes aplicables y los Tratados Internacionales de los que el Estado Mexicano sea parte. En todo momento, la autoridad jurisdiccional estará obligada a garantizar la implementación de deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, en los términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+    "Párrafo reformado DOF 15-01-2026",
+    "Asimismo, deberán adecuar sus actuaciones a las circunstancias de los grupos sociales en situación de vulnerabilidad mediante formatos alternativos, a fin de garantizar la igualdad sustantiva, la equidad y accesibilidad estructural y de comunicación, durante el procedimiento, en estricto apego al ejercicio de los derechos humanos.",
+    "Párrafo reformado DOF 15-01-2026"
+   ],
+   "official": [
+    "En los asuntos de orden familiar y civil, y sin alterar el principio de igualdad procesal, las partes podrán revelar su condición de vulnerabilidad, a fin de que la autoridad jurisdiccional provea ajustes de procedimiento en su caso y supla oportunamente de oficio, las deficiencias de sus planteamientos sobre la base de proteger los intereses de la familia, personas mayores, niñas, niños, adolescentes, personas con discapacidad o cualquier otra persona que se encuentre en alguna condición de vulnerabilidad.",
+    "En los casos que se involucren derechos de niñas, niños y adolescentes, así como los derechos de las mujeres, la autoridad jurisdiccional deberá actuar y resolver con base en el interés superior de las niñas, niños, o adolescentes, con perspectiva de género de conformidad con las leyes aplicables y los Tratados Internacionales de los que el Estado Mexicano sea parte. En todo momento, la autoridad jurisdiccional estará obligada a garantizar la implementación de deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, en los términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+    "Párrafo reformado DOF 15-01-2026",
+    "Asimismo, deberán adecuar sus actuaciones a las circunstancias de los grupos sociales en situación de vulnerabilidad mediante formatos alternativos, a fin de garantizar la igualdad sustantiva, la equidad y accesibilidad estructural y de comunicación, durante el procedimiento, en estricto apego al ejercicio de los derechos humanos.",
+    "Párrafo reformado DOF 15-01-2026"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "7",
+   "label": "Artículo 7.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Son principios rectores del sistema de impartición de justicia en materia civil y familiar:",
+    "I. Acceso a la justicia. Cualquier persona tiene derecho a acudir ante la autoridad jurisdiccional para formular una pretensión jurídica concreta de carácter familiar y la autoridad jurisdiccional requerida deberá de proveer sobre sus peticiones;",
+    "II. Concentración. Se procurará desahogar la mayor cantidad de actuaciones procesales en una sola audiencia o el menor número de diligencias procesales;",
+    "III. Colaboración. Se propiciará que las partes resuelvan por sí mismas el conflicto en cualquier etapa del procedimiento, por tanto, las autoridades jurisdiccionales facilitarán que sean ellas las que pongan fin a la controversia mediante acuerdos conciliatorios, exceptuando aquellos casos en que existan conductas de violencia en cualquiera de sus modalidades, o que se discutan derechos intransigibles;",
+    "IV. Continuidad. Las audiencias deberán ser ininterrumpidas, permitiendo excepcionalmente su suspensión en los casos establecidos en el presente Código Nacional;",
+    "V. Contradicción. Las partes tienen derecho a debatir los hechos, argumentos jurídicos y pruebas de su contraparte, en los términos establecidos en este Código Nacional;",
+    "VI. Dirección Procesal. La rectoría del proceso está confiada únicamente a las autoridades jurisdiccionales en primera o en segunda instancia, según sea el caso;",
+    "VII. Igualdad Procesal. Desde el escrito inicial de demanda y hasta la ejecución de la sentencia, las personas recibirán el mismo trato, oportunidades, derechos y cargas procesales sin discriminación alguna. Con las excepciones que se establezcan expresamente en este Código Nacional, cuando en la controversia se involucren derechos de niñas, niños, adolescentes y personas en grupos sociales en situación de vulnerabilidad;",
+    "VIII. Inmediación. El contacto directo, personal e indelegable de la autoridad jurisdiccional con las partes y las pruebas, salvo las excepciones previstas en este Código Nacional;",
+    "IX. Interés superior de la niñez. Observancia que debe darse para hacer prevalecer los derechos de las niñas, niños o adolescentes, por sobre los otros derechos que pudieran estar en pugna en el litigio;",
+    "X. Impulso procesal. Las partes tienen la facultad para solicitar las diligencias necesarias que impidan la paralización del procedimiento, con independencia del principio de Dirección procesal que le corresponde a la autoridad jurisdiccional;",
+    "XI. Lealtad procesal. Quienes participen en el proceso, ajustarán su conducta a la dignidad de la justicia, al respeto que se deben, a la probidad y buena fe;",
+    "XII. Litis abierta. En materia familiar, la litis no se reduce a la demanda y a la contestación, o en su caso, a la reconvención y a la contestación de ésta, sino que la autoridad jurisdiccional debe hacer mérito de los hechos constitutivos, modificativos o extintivos, producidos durante la sustanciación del proceso y debidamente probados, aunque no hubiesen sido invocados oportunamente como hechos nuevos;",
+    "XIII. Oralidad. El proceso se desarrollará en audiencias orales, salvo las excepciones previstas en este Código Nacional y las que, en casos debidamente fundados y motivados, considere la autoridad jurisdiccional;",
+    "XIV. Perspectiva de género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;",
+    "XV. Preclusión. El no ejercicio de los derechos procesales en la etapa correspondiente extingue la oportunidad de ejercerlos en la posterior;",
+    "XVI. Privacidad. En materia familiar el acceso a las audiencias queda reservado a las partes y a quienes deban comparecer conforme a la ley, y",
+    "XVII. Publicidad. En materia civil, las audiencias serán públicas, de conformidad con lo dispuesto en este Código Nacional, por las Leyes de Protección de Datos Personales, Transparencia y Acceso a la Información Pública, y demás ordenamientos aplicables en sus respectivos ámbitos de competencia."
+   ],
+   "ai": [
+    "Son principios rectores del sistema de impartición de justicia en materia civil y familiar:",
+    "I. Acceso a la justicia. Cualquier persona tiene derecho a acudir ante la autoridad jurisdiccional para formular una pretensión jurídica concreta de carácter familiar y la autoridad jurisdiccional requerida deberá de proveer sobre sus peticiones;",
+    "II. Concentración. Se procurará desahogar la mayor cantidad de actuaciones procesales en una sola audiencia o el menor número de diligencias procesales;",
+    "III. Colaboración. Se propiciará que las partes resuelvan por sí mismas el conflicto en cualquier etapa del procedimiento, por tanto, las autoridades jurisdiccionales facilitarán que sean ellas las que pongan fin a la controversia mediante acuerdos conciliatorios, exceptuando aquellos casos en que existan conductas de violencia en cualquiera de sus modalidades, o que se discutan derechos intransigibles;",
+    "IV. Continuidad. Las audiencias deberán ser ininterrumpidas, permitiendo excepcionalmente su suspensión en los casos establecidos en el presente Código Nacional;",
+    "V. Contradicción. Las partes tienen derecho a debatir los hechos, argumentos jurídicos y pruebas de su contraparte, en los términos establecidos en este Código Nacional;",
+    "VI. Dirección Procesal. La rectoría del proceso está confiada únicamente a las autoridades jurisdiccionales en primera o en segunda instancia, según sea el caso;",
+    "VII. Igualdad Procesal. Desde el escrito inicial de demanda y hasta la ejecución de la sentencia, las personas recibirán el mismo trato, oportunidades, derechos y cargas procesales sin discriminación alguna. Con las excepciones que se establezcan expresamente en este Código Nacional, cuando en la controversia se involucren derechos de niñas, niños, adolescentes y personas en grupos sociales en situación de vulnerabilidad;",
+    "VIII. Inmediación. El contacto directo, personal e indelegable de la autoridad jurisdiccional con las partes y las pruebas, salvo las excepciones previstas en este Código Nacional;",
+    "IX. Interés superior de la niñez. Observancia que debe darse para hacer prevalecer los derechos de las niñas, niños o adolescentes, por sobre los otros derechos que pudieran estar en pugna en el litigio;",
+    "X. Impulso procesal. Las partes tienen la facultad para solicitar las diligencias necesarias que impidan la paralización del procedimiento, con independencia del principio de Dirección procesal que le corresponde a la autoridad jurisdiccional;",
+    "XI. Lealtad procesal. Quienes participen en el proceso, ajustarán su conducta a la dignidad de la justicia, al respeto que se deben, a la probidad y buena fe;",
+    "XII. Litis abierta. En materia familiar, la litis no se reduce a la demanda y a la contestación, o en su caso, a la reconvención y a la contestación de ésta, sino que la autoridad jurisdiccional debe hacer mérito de los hechos constitutivos, modificativos o extintivos, producidos durante la sustanciación del proceso y debidamente probados, aunque no hubiesen sido invocados oportunamente como hechos nuevos;",
+    "XIII. Oralidad. El proceso se desarrollará en audiencias orales, salvo las excepciones previstas en este Código Nacional y las que, en casos debidamente fundados y motivados, considere la autoridad jurisdiccional;",
+    "XIV. Perspectiva de género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad sustantiva entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;",
+    "Fracción reformada DOF 15-01-2026",
+    "XV. Preclusión. El no ejercicio de los derechos procesales en la etapa correspondiente extingue la oportunidad de ejercerlos en la posterior;",
+    "XVI. Privacidad. En materia familiar el acceso a las audiencias queda reservado a las partes y a quienes deban comparecer conforme a la ley, y",
+    "XVII. Publicidad. En materia civil, las audiencias serán públicas, de conformidad con lo dispuesto en este Código Nacional, por las Leyes de Protección de Datos Personales, Transparencia y Acceso a la Información Pública, y demás ordenamientos aplicables en sus respectivos ámbitos de competencia."
+   ],
+   "official": [
+    "Son principios rectores del sistema de impartición de justicia en materia civil y familiar:",
+    "I. Acceso a la justicia. Cualquier persona tiene derecho a acudir ante la autoridad jurisdiccional para formular una pretensión jurídica concreta de carácter familiar y la autoridad jurisdiccional requerida deberá de proveer sobre sus peticiones;",
+    "II. Concentración. Se procurará desahogar la mayor cantidad de actuaciones procesales en una sola audiencia o el menor número de diligencias procesales;",
+    "III. Colaboración. Se propiciará que las partes resuelvan por sí mismas el conflicto en cualquier etapa del procedimiento, por tanto, las autoridades jurisdiccionales facilitarán que sean ellas las que pongan fin a la controversia mediante acuerdos conciliatorios, exceptuando aquellos casos en que existan conductas de violencia en cualquiera de sus modalidades, o que se discutan derechos intransigibles;",
+    "IV. Continuidad. Las audiencias deberán ser ininterrumpidas, permitiendo excepcionalmente su suspensión en los casos establecidos en el presente Código Nacional;",
+    "V. Contradicción. Las partes tienen derecho a debatir los hechos, argumentos jurídicos y pruebas de su contraparte, en los términos establecidos en este Código Nacional;",
+    "VI. Dirección Procesal. La rectoría del proceso está confiada únicamente a las autoridades jurisdiccionales en primera o en segunda instancia, según sea el caso;",
+    "VII. Igualdad Procesal. Desde el escrito inicial de demanda y hasta la ejecución de la sentencia, las personas recibirán el mismo trato, oportunidades, derechos y cargas procesales sin discriminación alguna. Con las excepciones que se establezcan expresamente en este Código Nacional, cuando en la controversia se involucren derechos de niñas, niños, adolescentes y personas en grupos sociales en situación de vulnerabilidad;",
+    "VIII. Inmediación. El contacto directo, personal e indelegable de la autoridad jurisdiccional con las partes y las pruebas, salvo las excepciones previstas en este Código Nacional;",
+    "IX. Interés superior de la niñez. Observancia que debe darse para hacer prevalecer los derechos de las niñas, niños o adolescentes, por sobre los otros derechos que pudieran estar en pugna en el litigio;",
+    "X. Impulso procesal. Las partes tienen la facultad para solicitar las diligencias necesarias que impidan la paralización del procedimiento, con independencia del principio de Dirección procesal que le corresponde a la autoridad jurisdiccional;",
+    "XI. Lealtad procesal. Quienes participen en el proceso, ajustarán su conducta a la dignidad de la justicia, al respeto que se deben, a la probidad y buena fe;",
+    "XII. Litis abierta. En materia familiar, la litis no se reduce a la demanda y a la contestación, o en su caso, a la reconvención y a la contestación de ésta, sino que la autoridad jurisdiccional debe hacer mérito de los hechos constitutivos, modificativos o extintivos, producidos durante la sustanciación del proceso y debidamente probados, aunque no hubiesen sido invocados oportunamente como hechos nuevos;",
+    "XIII. Oralidad. El proceso se desarrollará en audiencias orales, salvo las excepciones previstas en este Código Nacional y las que, en casos debidamente fundados y motivados, considere la autoridad jurisdiccional;",
+    "XIV. Perspectiva de género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad sustantiva entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;",
+    "Fracción reformada DOF 15-01-2026",
+    "XV. Preclusión. El no ejercicio de los derechos procesales en la etapa correspondiente extingue la oportunidad de ejercerlos en la posterior;",
+    "XVI. Privacidad. En materia familiar el acceso a las audiencias queda reservado a las partes y a quienes deban comparecer conforme a la ley, y",
+    "XVII. Publicidad. En materia civil, las audiencias serán públicas, de conformidad con lo dispuesto en este Código Nacional, por las Leyes de Protección de Datos Personales, Transparencia y Acceso a la Información Pública, y demás ordenamientos aplicables en sus respectivos ámbitos de competencia."
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "40",
+   "label": "Artículo 40.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Tratándose de acciones del estado civil, salvo lo dispuesto en el párrafo siguiente, se realizará la anotación al margen o al calce del atestado respectivo, en los términos que sean ordenadas por la autoridad jurisdiccional o autoridad administrativa.",
+    "En los procedimientos de reconocimiento de identidad de género, o de reasignación por concordancia sexo genérica, en la sentencia o constancia se deberá ordenar el levantamiento de una nueva acta de nacimiento, y la cancelación del acta de nacimiento primigenia."
+   ],
+   "ai": [
+    "Tratándose de acciones del estado civil, salvo lo dispuesto en el párrafo siguiente, se realizará la anotación al margen o al calce del atestado respectivo, en los términos que sean ordenadas por la autoridad jurisdiccional o autoridad administrativa.",
+    "En los procedimientos de reconocimiento de identidad de género, o de reasignación por concordancia sexo genérica, en la sentencia o constancia se deberá ordenar el levantamiento de una nueva acta de nacimiento, y la cancelación del acta de nacimiento primigenia, observando el respeto a los derechos humanos y la perspectiva de género.",
+    "Párrafo reformado DOF 15-01-2026"
+   ],
+   "official": [
+    "Tratándose de acciones del estado civil, salvo lo dispuesto en el párrafo siguiente, se realizará la anotación al margen o al calce del atestado respectivo, en los términos que sean ordenadas por la autoridad jurisdiccional o autoridad administrativa.",
+    "En los procedimientos de reconocimiento de identidad de género, o de reasignación por concordancia sexo genérica, en la sentencia o constancia se deberá ordenar el levantamiento de una nueva acta de nacimiento, y la cancelación del acta de nacimiento primigenia, observando el respeto a los derechos humanos y la perspectiva de género.",
+    "Párrafo reformado DOF 15-01-2026"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "89",
+   "label": "Artículo 89.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Es autoridad jurisdiccional competente:",
+    "I. La del lugar que la persona deudora haya designado para ser requerida judicialmente de pago;",
+    "II. La del lugar convenido en el contrato o convenio para el cumplimiento de la obligación;",
+    "III. La de la ubicación del bien, si se ejercita una acción real sobre éste. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles. Cuando estuvieren comprendidos en dos o más jurisdicciones, será competente aquella en que se encuentre la mayor parte de ellos;",
+    "IV. La del domicilio de la parte demandada, si se trata del ejercicio de una acción sobre bienes muebles, de acciones personales, colectivas o del estado civil. Cuando sean varias las personas demandadas y tuvieren diversos domicilios, será competente la autoridad jurisdiccional que se encuentre en turno del domicilio que elija la parte actora;",
+    "V. En los juicios sucesorios, la autoridad jurisdiccional en cuya jurisdicción haya tenido su último domicilio el autor de la sucesión. A falta de ese domicilio, lo será el de la ubicación de los bienes inmuebles que forman la herencia y si estuvieren en varias jurisdicciones, el de aquel en que se encuentre el mayor número; y a falta de domicilio y bienes inmuebles, el del lugar del fallecimiento de la persona autora de la herencia, sin que pueda alterarse el orden anterior. Lo mismo se observará en casos de declaración especial de ausencia por desaparición o presunción de muerte. En los supuestos de la presente fracción no procede sometimiento expreso o tácito alguno;",
+    "VI. Aquella en cuyo territorio radica un juicio sucesorio para conocer:",
+    "a) De las acciones de petición de herencia.",
+    "b) De la nulidad de testamento.",
+    "c) Las relativas a la partición hereditaria.",
+    "d) De todas las acciones legales contra la sucesión antes de la partición y adjudicación de los bienes.",
+    "e) De las acciones de nulidad, rescisión y evicción de la partición hereditaria.",
+    "f) De la declaración especial de ausencia por desaparición, así como la declaración de ausencia y presunción de muerte, en los términos de la legislación aplicable.",
+    "VII. La del lugar que la persona deudora haya designado para ser requerida judicialmente de pago, o el domicilio de ésta en caso de concursos;",
+    "VIII. En los actos de jurisdicción voluntaria, la del domicilio de quien las promueve, pero si se tratare de bienes inmuebles, lo será la del lugar donde estén ubicados. En caso de conflicto de competencias se decidirá a favor del que haya prevenido en el conocimiento;",
+    "IX. La del domicilio de las niñas, niños y adolescentes, tratándose de asuntos en materia familiar;",
+    "En los procedimientos relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, la del lugar donde se hayan presentado las partes pretendientes;",
+    "X. Para decidir las controversias del estado civil de las personas, la del domicilio conyugal, o aquel en el que habiten los concubinos o convivientes;",
+    "XI. En los juicios de divorcio, lo es la del último domicilio conyugal;",
+    "XII. En los juicios de nulidad o inexistencia del matrimonio o institución equivalente o similar, lo es la del domicilio donde tuvo lugar el acto cuya nulidad se alega;",
+    "XIII. En los juicios de rectificación de actas del estado civil, lo es la del domicilio del actor;",
+    "XIV. En caso de abandono de hogar, la del domicilio en el que residía al momento del abandono el cónyuge, concubina o concubino, o conviviente que alega dicho abandono;",
+    "XV. En los juicios de alimentos o violencia familiar, la del domicilio de la persona acreedora alimentaria, la de la receptora de la violencia o la de la parte demandada, a elección de la parte actora;",
+    "XVI. La del domicilio de la hija o hijo en las acciones de filiación, sean de impugnación, contradicción, reconocimiento o desconocimiento sobre la maternidad o paternidad, y",
+    "XVII. Tratándose de juicios en los que la parte demandada sea una persona perteneciente a los pueblos y comunidades indígenas o afromexicanas, será competente la autoridad jurisdiccional del lugar en que dicha persona tenga su domicilio. Si ambas partes lo son, lo será la que ejerza jurisdicción en el domicilio del demandante."
+   ],
+   "ai": [
+    "Es autoridad jurisdiccional competente:",
+    "I. La del lugar que la persona deudora haya designado para ser requerida judicialmente de pago;",
+    "II. La del lugar convenido en el contrato o convenio para el cumplimiento de la obligación;",
+    "III. La de la ubicación del bien, si se ejercita una acción real sobre éste. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles. Cuando estuvieren comprendidos en dos o más jurisdicciones, será competente aquella en que se encuentre la mayor parte de ellos;",
+    "IV. La del domicilio de la parte demandada, si se trata del ejercicio de una acción sobre bienes muebles, de acciones personales, colectivas o del estado civil. Cuando sean varias las personas demandadas y tuvieren diversos domicilios, será competente la autoridad jurisdiccional que se encuentre en turno del domicilio que elija la parte actora;",
+    "V. En los juicios sucesorios, la autoridad jurisdiccional en cuya jurisdicción haya tenido su último domicilio el autor de la sucesión. A falta de ese domicilio, lo será el de la ubicación de los bienes inmuebles que forman la herencia y si estuvieren en varias jurisdicciones, el de aquel en que se encuentre el mayor número; y a falta de domicilio y bienes inmuebles, el del lugar del fallecimiento de la persona autora de la herencia, sin que pueda alterarse el orden anterior. Lo mismo se observará en casos de declaración especial de ausencia por desaparición o presunción de muerte. En los supuestos de la presente fracción no procede sometimiento expreso o tácito alguno;",
+    "VI. Aquella en cuyo territorio radica un juicio sucesorio para conocer:",
+    "a) De las acciones de petición de herencia.",
+    "b) De la nulidad de testamento.",
+    "c) Las relativas a la partición hereditaria.",
+    "d) De todas las acciones legales contra la sucesión antes de la partición y adjudicación de los bienes.",
+    "e) De las acciones de nulidad, rescisión y evicción de la partición hereditaria.",
+    "f) De la declaración especial de ausencia por desaparición, así como la declaración de ausencia y presunción de muerte, en los términos de la legislación aplicable.",
+    "VII. La del lugar que la persona deudora haya designado para ser requerida judicialmente de pago, o el domicilio de ésta en caso de concursos;",
+    "VIII. En los actos de jurisdicción voluntaria, la del domicilio de quien las promueve, pero si se tratare de bienes inmuebles, lo será la del lugar donde estén ubicados. En caso de conflicto de competencias se decidirá a favor del que haya prevenido en el conocimiento;",
+    "IX. La del domicilio de las niñas, niños y adolescentes, tratándose de asuntos en materia familiar;",
+    "En los procedimientos relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, la del lugar donde se hayan presentado las partes pretendientes;",
+    "X. Para decidir las controversias del estado civil de las personas, la del domicilio conyugal, o aquel en el que habiten los concubinos o convivientes;",
+    "XI. En los juicios de divorcio, lo es la del último domicilio conyugal;",
+    "XII. En los juicios de nulidad o inexistencia del matrimonio o institución equivalente o similar, lo es la del domicilio donde tuvo lugar el acto cuya nulidad se alega;",
+    "XIII. En los juicios de rectificación de actas del estado civil, lo es la del domicilio del actor;",
+    "XIV. En caso de abandono de hogar, la del domicilio en el que residía al momento del abandono el cónyuge, concubina o concubino, o conviviente que alega dicho abandono;",
+    "XV. En los juicios de alimentos, violencia familiar o violencia vicaria, la del domicilio de la persona acreedora alimentaria, la de la receptora de la violencia o la de la parte demandada, a elección de la parte actora;",
+    "Fracción reformada DOF 15-01-2026",
+    "XVI. La del domicilio de la hija o hijo en las acciones de filiación, sean de impugnación, contradicción, reconocimiento o desconocimiento sobre la maternidad o paternidad, y",
+    "XVII. Tratándose de juicios en los que la parte demandada sea una persona perteneciente a los pueblos y comunidades indígenas o afromexicanas, será competente la autoridad jurisdiccional del lugar en que dicha persona tenga su domicilio. Si ambas partes lo son, lo será la que ejerza jurisdicción en el domicilio del demandante."
+   ],
+   "official": [
+    "Es autoridad jurisdiccional competente:",
+    "I. La del lugar que la persona deudora haya designado para ser requerida judicialmente de pago;",
+    "II. La del lugar convenido en el contrato o convenio para el cumplimiento de la obligación;",
+    "III. La de la ubicación del bien, si se ejercita una acción real sobre éste. Lo mismo se observará respecto a las cuestiones derivadas del contrato de arrendamiento de inmuebles. Cuando estuvieren comprendidos en dos o más jurisdicciones, será competente aquella en que se encuentre la mayor parte de ellos;",
+    "IV. La del domicilio de la parte demandada, si se trata del ejercicio de una acción sobre bienes muebles, de acciones personales, colectivas o del estado civil. Cuando sean varias las personas demandadas y tuvieren diversos domicilios, será competente la autoridad jurisdiccional que se encuentre en turno del domicilio que elija la parte actora;",
+    "V. En los juicios sucesorios, la autoridad jurisdiccional en cuya jurisdicción haya tenido su último domicilio el autor de la sucesión. A falta de ese domicilio, lo será el de la ubicación de los bienes inmuebles que forman la herencia y si estuvieren en varias jurisdicciones, el de aquel en que se encuentre el mayor número; y a falta de domicilio y bienes inmuebles, el del lugar del fallecimiento de la persona autora de la herencia, sin que pueda alterarse el orden anterior. Lo mismo se observará en casos de declaración especial de ausencia por desaparición o presunción de muerte. En los supuestos de la presente fracción no procede sometimiento expreso o tácito alguno;",
+    "VI. Aquella en cuyo territorio radica un juicio sucesorio para conocer:",
+    "a) De las acciones de petición de herencia.",
+    "b) De la nulidad de testamento.",
+    "c) Las relativas a la partición hereditaria.",
+    "d) De todas las acciones legales contra la sucesión antes de la partición y adjudicación de los bienes.",
+    "e) De las acciones de nulidad, rescisión y evicción de la partición hereditaria.",
+    "f) De la declaración especial de ausencia por desaparición, así como la declaración de ausencia y presunción de muerte, en los términos de la legislación aplicable.",
+    "VII. La del lugar que la persona deudora haya designado para ser requerida judicialmente de pago, o el domicilio de ésta en caso de concursos;",
+    "VIII. En los actos de jurisdicción voluntaria, la del domicilio de quien las promueve, pero si se tratare de bienes inmuebles, lo será la del lugar donde estén ubicados. En caso de conflicto de competencias se decidirá a favor del que haya prevenido en el conocimiento;",
+    "IX. La del domicilio de las niñas, niños y adolescentes, tratándose de asuntos en materia familiar;",
+    "En los procedimientos relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimentos para contraer matrimonio, la del lugar donde se hayan presentado las partes pretendientes;",
+    "X. Para decidir las controversias del estado civil de las personas, la del domicilio conyugal, o aquel en el que habiten los concubinos o convivientes;",
+    "XI. En los juicios de divorcio, lo es la del último domicilio conyugal;",
+    "XII. En los juicios de nulidad o inexistencia del matrimonio o institución equivalente o similar, lo es la del domicilio donde tuvo lugar el acto cuya nulidad se alega;",
+    "XIII. En los juicios de rectificación de actas del estado civil, lo es la del domicilio del actor;",
+    "XIV. En caso de abandono de hogar, la del domicilio en el que residía al momento del abandono el cónyuge, concubina o concubino, o conviviente que alega dicho abandono;",
+    "XV. En los juicios de alimentos, violencia familiar o violencia vicaria, la del domicilio de la persona acreedora alimentaria, la de la receptora de la violencia o la de la parte demandada, a elección de la parte actora;",
+    "Fracción reformada DOF 15-01-2026",
+    "XVI. La del domicilio de la hija o hijo en las acciones de filiación, sean de impugnación, contradicción, reconocimiento o desconocimiento sobre la maternidad o paternidad, y",
+    "XVII. Tratándose de juicios en los que la parte demandada sea una persona perteneciente a los pueblos y comunidades indígenas o afromexicanas, será competente la autoridad jurisdiccional del lugar en que dicha persona tenga su domicilio. Si ambas partes lo son, lo será la que ejerza jurisdicción en el domicilio del demandante."
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "150",
+   "label": "Artículo 150.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "En los juicios que versen sobre alimentos, derechos de niñas, niños y adolescentes, controversias familiares, cualquier tipo de violencia intrafamiliar, y los demás que determinen las Leyes, todos los días y horas son hábiles.",
+    "En los demás casos, la autoridad jurisdiccional puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse."
+   ],
+   "ai": [
+    "En los juicios que versen sobre alimentos, derechos de niñas, niños y adolescentes, controversias familiares, cualquier tipo de violencia familiar o violencia vicaria, y los demás que determinen las Leyes, todos los días y horas son hábiles.",
+    "Párrafo reformado DOF 15-01-2026",
+    "En los demás casos, la autoridad jurisdiccional puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse."
+   ],
+   "official": [
+    "En los juicios que versen sobre alimentos, derechos de niñas, niños y adolescentes, controversias familiares, cualquier tipo de violencia familiar o violencia vicaria, y los demás que determinen las Leyes, todos los días y horas son hábiles.",
+    "Párrafo reformado DOF 15-01-2026",
+    "En los demás casos, la autoridad jurisdiccional puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse."
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "271",
+   "label": "Artículo 271.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Las personas terceras están obligadas, en todo tiempo, a prestar auxilio a las autoridades jurisdiccionales, en consecuencia, deben sin demora, exhibir documentos, informes, bienes y archivos electrónicos que tengan en su poder, cuando para ello fueren requeridos o permitir su inspección.",
+    "La autoridad jurisdiccional tiene la facultad y el deber de compeler a las personas terceras, por los apremios más eficaces, para que cumplan con esta obligación; y en caso de oposición, oirán las razones en que la funden y resolverán sin ulterior recurso.",
+    "De la mencionada obligación están exentas las personas ascendientes, descendientes, tutores o curadores de niñas, niños y adolescentes, personas designadas como apoyo para el ejercicio de la capacidad jurídica, pupilos, cónyuges, concubinos, convivientes, en los casos en que se trate de probar contra la parte con la que están relacionadas, sin perjuicio de que, si alguna de ellas manifiesta su voluntad de hacerlo, se les permitirá, dejando constancia de dicha circunstancia.",
+    "Es inadmisible el testimonio de personas que, respecto del objeto de su declaración, tengan el deber de guardar secreto con motivo del conocimiento que tengan de los hechos debido a su empleo, cargo, puesto, oficio, profesión o relación de negocios.",
+    "Cuando deba recibirse testimonio de menores de edad y se tema por su afectación psicológica o emocional, así como en caso de víctimas de cualquier tipo de violencia, la autoridad jurisdiccional a petición de las partes, podrá ordenar su recepción con el auxilio de familiares o peritos especializados.",
+    "Para ello deberán utilizarse las técnicas audiovisuales adecuadas que favorezcan evitar la confrontación con el generador de violencia."
+   ],
+   "ai": [
+    "Las personas terceras están obligadas, en todo tiempo, a prestar auxilio a las autoridades jurisdiccionales, en consecuencia, deben sin demora, exhibir documentos, informes, bienes y archivos electrónicos que tengan en su poder, cuando para ello fueren requeridos o permitir su inspección.",
+    "La autoridad jurisdiccional tiene la facultad y el deber de compeler a las personas terceras, por los apremios más eficaces, para que cumplan con esta obligación; y en caso de oposición, oirán las razones en que la funden y resolverán sin ulterior recurso.",
+    "De la mencionada obligación están exentas las personas ascendientes, descendientes, tutores o curadores de niñas, niños y adolescentes, personas designadas como apoyo para el ejercicio de la capacidad jurídica, pupilos, cónyuges, concubinos, convivientes, en los casos en que se trate de probar contra la parte con la que están relacionadas, sin perjuicio de que, si alguna de ellas manifiesta su voluntad de hacerlo, se les permitirá, dejando constancia de dicha circunstancia.",
+    "Es inadmisible el testimonio de personas que, respecto del objeto de su declaración, tengan el deber de guardar secreto con motivo del conocimiento que tengan de los hechos debido a su empleo, cargo, puesto, oficio, profesión o relación de negocios.",
+    "Cuando deba recibirse testimonio de menores de edad y se tema por su afectación psicológica o emocional, así como en caso de víctimas de cualquier tipo de violencia, la autoridad jurisdiccional, en cumplimiento de los deberes reforzados del Estado de protección con niñas, niños y adolescentes, ordenará su recepción con el auxilio de familiares o peritos especializados.",
+    "Párrafo reformado DOF 15-01-2026",
+    "Para ello deberán utilizarse las técnicas audiovisuales adecuadas que favorezcan evitar la confrontación con el generador de violencia."
+   ],
+   "official": [
+    "Las personas terceras están obligadas, en todo tiempo, a prestar auxilio a las autoridades jurisdiccionales, en consecuencia, deben sin demora, exhibir documentos, informes, bienes y archivos electrónicos que tengan en su poder, cuando para ello fueren requeridos o permitir su inspección.",
+    "La autoridad jurisdiccional tiene la facultad y el deber de compeler a las personas terceras, por los apremios más eficaces, para que cumplan con esta obligación; y en caso de oposición, oirán las razones en que la funden y resolverán sin ulterior recurso.",
+    "De la mencionada obligación están exentas las personas ascendientes, descendientes, tutores o curadores de niñas, niños y adolescentes, personas designadas como apoyo para el ejercicio de la capacidad jurídica, pupilos, cónyuges, concubinos, convivientes, en los casos en que se trate de probar contra la parte con la que están relacionadas, sin perjuicio de que, si alguna de ellas manifiesta su voluntad de hacerlo, se les permitirá, dejando constancia de dicha circunstancia.",
+    "Es inadmisible el testimonio de personas que, respecto del objeto de su declaración, tengan el deber de guardar secreto con motivo del conocimiento que tengan de los hechos debido a su empleo, cargo, puesto, oficio, profesión o relación de negocios.",
+    "Cuando deba recibirse testimonio de menores de edad y se tema por su afectación psicológica o emocional, así como en caso de víctimas de cualquier tipo de violencia, la autoridad jurisdiccional, en cumplimiento de los deberes reforzados del Estado de protección con niñas, niños y adolescentes, ordenará su recepción con el auxilio de familiares o peritos especializados.",
+    "Párrafo reformado DOF 15-01-2026",
+    "Para ello deberán utilizarse las técnicas audiovisuales adecuadas que favorezcan evitar la confrontación con el generador de violencia."
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "553",
+   "label": "Artículo 553.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "La admisión de hechos por las partes y el allanamiento de estos sólo vinculan a la autoridad jurisdiccional, cuando no se afecten los derechos de niñas, niños o adolescentes, tratándose de violencia familiar, sexual o contra la mujer. Cuando se trate de un delito sexual, la autoridad jurisdiccional estará obligada a dar parte al Ministerio Público, deberá salvaguardarse la integridad y apegarse al principio del interés superior de niñas, niños y adolescentes de manera inmediata."
+   ],
+   "ai": [
+    "La admisión de hechos por las partes y el allanamiento de estos sólo vinculan a la autoridad jurisdiccional, cuando no se afecten los derechos de niñas, niños o adolescentes, tratándose de violencia familiar, vicaria, sexual o contra la mujer. Cuando se trate de un delito sexual, la autoridad jurisdiccional estará obligada a dar parte al Ministerio Público, deberá salvaguardarse la integridad y apegarse al principio del interés superior de niñas, niños y adolescentes de manera inmediata.",
+    "Artículo reformado DOF 15-01-2026"
+   ],
+   "official": [
+    "La admisión de hechos por las partes y el allanamiento de estos sólo vinculan a la autoridad jurisdiccional, cuando no se afecten los derechos de niñas, niños o adolescentes, tratándose de violencia familiar, vicaria, sexual o contra la mujer. Cuando se trate de un delito sexual, la autoridad jurisdiccional estará obligada a dar parte al Ministerio Público, deberá salvaguardarse la integridad y apegarse al principio del interés superior de niñas, niños y adolescentes de manera inmediata.",
+    "Artículo reformado DOF 15-01-2026"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "570",
+   "label": "Artículo 570.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Tratándose de las medidas provisionales y de protección dictadas en favor de víctimas de violencia familiar, para su revisión deberán observarse las condiciones establecidas en este Código Nacional y demás leyes aplicables."
+   ],
+   "ai": [
+    "Tratándose de las medidas provisionales y de protección dictadas en favor de víctimas de violencia familiar o violencia vicaria, deberán observarse para su revisión y análisis las condiciones establecidas en este Código Nacional, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y demás leyes aplicables.",
+    "Artículo reformado DOF 15-01-2026"
+   ],
+   "official": [
+    "Tratándose de las medidas provisionales y de protección dictadas en favor de víctimas de violencia familiar o violencia vicaria, deberán observarse para su revisión y análisis las condiciones establecidas en este Código Nacional, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y demás leyes aplicables.",
+    "Artículo reformado DOF 15-01-2026"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "572",
+   "label": "Artículo 572.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "En caso de que la autoridad jurisdiccional conozca de hechos que probablemente constituyen actos de violencia en contra de las mujeres; niñas, niños o adolescentes; o personas que pueden encontrarse en grupos que se encuentren en situación de vulnerabilidad, tiene la obligación de dictar órdenes de protección de urgente aplicación en función del interés superior de quien pudiere resultar víctima, las cuales serán personalísimas e intransferibles, pudiendo tener incluso el carácter de preventivas y serán consideradas de naturaleza familiar."
+   ],
+   "ai": [
+    "En caso de que la autoridad jurisdiccional conozca de hechos que probablemente constituyen actos de violencia en contra de las mujeres; niñas, niños o adolescentes; o personas que pueden encontrarse en grupos que se encuentren en situación de vulnerabilidad, tiene la obligación de dictar órdenes de protección de urgente aplicación en función del interés superior de quien pudiere resultar víctima, las cuales serán personalísimas e intransferibles, pudiendo tener incluso el carácter de preventivas y serán consideradas de naturaleza familiar.",
+    "Tratándose de medidas u órdenes de protección para casos de violencias en contra de mujeres, adolescentes, niñas y niños, se observará lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, para su emisión, integración y seguimiento en el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños.",
+    "Párrafo adicionado DOF 15-01-2026"
+   ],
+   "official": [
+    "En caso de que la autoridad jurisdiccional conozca de hechos que probablemente constituyen actos de violencia en contra de las mujeres; niñas, niños o adolescentes; o personas que pueden encontrarse en grupos que se encuentren en situación de vulnerabilidad, tiene la obligación de dictar órdenes de protección de urgente aplicación en función del interés superior de quien pudiere resultar víctima, las cuales serán personalísimas e intransferibles, pudiendo tener incluso el carácter de preventivas y serán consideradas de naturaleza familiar.",
+    "Tratándose de medidas u órdenes de protección para casos de violencias en contra de mujeres, adolescentes, niñas y niños, se observará lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, para su emisión, integración y seguimiento en el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños.",
+    "Párrafo adicionado DOF 15-01-2026"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "573",
+   "label": "Artículo 573.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Son medidas u órdenes de protección:",
+    "I. La desocupación inmediata del domicilio conyugal o donde habite la víctima, por la persona agresora, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento;",
+    "II. La prohibición inmediata a la persona probable responsable de apersonarse en el domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;",
+    "III. La prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia;",
+    "IV. El auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima al momento de solicitar el auxilio;",
+    "V. El inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;",
+    "VI. Informar a las autoridades o instituciones competentes sobre las medidas tomadas, a fin de que presten atención inmediata a las personas afectadas;",
+    "VII. El uso y goce de los bienes que se encuentren en el inmueble que sirva de domicilio a la víctima;",
+    "VIII. El acceso al domicilio en común, de autoridades policiacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de su familia;",
+    "IX. Emitir orden de protección y auxilio dirigida a las autoridades de seguridad pública, de la que se expedirá copia a la víctima para que pueda acudir a la autoridad más cercana en caso de amenaza de agresión;",
+    "X. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género en instituciones especializadas y gratuitas a la persona agresora para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía de género y los patrones machistas y misóginos que generaron;",
+    "XI. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;",
+    "XII. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad, que puedan ser susceptibles de división entre los cónyuges o concubinos, con independencia del régimen matrimonial al que se encuentre sujeto el matrimonio;",
+    "XIII. Embargo preventivo de bienes del agresor, que deberá inscribirse en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias de cualquier clase, y",
+    "XIV. En caso de ser solicitado, proveer a fin de que la víctima pueda recibir en instituciones públicas y de manera gratuita atención médica y acompañamiento psicológico.",
+    "La autoridad jurisdiccional está obligada a observar aquellos casos en los que pudiera tratarse de violencia vicaria en contra de mujeres, por sí o a través de una tercera persona definida en el artículo 6, fracción VI, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+    "Párrafo reformado DOF 16-12-2024"
+   ],
+   "ai": [
+    "Son medidas u órdenes de protección:",
+    "I. La desocupación inmediata del domicilio conyugal o donde habite la víctima, por la persona agresora, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento;",
+    "II. La prohibición inmediata a la persona probable responsable de apersonarse en el domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;",
+    "III. La prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia;",
+    "IV. El auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima al momento de solicitar el auxilio;",
+    "V. El inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;",
+    "VI. Informar a las autoridades o instituciones competentes sobre las medidas tomadas, a fin de que presten atención inmediata a las personas afectadas;",
+    "VII. El uso y goce de los bienes que se encuentren en el inmueble que sirva de domicilio a la víctima;",
+    "VIII. El acceso al domicilio en común, de autoridades policiacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de su familia;",
+    "IX. Emitir orden de protección y auxilio dirigida a las autoridades de seguridad pública, de la que se expedirá copia a la víctima para que pueda acudir a la autoridad más cercana en caso de amenaza de agresión;",
+    "X. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género en instituciones especializadas y gratuitas a la persona agresora para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía de género y los patrones machistas y misóginos que generaron;",
+    "XI. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;",
+    "XII. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad, que puedan ser susceptibles de división entre los cónyuges o concubinos, con independencia del régimen matrimonial al que se encuentre sujeto el matrimonio;",
+    "XIII. Embargo preventivo de bienes del agresor, que deberá inscribirse en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias de cualquier clase, y",
+    "XIV. En caso de ser solicitado, proveer a fin de que la víctima pueda recibir en instituciones públicas y de manera gratuita atención médica y acompañamiento psicológico.",
+    "La autoridad jurisdiccional está obligada a observar aquellos casos en los que pudiera tratarse de violencia vicaria en contra de mujeres, por sí o a través de una tercera persona definida en el artículo 6, fracción VI, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+    "Párrafo reformado DOF 16-12-2024, 15-01-2026"
+   ],
+   "official": [
+    "Son medidas u órdenes de protección:",
+    "I. La desocupación inmediata del domicilio conyugal o donde habite la víctima, por la persona agresora, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento;",
+    "II. La prohibición inmediata a la persona probable responsable de apersonarse en el domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;",
+    "III. La prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia;",
+    "IV. El auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima al momento de solicitar el auxilio;",
+    "V. El inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;",
+    "VI. Informar a las autoridades o instituciones competentes sobre las medidas tomadas, a fin de que presten atención inmediata a las personas afectadas;",
+    "VII. El uso y goce de los bienes que se encuentren en el inmueble que sirva de domicilio a la víctima;",
+    "VIII. El acceso al domicilio en común, de autoridades policiacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de su familia;",
+    "IX. Emitir orden de protección y auxilio dirigida a las autoridades de seguridad pública, de la que se expedirá copia a la víctima para que pueda acudir a la autoridad más cercana en caso de amenaza de agresión;",
+    "X. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género en instituciones especializadas y gratuitas a la persona agresora para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía de género y los patrones machistas y misóginos que generaron;",
+    "XI. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;",
+    "XII. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad, que puedan ser susceptibles de división entre los cónyuges o concubinos, con independencia del régimen matrimonial al que se encuentre sujeto el matrimonio;",
+    "XIII. Embargo preventivo de bienes del agresor, que deberá inscribirse en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias de cualquier clase, y",
+    "XIV. En caso de ser solicitado, proveer a fin de que la víctima pueda recibir en instituciones públicas y de manera gratuita atención médica y acompañamiento psicológico.",
+    "La autoridad jurisdiccional está obligada a observar aquellos casos en los que pudiera tratarse de violencia vicaria en contra de mujeres, por sí o a través de una tercera persona definida en el artículo 6, fracción VI, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.",
+    "Párrafo reformado DOF 16-12-2024, 15-01-2026"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "576",
+   "label": "Artículo 576.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "En el caso de violencia en contra de la mujer, serán aplicables las órdenes de protección que dispone la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, sin perjuicio de cualquier otra medida prevista en la legislación Federal y Local, así como en los tratados internacionales aplicables."
+   ],
+   "ai": [
+    "En el caso de violencia en contra de la mujer, serán aplicables las órdenes de protección que dispone la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, sin perjuicio de cualquier otra medida prevista en la legislación Federal y Local, así como en los tratados internacionales aplicables.",
+    "Artículo reformado DOF 15-01-2026"
+   ],
+   "official": [
+    "En el caso de violencia en contra de la mujer, serán aplicables las órdenes de protección que dispone la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, sin perjuicio de cualquier otra medida prevista en la legislación Federal y Local, así como en los tratados internacionales aplicables.",
+    "Artículo reformado DOF 15-01-2026"
+   ],
+   "diff": [],
+   "cause": null
+  }
+ ]
+}

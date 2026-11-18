@@ -1,0 +1,164 @@
+{
+ "id": "2024-04-04-lft",
+ "source": "backtest",
+ "law": {
+  "slug": "lft",
+  "title": "Ley Federal del Trabajo",
+  "abbreviation": "LFT"
+ },
+ "decree": {
+  "code": 5722237,
+  "title": "Decreto por el que se reforma la fracción III del artículo 994 de la Ley Federal del Trabajo.",
+  "date": "2024-04-04",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5722237&fecha=04/04/2024",
+  "pdf": null,
+  "instruction": [
+   "Artículo Único. Se reforma la fracción III del artículo 994 de la Ley Federal del Trabajo, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "7e0f170d735a18ad98a7d96d1ed04405fcebd777"
+ },
+ "official": {
+  "commit": "20f877f7f384cb2d2b3cd6dbd554a07f70b79853",
+  "date": "2024-04-04",
+  "same_day": true
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "Artículo 994."
+   ],
+   "key": "312c1a8f200e2f793712189b1df702042c27116c0238083f61e29badad64f570",
+   "cached": true,
+   "duration_ms": 2704,
+   "cost_usd": 0.0228378,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "994": {
+   "label": "Artículo 994.",
+   "headings": [],
+   "lines": [
+    "Artículo 994. ...",
+    "I. y II. ...",
+    "III. De 50 a 1500 Unidades de Medida y Actualización al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV, XXII y XXVI Bis;",
+    "IV. a VIII. ..."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "Artículo 994.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "paragraphs": [
+     "III. De 50 a 1500 Unidades de Medida y Actualización al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV, XXII y XXVI Bis;"
+    ],
+    "from_block": 6,
+    "to_block": 6,
+    "insert_after": null,
+    "batch": 1
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "needs_review": [],
+ "counts": {
+  "exact": 1,
+  "normalized": 0,
+  "mismatch": 0,
+  "not_applied": 0,
+  "outside_decree": 0,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 0,
+  "notes_match": 1
+ },
+ "transitorios": "normalized",
+ "body_identical": true,
+ "articles": [
+  {
+   "key": "994",
+   "label": "Artículo 994.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Se impondrá multa, por el equivalente a:",
+    "I. De 50 a 250 Unidades de Medida y Actualización, al patrón que no cumpla las disposiciones contenidas en los artículos 61, 69, 76 y 77;",
+    "Fracción reformada DOF 01-05-2019",
+    "II. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no cumpla las obligaciones que le impone el capítulo VIII del Título Tercero, relativo a la Participación de los Trabajadores en las Utilidades de las Empresas;",
+    "Fracción reformada DOF 01-05-2019",
+    "III. De 50 a 1500 Unidades de Medida y Actualización al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV y XXII;",
+    "Fracción reformada DOF 01-05-2019",
+    "IV. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no cumpla con lo dispuesto por la fracción XV del artículo 132;",
+    "Fracción reformada DOF 01-05-2019",
+    "V. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no observe en la instalación de sus establecimientos las normas de seguridad e higiene o las medidas que fijen las Leyes para prevenir los riesgos de trabajo;",
+    "Fracción reformada DOF 01-05-2019",
+    "VI. De 250 a 5000 Unidades de Medida y Actualización, al patrón que cometa cualquier acto o conducta discriminatoria en el centro de trabajo; al que realice actos de hostigamiento sexual o que tolere o permita actos de acoso u hostigamiento sexual en contra de sus trabajadores, así como al que viole las prohibiciones establecidas en las fracciones IV y V del artículo 133 de la Ley, o lo dispuesto en el artículo 357, segundo y tercer párrafo de ésta;",
+    "Fracción reformada DOF 01-05-2019",
+    "VII. De 250 a 2500 Unidades de Medida y Actualización, al patrón que viole las prohibiciones contenidas en el artículo 133, fracciones II, VI y VII de esta Ley. Asimismo, por incumplir con los requerimientos que le haga la Autoridad Registral y la Autoridad Conciliadora, y",
+    "Fracción reformada DOF 01-05-2019",
+    "VIII.- De 50 a 100 Unidades de Medida y Actualización, al patrón que no comparezca a la audiencia de conciliación, en términos del artículo 684 E fracción IV de esta Ley.",
+    "Fracción adicionada DOF 01-05-2019",
+    "Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012"
+   ],
+   "ai": [
+    "Se impondrá multa, por el equivalente a:",
+    "I. De 50 a 250 Unidades de Medida y Actualización, al patrón que no cumpla las disposiciones contenidas en los artículos 61, 69, 76 y 77;",
+    "Fracción reformada DOF 01-05-2019",
+    "II. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no cumpla las obligaciones que le impone el capítulo VIII del Título Tercero, relativo a la Participación de los Trabajadores en las Utilidades de las Empresas;",
+    "Fracción reformada DOF 01-05-2019",
+    "III. De 50 a 1500 Unidades de Medida y Actualización al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV, XXII y XXVI Bis;",
+    "Fracción reformada DOF 01-05-2019, 04-04-2024",
+    "IV. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no cumpla con lo dispuesto por la fracción XV del artículo 132;",
+    "Fracción reformada DOF 01-05-2019",
+    "V. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no observe en la instalación de sus establecimientos las normas de seguridad e higiene o las medidas que fijen las Leyes para prevenir los riesgos de trabajo;",
+    "Fracción reformada DOF 01-05-2019",
+    "VI. De 250 a 5000 Unidades de Medida y Actualización, al patrón que cometa cualquier acto o conducta discriminatoria en el centro de trabajo; al que realice actos de hostigamiento sexual o que tolere o permita actos de acoso u hostigamiento sexual en contra de sus trabajadores, así como al que viole las prohibiciones establecidas en las fracciones IV y V del artículo 133 de la Ley, o lo dispuesto en el artículo 357, segundo y tercer párrafo de ésta;",
+    "Fracción reformada DOF 01-05-2019",
+    "VII. De 250 a 2500 Unidades de Medida y Actualización, al patrón que viole las prohibiciones contenidas en el artículo 133, fracciones II, VI y VII de esta Ley. Asimismo, por incumplir con los requerimientos que le haga la Autoridad Registral y la Autoridad Conciliadora, y",
+    "Fracción reformada DOF 01-05-2019",
+    "VIII.- De 50 a 100 Unidades de Medida y Actualización, al patrón que no comparezca a la audiencia de conciliación, en términos del artículo 684 E fracción IV de esta Ley.",
+    "Fracción adicionada DOF 01-05-2019",
+    "Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012"
+   ],
+   "official": [
+    "Se impondrá multa, por el equivalente a:",
+    "I. De 50 a 250 Unidades de Medida y Actualización, al patrón que no cumpla las disposiciones contenidas en los artículos 61, 69, 76 y 77;",
+    "Fracción reformada DOF 01-05-2019",
+    "II. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no cumpla las obligaciones que le impone el capítulo VIII del Título Tercero, relativo a la Participación de los Trabajadores en las Utilidades de las Empresas;",
+    "Fracción reformada DOF 01-05-2019",
+    "III. De 50 a 1500 Unidades de Medida y Actualización al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV, XXII y XXVI Bis;",
+    "Fracción reformada DOF 01-05-2019, 04-04-2024",
+    "IV. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no cumpla con lo dispuesto por la fracción XV del artículo 132;",
+    "Fracción reformada DOF 01-05-2019",
+    "V. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no observe en la instalación de sus establecimientos las normas de seguridad e higiene o las medidas que fijen las Leyes para prevenir los riesgos de trabajo;",
+    "Fracción reformada DOF 01-05-2019",
+    "VI. De 250 a 5000 Unidades de Medida y Actualización, al patrón que cometa cualquier acto o conducta discriminatoria en el centro de trabajo; al que realice actos de hostigamiento sexual o que tolere o permita actos de acoso u hostigamiento sexual en contra de sus trabajadores, así como al que viole las prohibiciones establecidas en las fracciones IV y V del artículo 133 de la Ley, o lo dispuesto en el artículo 357, segundo y tercer párrafo de ésta;",
+    "Fracción reformada DOF 01-05-2019",
+    "VII. De 250 a 2500 Unidades de Medida y Actualización, al patrón que viole las prohibiciones contenidas en el artículo 133, fracciones II, VI y VII de esta Ley. Asimismo, por incumplir con los requerimientos que le haga la Autoridad Registral y la Autoridad Conciliadora, y",
+    "Fracción reformada DOF 01-05-2019",
+    "VIII.- De 50 a 100 Unidades de Medida y Actualización, al patrón que no comparezca a la audiencia de conciliación, en términos del artículo 684 E fracción IV de esta Ley.",
+    "Fracción adicionada DOF 01-05-2019",
+    "Artículo adicionado DOF 04-01-1980. Reformado DOF 30-11-2012"
+   ],
+   "diff": [],
+   "cause": null
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 64 Quáter.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 64 Quáter.",
+    "insert_after": null,
+    "paragraphs": [
+     "Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional o en las leyes equivalentes de las entidades federativas."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 64 Quáter.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 64 Quáter.\",\"insert_after\":null,\"paragraphs\":[\"Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional o en las leyes equivalentes de las entidades federativas.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 2534,
+ "total_cost_usd": 0.0155458,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 286,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 1152,
+   "webSearchRequests": 0,
+   "costUSD": 0.0155458,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 0,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 1152,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

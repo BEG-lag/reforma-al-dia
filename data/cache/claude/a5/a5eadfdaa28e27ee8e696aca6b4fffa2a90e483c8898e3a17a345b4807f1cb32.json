@@ -1,0 +1,203 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 3.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XXI Bis",
+    "insert_after": 23,
+    "paragraphs": [
+     "XXI Bis. Personas Servidoras Públicas: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito federal y local, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos. La referencia sobre Servidor Público y/o Servidores Públicos, se entenderá como el contenido de esta fracción;"
+    ]
+   },
+   {
+    "article": "Artículo 3.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "XXV",
+    "from_block": 27,
+    "to_block": 27,
+    "paragraphs": [
+     "XXV. Se deroga."
+    ]
+   },
+   {
+    "article": "Artículo 6.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 6.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada Persona Servidora Pública, en el marco del respeto a los derechos humanos, la buena administración pública y la perspectiva de género."
+    ]
+   },
+   {
+    "article": "Artículo 7.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las Personas Servidoras Públicas observarán en el desempeño de su empleo, cargo o comisión, los principios de austeridad, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia y racionalidad en el uso de los recursos públicos, mismos que rigen el servicio público. Para la efectiva aplicación de dichos principios, las Personas Servidoras Públicas observarán las siguientes directrices:"
+    ]
+   },
+   {
+    "article": "Artículo 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "V. Tratándose de las responsabilidades administrativas de las Personas Servidoras Públicas de los poderes judiciales, serán competentes para investigar e imponer las sanciones que correspondan:",
+     "a) Tratándose del Poder Judicial de la Federación, el Tribunal de Disciplina Judicial conforme al régimen establecido en los artículos 94, 100 y 109 de la Constitución y en su reglamentación interna correspondiente.",
+     "b) Los Tribunales de Disciplina Judicial de los poderes judiciales de los estados y de la Ciudad de México, de acuerdo con lo previsto en los artículos 116 y 122 de la Constitución, así como en sus constituciones locales y reglamentaciones orgánicas correspondientes.",
+     "Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior y de las Entidades de fiscalización de las entidades federativas, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos, y"
+    ]
+   },
+   {
+    "article": "Artículo 16.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 16.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Las Personas Servidoras Públicas deberán observar el código de ética y el de conducta según corresponda, que al efecto sea emitido por las Secretarías o los Órganos internos de control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.",
+     "Los códigos que se refieren en el párrafo anterior, deberán hacerse del conocimiento de las Personas Servidoras Públicas de la dependencia o entidad de que se trate, así como darles la máxima publicidad."
+    ]
+   },
+   {
+    "article": "Artículo 19.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 19.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Los entes públicos deberán implementar los mecanismos de coordinación que, en términos de la Ley General del Sistema Nacional Anticorrupción, determine el Comité Coordinador del Sistema Nacional Anticorrupción e informar a dicho órgano de los avances y resultados que estos tengan, a través de sus Órganos internos de control o instancia interna equivalente."
+    ]
+   },
+   {
+    "article": "Artículo 21.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 21.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las Secretarías podrán suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura de la ética, honestidad y buenas prácticas en su organización."
+    ]
+   },
+   {
+    "article": "Artículo 22.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 22.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En el diseño y supervisión de los mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética, honradez e integridad en los negocios, además de incluir medidas que inhiban la práctica de conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de denuncia y de protección a denunciantes."
+    ]
+   },
+   {
+    "article": "Artículo 37.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 37.",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "En los casos en que la declaración de situación patrimonial del Declarante refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como Persona Servidora Pública, las Secretarías y los Órganos internos de control inmediatamente solicitarán sea aclarado el origen de dicho enriquecimiento. De no justificarse la procedencia de dicho enriquecimiento, las Secretarías y los Órganos internos de control procederán a integrar el expediente correspondiente para darle trámite conforme a lo establecido en esta Ley, y formularán, en su caso, la denuncia correspondiente ante el Ministerio Público.",
+     "Las Personas Servidoras Públicas de los centros públicos de investigación, instituciones de educación y las entidades de la Administración Pública Federal de conformidad con las disposiciones aplicables en la materia que realicen actividades de investigación científica, desarrollo tecnológico e innovación podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios, en los términos que para ello establezcan los órganos de gobierno de dichos centros, instituciones y entidades, con la previa opinión de la Secretaría, sin que dichos beneficios se consideren como tales para efectos de lo contenido en el artículo 52 de esta Ley.",
+     "Las actividades de vinculación a las que hace referencia el párrafo anterior, además de las previstas en disposiciones legales especializadas en la materia, incluirán la participación de investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas privadas de base tecnológica o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual perteneciente a la propia institución, centro o entidad, según corresponda. Dichas Personas Servidoras Públicas incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o por cualquier otro concepto en contravención a las disposiciones aplicables en la Institución."
+    ]
+   },
+   {
+    "article": "Artículo 38.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 38.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Los Declarantes estarán obligados a proporcionar a las Secretarías y los Órganos internos de control, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios, dependientes económicos directos o integrantes de sociedades de convivencia.",
+     "Sólo las personas titulares de las Secretarías o las Personas Servidoras Públicas en quien deleguen esta facultad podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios."
+    ]
+   },
+   {
+    "article": "Artículo 39.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 39.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Para los efectos de la presente Ley y de la legislación penal, se computarán entre los bienes que adquieran los Declarantes o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge, concubina o concubinario, sus dependientes económicos directos o integrantes de sociedad de convivencia; salvo que se acredite que éstos los obtuvieron por sí mismos."
+    ]
+   },
+   {
+    "article": "Artículo 49.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Incurrirá en Falta administrativa no grave la Persona Servidora Pública cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:"
+    ]
+   },
+   {
+    "article": "Artículo 49.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a las demás Personas Servidoras Públicas como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley, y los de conducta, según corresponda;"
+    ]
+   },
+   {
+    "article": "Artículo 49.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "VI. Supervisar que las Personas Servidoras Públicas sujetas a su dirección, cumplan con las disposiciones de este artículo;"
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 3.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"XXI Bis\",\"insert_after\":23,\"paragraphs\":[\"XXI Bis. Personas Servidoras Públicas: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito federal y local, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos. La referencia sobre Servidor Público y/o Servidores Públicos, se entenderá como el contenido de esta fracción;\"]},{\"article\":\"Artículo 3.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"XXV\",\"from_block\":27,\"to_block\":27,\"paragraphs\":[\"XXV. Se deroga.\"]},{\"article\":\"Artículo 6.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 6.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada Persona Servidora Pública, en el marco del respeto a los derechos humanos, la buena administración pública y la perspectiva de género.\"]},{\"article\":\"Artículo 7.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las Personas Servidoras Públicas observarán en el desempeño de su empleo, cargo o comisión, los principios de austeridad, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia y racionalidad en el uso de los recursos públicos, mismos que rigen el servicio público. Para la efectiva aplicación de dichos principios, las Personas Servidoras Públicas observarán las siguientes directrices:\"]},{\"article\":\"Artículo 9.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"V. Tratándose de las responsabilidades administrativas de las Personas Servidoras Públicas de los poderes judiciales, serán competentes para investigar e imponer las sanciones que correspondan:\",\"a) Tratándose del Poder Judicial de la Federación, el Tribunal de Disciplina Judicial conforme al régimen establecido en los artículos 94, 100 y 109 de la Constitución y en su reglamentación interna correspondiente.\",\"b) Los Tribunales de Disciplina Judicial de los poderes judiciales de los estados y de la Ciudad de México, de acuerdo con lo previsto en los artículos 116 y 122 de la Constitución, así como en sus constituciones locales y reglamentaciones orgánicas correspondientes.\",\"Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior y de las Entidades de fiscalización de las entidades federativas, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos, y\"]},{\"article\":\"Artículo 16.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 16.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Las Personas Servidoras Públicas deberán observar el código de ética y el de conducta según corresponda, que al efecto sea emitido por las Secretarías o los Órganos internos de control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.\",\"Los códigos que se refieren en el párrafo anterior, deberán hacerse del conocimiento de las Personas Servidoras Públicas de la dependencia o entidad de que se trate, así como darles la máxima publicidad.\"]},{\"article\":\"Artículo 19.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 19.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Los entes públicos deberán implementar los mecanismos de coordinación que, en términos de la Ley General del Sistema Nacional Anticorrupción, determine el Comité Coordinador del Sistema Nacional Anticorrupción e informar a dicho órgano de los avances y resultados que estos tengan, a través de sus Órganos internos de control o instancia interna equivalente.\"]},{\"article\":\"Artículo 21.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 21.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las Secretarías podrán suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura de la ética, honestidad y buenas prácticas en su organización.\"]},{\"article\":\"Artículo 22.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 22.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En el diseño y supervisión de los mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética, honradez e integridad en los negocios, además de incluir medidas que inhiban la práctica de conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de denuncia y de protección a denunciantes.\"]},{\"article\":\"Artículo 37.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 37.\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"En los casos en que la declaración de situación patrimonial del Declarante refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como Persona Servidora Pública, las Secretarías y los Órganos internos de control inmediatamente solicitarán sea aclarado el origen de dicho enriquecimiento. De no justificarse la procedencia de dicho enriquecimiento, las Secretarías y los Órganos internos de control procederán a integrar el expediente correspondiente para darle trámite conforme a lo establecido en esta Ley, y formularán, en su caso, la denuncia correspondiente ante el Ministerio Público.\",\"Las Personas Servidoras Públicas de los centros públicos de investigación, instituciones de educación y las entidades de la Administración Pública Federal de conformidad con las disposiciones aplicables en la materia que realicen actividades de investigación científica, desarrollo tecnológico e innovación podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios, en los términos que para ello establezcan los órganos de gobierno de dichos centros, instituciones y entidades, con la previa opinión de la Secretaría, sin que dichos beneficios se consideren como tales para efectos de lo contenido en el artículo 52 de esta Ley.\",\"Las actividades de vinculación a las que hace referencia el párrafo anterior, además de las previstas en disposiciones legales especializadas en la materia, incluirán la participación de investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas privadas de base tecnológica o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual perteneciente a la propia institución, centro o entidad, según corresponda. Dichas Personas Servidoras Públicas incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o por cualquier otro concepto en contravención a las disposiciones aplicables en la Institución.\"]},{\"article\":\"Artículo 38.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 38.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Los Declarantes estarán obligados a proporcionar a las Secretarías y los Órganos internos de control, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios, dependientes económicos directos o integrantes de sociedades de convivencia.\",\"Sólo las personas titulares de las Secretarías o las Personas Servidoras Públicas en quien deleguen esta facultad podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios.\"]},{\"article\":\"Artículo 39.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 39.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Para los efectos de la presente Ley y de la legislación penal, se computarán entre los bienes que adquieran los Declarantes o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge, concubina o concubinario, sus dependientes económicos directos o integrantes de sociedad de convivencia; salvo que se acredite que éstos los obtuvieron por sí mismos.\"]},{\"article\":\"Artículo 49.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Incurrirá en Falta administrativa no grave la Persona Servidora Pública cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:\"]},{\"article\":\"Artículo 49.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a las demás Personas Servidoras Públicas como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley, y los de conducta, según corresponda;\"]},{\"article\":\"Artículo 49.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VI\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"VI. Supervisar que las Personas Servidoras Públicas sujetas a su dirección, cumplan con las disposiciones de este artículo;\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 27349,
+ "total_cost_usd": 0.1962538,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 4171,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 14028,
+   "webSearchRequests": 0,
+   "costUSD": 0.1962538,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 297,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 14028,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

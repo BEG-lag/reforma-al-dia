@@ -1,0 +1,268 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "ARTÍCULO 13 BIS 2.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Las personas usuarias del agua que participen como vocales en los Consejos de Cuenca serán electos en la Asamblea General de Personas Usuarias, y provendrán de las organizaciones de personas usuarias del agua a nivel nacional de los distintos usos acreditadas ante \"la Comisión\", así como de las organizaciones de las personas usuarias del agua por cada estado de los distintos usos en la cuenca hidrológica o región hidrológica de que se trate, en un número que asegure proporcionalidad en la representación de los usos y permita el eficaz funcionamiento de dichos Consejos de Cuenca y en apego a lo dispuesto en el Artículo 13 BIS de esta Ley; la designación de suplentes será también prevista por la propia Asamblea; la representatividad de cada uso por estado se determinará en las Reglas Generales de Integración, Organización y Funcionamiento del Consejo de Cuenca;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 13 BIS 2.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Los gobiernos estatales con territorio dentro de la cuenca hidrológica, estarán representados por sus respectivas personas Titulares del Poder Ejecutivo Estatal, quienes fungirán con carácter de vocales; podrán designar una persona suplente, preferentemente con nivel de titular de Secretaría o similar;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 13 BIS 2.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Los gobiernos municipales con territorio dentro de la cuenca, estarán representados conforme se determine en cada estado. El número total de vocales correspondientes a los municipios deberá apegarse a lo dispuesto en el Artículo 13 BIS. La distribución de vocalías municipales se determinará en las Reglas Generales de Integración, Organización y Funcionamiento del propio Consejo de Cuenca. Las personas vocales propietarias municipales serán las personas Titulares de las Presidencias Municipales y podrán designar a una persona suplente, preferentemente con nivel de regidor o similar;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 13 BIS 2.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. El Gobierno Federal contará con personas vocales representantes designadas por las Secretarías de Medio Ambiente y Recursos Naturales; de Hacienda y Crédito Público; Bienestar; Energía; Economía; Salud; y Agricultura y Desarrollo Rural. Las personas vocales propietarias del Gobierno Federal podrán designar una persona suplente, con nivel de Titular de Dirección General o de la más elevada jerarquía regional;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 13 BIS 3.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "VI. Desarrollar, revisar, conseguir los consensos necesarios y proponer a sus integrantes, con la intervención del Organismo de Cuenca competente conforme a sus atribuciones, el proyecto de Programa Hídrico de la Cuenca, que contenga las prioridades de inversión y subprogramas específicos para subcuencas, microcuencas, acuíferos y ecosistemas vitales comprendidos en su ámbito territorial, para su aprobación, en su caso, por la Autoridad competente y fomentar su instrumentación, seguimiento, evaluación de resultados y retroalimentación;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 13 BIS 3.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VII",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "VII. Promover la coordinación y complementación de las inversiones en materia hídrica que efectúen los gobiernos de los estados, de la Ciudad de México y municipios en el ámbito territorial de las subcuencas y acuíferos, y apoyar las gestiones necesarias para lograr la concurrencia de los recursos para la ejecución de las acciones previstas en la programación hídrica;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 13 BIS 4.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 13 BIS 4.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Conforme a lo dispuesto a esta Ley y sus reglamentos, \"la Comisión\", a través de los Organismos de Cuenca, consultará con las personas usuarias y con las organizaciones de la sociedad, en el ámbito de los Consejos de Cuenca, y resolverá las posibles limitaciones temporales a los derechos de agua existentes para enfrentar situaciones de emergencia, escasez extrema, desequilibrio hidrológico, sobreexplotación, reserva, contaminación y riesgo o se comprometa la sustentabilidad de los ecosistemas vitales; bajo el mismo tenor, resolverá las limitaciones que se deriven de la existencia o declaración e instrumentación de zonas reglamentadas, zonas de reserva y zonas de veda. En estos casos tendrán prioridad el uso doméstico y el público urbano."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 14.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 14.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En el ámbito federal, \"la Comisión\" acreditará, promoverá y apoyará la organización de las personas usuarias para mejorar el aprovechamiento del agua y la preservación y control de su calidad, y para impulsar la participación de éstas a nivel nacional, estatal, regional o de cuenca en los términos de la presente Ley y sus reglamentos."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 14 BIS.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "\"La Comisión\", conjuntamente con los Gobiernos de los estados, de la Ciudad de México y de los municipios, los organismos de cuenca, los consejos de cuenca y el Consejo Consultivo del Agua, promoverá y facilitará la participación de la sociedad en la planeación, toma de decisiones, ejecución, evaluación y vigilancia de la política nacional hídrica."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 14 BIS.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "I. Convocará en el ámbito del sistema de Planeación Democrática a las organizaciones locales, regionales o sectoriales de personas usuarias del agua, ejidos y comunidades, instituciones educativas, organizaciones ciudadanas o no gubernamentales, y personas interesadas, para consultar sus opiniones y propuestas respecto a la planeación, problemas prioritarios y estratégicos del agua y su gestión, así como evaluar las fuentes de abastecimiento, en el ámbito del desarrollo sustentable;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 14 BIS.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "II. Apoyará las organizaciones e iniciativas surgidas de la participación pública, encaminadas a la mejor distribución de tareas y responsabilidades entre el Estado -entendido éste como la Federación, los estados, la Ciudad de México y los municipios- y la sociedad, para contribuir a la gestión integrada de los recursos hídricos;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 14 BIS.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 11,
+    "to_block": 11,
+    "paragraphs": [
+     "V. Concertará acciones y convenios con las personas usuarias del agua para la conservación, preservación, restauración y uso eficiente del agua."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 14 BIS 2.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 14 BIS 2.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El Servicio Meteorológico Nacional, unidad técnica especializada autónoma adscrita directamente a la persona Titular de \"la Comisión\", tiene por objeto generar, interpretar y difundir la información meteorológica, su análisis y pronóstico, que se consideran de interés público y estratégico de acuerdo con lo establecido por la presente Ley y sus reglamentos."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 14 BIS 3.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIV",
+    "from_block": 16,
+    "to_block": 16,
+    "paragraphs": [
+     "XIV. Las demás que le confieran otros instrumentos jurídicos y la persona Titular de \"la Secretaría\" para el cumplimiento del objeto de esta Ley."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 14 BIS 5.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Los estados, la Ciudad de México, municipios, consejos de cuenca, organizaciones de personas usuarias y de la sociedad, organismos de cuenca y \"la Comisión\", son elementos básicos en la descentralización de la gestión de los recursos hídricos;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 14 BIS 5.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VIII",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "VIII. El Ejecutivo Federal fomentará la solidaridad en materia de agua entre los estados, Ciudad de México, municipios, entre personas usuarias y entre organizaciones de la sociedad, en las distintas porciones de las cuencas, subcuencas y microcuencas, con el concurso de consejos y organismos de cuenca;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 14 BIS 5.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIII",
+    "from_block": 14,
+    "to_block": 14,
+    "paragraphs": [
+     "XIII. El Ejecutivo Federal promoverá que los estados, la Ciudad de México y los municipios a través de sus órganos competentes y arreglos institucionales que éstos determinen, se hagan responsables de la gestión de las aguas nacionales en cantidad y calidad que tengan asignadas, concesionadas o bajo su administración y custodia y de la prestación de los servicios hidráulicos; el Ejecutivo Federal brindará facilidades y apoyo para la creación o mejoramiento de órganos estatales competentes que posibiliten la instrumentación de lo dispuesto en la presente fracción;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 14 BIS 5.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIV",
+    "from_block": 15,
+    "to_block": 15,
+    "paragraphs": [
+     "XIV. En particular, el Ejecutivo Federal establecerá las medidas necesarias para mantener una adecuada calidad del agua para consumo humano y con ello incidir en la salud pública; para el mejor cumplimiento esta política, se coordinará y solicitará los apoyos necesarios a los estados, la Ciudad de México y municipios;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 14 BIS 5.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XVI",
+    "from_block": 17,
+    "to_block": 17,
+    "paragraphs": [
+     "XVI. Las personas usuarias del agua deben pagar por su explotación, uso o aprovechamiento bajo el principio de persona \"usuaria-pagadora\" de acuerdo con lo dispuesto en la Ley Federal de Derechos;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 14 BIS 5.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIX",
+    "from_block": 20,
+    "to_block": 20,
+    "paragraphs": [
+     "XIX. El derecho de la sociedad y sus instituciones, en los tres órdenes de gobierno, a la información oportuna, plena y fidedigna acerca de la ocurrencia, disponibilidad y necesidades de agua, superficial y subterránea, en cantidad y calidad, en el espacio geográfico y en el tiempo, así como a la relacionada con fenómenos del ciclo hidrológico, los inventarios de usos y las personas usuarias, cuerpos de agua, infraestructura hidráulica y equipamiento diverso necesario para realizar dicha gestión;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 14 BIS 6.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "V. La participación de las organizaciones de la sociedad y de las personas usuarias, y su corresponsabilidad en el desarrollo de actividades específicas;"
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "ARTÍCULO 14.",
+    "reason": "El decreto reforma la denominación del Capítulo V del Título Segundo (nueva denominación: \"Organización y Participación de las Personas Usuarias y de la Sociedad\"), pero el texto vigente proporcionado no muestra el encabezado actual del capítulo; verificar su texto vigente (probablemente \"Organización y Participación de los Usuarios y de la Sociedad\") y aplicar el cambio de denominación."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"ARTÍCULO 13 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Las personas usuarias del agua que participen como vocales en los Consejos de Cuenca serán electos en la Asamblea General de Personas Usuarias, y provendrán de las organizaciones de personas usuarias del agua a nivel nacional de los distintos usos acreditadas ante \\\"la Comisión\\\", así como de las organizaciones de las personas usuarias del agua por cada estado de los distintos usos en la cuenca hidrológica o región hidrológica de que se trate, en un número que asegure proporcionalidad en la representación de los usos y permita el eficaz funcionamiento de dichos Consejos de Cuenca y en apego a lo dispuesto en el Artículo 13 BIS de esta Ley; la designación de suplentes será también prevista por la propia Asamblea; la representatividad de cada uso por estado se determinará en las Reglas Generales de Integración, Organización y Funcionamiento del Consejo de Cuenca;\"]},{\"article\":\"ARTÍCULO 13 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Los gobiernos estatales con territorio dentro de la cuenca hidrológica, estarán representados por sus respectivas personas Titulares del Poder Ejecutivo Estatal, quienes fungirán con carácter de vocales; podrán designar una persona suplente, preferentemente con nivel de titular de Secretaría o similar;\"]},{\"article\":\"ARTÍCULO 13 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Los gobiernos municipales con territorio dentro de la cuenca, estarán representados conforme se determine en cada estado. El número total de vocales correspondientes a los municipios deberá apegarse a lo dispuesto en el Artículo 13 BIS. La distribución de vocalías municipales se determinará en las Reglas Generales de Integración, Organización y Funcionamiento del propio Consejo de Cuenca. Las personas vocales propietarias municipales serán las personas Titulares de las Presidencias Municipales y podrán designar a una persona suplente, preferentemente con nivel de regidor o similar;\"]},{\"article\":\"ARTÍCULO 13 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. El Gobierno Federal contará con personas vocales representantes designadas por las Secretarías de Medio Ambiente y Recursos Naturales; de Hacienda y Crédito Público; Bienestar; Energía; Economía; Salud; y Agricultura y Desarrollo Rural. Las personas vocales propietarias del Gobierno Federal podrán designar una persona suplente, con nivel de Titular de Dirección General o de la más elevada jerarquía regional;\"]},{\"article\":\"ARTÍCULO 13 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VI\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"VI. Desarrollar, revisar, conseguir los consensos necesarios y proponer a sus integrantes, con la intervención del Organismo de Cuenca competente conforme a sus atribuciones, el proyecto de Programa Hídrico de la Cuenca, que contenga las prioridades de inversión y subprogramas específicos para subcuencas, microcuencas, acuíferos y ecosistemas vitales comprendidos en su ámbito territorial, para su aprobación, en su caso, por la Autoridad competente y fomentar su instrumentación, seguimiento, evaluación de resultados y retroalimentación;\"]},{\"article\":\"ARTÍCULO 13 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VII\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"VII. Promover la coordinación y complementación de las inversiones en materia hídrica que efectúen los gobiernos de los estados, de la Ciudad de México y municipios en el ámbito territorial de las subcuencas y acuíferos, y apoyar las gestiones necesarias para lograr la concurrencia de los recursos para la ejecución de las acciones previstas en la programación hídrica;\"]},{\"article\":\"ARTÍCULO 13 BIS 4.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 13 BIS 4.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Conforme a lo dispuesto a esta Ley y sus reglamentos, \\\"la Comisión\\\", a través de los Organismos de Cuenca, consultará con las personas usuarias y con las organizaciones de la sociedad, en el ámbito de los Consejos de Cuenca, y resolverá las posibles limitaciones temporales a los derechos de agua existentes para enfrentar situaciones de emergencia, escasez extrema, desequilibrio hidrológico, sobreexplotación, reserva, contaminación y riesgo o se comprometa la sustentabilidad de los ecosistemas vitales; bajo el mismo tenor, resolverá las limitaciones que se deriven de la existencia o declaración e instrumentación de zonas reglamentadas, zonas de reserva y zonas de veda. En estos casos tendrán prioridad el uso doméstico y el público urbano.\"]},{\"article\":\"ARTÍCULO 14.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 14.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En el ámbito federal, \\\"la Comisión\\\" acreditará, promoverá y apoyará la organización de las personas usuarias para mejorar el aprovechamiento del agua y la preservación y control de su calidad, y para impulsar la participación de éstas a nivel nacional, estatal, regional o de cuenca en los términos de la presente Ley y sus reglamentos.\"]},{\"article\":\"ARTÍCULO 14 BIS.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"\\\"La Comisión\\\", conjuntamente con los Gobiernos de los estados, de la Ciudad de México y de los municipios, los organismos de cuenca, los consejos de cuenca y el Consejo Consultivo del Agua, promoverá y facilitará la participación de la sociedad en la planeación, toma de decisiones, ejecución, evaluación y vigilancia de la política nacional hídrica.\"]},{\"article\":\"ARTÍCULO 14 BIS.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"I. Convocará en el ámbito del sistema de Planeación Democrática a las organizaciones locales, regionales o sectoriales de personas usuarias del agua, ejidos y comunidades, instituciones educativas, organizaciones ciudadanas o no gubernamentales, y personas interesadas, para consultar sus opiniones y propuestas respecto a la planeación, problemas prioritarios y estratégicos del agua y su gestión, así como evaluar las fuentes de abastecimiento, en el ámbito del desarrollo sustentable;\"]},{\"article\":\"ARTÍCULO 14 BIS.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"II. Apoyará las organizaciones e iniciativas surgidas de la participación pública, encaminadas a la mejor distribución de tareas y responsabilidades entre el Estado -entendido éste como la Federación, los estados, la Ciudad de México y los municipios- y la sociedad, para contribuir a la gestión integrada de los recursos hídricos;\"]},{\"article\":\"ARTÍCULO 14 BIS.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":11,\"to_block\":11,\"paragraphs\":[\"V. Concertará acciones y convenios con las personas usuarias del agua para la conservación, preservación, restauración y uso eficiente del agua.\"]},{\"article\":\"ARTÍCULO 14 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 14 BIS 2.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El Servicio Meteorológico Nacional, unidad técnica especializada autónoma adscrita directamente a la persona Titular de \\\"la Comisión\\\", tiene por objeto generar, interpretar y difundir la información meteorológica, su análisis y pronóstico, que se consideran de interés público y estratégico de acuerdo con lo establecido por la presente Ley y sus reglamentos.\"]},{\"article\":\"ARTÍCULO 14 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XIV\",\"from_block\":16,\"to_block\":16,\"paragraphs\":[\"XIV. Las demás que le confieran otros instrumentos jurídicos y la persona Titular de \\\"la Secretaría\\\" para el cumplimiento del objeto de esta Ley.\"]},{\"article\":\"ARTÍCULO 14 BIS 5.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Los estados, la Ciudad de México, municipios, consejos de cuenca, organizaciones de personas usuarias y de la sociedad, organismos de cuenca y \\\"la Comisión\\\", son elementos básicos en la descentralización de la gestión de los recursos hídricos;\"]},{\"article\":\"ARTÍCULO 14 BIS 5.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VIII\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"VIII. El Ejecutivo Federal fomentará la solidaridad en materia de agua entre los estados, Ciudad de México, municipios, entre personas usuarias y entre organizaciones de la sociedad, en las distintas porciones de las cuencas, subcuencas y microcuencas, con el concurso de consejos y organismos de cuenca;\"]},{\"article\":\"ARTÍCULO 14 BIS 5.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XIII\",\"from_block\":14,\"to_block\":14,\"paragraphs\":[\"XIII. El Ejecutivo Federal promoverá que los estados, la Ciudad de México y los municipios a través de sus órganos competentes y arreglos institucionales que éstos determinen, se hagan responsables de la gestión de las aguas nacionales en cantidad y calidad que tengan asignadas, concesionadas o bajo su administración y custodia y de la prestación de los servicios hidráulicos; el Ejecutivo Federal brindará facilidades y apoyo para la creación o mejoramiento de órganos estatales competentes que posibiliten la instrumentación de lo dispuesto en la presente fracción;\"]},{\"article\":\"ARTÍCULO 14 BIS 5.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XIV\",\"from_block\":15,\"to_block\":15,\"paragraphs\":[\"XIV. En particular, el Ejecutivo Federal establecerá las medidas necesarias para mantener una adecuada calidad del agua para consumo humano y con ello incidir en la salud pública; para el mejor cumplimiento esta política, se coordinará y solicitará los apoyos necesarios a los estados, la Ciudad de México y municipios;\"]},{\"article\":\"ARTÍCULO 14 BIS 5.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XVI\",\"from_block\":17,\"to_block\":17,\"paragraphs\":[\"XVI. Las personas usuarias del agua deben pagar por su explotación, uso o aprovechamiento bajo el principio de persona \\\"usuaria-pagadora\\\" de acuerdo con lo dispuesto en la Ley Federal de Derechos;\"]},{\"article\":\"ARTÍCULO 14 BIS 5.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XIX\",\"from_block\":20,\"to_block\":20,\"paragraphs\":[\"XIX. El derecho de la sociedad y sus instituciones, en los tres órdenes de gobierno, a la información oportuna, plena y fidedigna acerca de la ocurrencia, disponibilidad y necesidades de agua, superficial y subterránea, en cantidad y calidad, en el espacio geográfico y en el tiempo, así como a la relacionada con fenómenos del ciclo hidrológico, los inventarios de usos y las personas usuarias, cuerpos de agua, infraestructura hidráulica y equipamiento diverso necesario para realizar dicha gestión;\"]},{\"article\":\"ARTÍCULO 14 BIS 6.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"V. La participación de las organizaciones de la sociedad y de las personas usuarias, y su corresponsabilidad en el desarrollo de actividades específicas;\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"ARTÍCULO 14.\",\"reason\":\"El decreto reforma la denominación del Capítulo V del Título Segundo (nueva denominación: \\\"Organización y Participación de las Personas Usuarias y de la Sociedad\\\"), pero el texto vigente proporcionado no muestra el encabezado actual del capítulo; verificar su texto vigente (probablemente \\\"Organización y Participación de los Usuarios y de la Sociedad\\\") y aplicar el cambio de denominación.\"}]}",
+ "duration_ms": 41237,
+ "total_cost_usd": 0.26796179999999997,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 5998,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 18424,
+   "webSearchRequests": 0,
+   "costUSD": 0.26796179999999997,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 621,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 18424,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

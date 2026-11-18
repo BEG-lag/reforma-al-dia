@@ -1,0 +1,746 @@
+{
+ "id": "2025-11-14-ccom",
+ "source": "backtest",
+ "law": {
+  "slug": "ccom",
+  "title": "Código de Comercio",
+  "abbreviation": "CCom"
+ },
+ "decree": {
+  "code": 5773097,
+  "title": "Decreto por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.",
+  "date": "2025-11-14",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5773097&fecha=14/11/2025",
+  "pdf": null,
+  "instruction": [
+   "Artículo Segundo.- Se reforman los artículos 1054; 1061 Bis; 1063; 1393, primer párrafo; 1414; 1466, en su párrafo y, 1477 del Código de Comercio, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "de987f9efa50f4ed11b0123a449c2e2f3d48df13"
+ },
+ "official": {
+  "commit": "b5e1e94708a616dfed0e89cbde6193f3746902f6",
+  "date": "2026-02-18",
+  "same_day": false
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "Artículo 1054.",
+    "Artículo 1061 Bis.",
+    "Artículo 1063.",
+    "Artículo 1393.",
+    "Artículo 1414.",
+    "Artículo 1466.",
+    "Artículo 1477."
+   ],
+   "key": "486e7765c36f2b97405453f4b5436e8c27eee6319590663f3dab44eb5c0f8246",
+   "cached": true,
+   "duration_ms": 11585,
+   "cost_usd": 0.06845380000000001,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "1054": {
+   "label": "Artículo 1054.",
+   "headings": [],
+   "lines": [
+    "Artículo 1054. En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este Libro y, en su defecto, se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "1061 bis": {
+   "label": "Artículo 1061 Bis.",
+   "headings": [],
+   "lines": [
+    "Artículo 1061 Bis. En todos los juicios mercantiles se reconoce como prueba la información generada o comunicada que conste en medios digitales, ópticos o en cualquier otra tecnología. Su valor probatorio se regirá conforme a lo previsto por los artículos 348, 349 y 350 del Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "1063": {
+   "label": "Artículo 1063.",
+   "headings": [],
+   "lines": [
+    "Artículo 1063.- Los juicios mercantiles se substanciarán de acuerdo con los procedimientos aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por el Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "1393": {
+   "label": "Artículo 1393.",
+   "headings": [],
+   "lines": [
+    "Artículo 1393.- No encontrándose el demandado a la primera busca en el inmueble señalado por el actor, pero cerciorado de ser el domicilio de aquél, se le dejará citatorio fijándole hora hábil, dentro de un lapso comprendido entre las seis y las setenta y dos horas posteriores, y si no aguarda, se practicará la diligencia de embargo con los parientes, empleados o domésticos del interesado, o cualquier otra persona que viva en el domicilio señalado, siguiéndose las reglas del Código Nacional de Procedimientos Civiles y Familiares respecto de los embargos.",
+    "..."
+   ]
+  },
+  "1414": {
+   "label": "Artículo 1414.",
+   "headings": [],
+   "lines": [
+    "Artículo 1414.- Cualquier incidente o cuestión que se suscite en los Juicios Ejecutivos Mercantiles será resuelto por el juez con apoyo en las disposiciones respectivas de este Título; y en su defecto, en lo relativo a los incidentes en los Juicios Ordinarios Mercantiles; y a falta de uno u otro, a lo que disponga el Código Nacional de Procedimientos Civiles y Familiares, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas."
+   ]
+  },
+  "1466": {
+   "label": "Artículo 1466.",
+   "headings": [],
+   "lines": [
+    "Artículo 1466.- Se tramitarán en vía de jurisdicción voluntaria conforme al Código Nacional de Procedimientos Civiles y Familiares, con excepción del artículo 433:",
+    "I. a III. ..."
+   ]
+  },
+  "1477": {
+   "label": "Artículo 1477.",
+   "headings": [],
+   "lines": [
+    "Artículo 1477.- Los juicios especiales que versen sobre nulidad o reconocimiento y ejecución de laudos comerciales podrán acumularse. Para que proceda la acumulación, es necesario que no se haya celebrado la audiencia de alegatos. La acumulación se hará en favor del juez que haya prevenido. La acumulación no procede respecto de procesos que se ventilen en jurisdicciones territoriales diversas o en el extranjero, ni entre tribunales federales y los de los estados. La acumulación se tramitará conforme al Código Nacional de Procedimientos Civiles y Familiares. La resolución que resuelva sobre la acumulación es irrecurrible."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "Artículo 1054.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 1054.",
+    "paragraphs": [
+     "En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este Libro y, en su defecto, se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 1061 Bis.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 1061 Bis.",
+    "paragraphs": [
+     "En todos los juicios mercantiles se reconoce como prueba la información generada o comunicada que conste en medios digitales, ópticos o en cualquier otra tecnología. Su valor probatorio se regirá conforme a lo previsto por los artículos 348, 349 y 350 del Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 1063.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 1063.",
+    "paragraphs": [
+     "Los juicios mercantiles se substanciarán de acuerdo con los procedimientos aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por el Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 1393.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primer párrafo",
+    "paragraphs": [
+     "No encontrándose el demandado a la primera busca en el inmueble señalado por el actor, pero cerciorado de ser el domicilio de aquél, se le dejará citatorio fijándole hora hábil, dentro de un lapso comprendido entre las seis y las setenta y dos horas posteriores, y si no aguarda, se practicará la diligencia de embargo con los parientes, empleados o domésticos del interesado, o cualquier otra persona que viva en el domicilio señalado, siguiéndose las reglas del Código Nacional de Procedimientos Civiles y Familiares respecto de los embargos."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 1414.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 1414.",
+    "paragraphs": [
+     "Cualquier incidente o cuestión que se suscite en los Juicios Ejecutivos Mercantiles será resuelto por el juez con apoyo en las disposiciones respectivas de este Título; y en su defecto, en lo relativo a los incidentes en los Juicios Ordinarios Mercantiles; y a falta de uno u otro, a lo que disponga el Código Nacional de Procedimientos Civiles y Familiares, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 1466.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primer párrafo",
+    "paragraphs": [
+     "Se tramitarán en vía de jurisdicción voluntaria conforme al Código Nacional de Procedimientos Civiles y Familiares, con excepción del artículo 433:"
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 1477.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 1477.",
+    "paragraphs": [
+     "Los juicios especiales que versen sobre nulidad o reconocimiento y ejecución de laudos comerciales podrán acumularse. Para que proceda la acumulación, es necesario que no se haya celebrado la audiencia de alegatos. La acumulación se hará en favor del juez que haya prevenido. La acumulación no procede respecto de procesos que se ventilen en jurisdicciones territoriales diversas o en el extranjero, ni entre tribunales federales y los de los estados. La acumulación se tramitará conforme al Código Nacional de Procedimientos Civiles y Familiares. La resolución que resuelva sobre la acumulación es irrecurrible."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "needs_review": [],
+ "counts": {
+  "exact": 7,
+  "normalized": 0,
+  "mismatch": 0,
+  "not_applied": 0,
+  "outside_decree": 5,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 0,
+  "notes_match": 7
+ },
+ "transitorios": "exact",
+ "body_identical": false,
+ "articles": [
+  {
+   "key": "1054",
+   "label": "Artículo 1054.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este libro y, en su defecto, se aplicará supletoriamente el Código Federal de Procedimientos Civiles y en caso de que no regule suficientemente la institución cuya supletoriedad se requiera, la ley de procedimientos local respectiva.",
+    "Artículo reformado DOF 04-01-1989, 24-05-1996, 13-06-2003, 17-04-2008, 30-12-2008"
+   ],
+   "ai": [
+    "En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este Libro y, en su defecto, se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 04-01-1989, 24-05-1996, 13-06-2003, 17-04-2008, 30-12-2008, 14-11-2025"
+   ],
+   "official": [
+    "En caso de no existir convenio de las partes sobre el procedimiento ante tribunales en los términos de los anteriores artículos, salvo que las leyes mercantiles establezcan un procedimiento especial o una supletoriedad expresa, los juicios mercantiles se regirán por las disposiciones de este Libro y, en su defecto, se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 04-01-1989, 24-05-1996, 13-06-2003, 17-04-2008, 30-12-2008, 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "1061 bis",
+   "label": "Artículo 1061 Bis.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "En todos los juicios mercantiles se reconoce como prueba la información generada o comunicada que conste en medios digitales, ópticos o en cualquier otra tecnología. Su valor probatorio se regirá conforme a lo previsto por el artículo 210-A del Código Federal de Procedimientos Civiles.",
+    "Artículo adicionado DOF 13-06-2014"
+   ],
+   "ai": [
+    "En todos los juicios mercantiles se reconoce como prueba la información generada o comunicada que conste en medios digitales, ópticos o en cualquier otra tecnología. Su valor probatorio se regirá conforme a lo previsto por los artículos 348, 349 y 350 del Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo adicionado DOF 13-06-2014. Reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "En todos los juicios mercantiles se reconoce como prueba la información generada o comunicada que conste en medios digitales, ópticos o en cualquier otra tecnología. Su valor probatorio se regirá conforme a lo previsto por los artículos 348, 349 y 350 del Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo adicionado DOF 13-06-2014. Reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "1063",
+   "label": "Artículo 1063.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Los juicios mercantiles se substanciarán de acuerdo a los procedimientos aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por el Código Federal de Procedimientos Civiles y en último término por el Código de Procedimientos Civiles local.",
+    "Artículo reformado DOF 04-01-1989, 24-05-1996, 13-06-2003, 17-04-2008"
+   ],
+   "ai": [
+    "Los juicios mercantiles se substanciarán de acuerdo con los procedimientos aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 04-01-1989, 24-05-1996, 13-06-2003, 17-04-2008, 14-11-2025"
+   ],
+   "official": [
+    "Los juicios mercantiles se substanciarán de acuerdo con los procedimientos aplicables conforme este Código, las leyes especiales en materia de comercio y en su defecto por el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 04-01-1989, 24-05-1996, 13-06-2003, 17-04-2008, 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "1067 bis",
+   "label": "Artículo 1067 Bis.",
+   "status": "outside_decree",
+   "notes_match": true,
+   "before": [
+    "Para hacer cumplir sus determinaciones el juez puede emplear cualquiera de las siguientes medidas de apremio que estime pertinentes, sin que para ello sea necesario que el juzgador se ciña al orden que a continuación se señala:",
+    "I. Amonestación;",
+    "II. Multa hasta de $10,220.52, monto que se actualizará en términos del artículo 1253, fracción VI;",
+    "Multa de la fracción actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023",
+    "III. El uso de la fuerza pública y rompimiento de cerraduras si fuere necesaria, y",
+    "IV. Arresto hasta por treinta y seis horas;",
+    "Si el juez estima que el caso puede ser constitutivo de delito, dará parte al Ministerio Público.",
+    "Artículo adicionado DOF 27-01-2011"
+   ],
+   "ai": [
+    "Para hacer cumplir sus determinaciones el juez puede emplear cualquiera de las siguientes medidas de apremio que estime pertinentes, sin que para ello sea necesario que el juzgador se ciña al orden que a continuación se señala:",
+    "I. Amonestación;",
+    "II. Multa hasta de $10,220.52, monto que se actualizará en términos del artículo 1253, fracción VI;",
+    "Multa de la fracción actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023",
+    "III. El uso de la fuerza pública y rompimiento de cerraduras si fuere necesaria, y",
+    "IV. Arresto hasta por treinta y seis horas;",
+    "Si el juez estima que el caso puede ser constitutivo de delito, dará parte al Ministerio Público.",
+    "Artículo adicionado DOF 27-01-2011"
+   ],
+   "official": [
+    "Para hacer cumplir sus determinaciones el juez puede emplear cualquiera de las siguientes medidas de apremio que estime pertinentes, sin que para ello sea necesario que el juzgador se ciña al orden que a continuación se señala:",
+    "I. Amonestación;",
+    "II. Multa hasta de $11,091.60, monto que se actualizará en términos del artículo 1253, fracción VI;",
+    "Multa de la fracción actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 26-12-2025, 18-02-2026",
+    "III. El uso de la fuerza pública y rompimiento de cerraduras si fuere necesaria, y",
+    "IV. Arresto hasta por treinta y seis horas;",
+    "Si el juez estima que el caso puede ser constitutivo de delito, dará parte al Ministerio Público.",
+    "Artículo adicionado DOF 27-01-2011"
+   ],
+   "diff": [
+    [
+     "=",
+     "… a continuación se señala: ¶ I. Amonestación; ¶ II. Multa hasta de"
+    ],
+    [
+     "-",
+     "$10,220.52,"
+    ],
+    [
+     "+",
+     "$11,091.60,"
+    ],
+    [
+     "=",
+     "monto que se actualizará en términos del artículo 1253, fracción VI; ¶ … DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022,"
+    ],
+    [
+     "-",
+     "28-12-2023"
+    ],
+    [
+     "+",
+     "28-12-2023, 30-12-2024, 26-12-2025, 18-02-2026"
+    ],
+    [
+     "=",
+     "¶ III. El uso de la fuerza pública y rompimiento de cerraduras …"
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "1253",
+   "label": "Artículo 1253.",
+   "status": "outside_decree",
+   "notes_match": true,
+   "before": [
+    "Las partes propondrán la prueba pericial dentro del término de ofrecimiento de pruebas en los siguientes términos:",
+    "Párrafo reformado DOF 30-12-2008",
+    "I. Señalarán con toda precisión la ciencia, arte, técnica, oficio o industria sobre la cual deba practicarse la prueba; los puntos sobre los que versará y las cuestiones que se deben resolver en la pericial, así como la cédula profesional, calidad técnica, artística o industrial del perito que se proponga, nombre, apellidos y domicilio de éste, con la correspondiente relación de tal prueba con los hechos controvertidos;",
+    "II. Si falta cualquiera de los requisitos anteriores, el juez desechará de plano la prueba en cuestión;",
+    "III. En caso de estar debidamente ofrecida, el juez la admitirá, quedando obligadas las partes a que sus peritos, dentro del plazo de tres días, presenten escrito en el que acepten el cargo conferido y protesten su fiel y legal desempeño, debiendo anexar el original o copia certificada de su cédula profesional o documentos que acrediten su calidad de perito en el arte, técnica, oficio o industria para el que se les designa; manifestando, bajo protesta de decir verdad, que conocen los puntos cuestionados y pormenores relativos a la pericial, así como que tienen la capacidad suficiente para emitir dictamen sobre el particular, quedando obligados a rendir su dictamen dentro de los diez días siguientes a la fecha en que hayan presentado los escritos de aceptación y protesta del cargo de peritos, salvo que existiera en autos causa bastante por la que tuviera que modificarse la fecha de inicio del plazo originalmente concedido. Sin la exhibición de dichos documentos justificativos de su calidad, no se tendrá por presentado al perito aceptando el cargo, con la correspondiente sanción para las partes, sin que sea necesaria la ratificación de dichos dictámenes ante la presencia judicial;",
+    "Fracción reformada DOF 17-04-2008",
+    "IV. Cuando se trate de juicios ejecutivos, especiales o cualquier otro tipo de controversia de trámite específicamente singular, las partes quedan obligadas a cumplir dentro de los tres días siguientes al proveído en que se les tengan por designados tales peritos, conforme a lo ordenado en el párrafo anterior, quedando obligados los peritos, en estos casos, a rendir su dictamen dentro de los cinco días siguientes a la fecha en que hayan aceptado y protestado el cargo con la misma salvedad que la que se establece en la fracción anterior;",
+    "Fracción reformada DOF 17-04-2008",
+    "V. Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten substancialmente contradictorios, se designará al perito tercero en discordia tomando en cuenta lo ordenado por el artículo 1255 de este código;",
+    "VI. La falta de presentación del escrito del perito designado por la oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado, no presentare el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente. En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III y IV, según corresponda.",
+    "En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de $5,110.26 y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.",
+    "Párrafo reformado DOF 30-12-2008, 09-01-2012",
+    "Multa del párrafo actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023",
+    "Para estos efectos, se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía entre la última actualización de dicho monto y el mes de noviembre del año en cuestión.",
+    "Párrafo adicionado DOF 09-01-2012",
+    "Fracción reformada DOF 17-04-2008",
+    "VII. Las partes quedan obligadas a pagar los honorarios de los peritos que hayan nombrado, así como a presentarlos cuantas veces sea necesario al juzgado. También quedarán obligadas a presentar el dictamen pericial dentro del plazo señalado, y de no presentarse, se tendrá por no rendido el dictamen;",
+    "Fracción reformada DOF 17-04-2008, 30-12-2008",
+    "VIII. Las partes en cualquier momento podrán convenir en la designación de un sólo perito para que rinda su dictamen al cual se sujetarán, y",
+    "IX. También las partes en cualquier momento podrán manifestar su conformidad con el dictamen del perito de la contraria y hacer observaciones al mismo, que serán consideradas en la valoración que realice el juez en su sentencia.",
+    "Artículo reformado DOF 24-05-1996"
+   ],
+   "ai": [
+    "Las partes propondrán la prueba pericial dentro del término de ofrecimiento de pruebas en los siguientes términos:",
+    "Párrafo reformado DOF 30-12-2008",
+    "I. Señalarán con toda precisión la ciencia, arte, técnica, oficio o industria sobre la cual deba practicarse la prueba; los puntos sobre los que versará y las cuestiones que se deben resolver en la pericial, así como la cédula profesional, calidad técnica, artística o industrial del perito que se proponga, nombre, apellidos y domicilio de éste, con la correspondiente relación de tal prueba con los hechos controvertidos;",
+    "II. Si falta cualquiera de los requisitos anteriores, el juez desechará de plano la prueba en cuestión;",
+    "III. En caso de estar debidamente ofrecida, el juez la admitirá, quedando obligadas las partes a que sus peritos, dentro del plazo de tres días, presenten escrito en el que acepten el cargo conferido y protesten su fiel y legal desempeño, debiendo anexar el original o copia certificada de su cédula profesional o documentos que acrediten su calidad de perito en el arte, técnica, oficio o industria para el que se les designa; manifestando, bajo protesta de decir verdad, que conocen los puntos cuestionados y pormenores relativos a la pericial, así como que tienen la capacidad suficiente para emitir dictamen sobre el particular, quedando obligados a rendir su dictamen dentro de los diez días siguientes a la fecha en que hayan presentado los escritos de aceptación y protesta del cargo de peritos, salvo que existiera en autos causa bastante por la que tuviera que modificarse la fecha de inicio del plazo originalmente concedido. Sin la exhibición de dichos documentos justificativos de su calidad, no se tendrá por presentado al perito aceptando el cargo, con la correspondiente sanción para las partes, sin que sea necesaria la ratificación de dichos dictámenes ante la presencia judicial;",
+    "Fracción reformada DOF 17-04-2008",
+    "IV. Cuando se trate de juicios ejecutivos, especiales o cualquier otro tipo de controversia de trámite específicamente singular, las partes quedan obligadas a cumplir dentro de los tres días siguientes al proveído en que se les tengan por designados tales peritos, conforme a lo ordenado en el párrafo anterior, quedando obligados los peritos, en estos casos, a rendir su dictamen dentro de los cinco días siguientes a la fecha en que hayan aceptado y protestado el cargo con la misma salvedad que la que se establece en la fracción anterior;",
+    "Fracción reformada DOF 17-04-2008",
+    "V. Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten substancialmente contradictorios, se designará al perito tercero en discordia tomando en cuenta lo ordenado por el artículo 1255 de este código;",
+    "VI. La falta de presentación del escrito del perito designado por la oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado, no presentare el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente. En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III y IV, según corresponda.",
+    "En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de $5,110.26 y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.",
+    "Párrafo reformado DOF 30-12-2008, 09-01-2012",
+    "Multa del párrafo actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023",
+    "Para estos efectos, se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía entre la última actualización de dicho monto y el mes de noviembre del año en cuestión.",
+    "Párrafo adicionado DOF 09-01-2012",
+    "Fracción reformada DOF 17-04-2008",
+    "VII. Las partes quedan obligadas a pagar los honorarios de los peritos que hayan nombrado, así como a presentarlos cuantas veces sea necesario al juzgado. También quedarán obligadas a presentar el dictamen pericial dentro del plazo señalado, y de no presentarse, se tendrá por no rendido el dictamen;",
+    "Fracción reformada DOF 17-04-2008, 30-12-2008",
+    "VIII. Las partes en cualquier momento podrán convenir en la designación de un sólo perito para que rinda su dictamen al cual se sujetarán, y",
+    "IX. También las partes en cualquier momento podrán manifestar su conformidad con el dictamen del perito de la contraria y hacer observaciones al mismo, que serán consideradas en la valoración que realice el juez en su sentencia.",
+    "Artículo reformado DOF 24-05-1996"
+   ],
+   "official": [
+    "Las partes propondrán la prueba pericial dentro del término de ofrecimiento de pruebas en los siguientes términos:",
+    "Párrafo reformado DOF 30-12-2008",
+    "I. Señalarán con toda precisión la ciencia, arte, técnica, oficio o industria sobre la cual deba practicarse la prueba; los puntos sobre los que versará y las cuestiones que se deben resolver en la pericial, así como la cédula profesional, calidad técnica, artística o industrial del perito que se proponga, nombre, apellidos y domicilio de éste, con la correspondiente relación de tal prueba con los hechos controvertidos;",
+    "II. Si falta cualquiera de los requisitos anteriores, el juez desechará de plano la prueba en cuestión;",
+    "III. En caso de estar debidamente ofrecida, el juez la admitirá, quedando obligadas las partes a que sus peritos, dentro del plazo de tres días, presenten escrito en el que acepten el cargo conferido y protesten su fiel y legal desempeño, debiendo anexar el original o copia certificada de su cédula profesional o documentos que acrediten su calidad de perito en el arte, técnica, oficio o industria para el que se les designa; manifestando, bajo protesta de decir verdad, que conocen los puntos cuestionados y pormenores relativos a la pericial, así como que tienen la capacidad suficiente para emitir dictamen sobre el particular, quedando obligados a rendir su dictamen dentro de los diez días siguientes a la fecha en que hayan presentado los escritos de aceptación y protesta del cargo de peritos, salvo que existiera en autos causa bastante por la que tuviera que modificarse la fecha de inicio del plazo originalmente concedido. Sin la exhibición de dichos documentos justificativos de su calidad, no se tendrá por presentado al perito aceptando el cargo, con la correspondiente sanción para las partes, sin que sea necesaria la ratificación de dichos dictámenes ante la presencia judicial;",
+    "Fracción reformada DOF 17-04-2008",
+    "IV. Cuando se trate de juicios ejecutivos, especiales o cualquier otro tipo de controversia de trámite específicamente singular, las partes quedan obligadas a cumplir dentro de los tres días siguientes al proveído en que se les tengan por designados tales peritos, conforme a lo ordenado en el párrafo anterior, quedando obligados los peritos, en estos casos, a rendir su dictamen dentro de los cinco días siguientes a la fecha en que hayan aceptado y protestado el cargo con la misma salvedad que la que se establece en la fracción anterior;",
+    "Fracción reformada DOF 17-04-2008",
+    "V. Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten substancialmente contradictorios, se designará al perito tercero en discordia tomando en cuenta lo ordenado por el artículo 1255 de este código;",
+    "VI. La falta de presentación del escrito del perito designado por la oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado, no presentare el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente. En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III y IV, según corresponda.",
+    "En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de $5,545.80 y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.",
+    "Párrafo reformado DOF 30-12-2008, 09-01-2012",
+    "Multa del párrafo actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 26-12-2025, 18-02-2026",
+    "Para estos efectos, se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía entre la última actualización de dicho monto y el mes de noviembre del año en cuestión.",
+    "Párrafo adicionado DOF 09-01-2012",
+    "Fracción reformada DOF 17-04-2008",
+    "VII. Las partes quedan obligadas a pagar los honorarios de los peritos que hayan nombrado, así como a presentarlos cuantas veces sea necesario al juzgado. También quedarán obligadas a presentar el dictamen pericial dentro del plazo señalado, y de no presentarse, se tendrá por no rendido el dictamen;",
+    "Fracción reformada DOF 17-04-2008, 30-12-2008",
+    "VIII. Las partes en cualquier momento podrán convenir en la designación de un sólo perito para que rinda su dictamen al cual se sujetarán, y",
+    "IX. También las partes en cualquier momento podrán manifestar su conformidad con el dictamen del perito de la contraria y hacer observaciones al mismo, que serán consideradas en la valoración que realice el juez en su sentencia.",
+    "Artículo reformado DOF 24-05-1996"
+   ],
+   "diff": [
+    [
+     "=",
+     "… anteriores, el juez sancionará a los peritos omisos con multa hasta de"
+    ],
+    [
+     "-",
+     "$5,110.26"
+    ],
+    [
+     "+",
+     "$5,545.80"
+    ],
+    [
+     "=",
+     "y corresponderá a la Secretaría de Economía actualizar cada año por inflación … DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022,"
+    ],
+    [
+     "-",
+     "28-12-2023"
+    ],
+    [
+     "+",
+     "28-12-2023, 30-12-2024, 26-12-2025, 18-02-2026"
+    ],
+    [
+     "=",
+     "¶ Para estos efectos, se basará en la variación observada en el …"
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "1339",
+   "label": "Artículo 1339.",
+   "status": "outside_decree",
+   "notes_match": true,
+   "before": [
+    "Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a $851,710.18 por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.",
+    "Párrafo reformado DOF 09-01-2012",
+    "Cantidad del párrafo actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 07-03-2016, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023",
+    "Corresponderá a la Secretaría de Economía actualizar cada año por inflación el monto expresado en pesos en el párrafo anterior y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.",
+    "Párrafo adicionado DOF 09-01-2012",
+    "Para estos efectos, se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía entre la última actualización de dicho monto y el mes de noviembre del año en cuestión.",
+    "Párrafo adicionado DOF 09-01-2012",
+    "Las sentencias que fueren recurribles, conforme al primer párrafo de este artículo, lo serán por la apelación que se admita en ambos efectos, salvo cuando la Ley expresamente determine que lo sean sólo en el devolutivo.",
+    "Párrafo reformado DOF 09-01-2012",
+    "Sólo serán apelables los autos, interlocutorias o resoluciones que decidan un incidente o cuando lo disponga este código, y la sentencia definitiva pueda ser susceptible de apelación, de acuerdo a lo dispuesto en el primer párrafo de este artículo.",
+    "El recurso de apelación contra autos, interlocutorias o resoluciones, que se dicten en el trámite del procedimiento se admitirá en el efecto devolutivo de tramitación conjunta con la apelación de la sentencia definitiva, sin que sea necesario en tal escrito la expresión de agravios; interpuesta esta apelación, se reservará su trámite para que se realice en su caso conjuntamente con la tramitación de la apelación que se formule en contra de la sentencia definitiva por la misma parte apelante.",
+    "Para que proceda la apelación contra autos, interlocutorias o resoluciones en efecto devolutivo o en el suspensivo se requiere disposición especial de la ley.",
+    "La apelación debe interponerse ante el tribunal que haya pronunciado el auto, interlocutoria o resolución, a más tardar dentro de los nueve días siguientes a aquél en que surta efectos la notificación si se tratare de sentencia definitiva, seis si fuere contra auto, interlocutoria o resolución, dictada en el procedimiento si se trata de apelaciones de tramitación inmediata y en el término de tres días si se trata de apelación de tramitación conjunta con la sentencia definitiva.",
+    "Los agravios que hayan de expresarse en contra del auto, interlocutoria o resolución, cuando se trate de apelaciones de tramitación inmediata o de sentencia definitiva, se expresarán al interponerse el recurso de apelación. Los agravios que en su caso se deban expresar en contra de resoluciones de tramitación conjunta con la sentencia definitiva se expresarán en la forma y términos previstos en el artículo 1344 de este Código.",
+    "Artículo reformado DOF 24-05-1996, 17-04-2008, 30-12-2008"
+   ],
+   "ai": [
+    "Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a $851,710.18 por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.",
+    "Párrafo reformado DOF 09-01-2012",
+    "Cantidad del párrafo actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 07-03-2016, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023",
+    "Corresponderá a la Secretaría de Economía actualizar cada año por inflación el monto expresado en pesos en el párrafo anterior y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.",
+    "Párrafo adicionado DOF 09-01-2012",
+    "Para estos efectos, se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía entre la última actualización de dicho monto y el mes de noviembre del año en cuestión.",
+    "Párrafo adicionado DOF 09-01-2012",
+    "Las sentencias que fueren recurribles, conforme al primer párrafo de este artículo, lo serán por la apelación que se admita en ambos efectos, salvo cuando la Ley expresamente determine que lo sean sólo en el devolutivo.",
+    "Párrafo reformado DOF 09-01-2012",
+    "Sólo serán apelables los autos, interlocutorias o resoluciones que decidan un incidente o cuando lo disponga este código, y la sentencia definitiva pueda ser susceptible de apelación, de acuerdo a lo dispuesto en el primer párrafo de este artículo.",
+    "El recurso de apelación contra autos, interlocutorias o resoluciones, que se dicten en el trámite del procedimiento se admitirá en el efecto devolutivo de tramitación conjunta con la apelación de la sentencia definitiva, sin que sea necesario en tal escrito la expresión de agravios; interpuesta esta apelación, se reservará su trámite para que se realice en su caso conjuntamente con la tramitación de la apelación que se formule en contra de la sentencia definitiva por la misma parte apelante.",
+    "Para que proceda la apelación contra autos, interlocutorias o resoluciones en efecto devolutivo o en el suspensivo se requiere disposición especial de la ley.",
+    "La apelación debe interponerse ante el tribunal que haya pronunciado el auto, interlocutoria o resolución, a más tardar dentro de los nueve días siguientes a aquél en que surta efectos la notificación si se tratare de sentencia definitiva, seis si fuere contra auto, interlocutoria o resolución, dictada en el procedimiento si se trata de apelaciones de tramitación inmediata y en el término de tres días si se trata de apelación de tramitación conjunta con la sentencia definitiva.",
+    "Los agravios que hayan de expresarse en contra del auto, interlocutoria o resolución, cuando se trate de apelaciones de tramitación inmediata o de sentencia definitiva, se expresarán al interponerse el recurso de apelación. Los agravios que en su caso se deban expresar en contra de resoluciones de tramitación conjunta con la sentencia definitiva se expresarán en la forma y términos previstos en el artículo 1344 de este Código.",
+    "Artículo reformado DOF 24-05-1996, 17-04-2008, 30-12-2008"
+   ],
+   "official": [
+    "Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a $924,300.58 por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.",
+    "Párrafo reformado DOF 09-01-2012",
+    "Cantidad del párrafo actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 07-03-2016, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 26-12-2025, 18-02-2026",
+    "Corresponderá a la Secretaría de Economía actualizar cada año por inflación el monto expresado en pesos en el párrafo anterior y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.",
+    "Párrafo adicionado DOF 09-01-2012",
+    "Para estos efectos, se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía entre la última actualización de dicho monto y el mes de noviembre del año en cuestión.",
+    "Párrafo adicionado DOF 09-01-2012",
+    "Las sentencias que fueren recurribles, conforme al primer párrafo de este artículo, lo serán por la apelación que se admita en ambos efectos, salvo cuando la Ley expresamente determine que lo sean sólo en el devolutivo.",
+    "Párrafo reformado DOF 09-01-2012",
+    "Sólo serán apelables los autos, interlocutorias o resoluciones que decidan un incidente o cuando lo disponga este código, y la sentencia definitiva pueda ser susceptible de apelación, de acuerdo a lo dispuesto en el primer párrafo de este artículo.",
+    "El recurso de apelación contra autos, interlocutorias o resoluciones, que se dicten en el trámite del procedimiento se admitirá en el efecto devolutivo de tramitación conjunta con la apelación de la sentencia definitiva, sin que sea necesario en tal escrito la expresión de agravios; interpuesta esta apelación, se reservará su trámite para que se realice en su caso conjuntamente con la tramitación de la apelación que se formule en contra de la sentencia definitiva por la misma parte apelante.",
+    "Para que proceda la apelación contra autos, interlocutorias o resoluciones en efecto devolutivo o en el suspensivo se requiere disposición especial de la ley.",
+    "La apelación debe interponerse ante el tribunal que haya pronunciado el auto, interlocutoria o resolución, a más tardar dentro de los nueve días siguientes a aquél en que surta efectos la notificación si se tratare de sentencia definitiva, seis si fuere contra auto, interlocutoria o resolución, dictada en el procedimiento si se trata de apelaciones de tramitación inmediata y en el término de tres días si se trata de apelación de tramitación conjunta con la sentencia definitiva.",
+    "Los agravios que hayan de expresarse en contra del auto, interlocutoria o resolución, cuando se trate de apelaciones de tramitación inmediata o de sentencia definitiva, se expresarán al interponerse el recurso de apelación. Los agravios que en su caso se deban expresar en contra de resoluciones de tramitación conjunta con la sentencia definitiva se expresarán en la forma y términos previstos en el artículo 1344 de este Código.",
+    "Artículo reformado DOF 24-05-1996, 17-04-2008, 30-12-2008"
+   ],
+   "diff": [
+    [
+     "=",
+     "Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a"
+    ],
+    [
+     "-",
+     "$851,710.18"
+    ],
+    [
+     "+",
+     "$924,300.58"
+    ],
+    [
+     "=",
+     "por concepto de suerte principal, sin que sean de tomarse en consideración … 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 07-03-2016, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022,"
+    ],
+    [
+     "-",
+     "28-12-2023"
+    ],
+    [
+     "+",
+     "28-12-2023, 30-12-2024, 26-12-2025, 18-02-2026"
+    ],
+    [
+     "=",
+     "¶ Corresponderá a la Secretaría de Economía actualizar cada año por inflación …"
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "1340",
+   "label": "Artículo 1340.",
+   "status": "outside_decree",
+   "notes_match": true,
+   "before": [
+    "La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a $851,710.18 por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.",
+    "Artículo reformado DOF 30-12-1975, 04-01-1989, 17-04-2008, 30-12-2008, 09-01-2012",
+    "Cantidad del artículo actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 07-03-2016, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023"
+   ],
+   "ai": [
+    "La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a $851,710.18 por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.",
+    "Artículo reformado DOF 30-12-1975, 04-01-1989, 17-04-2008, 30-12-2008, 09-01-2012",
+    "Cantidad del artículo actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 07-03-2016, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023"
+   ],
+   "official": [
+    "La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a $924,300.58 por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.",
+    "Artículo reformado DOF 30-12-1975, 04-01-1989, 17-04-2008, 30-12-2008, 09-01-2012",
+    "Cantidad del artículo actualizada por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 07-03-2016, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 26-12-2025, 18-02-2026"
+   ],
+   "diff": [
+    [
+     "=",
+     "… paz o de cuantía menor, o cuando el monto sea inferior a"
+    ],
+    [
+     "-",
+     "$851,710.18"
+    ],
+    [
+     "+",
+     "$924,300.58"
+    ],
+    [
+     "=",
+     "por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos … 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 07-03-2016, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022,"
+    ],
+    [
+     "-",
+     "28-12-2023"
+    ],
+    [
+     "+",
+     "28-12-2023, 30-12-2024, 26-12-2025, 18-02-2026"
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "1390 bis 33",
+   "label": "Artículo 1390 Bis 33.",
+   "status": "outside_decree",
+   "notes_match": true,
+   "before": [
+    "La audiencia preliminar se llevará a cabo con o sin asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a $2,869.10, ni superior a $9,291.69, monto que se actualizará en los términos del artículo 1253, fracción VI de este Código.",
+    "Artículo adicionado DOF 27-01-2011. Reformado DOF 25-01-2017",
+    "Cantidades del artículo actualizadas por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023"
+   ],
+   "ai": [
+    "La audiencia preliminar se llevará a cabo con o sin asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a $2,869.10, ni superior a $9,291.69, monto que se actualizará en los términos del artículo 1253, fracción VI de este Código.",
+    "Artículo adicionado DOF 27-01-2011. Reformado DOF 25-01-2017",
+    "Cantidades del artículo actualizadas por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023"
+   ],
+   "official": [
+    "La audiencia preliminar se llevará a cabo con o sin asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a $3,113.63, ni superior a $10,051.06, monto que se actualizará en los términos del artículo 1253, fracción VI de este Código.",
+    "Artículo adicionado DOF 27-01-2011. Reformado DOF 25-01-2017",
+    "Cantidades del artículo actualizadas por acuerdo DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022, 28-12-2023, 30-12-2024, 26-12-2025, 18-02-2026"
+   ],
+   "diff": [
+    [
+     "=",
+     "… juez se le impondrá una sanción, que no podrá ser inferior a"
+    ],
+    [
+     "-",
+     "$2,869.10,"
+    ],
+    [
+     "+",
+     "$3,113.63,"
+    ],
+    [
+     "=",
+     "ni superior a"
+    ],
+    [
+     "-",
+     "$9,291.69,"
+    ],
+    [
+     "+",
+     "$10,051.06,"
+    ],
+    [
+     "=",
+     "monto que se actualizará en los términos del artículo 1253, fracción VI … DOF 29-12-2012, 30-12-2013, 26-12-2014, 24-12-2015, 26-12-2016, 26-12-2017, 31-12-2018, 30-12-2019, 24-12-2020, 30-12-2021, 27-12-2022,"
+    ],
+    [
+     "-",
+     "28-12-2023"
+    ],
+    [
+     "+",
+     "28-12-2023, 30-12-2024, 26-12-2025, 18-02-2026"
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "1393",
+   "label": "Artículo 1393.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "No encontrándose el demandado a la primera busca en el inmueble señalado por el actor, pero cerciorado de ser el domicilio de aquél, se le dejará citatorio fijándole hora hábil, dentro de un lapso comprendido entre las seis y las setenta y dos horas posteriores, y si no aguarda, se practicará la diligencia de embargo con los parientes, empleados o domésticos del interesado, o cualquier otra persona que viva en el domicilio señalado, siguiéndose las reglas del Código Federal de Procedimientos Civiles, respecto de los embargos.",
+    "Una vez que el actuario o ejecutor se cerciore de que en el domicilio sí habita la persona buscada y después de la habilitación de días y horas inhábiles, de persistir la negativa de abrir o de atender la diligencia, el actuario dará fe para que el Juez ordene dicha diligencia por medio de edictos sin girar oficios para la localización del domicilio.",
+    "Artículo reformado DOF 24-05-1996, 13-06-2003, 10-01-2014"
+   ],
+   "ai": [
+    "No encontrándose el demandado a la primera busca en el inmueble señalado por el actor, pero cerciorado de ser el domicilio de aquél, se le dejará citatorio fijándole hora hábil, dentro de un lapso comprendido entre las seis y las setenta y dos horas posteriores, y si no aguarda, se practicará la diligencia de embargo con los parientes, empleados o domésticos del interesado, o cualquier otra persona que viva en el domicilio señalado, siguiéndose las reglas del Código Nacional de Procedimientos Civiles y Familiares respecto de los embargos.",
+    "Párrafo reformado DOF 14-11-2025",
+    "Una vez que el actuario o ejecutor se cerciore de que en el domicilio sí habita la persona buscada y después de la habilitación de días y horas inhábiles, de persistir la negativa de abrir o de atender la diligencia, el actuario dará fe para que el Juez ordene dicha diligencia por medio de edictos sin girar oficios para la localización del domicilio.",
+    "Artículo reformado DOF 24-05-1996, 13-06-2003, 10-01-2014"
+   ],
+   "official": [
+    "No encontrándose el demandado a la primera busca en el inmueble señalado por el actor, pero cerciorado de ser el domicilio de aquél, se le dejará citatorio fijándole hora hábil, dentro de un lapso comprendido entre las seis y las setenta y dos horas posteriores, y si no aguarda, se practicará la diligencia de embargo con los parientes, empleados o domésticos del interesado, o cualquier otra persona que viva en el domicilio señalado, siguiéndose las reglas del Código Nacional de Procedimientos Civiles y Familiares respecto de los embargos.",
+    "Párrafo reformado DOF 14-11-2025",
+    "Una vez que el actuario o ejecutor se cerciore de que en el domicilio sí habita la persona buscada y después de la habilitación de días y horas inhábiles, de persistir la negativa de abrir o de atender la diligencia, el actuario dará fe para que el Juez ordene dicha diligencia por medio de edictos sin girar oficios para la localización del domicilio.",
+    "Artículo reformado DOF 24-05-1996, 13-06-2003, 10-01-2014"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "1414",
+   "label": "Artículo 1414.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Cualquier incidente o cuestión que se suscite en los Juicios Ejecutivos Mercantiles será resuelto por el juez con apoyo en las disposiciones respectivas de este Título; y en su defecto, en lo relativo a los incidentes en los Juicios Ordinarios Mercantiles; y a falta de uno u otro, a lo que disponga el Código Federal de Procedimientos Civiles, o en su defecto la ley procesal de la Entidad Federativa correspondiente, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.",
+    "Artículo reformado DOF 24-05-1996, 13-06-2003, 17-04-2008"
+   ],
+   "ai": [
+    "Cualquier incidente o cuestión que se suscite en los Juicios Ejecutivos Mercantiles será resuelto por el juez con apoyo en las disposiciones respectivas de este Título; y en su defecto, en lo relativo a los incidentes en los Juicios Ordinarios Mercantiles; y a falta de uno u otro, a lo que disponga el Código Nacional de Procedimientos Civiles y Familiares, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.",
+    "Artículo reformado DOF 24-05-1996, 13-06-2003, 17-04-2008, 14-11-2025"
+   ],
+   "official": [
+    "Cualquier incidente o cuestión que se suscite en los Juicios Ejecutivos Mercantiles será resuelto por el juez con apoyo en las disposiciones respectivas de este Título; y en su defecto, en lo relativo a los incidentes en los Juicios Ordinarios Mercantiles; y a falta de uno u otro, a lo que disponga el Código Nacional de Procedimientos Civiles y Familiares, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.",
+    "Artículo reformado DOF 24-05-1996, 13-06-2003, 17-04-2008, 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "1466",
+   "label": "Artículo 1466.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Se tramitarán en vía de jurisdicción voluntaria conforme a los artículos 530 a 532 y 534 a 537 del Código Federal de Procedimientos Civiles:",
+    "I. La solicitud de designación de árbitros o la adopción de medidas previstas en las fracciones III y IV del artículo 1427 de este Código.",
+    "II. La solicitud de asistencia para el desahogo de pruebas prevista en el artículo 1444 de este Código.",
+    "III. La consulta sobre los honorarios del Tribunal Arbitral prevista en el artículo 1454 de este Código.",
+    "Artículo derogado DOF 20-04-1943. Adicionado DOF 27-01-2011"
+   ],
+   "ai": [
+    "Se tramitarán en vía de jurisdicción voluntaria conforme al Código Nacional de Procedimientos Civiles y Familiares, con excepción del artículo 433:",
+    "Párrafo reformado DOF 14-11-2025",
+    "I. La solicitud de designación de árbitros o la adopción de medidas previstas en las fracciones III y IV del artículo 1427 de este Código.",
+    "II. La solicitud de asistencia para el desahogo de pruebas prevista en el artículo 1444 de este Código.",
+    "III. La consulta sobre los honorarios del Tribunal Arbitral prevista en el artículo 1454 de este Código.",
+    "Artículo derogado DOF 20-04-1943. Adicionado DOF 27-01-2011"
+   ],
+   "official": [
+    "Se tramitarán en vía de jurisdicción voluntaria conforme al Código Nacional de Procedimientos Civiles y Familiares, con excepción del artículo 433:",
+    "Párrafo reformado DOF 14-11-2025",
+    "I. La solicitud de designación de árbitros o la adopción de medidas previstas en las fracciones III y IV del artículo 1427 de este Código.",
+    "II. La solicitud de asistencia para el desahogo de pruebas prevista en el artículo 1444 de este Código.",
+    "III. La consulta sobre los honorarios del Tribunal Arbitral prevista en el artículo 1454 de este Código.",
+    "Artículo derogado DOF 20-04-1943. Adicionado DOF 27-01-2011"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "1477",
+   "label": "Artículo 1477.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Los juicios especiales que versen sobre nulidad o reconocimiento y ejecución de laudos comerciales podrán acumularse. Para que proceda la acumulación, es necesario que no se haya celebrado la audiencia de alegatos. La acumulación se hará en favor del juez que haya prevenido. La acumulación no procede respecto de procesos que se ventilen en jurisdicciones territoriales diversas o en el extranjero, ni entre tribunales federales y los de los estados. La acumulación se tramitará conforme a los artículos 73 a 75 del Código Federal de Procedimientos Civiles. La resolución que resuelva sobre la acumulación es irrecurrible.",
+    "Artículo derogado DOF 20-04-1943. Adicionado DOF 27-01-2011"
+   ],
+   "ai": [
+    "Los juicios especiales que versen sobre nulidad o reconocimiento y ejecución de laudos comerciales podrán acumularse. Para que proceda la acumulación, es necesario que no se haya celebrado la audiencia de alegatos. La acumulación se hará en favor del juez que haya prevenido. La acumulación no procede respecto de procesos que se ventilen en jurisdicciones territoriales diversas o en el extranjero, ni entre tribunales federales y los de los estados. La acumulación se tramitará conforme al Código Nacional de Procedimientos Civiles y Familiares. La resolución que resuelva sobre la acumulación es irrecurrible.",
+    "Artículo derogado DOF 20-04-1943. Adicionado DOF 27-01-2011. Reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "Los juicios especiales que versen sobre nulidad o reconocimiento y ejecución de laudos comerciales podrán acumularse. Para que proceda la acumulación, es necesario que no se haya celebrado la audiencia de alegatos. La acumulación se hará en favor del juez que haya prevenido. La acumulación no procede respecto de procesos que se ventilen en jurisdicciones territoriales diversas o en el extranjero, ni entre tribunales federales y los de los estados. La acumulación se tramitará conforme al Código Nacional de Procedimientos Civiles y Familiares. La resolución que resuelva sobre la acumulación es irrecurrible.",
+    "Artículo derogado DOF 20-04-1943. Adicionado DOF 27-01-2011. Reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  }
+ ]
+}

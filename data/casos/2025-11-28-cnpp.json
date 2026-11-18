@@ -1,0 +1,525 @@
+{
+ "id": "2025-11-28-cnpp",
+ "source": "backtest",
+ "law": {
+  "slug": "cnpp",
+  "title": "Código Nacional de Procedimientos Penales",
+  "abbreviation": "CNPP"
+ },
+ "decree": {
+  "code": 5774377,
+  "title": "Decreto por el que se expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y, se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación.",
+  "date": "2025-11-28",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5774377&fecha=28/11/2025",
+  "pdf": null,
+  "instruction": [
+   "Artículo Tercero.- Se reforman los artículos 167, párrafos tercero y cuarto, y 277, párrafo cuarto, del Código Nacional de Procedimientos Penales, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "95e4e3bc26931027bdcc6f304c4c78778a24e40f"
+ },
+ "official": {
+  "commit": "4e3a0e2e057cc742b27dd86b92a80984a5751c04",
+  "date": "2025-11-28",
+  "same_day": true
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "Artículo 167.",
+    "Artículo 277."
+   ],
+   "key": "29d0caf9889cba9d523539be33823b1489ecc2444f31683ef7beb1e206003162",
+   "cached": true,
+   "duration_ms": 10210,
+   "cost_usd": 0.0804298,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "167": {
+   "label": "Artículo 167.",
+   "headings": [],
+   "lines": [
+    "Artículo 167. Causas de procedencia",
+    "...",
+    "...",
+    "La Persona Juzgadora de control en el ámbito de su competencia, ordenará la prisión preventiva oficiosamente en los casos de abuso o violencia sexual contra menores, delincuencia organizada, extorsión, delitos previstos en las leyes aplicables cometidos para la ilegal introducción y desvío, producción, preparación, enajenación, adquisición, importación, exportación, transportación, almacenamiento y distribución de precursores químicos y sustancias químicas esenciales, drogas sintéticas, fentanilo y derivados, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad y de la salud, así como contrabando y cualquier actividad relacionada con falsos comprobantes fiscales.",
+    "Las leyes generales de salud, secuestro, trata de personas, extorsión, delitos electorales y desaparición forzada de personas y desaparición cometida por particulares, así como las leyes federales para prevenir y sancionar los delitos cometidos en materia de hidrocarburos, armas de fuego y explosivos, para el control de precursores químicos, productos químicos esenciales y máquinas para elaborar cápsulas, tabletas y/o comprimidos, y contra la delincuencia organizada; y el Código Fiscal de la Federación, establecerán los supuestos que ameriten prisión preventiva oficiosa de conformidad con lo dispuesto por el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.",
+    "...",
+    "...",
+    "...",
+    "..."
+   ]
+  },
+  "277": {
+   "label": "Artículo 277.",
+   "headings": [],
+   "lines": [
+    "Artículo 277. Procedimiento para reconocer personas",
+    "...",
+    "...",
+    "...",
+    "Tratándose de personas menores de edad o tratándose de víctimas o personas ofendidas por los delitos de extorsión, secuestro, trata de personas o violación que deban participar en el reconocimiento de personas, el Ministerio Público dispondrá medidas especiales para su participación, con el propósito de salvaguardar su identidad e integridad emocional. En la práctica de tales actos, el Ministerio Público deberá contar, en su caso, con el auxilio de personas peritas y con la asistencia del representante del menor de edad.",
+    "..."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "Artículo 167.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "paragraphs": [
+     "La Persona Juzgadora de control en el ámbito de su competencia, ordenará la prisión preventiva oficiosamente en los casos de abuso o violencia sexual contra menores, delincuencia organizada, extorsión, delitos previstos en las leyes aplicables cometidos para la ilegal introducción y desvío, producción, preparación, enajenación, adquisición, importación, exportación, transportación, almacenamiento y distribución de precursores químicos y sustancias químicas esenciales, drogas sintéticas, fentanilo y derivados, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad y de la salud, así como contrabando y cualquier actividad relacionada con falsos comprobantes fiscales."
+    ],
+    "from_block": 4,
+    "to_block": 4,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 167.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "paragraphs": [
+     "Las leyes generales de salud, secuestro, trata de personas, extorsión, delitos electorales y desaparición forzada de personas y desaparición cometida por particulares, así como las leyes federales para prevenir y sancionar los delitos cometidos en materia de hidrocarburos, armas de fuego y explosivos, para el control de precursores químicos, productos químicos esenciales y máquinas para elaborar cápsulas, tabletas y/o comprimidos, y contra la delincuencia organizada; y el Código Fiscal de la Federación, establecerán los supuestos que ameriten prisión preventiva oficiosa de conformidad con lo dispuesto por el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos."
+    ],
+    "from_block": 6,
+    "to_block": 6,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 277.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "paragraphs": [
+     "Tratándose de personas menores de edad o tratándose de víctimas o personas ofendidas por los delitos de extorsión, secuestro, trata de personas o violación que deban participar en el reconocimiento de personas, el Ministerio Público dispondrá medidas especiales para su participación, con el propósito de salvaguardar su identidad e integridad emocional. En la práctica de tales actos, el Ministerio Público deberá contar, en su caso, con el auxilio de personas peritas y con la asistencia del representante del menor de edad."
+    ],
+    "from_block": 5,
+    "to_block": 5,
+    "insert_after": null,
+    "batch": 1
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "needs_review": [],
+ "counts": {
+  "exact": 1,
+  "normalized": 0,
+  "mismatch": 1,
+  "not_applied": 0,
+  "outside_decree": 3,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 1,
+  "notes_match": 1
+ },
+ "transitorios": "normalized",
+ "body_identical": false,
+ "articles": [
+  {
+   "key": "138",
+   "label": "Artículo 138.",
+   "status": "outside_decree",
+   "notes_match": false,
+   "before": [
+    "Providencias precautorias para la restitución de derechos de la víctima",
+    "Para garantizar la reparación del daño, la víctima, el ofendido o el Ministerio Público, podrán solicitar al juez las siguientes providencias precautorias:",
+    "I. El embargo de bienes, y",
+    "II. La inmovilización de cuentas y demás valores que se encuentren dentro del sistema financiero.",
+    "El juez decretará las providencias precautorias, siempre y cuando, de los datos de prueba expuestos por el Ministerio Público y la víctima u ofendido, se desprenda la posible reparación del daño y la probabilidad de que el imputado será responsable de repararlo.",
+    "Decretada la providencia precautoria, podrá revisarse, modificarse, sustituirse o cancelarse a petición del imputado o de terceros interesados, debiéndose escuchar a la víctima u ofendido y al Ministerio Público.",
+    "Las providencias precautorias serán canceladas si el imputado garantiza o paga la reparación del daño; si fueron decretadas antes de la audiencia inicial y el Ministerio Público no las promueve, o no solicita orden de aprehensión en el término que señala este Código; si se declara fundada la solicitud de cancelación de embargo planteada por la persona en contra de la cual se decretó o de un tercero, o si se dicta sentencia absolutoria, se decreta el sobreseimiento o se absuelve de la reparación del daño.",
+    "La providencia precautoria se hará efectiva a favor de la víctima u ofendido cuando la sentencia que condene a reparar el daño cause ejecutoria. El embargo se regirá en lo conducente por las reglas generales del embargo previstas en el Código Federal de Procedimientos Civiles."
+   ],
+   "ai": [
+    "Providencias precautorias para la restitución de derechos de la víctima",
+    "Para garantizar la reparación del daño, la víctima, el ofendido o el Ministerio Público, podrán solicitar al juez las siguientes providencias precautorias:",
+    "I. El embargo de bienes, y",
+    "II. La inmovilización de cuentas y demás valores que se encuentren dentro del sistema financiero.",
+    "El juez decretará las providencias precautorias, siempre y cuando, de los datos de prueba expuestos por el Ministerio Público y la víctima u ofendido, se desprenda la posible reparación del daño y la probabilidad de que el imputado será responsable de repararlo.",
+    "Decretada la providencia precautoria, podrá revisarse, modificarse, sustituirse o cancelarse a petición del imputado o de terceros interesados, debiéndose escuchar a la víctima u ofendido y al Ministerio Público.",
+    "Las providencias precautorias serán canceladas si el imputado garantiza o paga la reparación del daño; si fueron decretadas antes de la audiencia inicial y el Ministerio Público no las promueve, o no solicita orden de aprehensión en el término que señala este Código; si se declara fundada la solicitud de cancelación de embargo planteada por la persona en contra de la cual se decretó o de un tercero, o si se dicta sentencia absolutoria, se decreta el sobreseimiento o se absuelve de la reparación del daño.",
+    "La providencia precautoria se hará efectiva a favor de la víctima u ofendido cuando la sentencia que condene a reparar el daño cause ejecutoria. El embargo se regirá en lo conducente por las reglas generales del embargo previstas en el Código Federal de Procedimientos Civiles."
+   ],
+   "official": [
+    "Providencias precautorias para la restitución de derechos de la víctima",
+    "Para garantizar la reparación del daño, la víctima, el ofendido o el Ministerio Público, podrán solicitar al juez las siguientes providencias precautorias:",
+    "I. El embargo de bienes, y",
+    "II. La inmovilización de cuentas y demás valores que se encuentren dentro del sistema financiero.",
+    "El juez decretará las providencias precautorias, siempre y cuando, de los datos de prueba expuestos por el Ministerio Público y la víctima u ofendido, se desprenda la posible reparación del daño y la probabilidad de que el imputado será responsable de repararlo.",
+    "Decretada la providencia precautoria, podrá revisarse, modificarse, sustituirse o cancelarse a petición del imputado o de terceros interesados, debiéndose escuchar a la víctima u ofendido y al Ministerio Público.",
+    "Las providencias precautorias serán canceladas si el imputado garantiza o paga la reparación del daño; si fueron decretadas antes de la audiencia inicial y el Ministerio Público no las promueve, o no solicita orden de aprehensión en el término que señala este Código; si se declara fundada la solicitud de cancelación de embargo planteada por la persona en contra de la cual se decretó o de un tercero, o si se dicta sentencia absolutoria, se decreta el sobreseimiento o se absuelve de la reparación del daño.",
+    "La providencia precautoria se hará efectiva a favor de la víctima u ofendido cuando la sentencia que condene a reparar el daño cause ejecutoria. El embargo se regirá en lo conducente por las reglas generales del embargo previstas en el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Párrafo reformado DOF 14-11-2025"
+   ],
+   "diff": [
+    [
+     "=",
+     "… lo conducente por las reglas generales del embargo previstas en el Código"
+    ],
+    [
+     "-",
+     "Federal"
+    ],
+    [
+     "+",
+     "Nacional"
+    ],
+    [
+     "=",
+     "de Procedimientos"
+    ],
+    [
+     "-",
+     "Civiles."
+    ],
+    [
+     "+",
+     "Civiles y Familiares."
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "167",
+   "label": "Artículo 167.",
+   "status": "mismatch",
+   "notes_match": false,
+   "before": [
+    "Causas de procedencia",
+    "El Ministerio Público sólo podrá solicitar al Juez de control la prisión preventiva o el resguardo domiciliario cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso, siempre y cuando la causa diversa no sea acumulable o conexa en los términos del presente Código.",
+    "En el supuesto de que el imputado esté siendo procesado por otro delito distinto de aquel en el que se solicite la prisión preventiva, deberá analizarse si ambos procesos son susceptibles de acumulación, en cuyo caso la existencia de proceso previo no dará lugar por si sola a la procedencia de la prisión preventiva.",
+    "El Juez de control en el ámbito de su competencia, ordenará la prisión preventiva oficiosamente en los casos de abuso o violencia sexual contra menores, delincuencia organizada, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad, y de la salud.",
+    "Párrafo reformado DOF 19-02-2021",
+    "Las leyes generales de salud, secuestro, trata de personas, delitos electorales y desaparición forzada de personas y desaparición cometida por particulares, así como las leyes federales para prevenir y sancionar los delitos cometidos en materia de hidrocarburos, armas de fuego y explosivos, y contra la delincuencia organizada, establecerán los supuestos que ameriten prisión preventiva oficiosa de conformidad con lo dispuesto por el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.",
+    "Párrafo reformado DOF 19-02-2021",
+    "Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Penal Federal, de la manera siguiente:",
+    "Párrafo reformado DOF 08-11-2019",
+    "I. Homicidio doloso previsto en los artículos 302 en relación al 307, 313, 315, 315 Bis, 320 y 323;",
+    "II. Genocidio, previsto en el artículo 149 Bis;",
+    "III. Violación prevista en los artículos 265, 266 y 266 Bis;",
+    "IV. Traición a la patria, previsto en los artículos 123, 124, 125 y 126;",
+    "V. Espionaje, previsto en los artículos 127 y 128;",
+    "VI. Terrorismo, previsto en los artículos 139 al 139 Ter y terrorismo internacional previsto en los artículos 148 Bis al 148 Quáter;",
+    "VII. Sabotaje, previsto en el artículo 140, párrafo primero;",
+    "VIII. Los previstos en los artículos 142, párrafo segundo y 145;",
+    "IX. Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 Bis; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204 y Pederastia, previsto en el artículo 209 Bis;",
+    "X. Tráfico de menores, previsto en el artículo 366 Ter;",
+    "XI. Contra la salud, previsto en los artículos 194, 195, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero;",
+    "Fracción reformada DOF 19-02-2021",
+    "XII. Abuso o violencia sexual contra menores, previsto en los artículos 261 en relación con el 260;",
+    "Fracción adicionada DOF 19-02-2021",
+    "XIII. Feminicidio, previsto en el artículo 325;",
+    "Fracción adicionada DOF 19-02-2021",
+    "XIV. Robo a casa habitación, previsto en el artículo 381 Bis;",
+    "Fracción adicionada DOF 19-02-2021",
+    "XV. Ejercicio abusivo de funciones, previsto en las fracciones I y II del primer párrafo del artículo 220, en relación con su cuarto párrafo;",
+    "Fracción adicionada DOF 19-02-2021",
+    "XVI. Enriquecimiento ilícito previsto en el artículo 224, en relación con su séptimo párrafo, y",
+    "Fracción adicionada DOF 19-02-2021",
+    "XVII. Robo al transporte de carga, en cualquiera de sus modalidades, previsto en los artículos 376 Ter y 381, fracción XVII.",
+    "Fracción adicionada DOF 19-02-2021",
+    "[Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Fiscal de la Federación, de la siguiente manera:",
+    "I. Contrabando y su equiparable, de conformidad con lo dispuesto en los artículos 102 y 105, fracciones I y IV, cuando estén a las sanciones previstas en las fracciones II o III, párrafo segundo, del artículo 104, exclusivamente cuando sean calificados;",
+    "II. Defraudación fiscal y su equiparable, de conformidad con lo dispuesto en los artículos 108 y 109, cuando el monto de lo defraudado supere 3 veces lo dispuesto en la fracción III del artículo 108 del Código Fiscal de la Federación, exclusivamente cuando sean calificados, y",
+    "III. La expedición, venta, enajenación, compra o adquisición de comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados, de conformidad con lo dispuesto en el artículo 113 Bis del Código Fiscal de la Federación, exclusivamente cuando las cifras, cantidad o valor de los comprobantes fiscales, superen 3 veces lo establecido en la fracción III del artículo 108 del Código Fiscal de la Federación.]",
+    "Párrafo con fracciones adicionado DOF 08-11-2019",
+    "Párrafo con fracciones declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022",
+    "El juez no impondrá la prisión preventiva oficiosa y la sustituirá por otra medida cautelar, únicamente cuando lo solicite el Ministerio Público por no resultar proporcional para garantizar la comparecencia del imputado en el proceso, el desarrollo de la investigación, la protección de la víctima y de los testigos o de la comunidad o bien, cuando exista voluntad de las partes para celebrar un acuerdo reparatorio de cumplimiento inmediato, siempre que se trate de alguno de los delitos en los que sea procedente dicha forma de solución alterna del procedimiento. La solicitud deberá contar con la autorización del titular de la Fiscalía o de la persona funcionaria en la cual delegue esa facultad.",
+    "Párrafo reformado DOF 19-02-2021",
+    "Si la prisión preventiva oficiosa ya hubiere sido impuesta, pero las partes manifiestan la voluntad de celebrar un acuerdo reparatorio de cumplimiento inmediato, el Ministerio Público solicitará al juez la sustitución de la medida cautelar para que las partes concreten el acuerdo con el apoyo del Órgano especializado en la materia.",
+    "Párrafo adicionado DOF 19-02-2021",
+    "En los casos en los que la víctima u ofendido y la persona imputada deseen participar en un Mecanismo Alternativo de Solución de Controversias, y no sea factible modificar la medida cautelar de prisión preventiva, por existir riesgo de que el imputado se sustraiga del procedimiento o lo obstaculice, el o la Juez de Control podrá derivar el asunto al Órgano especializado en la materia, para promover la reparación del daño y concretar el acuerdo correspondiente.",
+    "Párrafo adicionado DOF 19-02-2021",
+    "Reforma DOF 19-02-2021: Suprimió del artículo el entonces párrafo quinto"
+   ],
+   "ai": [
+    "Causas de procedencia",
+    "El Ministerio Público sólo podrá solicitar al Juez de control la prisión preventiva o el resguardo domiciliario cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso, siempre y cuando la causa diversa no sea acumulable o conexa en los términos del presente Código.",
+    "En el supuesto de que el imputado esté siendo procesado por otro delito distinto de aquel en el que se solicite la prisión preventiva, deberá analizarse si ambos procesos son susceptibles de acumulación, en cuyo caso la existencia de proceso previo no dará lugar por si sola a la procedencia de la prisión preventiva.",
+    "La Persona Juzgadora de control en el ámbito de su competencia, ordenará la prisión preventiva oficiosamente en los casos de abuso o violencia sexual contra menores, delincuencia organizada, extorsión, delitos previstos en las leyes aplicables cometidos para la ilegal introducción y desvío, producción, preparación, enajenación, adquisición, importación, exportación, transportación, almacenamiento y distribución de precursores químicos y sustancias químicas esenciales, drogas sintéticas, fentanilo y derivados, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad y de la salud, así como contrabando y cualquier actividad relacionada con falsos comprobantes fiscales.",
+    "Párrafo reformado DOF 19-02-2021, 28-11-2025",
+    "Las leyes generales de salud, secuestro, trata de personas, extorsión, delitos electorales y desaparición forzada de personas y desaparición cometida por particulares, así como las leyes federales para prevenir y sancionar los delitos cometidos en materia de hidrocarburos, armas de fuego y explosivos, para el control de precursores químicos, productos químicos esenciales y máquinas para elaborar cápsulas, tabletas y/o comprimidos, y contra la delincuencia organizada; y el Código Fiscal de la Federación, establecerán los supuestos que ameriten prisión preventiva oficiosa de conformidad con lo dispuesto por el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.",
+    "Párrafo reformado DOF 19-02-2021, 28-11-2025",
+    "Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Penal Federal, de la manera siguiente:",
+    "Párrafo reformado DOF 08-11-2019",
+    "I. Homicidio doloso previsto en los artículos 302 en relación al 307, 313, 315, 315 Bis, 320 y 323;",
+    "II. Genocidio, previsto en el artículo 149 Bis;",
+    "III. Violación prevista en los artículos 265, 266 y 266 Bis;",
+    "IV. Traición a la patria, previsto en los artículos 123, 124, 125 y 126;",
+    "V. Espionaje, previsto en los artículos 127 y 128;",
+    "VI. Terrorismo, previsto en los artículos 139 al 139 Ter y terrorismo internacional previsto en los artículos 148 Bis al 148 Quáter;",
+    "VII. Sabotaje, previsto en el artículo 140, párrafo primero;",
+    "VIII. Los previstos en los artículos 142, párrafo segundo y 145;",
+    "IX. Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 Bis; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204 y Pederastia, previsto en el artículo 209 Bis;",
+    "X. Tráfico de menores, previsto en el artículo 366 Ter;",
+    "XI. Contra la salud, previsto en los artículos 194, 195, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero;",
+    "Fracción reformada DOF 19-02-2021",
+    "XII. Abuso o violencia sexual contra menores, previsto en los artículos 261 en relación con el 260;",
+    "Fracción adicionada DOF 19-02-2021",
+    "XIII. Feminicidio, previsto en el artículo 325;",
+    "Fracción adicionada DOF 19-02-2021",
+    "XIV. Robo a casa habitación, previsto en el artículo 381 Bis;",
+    "Fracción adicionada DOF 19-02-2021",
+    "XV. Ejercicio abusivo de funciones, previsto en las fracciones I y II del primer párrafo del artículo 220, en relación con su cuarto párrafo;",
+    "Fracción adicionada DOF 19-02-2021",
+    "XVI. Enriquecimiento ilícito previsto en el artículo 224, en relación con su séptimo párrafo, y",
+    "Fracción adicionada DOF 19-02-2021",
+    "XVII. Robo al transporte de carga, en cualquiera de sus modalidades, previsto en los artículos 376 Ter y 381, fracción XVII.",
+    "Fracción adicionada DOF 19-02-2021",
+    "[Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Fiscal de la Federación, de la siguiente manera:",
+    "I. Contrabando y su equiparable, de conformidad con lo dispuesto en los artículos 102 y 105, fracciones I y IV, cuando estén a las sanciones previstas en las fracciones II o III, párrafo segundo, del artículo 104, exclusivamente cuando sean calificados;",
+    "II. Defraudación fiscal y su equiparable, de conformidad con lo dispuesto en los artículos 108 y 109, cuando el monto de lo defraudado supere 3 veces lo dispuesto en la fracción III del artículo 108 del Código Fiscal de la Federación, exclusivamente cuando sean calificados, y",
+    "III. La expedición, venta, enajenación, compra o adquisición de comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados, de conformidad con lo dispuesto en el artículo 113 Bis del Código Fiscal de la Federación, exclusivamente cuando las cifras, cantidad o valor de los comprobantes fiscales, superen 3 veces lo establecido en la fracción III del artículo 108 del Código Fiscal de la Federación.]",
+    "Párrafo con fracciones adicionado DOF 08-11-2019",
+    "Párrafo con fracciones declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022",
+    "El juez no impondrá la prisión preventiva oficiosa y la sustituirá por otra medida cautelar, únicamente cuando lo solicite el Ministerio Público por no resultar proporcional para garantizar la comparecencia del imputado en el proceso, el desarrollo de la investigación, la protección de la víctima y de los testigos o de la comunidad o bien, cuando exista voluntad de las partes para celebrar un acuerdo reparatorio de cumplimiento inmediato, siempre que se trate de alguno de los delitos en los que sea procedente dicha forma de solución alterna del procedimiento. La solicitud deberá contar con la autorización del titular de la Fiscalía o de la persona funcionaria en la cual delegue esa facultad.",
+    "Párrafo reformado DOF 19-02-2021",
+    "Si la prisión preventiva oficiosa ya hubiere sido impuesta, pero las partes manifiestan la voluntad de celebrar un acuerdo reparatorio de cumplimiento inmediato, el Ministerio Público solicitará al juez la sustitución de la medida cautelar para que las partes concreten el acuerdo con el apoyo del Órgano especializado en la materia.",
+    "Párrafo adicionado DOF 19-02-2021",
+    "En los casos en los que la víctima u ofendido y la persona imputada deseen participar en un Mecanismo Alternativo de Solución de Controversias, y no sea factible modificar la medida cautelar de prisión preventiva, por existir riesgo de que el imputado se sustraiga del procedimiento o lo obstaculice, el o la Juez de Control podrá derivar el asunto al Órgano especializado en la materia, para promover la reparación del daño y concretar el acuerdo correspondiente.",
+    "Párrafo adicionado DOF 19-02-2021",
+    "Reforma DOF 19-02-2021: Suprimió del artículo el entonces párrafo quinto"
+   ],
+   "official": [
+    "Causas de procedencia",
+    "El Ministerio Público sólo podrá solicitar al Juez de control la prisión preventiva o el resguardo domiciliario cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso, siempre y cuando la causa diversa no sea acumulable o conexa en los términos del presente Código.",
+    "En el supuesto de que el imputado esté siendo procesado por otro delito distinto de aquel en el que se solicite la prisión preventiva, deberá analizarse si ambos procesos son susceptibles de acumulación, en cuyo caso la existencia de proceso previo no dará lugar por si sola a la procedencia de la prisión preventiva.",
+    "La Persona Juzgadora de control en el ámbito de su competencia, ordenará la prisión preventiva oficiosamente en los casos de abuso o violencia sexual contra menores, delincuencia organizada, extorsión, delitos previstos en las leyes aplicables cometidos para la ilegal introducción y desvío, producción, preparación, enajenación, adquisición, importación, exportación, transportación, almacenamiento y distribución de precursores químicos y sustancias químicas esenciales, drogas sintéticas, fentanilo y derivados, homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo de casa habitación, uso de programas sociales con fines electorales, corrupción tratándose de los delitos de enriquecimiento ilícito y ejercicio abusivo de funciones, robo al transporte de carga en cualquiera de sus modalidades, delitos en materia de hidrocarburos, petrolíferos o petroquímicos, delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, delitos cometidos con medios violentos como armas y explosivos, delitos en materia de armas de fuego y explosivos de uso exclusivo del Ejército, la Armada y la Fuerza Aérea, así como los delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad y de la salud, así como contrabando y cualquier actividad relacionada con falsos comprobantes fiscales.",
+    "Párrafo reformado DOF 19-02-2021, 28-11-2025",
+    "Las leyes generales de salud, secuestro, trata de personas, extorsión, delitos electorales y desaparición forzada de personas y desaparición cometida por particulares, así como las leyes federales para prevenir y sancionar los delitos cometidos en materia de hidrocarburos, armas de fuego y explosivos, para el control de precursores químicos, productos químicos esenciales y máquinas para elaborar cápsulas, tabletas y/o comprimidos, y contra la delincuencia organizada; y el Código Fiscal de la Federación, establecerán los supuestos que ameriten prisión preventiva oficiosa de conformidad con lo dispuesto por el párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos.",
+    "Párrafo reformado DOF 19-02-2021, 28-11-2025",
+    "Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Penal Federal, de la manera siguiente:",
+    "Párrafo reformado DOF 08-11-2019",
+    "I. Homicidio doloso previsto en los artículos 302 en relación al 307, 313, 315, 315 Bis, 320 y 323;",
+    "II. Genocidio, previsto en el artículo 149 Bis;",
+    "III. Violación prevista en los artículos 265, 266 y 266 Bis;",
+    "IV. Traición a la patria, previsto en los artículos 123, 124, 125 y 126;",
+    "V. Espionaje, previsto en los artículos 127 y 128;",
+    "VI. Terrorismo, previsto en los artículos 139 al 139 Ter y terrorismo internacional previsto en los artículos 148 Bis al 148 Quáter;",
+    "VII. Sabotaje, previsto en el artículo 140, párrafo primero;",
+    "VIII. Los previstos en los artículos 142, párrafo segundo y 145;",
+    "IX. Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 Bis; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204 y Pederastia, previsto en el artículo 209 Bis;",
+    "X. Tráfico de menores, previsto en el artículo 366 Ter;",
+    "XI. Contra la salud, previsto en los artículos 194, 195, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero;",
+    "Fracción reformada DOF 19-02-2021",
+    "XII. Abuso o violencia sexual contra menores, previsto en los artículos 261 en relación con el 260;",
+    "Fracción adicionada DOF 19-02-2021",
+    "XIII. Feminicidio, previsto en el artículo 325;",
+    "Fracción adicionada DOF 19-02-2021",
+    "XIV. Robo a casa habitación, previsto en el artículo 381 Bis;",
+    "Fracción adicionada DOF 19-02-2021",
+    "XV. Ejercicio abusivo de funciones, previsto en las fracciones I y II del primer párrafo del artículo 220, en relación con su cuarto párrafo;",
+    "Fracción adicionada DOF 19-02-2021",
+    "XVI. Enriquecimiento ilícito previsto en el artículo 224, en relación con su séptimo párrafo, y",
+    "Fracción adicionada DOF 19-02-2021",
+    "XVII. Robo al transporte de carga, en cualquiera de sus modalidades, previsto en los artículos 376 Ter y 381, fracción XVII.",
+    "Fracción adicionada DOF 19-02-2021",
+    "[Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Fiscal de la Federación, de la siguiente manera:",
+    "I. Contrabando y su equiparable, de conformidad con lo dispuesto en los artículos 102 y 105, fracciones I y IV, cuando estén a las sanciones previstas en las fracciones II o III, párrafo segundo, del artículo 104, exclusivamente cuando sean calificados;",
+    "II. Defraudación fiscal y su equiparable, de conformidad con lo dispuesto en los artículos 108 y 109, cuando el monto de lo defraudado supere 3 veces lo dispuesto en la fracción III del artículo 108 del Código Fiscal de la Federación, exclusivamente cuando sean calificados, y",
+    "III. La expedición, venta, enajenación, compra o adquisición de comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados, de conformidad con lo dispuesto en el artículo 113 Bis del Código Fiscal de la Federación, exclusivamente cuando las cifras, cantidad o valor de los comprobantes fiscales, superen 3 veces lo establecido en la fracción III del artículo 108 del Código Fiscal de la Federación.]",
+    "Párrafo con fracciones adicionado DOF 08-11-2019",
+    "Párrafo con fracciones declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025",
+    "El juez no impondrá la prisión preventiva oficiosa y la sustituirá por otra medida cautelar, únicamente cuando lo solicite el Ministerio Público por no resultar proporcional para garantizar la comparecencia del imputado en el proceso, el desarrollo de la investigación, la protección de la víctima y de los testigos o de la comunidad o bien, cuando exista voluntad de las partes para celebrar un acuerdo reparatorio de cumplimiento inmediato, siempre que se trate de alguno de los delitos en los que sea procedente dicha forma de solución alterna del procedimiento. La solicitud deberá contar con la autorización del titular de la Fiscalía o de la persona funcionaria en la cual delegue esa facultad.",
+    "Párrafo reformado DOF 19-02-2021",
+    "Si la prisión preventiva oficiosa ya hubiere sido impuesta, pero las partes manifiestan la voluntad de celebrar un acuerdo reparatorio de cumplimiento inmediato, el Ministerio Público solicitará al juez la sustitución de la medida cautelar para que las partes concreten el acuerdo con el apoyo del Órgano especializado en la materia.",
+    "Párrafo adicionado DOF 19-02-2021",
+    "En los casos en los que la víctima u ofendido y la persona imputada deseen participar en un Mecanismo Alternativo de Solución de Controversias, y no sea factible modificar la medida cautelar de prisión preventiva, por existir riesgo de que el imputado se sustraiga del procedimiento o lo obstaculice, el o la Juez de Control podrá derivar el asunto al Órgano especializado en la materia, para promover la reparación del daño y concretar el acuerdo correspondiente.",
+    "Párrafo adicionado DOF 19-02-2021",
+    "Reforma DOF 19-02-2021: Suprimió del artículo el entonces párrafo quinto"
+   ],
+   "diff": [
+    [
+     "=",
+     "… fracción III del artículo 108 del Código Fiscal de la Federación.] ¶"
+    ],
+    [
+     "-",
+     "Párrafo con fracciones declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 ¶"
+    ],
+    [
+     "=",
+     "El juez no impondrá la prisión preventiva oficiosa y la sustituirá por …"
+    ]
+   ],
+   "cause": "text"
+  },
+  {
+   "key": "187",
+   "label": "Artículo 187.",
+   "status": "outside_decree",
+   "notes_match": false,
+   "before": [
+    "Control sobre los acuerdos reparatorios",
+    "Procederán los acuerdos reparatorios únicamente en los casos siguientes:",
+    "I. Delitos que se persiguen por querella, por requisito equivalente de parte ofendida o que admiten el perdón de la víctima o el ofendido;",
+    "Fracción reformada DOF 29-12-2014",
+    "II. Delitos culposos, o",
+    "III. Delitos patrimoniales cometidos sin violencia sobre las personas.",
+    "No procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos que correspondan a los mismos delitos dolosos, tampoco procederán cuando se trate de delitos de violencia familiar o sus equivalentes en las Entidades federativas. [Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código.]",
+    "Párrafo reformado DOF 29-12-2014, 17-06-2016, 08-11-2019",
+    "Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 (En la porción normativa “Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”)",
+    "Tampoco serán procedentes en caso de que el imputado haya incumplido previamente un acuerdo reparatorio, salvo que haya sido absuelto.",
+    "Párrafo adicionado DOF 29-12-2014. Reformado DOF 17-06-2016"
+   ],
+   "ai": [
+    "Control sobre los acuerdos reparatorios",
+    "Procederán los acuerdos reparatorios únicamente en los casos siguientes:",
+    "I. Delitos que se persiguen por querella, por requisito equivalente de parte ofendida o que admiten el perdón de la víctima o el ofendido;",
+    "Fracción reformada DOF 29-12-2014",
+    "II. Delitos culposos, o",
+    "III. Delitos patrimoniales cometidos sin violencia sobre las personas.",
+    "No procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos que correspondan a los mismos delitos dolosos, tampoco procederán cuando se trate de delitos de violencia familiar o sus equivalentes en las Entidades federativas. [Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código.]",
+    "Párrafo reformado DOF 29-12-2014, 17-06-2016, 08-11-2019",
+    "Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 (En la porción normativa “Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”)",
+    "Tampoco serán procedentes en caso de que el imputado haya incumplido previamente un acuerdo reparatorio, salvo que haya sido absuelto.",
+    "Párrafo adicionado DOF 29-12-2014. Reformado DOF 17-06-2016"
+   ],
+   "official": [
+    "Control sobre los acuerdos reparatorios",
+    "Procederán los acuerdos reparatorios únicamente en los casos siguientes:",
+    "I. Delitos que se persiguen por querella, por requisito equivalente de parte ofendida o que admiten el perdón de la víctima o el ofendido;",
+    "Fracción reformada DOF 29-12-2014",
+    "II. Delitos culposos, o",
+    "III. Delitos patrimoniales cometidos sin violencia sobre las personas.",
+    "No procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos que correspondan a los mismos delitos dolosos, tampoco procederán cuando se trate de delitos de violencia familiar o sus equivalentes en las Entidades federativas. [Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código.]",
+    "Párrafo reformado DOF 29-12-2014, 17-06-2016, 08-11-2019",
+    "Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025 (En la porción normativa “Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”)",
+    "Tampoco serán procedentes en caso de que el imputado haya incumplido previamente un acuerdo reparatorio, salvo que haya sido absuelto.",
+    "Párrafo adicionado DOF 29-12-2014. Reformado DOF 17-06-2016"
+   ],
+   "diff": [
+    [
+     "=",
+     "… y III del párrafo séptimo del artículo 167 del presente Código.] ¶"
+    ],
+    [
+     "-",
+     "Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 (En la porción normativa “Tampoco serán procedentes los acuerdos reparatorios para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código”) ¶"
+    ],
+    [
+     "=",
+     "Tampoco serán procedentes en caso de que el imputado haya incumplido previamente un acuerdo reparatorio, salvo que haya sido absuelto."
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "192",
+   "label": "Artículo 192.",
+   "status": "outside_decree",
+   "notes_match": false,
+   "before": [
+    "Procedencia",
+    "La suspensión condicional del proceso, a solicitud del imputado o del Ministerio Público con acuerdo de aquél, procederá en los casos en que se cubran los requisitos siguientes:",
+    "I. Que el auto de vinculación a proceso del imputado se haya dictado por un delito cuya media aritmética de la pena de prisión no exceda de cinco años;",
+    "Fracción reformada DOF 17-06-2016",
+    "II. Que no exista oposición fundada de la víctima y ofendido, y",
+    "Fracción reformada DOF 17-06-2016",
+    "III. Que hayan transcurrido dos años desde el cumplimiento o cinco años desde el incumplimiento, de una suspensión condicional anterior, en su caso.",
+    "Fracción adicionada DOF 17-06-2016",
+    "Lo señalado en la fracción III del presente artículo, no procederá cuando el imputado haya sido absuelto en dicho procedimiento.",
+    "Párrafo reformado DOF 17-06-2016",
+    "[La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código.]",
+    "Párrafo adicionado DOF 08-11-2019",
+    "Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022"
+   ],
+   "ai": [
+    "Procedencia",
+    "La suspensión condicional del proceso, a solicitud del imputado o del Ministerio Público con acuerdo de aquél, procederá en los casos en que se cubran los requisitos siguientes:",
+    "I. Que el auto de vinculación a proceso del imputado se haya dictado por un delito cuya media aritmética de la pena de prisión no exceda de cinco años;",
+    "Fracción reformada DOF 17-06-2016",
+    "II. Que no exista oposición fundada de la víctima y ofendido, y",
+    "Fracción reformada DOF 17-06-2016",
+    "III. Que hayan transcurrido dos años desde el cumplimiento o cinco años desde el incumplimiento, de una suspensión condicional anterior, en su caso.",
+    "Fracción adicionada DOF 17-06-2016",
+    "Lo señalado en la fracción III del presente artículo, no procederá cuando el imputado haya sido absuelto en dicho procedimiento.",
+    "Párrafo reformado DOF 17-06-2016",
+    "[La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código.]",
+    "Párrafo adicionado DOF 08-11-2019",
+    "Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022"
+   ],
+   "official": [
+    "Procedencia",
+    "La suspensión condicional del proceso, a solicitud del imputado o del Ministerio Público con acuerdo de aquél, procederá en los casos en que se cubran los requisitos siguientes:",
+    "I. Que el auto de vinculación a proceso del imputado se haya dictado por un delito cuya media aritmética de la pena de prisión no exceda de cinco años;",
+    "Fracción reformada DOF 17-06-2016",
+    "II. Que no exista oposición fundada de la víctima y ofendido, y",
+    "Fracción reformada DOF 17-06-2016",
+    "III. Que hayan transcurrido dos años desde el cumplimiento o cinco años desde el incumplimiento, de una suspensión condicional anterior, en su caso.",
+    "Fracción adicionada DOF 17-06-2016",
+    "Lo señalado en la fracción III del presente artículo, no procederá cuando el imputado haya sido absuelto en dicho procedimiento.",
+    "Párrafo reformado DOF 17-06-2016",
+    "[La suspensión condicional será improcedente para las hipótesis previstas en las fracciones I, II y III del párrafo séptimo del artículo 167 del presente Código.]",
+    "Párrafo adicionado DOF 08-11-2019",
+    "Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022 y publicada DOF 20-08-2025"
+   ],
+   "diff": [
+    [
+     "=",
+     "… II y III del párrafo séptimo del artículo 167 del presente Código.]"
+    ],
+    [
+     "-",
+     "¶ Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 25-11-2022"
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "277",
+   "label": "Artículo 277.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Procedimiento para reconocer personas",
+    "El reconocimiento de personas deberá practicarse con la mayor reserva posible.",
+    "El reconocimiento procederá aún sin consentimiento del imputado, pero siempre en presencia de su Defensor. Quien sea citado para efectuar un reconocimiento deberá ser ubicado en un lugar desde el cual no sea visto por las personas susceptibles de ser reconocidas. Se adoptarán las previsiones necesarias para que el imputado no altere u oculte su apariencia.",
+    "El reconocimiento deberá presentar al imputado en conjunto con otras personas con características físicas similares salvo que las condiciones de la investigación no lo permitan, lo que deberá quedar asentado en el registro correspondiente de la diligencia. En todos los procedimientos de reconocimiento, el acto deberá realizarse por una autoridad ministerial distinta a la que dirige la investigación. La práctica de filas de identificación se deberá realizar de manera secuencial.",
+    "Tratándose de personas menores de edad o tratándose de víctimas u ofendidos por los delitos de secuestro, trata de personas o violación que deban participar en el reconocimiento de personas, el Ministerio Público dispondrá medidas especiales para su participación, con el propósito de salvaguardar su identidad e integridad emocional. En la práctica de tales actos, el Ministerio Público deberá contar, en su caso, con el auxilio de peritos y con la asistencia del representante del menor de edad.",
+    "Todos los procedimientos de identificación deberán registrarse y en dicho registro deberá constar el nombre de la autoridad que estuvo a cargo, del testigo ocular, de las personas que participaron en la fila de identificación y, en su caso, del Defensor."
+   ],
+   "ai": [
+    "Procedimiento para reconocer personas",
+    "El reconocimiento de personas deberá practicarse con la mayor reserva posible.",
+    "El reconocimiento procederá aún sin consentimiento del imputado, pero siempre en presencia de su Defensor. Quien sea citado para efectuar un reconocimiento deberá ser ubicado en un lugar desde el cual no sea visto por las personas susceptibles de ser reconocidas. Se adoptarán las previsiones necesarias para que el imputado no altere u oculte su apariencia.",
+    "El reconocimiento deberá presentar al imputado en conjunto con otras personas con características físicas similares salvo que las condiciones de la investigación no lo permitan, lo que deberá quedar asentado en el registro correspondiente de la diligencia. En todos los procedimientos de reconocimiento, el acto deberá realizarse por una autoridad ministerial distinta a la que dirige la investigación. La práctica de filas de identificación se deberá realizar de manera secuencial.",
+    "Tratándose de personas menores de edad o tratándose de víctimas o personas ofendidas por los delitos de extorsión, secuestro, trata de personas o violación que deban participar en el reconocimiento de personas, el Ministerio Público dispondrá medidas especiales para su participación, con el propósito de salvaguardar su identidad e integridad emocional. En la práctica de tales actos, el Ministerio Público deberá contar, en su caso, con el auxilio de personas peritas y con la asistencia del representante del menor de edad.",
+    "Párrafo reformado DOF 28-11-2025",
+    "Todos los procedimientos de identificación deberán registrarse y en dicho registro deberá constar el nombre de la autoridad que estuvo a cargo, del testigo ocular, de las personas que participaron en la fila de identificación y, en su caso, del Defensor."
+   ],
+   "official": [
+    "Procedimiento para reconocer personas",
+    "El reconocimiento de personas deberá practicarse con la mayor reserva posible.",
+    "El reconocimiento procederá aún sin consentimiento del imputado, pero siempre en presencia de su Defensor. Quien sea citado para efectuar un reconocimiento deberá ser ubicado en un lugar desde el cual no sea visto por las personas susceptibles de ser reconocidas. Se adoptarán las previsiones necesarias para que el imputado no altere u oculte su apariencia.",
+    "El reconocimiento deberá presentar al imputado en conjunto con otras personas con características físicas similares salvo que las condiciones de la investigación no lo permitan, lo que deberá quedar asentado en el registro correspondiente de la diligencia. En todos los procedimientos de reconocimiento, el acto deberá realizarse por una autoridad ministerial distinta a la que dirige la investigación. La práctica de filas de identificación se deberá realizar de manera secuencial.",
+    "Tratándose de personas menores de edad o tratándose de víctimas o personas ofendidas por los delitos de extorsión, secuestro, trata de personas o violación que deban participar en el reconocimiento de personas, el Ministerio Público dispondrá medidas especiales para su participación, con el propósito de salvaguardar su identidad e integridad emocional. En la práctica de tales actos, el Ministerio Público deberá contar, en su caso, con el auxilio de personas peritas y con la asistencia del representante del menor de edad.",
+    "Párrafo reformado DOF 28-11-2025",
+    "Todos los procedimientos de identificación deberán registrarse y en dicho registro deberá constar el nombre de la autoridad que estuvo a cargo, del testigo ocular, de las personas que participaron en la fila de identificación y, en su caso, del Defensor."
+   ],
+   "diff": [],
+   "cause": null
+  }
+ ]
+}

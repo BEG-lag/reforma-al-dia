@@ -1,0 +1,610 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "ARTÍCULO 29 BIS 3.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Renuncia de la persona titular;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 3.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Cegamiento del aprovechamiento a petición de la persona titular;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 3.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Muerte de la persona titular, salvo que se compruebe algún derecho sucesorio ante \"la Autoridad del Agua\", en cuyo caso se emitirá un nuevo título de manera expedita conforme a las reglas de la reasignación de volúmenes;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 3.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción V, inciso a.",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "a. Cuando se haya proporcionado información falsa para la obtención del título o cuando en la expedición del mismo haya mediado error o dolo atribuible a la persona concesionaria o asignataria;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 3.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción V, inciso b.",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "b. Cuando el proceso de tramitación e intitulación se demuestre que ha estado viciado con intervención de la persona concesionaria o asignataria o por interpósita persona;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 3.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción V, inciso c.",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "c. Por haber sido otorgada por la persona funcionaria sin facultades para ello;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 3.",
+    "operation": "reform",
+    "unit_type": "numeral",
+    "unit": "fracción VI, numeral 3",
+    "from_block": 17,
+    "to_block": 17,
+    "paragraphs": [
+     "3. La persona concesionaria o asignataria pague la cuota de garantía de no caducidad, proporcional y acorde con las disposiciones que se establezcan, antes de dos años consecutivos sin explotar, usar o aprovechar aguas nacionales hasta por el total del volumen concesionado o asignado con el propósito de no perder sus derechos. El plazo anterior podrá prorrogarse hasta en dos ocasiones, siempre y cuando se justifique debidamente ante \"la Autoridad del Agua\"."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 3.",
+    "operation": "reform",
+    "unit_type": "numeral",
+    "unit": "fracción VI, numeral 4",
+    "from_block": 18,
+    "to_block": 18,
+    "paragraphs": [
+     "4. Ceda sus derechos temporalmente a \"la Autoridad del Agua\" en circunstancias especiales, para la atención de sequías extraordinarias, sobreexplotación grave, estados similares de necesidad o urgencia o para garantizar la seguridad hídrica."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 3.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "fracción VI, numeral 4, párrafo segundo",
+    "from_block": 19,
+    "to_block": 19,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 3.",
+    "operation": "reform",
+    "unit_type": "numeral",
+    "unit": "fracción VI, numeral 5",
+    "from_block": 20,
+    "to_block": 20,
+    "paragraphs": [
+     "5. La concesionaria o asignataria haya realizado inversiones tendientes a elevar la eficiencia en el uso del agua, por lo que sólo utilice una parte del volumen de agua concesionado o asignado;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 3.",
+    "operation": "reform",
+    "unit_type": "numeral",
+    "unit": "fracción VI, numeral 6",
+    "from_block": 21,
+    "to_block": 21,
+    "paragraphs": [
+     "6. La persona concesionaria o asignataria esté realizando las inversiones que correspondan, o ejecutando las obras autorizadas para la explotación, uso o aprovechamiento de las aguas nacionales, siempre que se encuentre dentro del plazo otorgado al efecto."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 3.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción VI, párrafo cuarto",
+    "from_block": 22,
+    "to_block": 22,
+    "paragraphs": [
+     "La persona concesionaria o asignataria que se encuentre en alguno de los supuestos previstos en este Artículo, deberá presentar escrito fundamentado a \"la Autoridad del Agua\" dentro de los quince días hábiles siguientes a aquel en que se surta el supuesto respectivo."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 3.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción VI, párrafo sexto",
+    "from_block": 24,
+    "to_block": 24,
+    "paragraphs": [
+     "La persona concesionaria o asignataria presentará escrito a \"la Autoridad del Agua\" dentro de los quince días siguientes a aquel en que cesen los supuestos a que se refieren los incisos 1, 5 y 6 del presente Artículo."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 3.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción VI, párrafo séptimo",
+    "from_block": 25,
+    "to_block": 25,
+    "paragraphs": [
+     "Con independencia de la aplicación de las sanciones que procedan, la falta de presentación del escrito a que se refiere el párrafo anterior dará lugar a que no se tenga por suspendido el plazo para la caducidad y se compute el mismo en la forma prevista a que se refiere la Fracción VI de este Artículo, salvo que la persona concesionaria o asignataria acredite que los supuestos cesaron antes del plazo de dos años."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 3.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "fracción VI, párrafo octavo",
+    "from_block": 26,
+    "to_block": 26,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 4.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "I. Disponer del agua en volúmenes mayores a una quinta parte que los autorizados, cuando por la misma causa la persona beneficiaria haya sido suspendida en su derecho con anterioridad;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 4.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "IV. Utilizar la dilución para cumplir con las Normas Oficiales Mexicanas en materia ecológica o las condiciones particulares de descarga, excepto cuando se trate de aguas residuales provenientes de procesos de desalinización;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 4.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "VI. Dejar de pagar oportunamente o en forma completa las contribuciones, aprovechamientos o tarifas que establezca la legislación fiscal por la explotación, uso o aprovechamiento de las aguas nacionales y bienes nacionales o por los servicios de suministro de los mismos, cuando por la misma causa la persona beneficiaria haya sido suspendida en su derecho con anterioridad aun cuando se trate de distinto ejercicio fiscal;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 4.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XI",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "XI. Transmitir los derechos del título en contravención a lo dispuesto en esta Ley;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 4.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "XII",
+    "from_block": 14,
+    "to_block": 14,
+    "paragraphs": [
+     "XII. Derogada."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 4.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIV",
+    "from_block": 16,
+    "to_block": 16,
+    "paragraphs": [
+     "XIV. Por dar uso a las aguas distinto al autorizado;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 4.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XV",
+    "from_block": 17,
+    "to_block": 17,
+    "paragraphs": [
+     "XV. Proporcionar a terceras personas en forma provisional el uso total o parcial de las aguas concesionadas en contravención a lo dispuesto en la presente Ley;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 4.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XVI",
+    "from_block": 18,
+    "to_block": 18,
+    "paragraphs": [
+     "XVI. Incumplir con lo dispuesto en la Ley respecto de la explotación, uso o aprovechamiento de aguas nacionales o preservación y control de su calidad, cuando por la misma causa a la persona infractora se le hubiere aplicado con anterioridad sanción mediante resolución que quede firme, conforme a las fracciones II y III del Artículo 120 de esta Ley;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 4.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "insert_after": 28,
+    "paragraphs": [
+     "En los casos que corresponda, además de la revocación a la que hace referencia este Artículo, se aplicarán las sanciones señaladas en el Capítulo IV del Título Décimo de la presente Ley."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 5.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Cuando la persona solicitante no cumpla con los requisitos que exige la Ley;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 5.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "V. Derogada"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 6.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Se considerarán servidumbres naturales a los cauces de propiedad nacional en los cuales no existan obras de infraestructura. La persona propietaria del fundo dominante no puede agravar la sujeción del fundo sirviente."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 30.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "\"La Comisión\" llevará el Registro Público Nacional del Agua en el que se inscribirán:"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 30.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Derogada"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 30.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "V. La suspensión, revocación o terminación de los títulos enunciados, y las referencias que se requieran de los actos relativos a la reasignación de volúmenes;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 30.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VII",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "VII. Las resoluciones emitidas por la persona Titular del Ejecutivo Federal o por el Tribunal Superior Agrario que amplíen o doten de agua, previa la emisión del título de concesión por \"la Autoridad del Agua\";"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 30.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VIII",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "VIII. Los padrones de las personas usuarias de los distritos de riego, debidamente actualizados;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 30.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IX",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "IX. Los estudios de disponibilidad de agua referidos en el Artículo 19 BIS y otras disposiciones contenidas en la presente Ley;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 30.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "X",
+    "from_block": 11,
+    "to_block": 11,
+    "paragraphs": [
+     "X. Las zonas reglamentadas, de veda y declaratorias de reserva de aguas nacionales establecidas conforme a la presente Ley y sus reglamentos;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 30.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XI",
+    "insert_after": 11,
+    "paragraphs": [
+     "XI. Los padrones de núcleos agrarios con reconocimiento emitido por la persona titular del Ejecutivo Federal, y"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 30.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XII",
+    "insert_after": 11,
+    "paragraphs": [
+     "XII. Los sistemas comunitarios de agua, reconocidos en términos de la Ley General de Aguas."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 30.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 12,
+    "to_block": 12,
+    "paragraphs": [
+     "El Registro Público Nacional del Agua proporcionará el servicio de acceso a la información y difusión de la misma, acerca de los títulos de concesión, asignación y de permisos de descarga a que se refiere la presente Ley, así como a los actos jurídicos que, conforme a la misma y sus reglamentos, precisen de la fe pública para que surtan sus efectos ante terceros. La prestación de este servicio causará los derechos correspondientes que se especificarán por Autoridad competente en términos de Ley."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 30.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "\"La Comisión\" dispondrá lo necesario para la operación del Registro Público Nacional del Agua, en el cual se inscribirán todos los actos a que se refiere el presente Artículo."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 30.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "from_block": 14,
+    "to_block": 14,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 30 BIS.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El Registro Público Nacional del Agua es competente para:"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 31.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las constancias de la inscripción de los títulos en el Registro Público Nacional del Agua constituyen medios de prueba de su existencia, titularidad y del estado que guardan. La inscripción será condición para que la reasignación de los títulos surta sus efectos legales ante terceras personas, \"la Autoridad del Agua\" y cualquier otra autoridad."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 31.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Toda persona podrá consultar el Registro Público Nacional del Agua y solicitar a su costa certificaciones de las inscripciones y documentos que dieron lugar a las mismas, así como sobre la inexistencia de un registro o de una inscripción posterior en relación con una determinada."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 31.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "El Registro Público Nacional del Agua podrá modificar o rectificar una inscripción cuando sea solicitada por la persona afectada, se acredite la existencia de la omisión o del error y no se perjudiquen derechos de terceras personas o medie consentimiento de parte legítima en forma auténtica. Las reclamaciones por negativa, rectificación, modificación y cancelación de inscripciones que perjudiquen a terceras personas, así como las que se refieran a nulidad de éstas, se resolverán por \"la Autoridad del Agua\" en los términos de la presente Ley y sus reglamentos."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 31.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "\"La Autoridad del Agua\" proveerá lo necesario para el respeto de los derechos inscritos en el Registro Público Nacional del Agua."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 31.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo sexto",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "El Registro Público Nacional del Agua se organizará y funcionará en los términos de los reglamentos de la presente Ley."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 32.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 32.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "En el Registro Público Nacional del Agua se llevará igualmente el registro nacional permanente, por cuencas, regiones hidrológicas, estados, Ciudad de México y municipios de las obras de alumbramiento y de los brotes de agua del subsuelo, para conocer el comportamiento de los acuíferos y, en su caso, regular su explotación, uso o aprovechamiento.",
+     "\"La Autoridad del Agua\" solicitará los datos a las personas propietarias de las tierras, independientemente de que éstas se localicen dentro o fuera de una zona reglamentada o de veda. Las personas propietarias estarán obligadas a proporcionar esta información y la relativa a las obras de perforación o alumbramiento que hayan efectuado."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 33.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 33.",
+    "from_block": 1,
+    "to_block": 7,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 34.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 34.",
+    "from_block": 1,
+    "to_block": 7,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 35.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 35.",
+    "from_block": 1,
+    "to_block": 4,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 36.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 36.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Derogado"
+    ]
+   }
+  ],
+  "divisions": [
+   {
+    "operation": "rename",
+    "kind": "capitulo",
+    "label": "Capítulo IV",
+    "name": "Registro Público Nacional del Agua",
+    "before_article": "ARTÍCULO 30.",
+    "current_heading": null
+   },
+   {
+    "operation": "rename",
+    "kind": "capitulo",
+    "label": "Capítulo V",
+    "name": "Fondo de Reserva de Aguas Nacionales",
+    "before_article": "ARTÍCULO 33.",
+    "current_heading": null
+   }
+  ],
+  "needs_review": [
+   {
+    "article": "ARTÍCULO 30.",
+    "reason": "La instrucción no menciona la reforma de las fracciones IX y X, pero el decreto las reproduce con otra puntuación final (IX pierde la \"y\" y termina en \";\"; X termina en \";\" en lugar de \".\") porque se adicionan las fracciones XI y XII. Se aplicaron como reformas; hay que confirmar que así aparecen en el texto consolidado."
+   },
+   {
+    "article": "ARTÍCULO 30.",
+    "reason": "Se cambia el nombre del Capítulo IV del Título Cuarto a \"Registro Público Nacional del Agua\". El texto vigente proporcionado no incluye la denominación actual del capítulo, por lo que current_heading quedó vacío. Hay que verificar el encabezado que se sustituye (probablemente \"Registro Público de Derechos de Agua\")."
+   },
+   {
+    "article": "ARTÍCULO 33.",
+    "reason": "Se cambia el nombre del Capítulo V (Título Cuarto) a \"Fondo de Reserva de Aguas Nacionales\". El texto vigente proporcionado no incluye la denominación actual del capítulo, por lo que current_heading quedó vacío. Hay que verificar el encabezado que se sustituye (probablemente \"Transmisión de Títulos\")."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"ARTÍCULO 29 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Renuncia de la persona titular;\"]},{\"article\":\"ARTÍCULO 29 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Cegamiento del aprovechamiento a petición de la persona titular;\"]},{\"article\":\"ARTÍCULO 29 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Muerte de la persona titular, salvo que se compruebe algún derecho sucesorio ante \\\"la Autoridad del Agua\\\", en cuyo caso se emitirá un nuevo título de manera expedita conforme a las reglas de la reasignación de volúmenes;\"]},{\"article\":\"ARTÍCULO 29 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción V, inciso a.\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"a. Cuando se haya proporcionado información falsa para la obtención del título o cuando en la expedición del mismo haya mediado error o dolo atribuible a la persona concesionaria o asignataria;\"]},{\"article\":\"ARTÍCULO 29 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción V, inciso b.\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"b. Cuando el proceso de tramitación e intitulación se demuestre que ha estado viciado con intervención de la persona concesionaria o asignataria o por interpósita persona;\"]},{\"article\":\"ARTÍCULO 29 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción V, inciso c.\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"c. Por haber sido otorgada por la persona funcionaria sin facultades para ello;\"]},{\"article\":\"ARTÍCULO 29 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"numeral\",\"unit\":\"fracción VI, numeral 3\",\"from_block\":17,\"to_block\":17,\"paragraphs\":[\"3. La persona concesionaria o asignataria pague la cuota de garantía de no caducidad, proporcional y acorde con las disposiciones que se establezcan, antes de dos años consecutivos sin explotar, usar o aprovechar aguas nacionales hasta por el total del volumen concesionado o asignado con el propósito de no perder sus derechos. El plazo anterior podrá prorrogarse hasta en dos ocasiones, siempre y cuando se justifique debidamente ante \\\"la Autoridad del Agua\\\".\"]},{\"article\":\"ARTÍCULO 29 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"numeral\",\"unit\":\"fracción VI, numeral 4\",\"from_block\":18,\"to_block\":18,\"paragraphs\":[\"4. Ceda sus derechos temporalmente a \\\"la Autoridad del Agua\\\" en circunstancias especiales, para la atención de sequías extraordinarias, sobreexplotación grave, estados similares de necesidad o urgencia o para garantizar la seguridad hídrica.\"]},{\"article\":\"ARTÍCULO 29 BIS 3.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"fracción VI, numeral 4, párrafo segundo\",\"from_block\":19,\"to_block\":19,\"paragraphs\":[\"Derogado\"]},{\"article\":\"ARTÍCULO 29 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"numeral\",\"unit\":\"fracción VI, numeral 5\",\"from_block\":20,\"to_block\":20,\"paragraphs\":[\"5. La concesionaria o asignataria haya realizado inversiones tendientes a elevar la eficiencia en el uso del agua, por lo que sólo utilice una parte del volumen de agua concesionado o asignado;\"]},{\"article\":\"ARTÍCULO 29 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"numeral\",\"unit\":\"fracción VI, numeral 6\",\"from_block\":21,\"to_block\":21,\"paragraphs\":[\"6. La persona concesionaria o asignataria esté realizando las inversiones que correspondan, o ejecutando las obras autorizadas para la explotación, uso o aprovechamiento de las aguas nacionales, siempre que se encuentre dentro del plazo otorgado al efecto.\"]},{\"article\":\"ARTÍCULO 29 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción VI, párrafo cuarto\",\"from_block\":22,\"to_block\":22,\"paragraphs\":[\"La persona concesionaria o asignataria que se encuentre en alguno de los supuestos previstos en este Artículo, deberá presentar escrito fundamentado a \\\"la Autoridad del Agua\\\" dentro de los quince días hábiles siguientes a aquel en que se surta el supuesto respectivo.\"]},{\"article\":\"ARTÍCULO 29 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción VI, párrafo sexto\",\"from_block\":24,\"to_block\":24,\"paragraphs\":[\"La persona concesionaria o asignataria presentará escrito a \\\"la Autoridad del Agua\\\" dentro de los quince días siguientes a aquel en que cesen los supuestos a que se refieren los incisos 1, 5 y 6 del presente Artículo.\"]},{\"article\":\"ARTÍCULO 29 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción VI, párrafo séptimo\",\"from_block\":25,\"to_block\":25,\"paragraphs\":[\"Con independencia de la aplicación de las sanciones que procedan, la falta de presentación del escrito a que se refiere el párrafo anterior dará lugar a que no se tenga por suspendido el plazo para la caducidad y se compute el mismo en la forma prevista a que se refiere la Fracción VI de este Artículo, salvo que la persona concesionaria o asignataria acredite que los supuestos cesaron antes del plazo de dos años.\"]},{\"article\":\"ARTÍCULO 29 BIS 3.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"fracción VI, párrafo octavo\",\"from_block\":26,\"to_block\":26,\"paragraphs\":[\"Derogado\"]},{\"article\":\"ARTÍCULO 29 BIS 4.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"I. Disponer del agua en volúmenes mayores a una quinta parte que los autorizados, cuando por la misma causa la persona beneficiaria haya sido suspendida en su derecho con anterioridad;\"]},{\"article\":\"ARTÍCULO 29 BIS 4.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"IV. Utilizar la dilución para cumplir con las Normas Oficiales Mexicanas en materia ecológica o las condiciones particulares de descarga, excepto cuando se trate de aguas residuales provenientes de procesos de desalinización;\"]},{\"article\":\"ARTÍCULO 29 BIS 4.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VI\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"VI. Dejar de pagar oportunamente o en forma completa las contribuciones, aprovechamientos o tarifas que establezca la legislación fiscal por la explotación, uso o aprovechamiento de las aguas nacionales y bienes nacionales o por los servicios de suministro de los mismos, cuando por la misma causa la persona beneficiaria haya sido suspendida en su derecho con anterioridad aun cuando se trate de distinto ejercicio fiscal;\"]},{\"article\":\"ARTÍCULO 29 BIS 4.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XI\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"XI. Transmitir los derechos del título en contravención a lo dispuesto en esta Ley;\"]},{\"article\":\"ARTÍCULO 29 BIS 4.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"XII\",\"from_block\":14,\"to_block\":14,\"paragraphs\":[\"XII. Derogada.\"]},{\"article\":\"ARTÍCULO 29 BIS 4.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XIV\",\"from_block\":16,\"to_block\":16,\"paragraphs\":[\"XIV. Por dar uso a las aguas distinto al autorizado;\"]},{\"article\":\"ARTÍCULO 29 BIS 4.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XV\",\"from_block\":17,\"to_block\":17,\"paragraphs\":[\"XV. Proporcionar a terceras personas en forma provisional el uso total o parcial de las aguas concesionadas en contravención a lo dispuesto en la presente Ley;\"]},{\"article\":\"ARTÍCULO 29 BIS 4.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XVI\",\"from_block\":18,\"to_block\":18,\"paragraphs\":[\"XVI. Incumplir con lo dispuesto en la Ley respecto de la explotación, uso o aprovechamiento de aguas nacionales o preservación y control de su calidad, cuando por la misma causa a la persona infractora se le hubiere aplicado con anterioridad sanción mediante resolución que quede firme, conforme a las fracciones II y III del Artículo 120 de esta Ley;\"]},{\"article\":\"ARTÍCULO 29 BIS 4.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"insert_after\":28,\"paragraphs\":[\"En los casos que corresponda, además de la revocación a la que hace referencia este Artículo, se aplicarán las sanciones señaladas en el Capítulo IV del Título Décimo de la presente Ley.\"]},{\"article\":\"ARTÍCULO 29 BIS 5.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Cuando la persona solicitante no cumpla con los requisitos que exige la Ley;\"]},{\"article\":\"ARTÍCULO 29 BIS 5.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"V. Derogada\"]},{\"article\":\"ARTÍCULO 29 BIS 6.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Se considerarán servidumbres naturales a los cauces de propiedad nacional en los cuales no existan obras de infraestructura. La persona propietaria del fundo dominante no puede agravar la sujeción del fundo sirviente.\"]},{\"article\":\"ARTÍCULO 30.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"\\\"La Comisión\\\" llevará el Registro Público Nacional del Agua en el que se inscribirán:\"]},{\"article\":\"ARTÍCULO 30.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Derogada\"]},{\"article\":\"ARTÍCULO 30.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"V. La suspensión, revocación o terminación de los títulos enunciados, y las referencias que se requieran de los actos relativos a la reasignación de volúmenes;\"]},{\"article\":\"ARTÍCULO 30.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VII\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"VII. Las resoluciones emitidas por la persona Titular del Ejecutivo Federal o por el Tribunal Superior Agrario que amplíen o doten de agua, previa la emisión del título de concesión por \\\"la Autoridad del Agua\\\";\"]},{\"article\":\"ARTÍCULO 30.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VIII\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"VIII. Los padrones de las personas usuarias de los distritos de riego, debidamente actualizados;\"]},{\"article\":\"ARTÍCULO 30.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IX\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"IX. Los estudios de disponibilidad de agua referidos en el Artículo 19 BIS y otras disposiciones contenidas en la presente Ley;\"]},{\"article\":\"ARTÍCULO 30.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"X\",\"from_block\":11,\"to_block\":11,\"paragraphs\":[\"X. Las zonas reglamentadas, de veda y declaratorias de reserva de aguas nacionales establecidas conforme a la presente Ley y sus reglamentos;\"]},{\"article\":\"ARTÍCULO 30.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"XI\",\"insert_after\":11,\"paragraphs\":[\"XI. Los padrones de núcleos agrarios con reconocimiento emitido por la persona titular del Ejecutivo Federal, y\"]},{\"article\":\"ARTÍCULO 30.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"XII\",\"insert_after\":11,\"paragraphs\":[\"XII. Los sistemas comunitarios de agua, reconocidos en términos de la Ley General de Aguas.\"]},{\"article\":\"ARTÍCULO 30.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":12,\"to_block\":12,\"paragraphs\":[\"El Registro Público Nacional del Agua proporcionará el servicio de acceso a la información y difusión de la misma, acerca de los títulos de concesión, asignación y de permisos de descarga a que se refiere la presente Ley, así como a los actos jurídicos que, conforme a la misma y sus reglamentos, precisen de la fe pública para que surtan sus efectos ante terceros. La prestación de este servicio causará los derechos correspondientes que se especificarán por Autoridad competente en términos de Ley.\"]},{\"article\":\"ARTÍCULO 30.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"\\\"La Comisión\\\" dispondrá lo necesario para la operación del Registro Público Nacional del Agua, en el cual se inscribirán todos los actos a que se refiere el presente Artículo.\"]},{\"article\":\"ARTÍCULO 30.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"from_block\":14,\"to_block\":14,\"paragraphs\":[\"Derogado\"]},{\"article\":\"ARTÍCULO 30 BIS.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El Registro Público Nacional del Agua es competente para:\"]},{\"article\":\"ARTÍCULO 31.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las constancias de la inscripción de los títulos en el Registro Público Nacional del Agua constituyen medios de prueba de su existencia, titularidad y del estado que guardan. La inscripción será condición para que la reasignación de los títulos surta sus efectos legales ante terceras personas, \\\"la Autoridad del Agua\\\" y cualquier otra autoridad.\"]},{\"article\":\"ARTÍCULO 31.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Toda persona podrá consultar el Registro Público Nacional del Agua y solicitar a su costa certificaciones de las inscripciones y documentos que dieron lugar a las mismas, así como sobre la inexistencia de un registro o de una inscripción posterior en relación con una determinada.\"]},{\"article\":\"ARTÍCULO 31.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"El Registro Público Nacional del Agua podrá modificar o rectificar una inscripción cuando sea solicitada por la persona afectada, se acredite la existencia de la omisión o del error y no se perjudiquen derechos de terceras personas o medie consentimiento de parte legítima en forma auténtica. Las reclamaciones por negativa, rectificación, modificación y cancelación de inscripciones que perjudiquen a terceras personas, así como las que se refieran a nulidad de éstas, se resolverán por \\\"la Autoridad del Agua\\\" en los términos de la presente Ley y sus reglamentos.\"]},{\"article\":\"ARTÍCULO 31.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"\\\"La Autoridad del Agua\\\" proveerá lo necesario para el respeto de los derechos inscritos en el Registro Público Nacional del Agua.\"]},{\"article\":\"ARTÍCULO 31.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo sexto\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"El Registro Público Nacional del Agua se organizará y funcionará en los términos de los reglamentos de la presente Ley.\"]},{\"article\":\"ARTÍCULO 32.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 32.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"En el Registro Público Nacional del Agua se llevará igualmente el registro nacional permanente, por cuencas, regiones hidrológicas, estados, Ciudad de México y municipios de las obras de alumbramiento y de los brotes de agua del subsuelo, para conocer el comportamiento de los acuíferos y, en su caso, regular su explotación, uso o aprovechamiento.\",\"\\\"La Autoridad del Agua\\\" solicitará los datos a las personas propietarias de las tierras, independientemente de que éstas se localicen dentro o fuera de una zona reglamentada o de veda. Las personas propietarias estarán obligadas a proporcionar esta información y la relativa a las obras de perforación o alumbramiento que hayan efectuado.\"]},{\"article\":\"ARTÍCULO 33.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 33.\",\"from_block\":1,\"to_block\":7,\"paragraphs\":[\"Derogado\"]},{\"article\":\"ARTÍCULO 34.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 34.\",\"from_block\":1,\"to_block\":7,\"paragraphs\":[\"Derogado\"]},{\"article\":\"ARTÍCULO 35.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 35.\",\"from_block\":1,\"to_block\":4,\"paragraphs\":[\"Derogado\"]},{\"article\":\"ARTÍCULO 36.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 36.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Derogado\"]}],\"divisions\":[{\"operation\":\"rename\",\"kind\":\"capitulo\",\"label\":\"Capítulo IV\",\"name\":\"Registro Público Nacional del Agua\",\"before_article\":\"ARTÍCULO 30.\",\"current_heading\":null},{\"operation\":\"rename\",\"kind\":\"capitulo\",\"label\":\"Capítulo V\",\"name\":\"Fondo de Reserva de Aguas Nacionales\",\"before_article\":\"ARTÍCULO 33.\",\"current_heading\":null}],\"needs_review\":[{\"article\":\"ARTÍCULO 30.\",\"reason\":\"La instrucción no menciona la reforma de las fracciones IX y X, pero el decreto las reproduce con otra puntuación final (IX pierde la \\\"y\\\" y termina en \\\";\\\"; X termina en \\\";\\\" en lugar de \\\".\\\") porque se adicionan las fracciones XI y XII. Se aplicaron como reformas; hay que confirmar que así aparecen en el texto consolidado.\"},{\"article\":\"ARTÍCULO 30.\",\"reason\":\"Se cambia el nombre del Capítulo IV del Título Cuarto a \\\"Registro Público Nacional del Agua\\\". El texto vigente proporcionado no incluye la denominación actual del capítulo, por lo que current_heading quedó vacío. Hay que verificar el encabezado que se sustituye (probablemente \\\"Registro Público de Derechos de Agua\\\").\"},{\"article\":\"ARTÍCULO 33.\",\"reason\":\"Se cambia el nombre del Capítulo V (Título Cuarto) a \\\"Fondo de Reserva de Aguas Nacionales\\\". El texto vigente proporcionado no incluye la denominación actual del capítulo, por lo que current_heading quedó vacío. Hay que verificar el encabezado que se sustituye (probablemente \\\"Transmisión de Títulos\\\").\"}]}",
+ "duration_ms": 62342,
+ "total_cost_usd": 0.3343258,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 9201,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 18712,
+   "webSearchRequests": 0,
+   "costUSD": 0.3343258,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 1535,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 18712,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

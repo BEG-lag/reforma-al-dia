@@ -1,0 +1,118 @@
+{
+ "id": "2020-01-24-cpf",
+ "source": "backtest",
+ "law": {
+  "slug": "cpf",
+  "title": "Código Penal Federal",
+  "abbreviation": "CPF"
+ },
+ "decree": {
+  "code": 5584749,
+  "title": "Decreto por el que se adicionan un artículo 190 Bis a la Ley Federal de Telecomunicaciones y Radiodifusión, y un artículo 168 ter al Código Penal Federal.",
+  "date": "2020-01-24",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5584749&fecha=24/01/2020",
+  "pdf": null,
+  "instruction": [
+   "Artículo Segundo. Se adiciona un artículo 168 ter al Código Penal Federal, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "319c873b717375d6b1db03d22c2abe928c84df6b"
+ },
+ "official": {
+  "commit": "ec3aaec9711bbb95e51b05ffac7927312badb488",
+  "date": "2020-01-24",
+  "same_day": true
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "Artículo 168 ter."
+   ],
+   "key": "e74b9b724838ecd176977b01b377fd6dbf02199a37517da1f276b894626a0141",
+   "cached": true,
+   "duration_ms": 4770,
+   "cost_usd": 0.0216738,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "168 ter": {
+   "label": "Artículo 168 ter.",
+   "headings": [],
+   "lines": [
+    "Artículo 168 ter. Se sancionará con pena de doce a quince años de prisión, a quien fabrique, comercialice, adquiera, instale, porte, use u opere equipos que bloqueen, cancelen o anulen las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen con excepción de lo establecido en el segundo párrafo del artículo 190 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión.",
+    "Los equipos a que hace referencia el primer párrafo del artículo 190 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión, serán asegurados en términos de lo que establece el Código Nacional de Procedimientos Penales y posteriormente deberán ser destruidos en su totalidad.",
+    "Si el delito al que se refiere el primer párrafo de este artículo, fuera cometido por servidores públicos, y sin autorización expresa escrita debidamente acreditada por su superior inmediato, se le impondrá la pena de quince a dieciocho años de prisión."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "Artículo 168 ter.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 168 ter.",
+    "paragraphs": [
+     "Se sancionará con pena de doce a quince años de prisión, a quien fabrique, comercialice, adquiera, instale, porte, use u opere equipos que bloqueen, cancelen o anulen las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen con excepción de lo establecido en el segundo párrafo del artículo 190 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión.",
+     "Los equipos a que hace referencia el primer párrafo del artículo 190 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión, serán asegurados en términos de lo que establece el Código Nacional de Procedimientos Penales y posteriormente deberán ser destruidos en su totalidad.",
+     "Si el delito al que se refiere el primer párrafo de este artículo, fuera cometido por servidores públicos, y sin autorización expresa escrita debidamente acreditada por su superior inmediato, se le impondrá la pena de quince a dieciocho años de prisión."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": null,
+    "batch": 1
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "needs_review": [],
+ "counts": {
+  "exact": 1,
+  "normalized": 0,
+  "mismatch": 0,
+  "not_applied": 0,
+  "outside_decree": 0,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 0,
+  "notes_match": 1
+ },
+ "transitorios": "exact",
+ "body_identical": false,
+ "articles": [
+  {
+   "key": "168 ter",
+   "label": "Artículo 168 ter.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [],
+   "ai": [
+    "Se sancionará con pena de doce a quince años de prisión, a quien fabrique, comercialice, adquiera, instale, porte, use u opere equipos que bloqueen, cancelen o anulen las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen con excepción de lo establecido en el segundo párrafo del artículo 190 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión.",
+    "Los equipos a que hace referencia el primer párrafo del artículo 190 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión, serán asegurados en términos de lo que establece el Código Nacional de Procedimientos Penales y posteriormente deberán ser destruidos en su totalidad.",
+    "Si el delito al que se refiere el primer párrafo de este artículo, fuera cometido por servidores públicos, y sin autorización expresa escrita debidamente acreditada por su superior inmediato, se le impondrá la pena de quince a dieciocho años de prisión.",
+    "Artículo adicionado DOF 24-01-2020"
+   ],
+   "official": [
+    "Se sancionará con pena de doce a quince años de prisión, a quien fabrique, comercialice, adquiera, instale, porte, use u opere equipos que bloqueen, cancelen o anulen las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen con excepción de lo establecido en el segundo párrafo del artículo 190 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión.",
+    "Los equipos a que hace referencia el primer párrafo del artículo 190 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión, serán asegurados en términos de lo que establece el Código Nacional de Procedimientos Penales y posteriormente deberán ser destruidos en su totalidad.",
+    "Si el delito al que se refiere el primer párrafo de este artículo, fuera cometido por servidores públicos, y sin autorización expresa escrita debidamente acreditada por su superior inmediato, se le impondrá la pena de quince a dieciocho años de prisión.",
+    "Artículo adicionado DOF 24-01-2020"
+   ],
+   "diff": [],
+   "cause": null
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 132.",
+    "operation": "reform",
+    "unit_type": "epigrafe",
+    "unit": "epígrafe",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Obligaciones de las y los Policías"
+    ]
+   },
+   {
+    "article": "Artículo 132.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIII",
+    "from_block": 27,
+    "to_block": 27,
+    "paragraphs": [
+     "XIII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos, tratándose del cumplimiento de las medidas u órdenes de protección deberán estar a lo previsto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;"
+    ]
+   },
+   {
+    "article": "Artículo 137.",
+    "operation": "reform",
+    "unit_type": "epigrafe",
+    "unit": "epígrafe",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Medidas u Órdenes de Protección"
+    ]
+   },
+   {
+    "article": "Artículo 137.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "último párrafo",
+    "from_block": 15,
+    "to_block": 15,
+    "paragraphs": [
+     "Tratándose de delitos relacionados con las violencias de género contra las mujeres se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia."
+    ]
+   },
+   {
+    "article": "Artículo 139.",
+    "operation": "reform",
+    "unit_type": "epigrafe",
+    "unit": "epígrafe",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Duración de las medidas u órdenes de protección y providencias precautorias"
+    ]
+   },
+   {
+    "article": "Artículo 139.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "insert_after": 3,
+    "paragraphs": [
+     "Tratándose de delitos relacionados con las violencias de género contra las mujeres, adolescentes y niñas, se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 132.\",\"operation\":\"reform\",\"unit_type\":\"epigrafe\",\"unit\":\"epígrafe\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Obligaciones de las y los Policías\"]},{\"article\":\"Artículo 132.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XIII\",\"from_block\":27,\"to_block\":27,\"paragraphs\":[\"XIII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos, tratándose del cumplimiento de las medidas u órdenes de protección deberán estar a lo previsto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;\"]},{\"article\":\"Artículo 137.\",\"operation\":\"reform\",\"unit_type\":\"epigrafe\",\"unit\":\"epígrafe\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Medidas u Órdenes de Protección\"]},{\"article\":\"Artículo 137.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"último párrafo\",\"from_block\":15,\"to_block\":15,\"paragraphs\":[\"Tratándose de delitos relacionados con las violencias de género contra las mujeres se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.\"]},{\"article\":\"Artículo 139.\",\"operation\":\"reform\",\"unit_type\":\"epigrafe\",\"unit\":\"epígrafe\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Duración de las medidas u órdenes de protección y providencias precautorias\"]},{\"article\":\"Artículo 139.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"insert_after\":3,\"paragraphs\":[\"Tratándose de delitos relacionados con las violencias de género contra las mujeres, adolescentes y niñas, se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 9884,
+ "total_cost_usd": 0.0605778,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 1308,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 4226,
+   "webSearchRequests": 0,
+   "costUSD": 0.0605778,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 141,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 4226,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

@@ -1,0 +1,209 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "ARTÍCULO 91 BIS.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Los municipios, la Ciudad de México y en su caso, los estados, deberán tratar sus aguas residuales, antes de descargarlas en un cuerpo receptor, conforme a las Normas Oficiales Mexicanas o a las condiciones particulares de descarga que les determine \"la Autoridad del Agua\", cuando a ésta competa establecerlas."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 91 BIS 1.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando se efectúen en forma fortuita, culposa o intencional una o varias descargas de aguas residuales sobre cuerpos receptores que sean bienes nacionales, en adición a lo dispuesto en el Artículo 86 de la presente Ley, las personas responsables deberán dar aviso dentro de las 24 horas siguientes a \"la Procuraduría\" y a \"la Autoridad del Agua\", especificando volumen y características de las descargas, para que se promuevan o adopten las medidas conducentes por parte de las responsables o las que, con cargo a éstas, realizará dicha Procuraduría y demás autoridades competentes."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 92.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. La persona responsable de la descarga, contraviniendo los términos de Ley, utilice el proceso de dilución de las aguas residuales para tratar de cumplir con las Normas Oficiales Mexicanas respectivas o las condiciones particulares de descarga;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 92.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "V. No se presente anualmente un informe que contenga los análisis e indicadores de la calidad y los volúmenes del agua establecidos en el permiso de descarga, y"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 93.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Realizar los actos u omisiones que se señalan en las fracciones II, III y IV del Artículo anterior, cuando con anterioridad se hubieren suspendido las actividades de la persona permisionaria por \"la Autoridad del Agua\" por la misma causa, o"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 93.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Cuando proceda la revocación, \"la Autoridad del Agua\" previa audiencia con la persona interesada, dictará y notificará la resolución respectiva, la cual deberá estar debidamente fundada y motivada."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 94.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando la suspensión o cese de operación de una planta de tratamiento de aguas residuales pueda ocasionar graves perjuicios a la salud, a la seguridad de la población o graves daños a ecosistemas vitales, \"la Autoridad del Agua\" por sí o a solicitud de autoridad distinta, en función de sus respectivas competencias, ordenará la suspensión de las actividades que originen la descarga, y cuando esto no fuera posible o conveniente, \"la Autoridad del Agua\" nombrará una persona interventora para que se haga cargo de la administración y operación provisional de las instalaciones de tratamiento de aguas residuales, hasta que se suspendan las actividades o se considere superada la gravedad de la descarga, sin perjuicio de la responsabilidad administrativa o penal en que se hubiera podido incurrir."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 94.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Los gastos que dicha intervención ocasione serán con cargo a las personas titulares del permiso de descarga."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 94 BIS.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 94 BIS.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Previo otorgamiento o renovación de permisos, incluyendo los de descarga, concesiones y asignaciones de los generadores de contaminación, además de cumplir con las Normas Oficiales Mexicanas relativas a descargas de aguas residuales, la persona interesada deberá presentar ante \"la Autoridad del Agua\", un análisis físico, químico y orgánico de las aguas de las fuentes receptoras en puntos inmediatamente previos a la descarga. Dicha información servirá para conformar el Registro de control de contaminación por fuentes puntuales y evaluar la calidad ambiental de la fuente, su capacidad de asimilación o autodepuración y soporte."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 96 BIS 2.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "VI. Sean necesarias para la ejecución de planes o programas nacionales distintos de los hídricos, pero que guarden relación con éstos, cuando la responsabilidad de las obras corresponda al Ejecutivo Federal, conforme a solicitud del estado o de la Ciudad de México en cuyo territorio se ubique, y"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 97.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 97.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Las personas usuarias de las aguas nacionales podrán realizar, por sí o por terceras personas, cualesquiera obras de infraestructura hidráulica que se requieran para su explotación, uso o aprovechamiento.",
+     "La administración y operación de estas obras serán responsabilidad de las personas usuarias o de las asociaciones que formen al efecto, independientemente de la explotación, uso o aprovechamiento que se efectúe de las aguas nacionales."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 99.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "\"La Autoridad del Agua\" proporcionará a solicitud de las personas inversionistas, concesionarias o asignatarias, los apoyos y la asistencia técnica para la adecuada construcción, operación, conservación, mejoramiento y modernización de las obras hidráulicas y los servicios para su operación."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 105.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "\"La Comisión\", en los términos del reglamento respectivo, podrá autorizar que la persona concesionaria otorgue en garantía los derechos de los bienes concesionados a que se refiere el presente Capítulo, y precisará en este caso los términos y modalidades respectivas."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 106.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 106.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Si durante la última décima u octava parte de la duración total de la concesión, según el caso que proceda conforme a lo dispuesto en el Artículo anterior, la persona concesionaria no mantiene la infraestructura en buen estado, \"la Comisión\" nombrará una persona interventora que vigile o se responsabilice de mantener la infraestructura al corriente, con cargo a la persona concesionaria, para que se proporcione un servicio eficiente y no se menoscabe la infraestructura hidráulica."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 107.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Vencimiento del plazo establecido en el título o renuncia de la persona titular;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 107.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción II, inciso d.",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "d. Prestar en forma deficiente o irregular el servicio, o la construcción, operación, conservación o mantenimiento, o su suspensión definitiva, por causas imputables a la persona concesionaria, cuando con ello se pueda causar o se causen perjuicios o daños graves a las personas usuarias o a terceras;"
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"ARTÍCULO 91 BIS.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Los municipios, la Ciudad de México y en su caso, los estados, deberán tratar sus aguas residuales, antes de descargarlas en un cuerpo receptor, conforme a las Normas Oficiales Mexicanas o a las condiciones particulares de descarga que les determine \\\"la Autoridad del Agua\\\", cuando a ésta competa establecerlas.\"]},{\"article\":\"ARTÍCULO 91 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando se efectúen en forma fortuita, culposa o intencional una o varias descargas de aguas residuales sobre cuerpos receptores que sean bienes nacionales, en adición a lo dispuesto en el Artículo 86 de la presente Ley, las personas responsables deberán dar aviso dentro de las 24 horas siguientes a \\\"la Procuraduría\\\" y a \\\"la Autoridad del Agua\\\", especificando volumen y características de las descargas, para que se promuevan o adopten las medidas conducentes por parte de las responsables o las que, con cargo a éstas, realizará dicha Procuraduría y demás autoridades competentes.\"]},{\"article\":\"ARTÍCULO 92.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. La persona responsable de la descarga, contraviniendo los términos de Ley, utilice el proceso de dilución de las aguas residuales para tratar de cumplir con las Normas Oficiales Mexicanas respectivas o las condiciones particulares de descarga;\"]},{\"article\":\"ARTÍCULO 92.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"V. No se presente anualmente un informe que contenga los análisis e indicadores de la calidad y los volúmenes del agua establecidos en el permiso de descarga, y\"]},{\"article\":\"ARTÍCULO 93.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Realizar los actos u omisiones que se señalan en las fracciones II, III y IV del Artículo anterior, cuando con anterioridad se hubieren suspendido las actividades de la persona permisionaria por \\\"la Autoridad del Agua\\\" por la misma causa, o\"]},{\"article\":\"ARTÍCULO 93.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Cuando proceda la revocación, \\\"la Autoridad del Agua\\\" previa audiencia con la persona interesada, dictará y notificará la resolución respectiva, la cual deberá estar debidamente fundada y motivada.\"]},{\"article\":\"ARTÍCULO 94.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando la suspensión o cese de operación de una planta de tratamiento de aguas residuales pueda ocasionar graves perjuicios a la salud, a la seguridad de la población o graves daños a ecosistemas vitales, \\\"la Autoridad del Agua\\\" por sí o a solicitud de autoridad distinta, en función de sus respectivas competencias, ordenará la suspensión de las actividades que originen la descarga, y cuando esto no fuera posible o conveniente, \\\"la Autoridad del Agua\\\" nombrará una persona interventora para que se haga cargo de la administración y operación provisional de las instalaciones de tratamiento de aguas residuales, hasta que se suspendan las actividades o se considere superada la gravedad de la descarga, sin perjuicio de la responsabilidad administrativa o penal en que se hubiera podido incurrir.\"]},{\"article\":\"ARTÍCULO 94.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Los gastos que dicha intervención ocasione serán con cargo a las personas titulares del permiso de descarga.\"]},{\"article\":\"ARTÍCULO 94 BIS.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 94 BIS.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Previo otorgamiento o renovación de permisos, incluyendo los de descarga, concesiones y asignaciones de los generadores de contaminación, además de cumplir con las Normas Oficiales Mexicanas relativas a descargas de aguas residuales, la persona interesada deberá presentar ante \\\"la Autoridad del Agua\\\", un análisis físico, químico y orgánico de las aguas de las fuentes receptoras en puntos inmediatamente previos a la descarga. Dicha información servirá para conformar el Registro de control de contaminación por fuentes puntuales y evaluar la calidad ambiental de la fuente, su capacidad de asimilación o autodepuración y soporte.\"]},{\"article\":\"ARTÍCULO 96 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VI\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"VI. Sean necesarias para la ejecución de planes o programas nacionales distintos de los hídricos, pero que guarden relación con éstos, cuando la responsabilidad de las obras corresponda al Ejecutivo Federal, conforme a solicitud del estado o de la Ciudad de México en cuyo territorio se ubique, y\"]},{\"article\":\"ARTÍCULO 97.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 97.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Las personas usuarias de las aguas nacionales podrán realizar, por sí o por terceras personas, cualesquiera obras de infraestructura hidráulica que se requieran para su explotación, uso o aprovechamiento.\",\"La administración y operación de estas obras serán responsabilidad de las personas usuarias o de las asociaciones que formen al efecto, independientemente de la explotación, uso o aprovechamiento que se efectúe de las aguas nacionales.\"]},{\"article\":\"ARTÍCULO 99.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"\\\"La Autoridad del Agua\\\" proporcionará a solicitud de las personas inversionistas, concesionarias o asignatarias, los apoyos y la asistencia técnica para la adecuada construcción, operación, conservación, mejoramiento y modernización de las obras hidráulicas y los servicios para su operación.\"]},{\"article\":\"ARTÍCULO 105.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"\\\"La Comisión\\\", en los términos del reglamento respectivo, podrá autorizar que la persona concesionaria otorgue en garantía los derechos de los bienes concesionados a que se refiere el presente Capítulo, y precisará en este caso los términos y modalidades respectivas.\"]},{\"article\":\"ARTÍCULO 106.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 106.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Si durante la última décima u octava parte de la duración total de la concesión, según el caso que proceda conforme a lo dispuesto en el Artículo anterior, la persona concesionaria no mantiene la infraestructura en buen estado, \\\"la Comisión\\\" nombrará una persona interventora que vigile o se responsabilice de mantener la infraestructura al corriente, con cargo a la persona concesionaria, para que se proporcione un servicio eficiente y no se menoscabe la infraestructura hidráulica.\"]},{\"article\":\"ARTÍCULO 107.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Vencimiento del plazo establecido en el título o renuncia de la persona titular;\"]},{\"article\":\"ARTÍCULO 107.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción II, inciso d.\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"d. Prestar en forma deficiente o irregular el servicio, o la construcción, operación, conservación o mantenimiento, o su suspensión definitiva, por causas imputables a la persona concesionaria, cuando con ello se pueda causar o se causen perjuicios o daños graves a las personas usuarias o a terceras;\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 22239,
+ "total_cost_usd": 0.1629338,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 3343,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 11933,
+   "webSearchRequests": 0,
+   "costUSD": 0.1629338,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 102,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 11933,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

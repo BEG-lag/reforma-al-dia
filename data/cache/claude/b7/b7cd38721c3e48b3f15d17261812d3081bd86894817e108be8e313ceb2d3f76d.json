@@ -1,0 +1,43 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 28.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En los Estados Unidos Mexicanos quedan prohibidos los monopolios, las prácticas monopólicas, los estancos, las condonaciones de impuestos y las exenciones de impuestos en los términos y condiciones que fijan las leyes. El mismo tratamiento se dará a las prohibiciones a título de protección a la industria."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 28.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En los Estados Unidos Mexicanos quedan prohibidos los monopolios, las prácticas monopólicas, los estancos, las condonaciones de impuestos y las exenciones de impuestos en los términos y condiciones que fijan las leyes. El mismo tratamiento se dará a las prohibiciones a título de protección a la industria.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 6500,
+ "total_cost_usd": 0.09516179999999999,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 682,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 10114,
+   "webSearchRequests": 0,
+   "costUSD": 0.09516179999999999,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 126,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 10114,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

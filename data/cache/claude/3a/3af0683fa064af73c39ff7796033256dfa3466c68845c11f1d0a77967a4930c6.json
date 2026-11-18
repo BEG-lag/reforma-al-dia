@@ -1,0 +1,308 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 31.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las bases de licitación de los Contratos y los Contratos deben prever que éstos sólo podrán ser formalizados con Empresas Públicas del Estado o con Personas Morales que cumplan con:"
+    ]
+   },
+   {
+    "article": "Artículo 31.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Tener por objeto exclusivamente la Exploración y Extracción de Hidrocarburos, a excepción de Petróleos Mexicanos, otras Empresas Públicas del Estado, así como los titulares de concesiones mineras para la adjudicación de los Contratos para la Exploración y Extracción de Gas Natural asociado a la veta de carbón mineral y producido por la misma para autoconsumo a que se refiere el artículo 56 de la Ley del Sector Hidrocarburos, y"
+    ]
+   },
+   {
+    "article": "Artículo 31.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Las Empresas Públicas del Estado y Personas Morales pueden participar en los procesos de licitación de forma individual, en consorcio o mediante la figura de asociaciones en participación."
+    ]
+   },
+   {
+    "article": "Artículo 31.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "Se entiende por consorcio cuando dos o más Empresas Públicas del Estado, Personas Morales, o ambas, presenten conjuntamente una proposición dentro del proceso de licitación para la adjudicación de un Contrato."
+    ]
+   },
+   {
+    "article": "Artículo 31.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "insert_after": 6,
+    "paragraphs": [
+     "Se entiende por asociación en participación aquella a que se refiere la Ley General de Sociedades Mercantiles."
+    ]
+   },
+   {
+    "article": "Artículo 31.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "sexto (actual), séptimo (nuevo)",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "Las Empresas Públicas del Estado, Personas Morales, asociaciones en participación y consorcios pueden ser titulares de más de un Contrato."
+    ]
+   },
+   {
+    "article": "Artículo 31.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "séptimo (actual)",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "Artículo 31.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "octavo (actual)",
+    "from_block": 11,
+    "to_block": 11,
+    "paragraphs": [
+     "Los Contratos deben contemplar las penas convencionales y garantías de cumplimiento respaldadas por instrumentos financieros convencionales que se requieran para su operación."
+    ]
+   },
+   {
+    "article": "Artículo 32.",
+    "operation": "reform",
+    "unit_type": "apartado",
+    "unit": "B, primer párrafo",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "B. Quienes se agrupen en consorcio en términos del artículo 31 de esta Ley, deben observar lo siguiente:"
+    ]
+   },
+   {
+    "article": "Artículo 34.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "En los Contratos formalizados por la Secretaría de Energía a que hace mención el primer párrafo de este artículo, todos los recursos derivados de la comercialización de la Producción Contractual que conforme al Contrato le corresponda al Estado, deben ser entregados al Fondo Mexicano del Petróleo, quien debe pagar las Contraprestaciones al Contratista de conformidad con lo establecido en el Contrato."
+    ]
+   },
+   {
+    "article": "Artículo 34.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Cuando una Empresa Pública del Estado sea Contratista por virtud de la migración de una Asignación y pretenda asociarse con terceros para la ejecución de un Contrato, la Secretaría está facultada para establecer las condiciones económicas relativas a los términos fiscales del Contrato, así como las variables de adjudicación para la licitación de la asociación o cesión, según corresponda, y debe fijar las condiciones fiscales mínimas a observar en la licitación que garanticen que los ingresos para el Estado no sean inferiores a los que se hubieran obtenido bajo el Contrato original."
+    ]
+   },
+   {
+    "article": "Artículo 35.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Los Contratos deben prever que la administración de los aspectos financieros de los mismos, relacionados con las Contraprestaciones y demás elementos previstos en esta Ley, se realiza por el Fondo Mexicano del Petróleo, sin perjuicio de las atribuciones que correspondan a la Secretaría de Energía en la administración de los Contratos."
+    ]
+   },
+   {
+    "article": "Artículo 35.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "El Fondo Mexicano del Petróleo, la Secretaría y la Secretaría de Energía deben coordinarse para el correcto ejercicio de sus respectivas funciones en la administración y supervisión de los Contratos."
+    ]
+   },
+   {
+    "article": "Artículo 37.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "A, VII",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "VII. Solicitar a la Secretaría de Energía el apoyo técnico que requiera para la ejecución de sus funciones, y"
+    ]
+   },
+   {
+    "article": "Artículo 37.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "A, VIII",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "VIII. Dar aviso a la Secretaría de Energía y a la Secretaría respecto de las irregularidades que detecte en el ejercicio de sus funciones a efecto de que se hagan valer los derechos que correspondan al Estado conforme al Contrato, o se apliquen las penas o sanciones que se prevean en el mismo. Lo anterior, sin perjuicio de otras acciones legales, judiciales o penales que resulten aplicables."
+    ]
+   },
+   {
+    "article": "Artículo 37.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "B, X",
+    "from_block": 21,
+    "to_block": 21,
+    "paragraphs": [
+     "X. Coordinarse con la Secretaría de Energía para recibir apoyo técnico y solicitar realice visitas de campo o de otro tipo para verificar las actividades e inversiones de los Contratistas, y"
+    ]
+   },
+   {
+    "article": "Artículo 37.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "B, XI",
+    "from_block": 22,
+    "to_block": 22,
+    "paragraphs": [
+     "XI. Dar aviso al Fondo Mexicano del Petróleo y a la Secretaría de Energía respecto de las irregularidades que detecte en la ejecución del Contrato a efecto de que se hagan valer los derechos que correspondan al Estado conforme al mismo, o se apliquen las penas o sanciones que se prevean en el Contrato. Lo anterior, sin perjuicio de otras acciones legales, judiciales o penales que resulten aplicables."
+    ]
+   },
+   {
+    "article": "Artículo 39.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 39",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "Los Asignatarios deben pagar anualmente el derecho petrolero para el bienestar, aplicando al valor de los Hidrocarburos extraídos durante el ejercicio fiscal de que se trate, incluyendo el consumo que de estos productos efectúe el Asignatario, así como las mermas por derramas o quema de dichos productos, sin deducción alguna, las tasas siguientes:",
+     "I. Tratándose de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en áreas terrestres, áreas marítimas con tirante de agua inferior a quinientos metros y en el Paleocanal de Chicontepec:",
+     "a) Cuando el precio del Petróleo sea inferior a 57.8 dólares de los Estados Unidos de América por barril:",
+     "Tasa = 30% + (0.1410 x Precio del Petróleo - 8.1433) %",
+     "b) Cuando el precio del Petróleo sea mayor o igual a 57.8 dólares de los Estados Unidos de América por barril:",
+     "Tasa = 30% + (0.0629 x Precio del Petróleo - 3.6320) %",
+     "II. Tratándose del Gas Natural No Asociado, incluyendo, en su caso, sus condensados:",
+     "a) Cuando el precio del Condensado sea inferior a 57.8 dólares de los Estados Unidos de América por barril:",
+     "Tasa = 11.6264% + (0.0560 x Precio del Condensado - 3.2308) %",
+     "b) Cuando el precio del Condensado sea mayor o igual a 57.8 dólares de los Estados Unidos de América por barril:",
+     "Tasa = 11.6264% + (0.0392 x Precio del Condensado - 2.2625) %",
+     "III. Tratándose de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en áreas marítimas con tirante de agua superior a quinientos metros, debe observarse lo previsto en la fracción I.",
+     "El derecho a que se refiere este artículo se entera mediante declaración que debe presentarse ante las oficinas autorizadas a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago."
+    ]
+   },
+   {
+    "article": "Artículo 40.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 40",
+    "from_block": 1,
+    "to_block": 11,
+    "paragraphs": [
+     "A cuenta del derecho a que se refiere el artículo 39 de esta Ley se deben hacer pagos provisionales mensuales, a más tardar el día 25 del mes posterior a aquél al que correspondan los pagos provisionales; cuando el mencionado día sea inhábil, el pago se debe realizar al siguiente día hábil. Los pagos provisionales mensuales se calculan aplicando la tasa que corresponda del artículo 39, al valor de los Hidrocarburos extraídos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago.",
+     "Al pago provisional así determinado, se le restan los pagos provisionales de este derecho efectivamente pagados en los meses anteriores correspondientes al ejercicio de que se trate, siendo la diferencia el pago provisional por enterar.",
+     "En la declaración anual por el derecho a que se refiere el artículo 39 de esta Ley, pueden acreditarse los pagos provisionales mensuales de este derecho efectivamente pagados, correspondientes al ejercicio de que se trate.",
+     "Cuando en la declaración de pago provisional o en la declaración anual resulte saldo a favor, el Asignatario puede compensar dicho saldo a favor contra los pagos posteriores del propio derecho, actualizado conforme a lo previsto en el artículo 17-A del Código Fiscal de la Federación, considerándose el periodo comprendido desde el mes en el que se obtenga el saldo a favor, hasta el mes en el que se realice la compensación.",
+     "La Secretaría puede emitir los lineamientos para el debido cumplimiento de lo establecido en el presente Capítulo."
+    ]
+   },
+   {
+    "article": "Artículo 41.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 41",
+    "from_block": 1,
+    "to_block": 12,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "Artículo 42.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 42",
+    "from_block": 1,
+    "to_block": 17,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "Artículo 43.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 43",
+    "from_block": 1,
+    "to_block": 21,
+    "paragraphs": [
+     "Derogado",
+     "Derogado"
+    ]
+   }
+  ],
+  "divisions": [
+   {
+    "operation": "rename",
+    "kind": "capitulo",
+    "label": "CAPÍTULO I",
+    "name": "DEL DERECHO PETROLERO PARA EL BIENESTAR",
+    "before_article": "Artículo 39.",
+    "current_heading": null
+   }
+  ],
+  "needs_review": [
+   {
+    "article": "Artículo 39.",
+    "reason": "El decreto reforma la denominación del Capítulo I del Título Tercero, pero el texto vigente del encabezado no se proporcionó; se dejó current_heading vacío para que se verifique el encabezado actual."
+   },
+   {
+    "article": "Artículo 43.",
+    "reason": "El decreto imprime \"Derogado\" dos veces (tras la etiqueta y en una línea adicional); verificar si el texto consolidado debe mostrar una o dos líneas."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 31.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las bases de licitación de los Contratos y los Contratos deben prever que éstos sólo podrán ser formalizados con Empresas Públicas del Estado o con Personas Morales que cumplan con:\"]},{\"article\":\"Artículo 31.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Tener por objeto exclusivamente la Exploración y Extracción de Hidrocarburos, a excepción de Petróleos Mexicanos, otras Empresas Públicas del Estado, así como los titulares de concesiones mineras para la adjudicación de los Contratos para la Exploración y Extracción de Gas Natural asociado a la veta de carbón mineral y producido por la misma para autoconsumo a que se refiere el artículo 56 de la Ley del Sector Hidrocarburos, y\"]},{\"article\":\"Artículo 31.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Las Empresas Públicas del Estado y Personas Morales pueden participar en los procesos de licitación de forma individual, en consorcio o mediante la figura de asociaciones en participación.\"]},{\"article\":\"Artículo 31.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"Se entiende por consorcio cuando dos o más Empresas Públicas del Estado, Personas Morales, o ambas, presenten conjuntamente una proposición dentro del proceso de licitación para la adjudicación de un Contrato.\"]},{\"article\":\"Artículo 31.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"insert_after\":6,\"paragraphs\":[\"Se entiende por asociación en participación aquella a que se refiere la Ley General de Sociedades Mercantiles.\"]},{\"article\":\"Artículo 31.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"sexto (actual), séptimo (nuevo)\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"Las Empresas Públicas del Estado, Personas Morales, asociaciones en participación y consorcios pueden ser titulares de más de un Contrato.\"]},{\"article\":\"Artículo 31.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"séptimo (actual)\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"Derogado\"]},{\"article\":\"Artículo 31.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"octavo (actual)\",\"from_block\":11,\"to_block\":11,\"paragraphs\":[\"Los Contratos deben contemplar las penas convencionales y garantías de cumplimiento respaldadas por instrumentos financieros convencionales que se requieran para su operación.\"]},{\"article\":\"Artículo 32.\",\"operation\":\"reform\",\"unit_type\":\"apartado\",\"unit\":\"B, primer párrafo\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"B. Quienes se agrupen en consorcio en términos del artículo 31 de esta Ley, deben observar lo siguiente:\"]},{\"article\":\"Artículo 34.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"En los Contratos formalizados por la Secretaría de Energía a que hace mención el primer párrafo de este artículo, todos los recursos derivados de la comercialización de la Producción Contractual que conforme al Contrato le corresponda al Estado, deben ser entregados al Fondo Mexicano del Petróleo, quien debe pagar las Contraprestaciones al Contratista de conformidad con lo establecido en el Contrato.\"]},{\"article\":\"Artículo 34.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Cuando una Empresa Pública del Estado sea Contratista por virtud de la migración de una Asignación y pretenda asociarse con terceros para la ejecución de un Contrato, la Secretaría está facultada para establecer las condiciones económicas relativas a los términos fiscales del Contrato, así como las variables de adjudicación para la licitación de la asociación o cesión, según corresponda, y debe fijar las condiciones fiscales mínimas a observar en la licitación que garanticen que los ingresos para el Estado no sean inferiores a los que se hubieran obtenido bajo el Contrato original.\"]},{\"article\":\"Artículo 35.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Los Contratos deben prever que la administración de los aspectos financieros de los mismos, relacionados con las Contraprestaciones y demás elementos previstos en esta Ley, se realiza por el Fondo Mexicano del Petróleo, sin perjuicio de las atribuciones que correspondan a la Secretaría de Energía en la administración de los Contratos.\"]},{\"article\":\"Artículo 35.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"El Fondo Mexicano del Petróleo, la Secretaría y la Secretaría de Energía deben coordinarse para el correcto ejercicio de sus respectivas funciones en la administración y supervisión de los Contratos.\"]},{\"article\":\"Artículo 37.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"A, VII\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"VII. Solicitar a la Secretaría de Energía el apoyo técnico que requiera para la ejecución de sus funciones, y\"]},{\"article\":\"Artículo 37.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"A, VIII\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"VIII. Dar aviso a la Secretaría de Energía y a la Secretaría respecto de las irregularidades que detecte en el ejercicio de sus funciones a efecto de que se hagan valer los derechos que correspondan al Estado conforme al Contrato, o se apliquen las penas o sanciones que se prevean en el mismo. Lo anterior, sin perjuicio de otras acciones legales, judiciales o penales que resulten aplicables.\"]},{\"article\":\"Artículo 37.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"B, X\",\"from_block\":21,\"to_block\":21,\"paragraphs\":[\"X. Coordinarse con la Secretaría de Energía para recibir apoyo técnico y solicitar realice visitas de campo o de otro tipo para verificar las actividades e inversiones de los Contratistas, y\"]},{\"article\":\"Artículo 37.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"B, XI\",\"from_block\":22,\"to_block\":22,\"paragraphs\":[\"XI. Dar aviso al Fondo Mexicano del Petróleo y a la Secretaría de Energía respecto de las irregularidades que detecte en la ejecución del Contrato a efecto de que se hagan valer los derechos que correspondan al Estado conforme al mismo, o se apliquen las penas o sanciones que se prevean en el Contrato. Lo anterior, sin perjuicio de otras acciones legales, judiciales o penales que resulten aplicables.\"]},{\"article\":\"Artículo 39.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 39\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"Los Asignatarios deben pagar anualmente el derecho petrolero para el bienestar, aplicando al valor de los Hidrocarburos extraídos durante el ejercicio fiscal de que se trate, incluyendo el consumo que de estos productos efectúe el Asignatario, así como las mermas por derramas o quema de dichos productos, sin deducción alguna, las tasas siguientes:\",\"I. Tratándose de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en áreas terrestres, áreas marítimas con tirante de agua inferior a quinientos metros y en el Paleocanal de Chicontepec:\",\"a) Cuando el precio del Petróleo sea inferior a 57.8 dólares de los Estados Unidos de América por barril:\",\"Tasa = 30% + (0.1410 x Precio del Petróleo - 8.1433) %\",\"b) Cuando el precio del Petróleo sea mayor o igual a 57.8 dólares de los Estados Unidos de América por barril:\",\"Tasa = 30% + (0.0629 x Precio del Petróleo - 3.6320) %\",\"II. Tratándose del Gas Natural No Asociado, incluyendo, en su caso, sus condensados:\",\"a) Cuando el precio del Condensado sea inferior a 57.8 dólares de los Estados Unidos de América por barril:\",\"Tasa = 11.6264% + (0.0560 x Precio del Condensado - 3.2308) %\",\"b) Cuando el precio del Condensado sea mayor o igual a 57.8 dólares de los Estados Unidos de América por barril:\",\"Tasa = 11.6264% + (0.0392 x Precio del Condensado - 2.2625) %\",\"III. Tratándose de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en áreas marítimas con tirante de agua superior a quinientos metros, debe observarse lo previsto en la fracción I.\",\"El derecho a que se refiere este artículo se entera mediante declaración que debe presentarse ante las oficinas autorizadas a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.\"]},{\"article\":\"Artículo 40.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 40\",\"from_block\":1,\"to_block\":11,\"paragraphs\":[\"A cuenta del derecho a que se refiere el artículo 39 de esta Ley se deben hacer pagos provisionales mensuales, a más tardar el día 25 del mes posterior a aquél al que correspondan los pagos provisionales; cuando el mencionado día sea inhábil, el pago se debe realizar al siguiente día hábil. Los pagos provisionales mensuales se calculan aplicando la tasa que corresponda del artículo 39, al valor de los Hidrocarburos extraídos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago.\",\"Al pago provisional así determinado, se le restan los pagos provisionales de este derecho efectivamente pagados en los meses anteriores correspondientes al ejercicio de que se trate, siendo la diferencia el pago provisional por enterar.\",\"En la declaración anual por el derecho a que se refiere el artículo 39 de esta Ley, pueden acreditarse los pagos provisionales mensuales de este derecho efectivamente pagados, correspondientes al ejercicio de que se trate.\",\"Cuando en la declaración de pago provisional o en la declaración anual resulte saldo a favor, el Asignatario puede compensar dicho saldo a favor contra los pagos posteriores del propio derecho, actualizado conforme a lo previsto en el artículo 17-A del Código Fiscal de la Federación, considerándose el periodo comprendido desde el mes en el que se obtenga el saldo a favor, hasta el mes en el que se realice la compensación.\",\"La Secretaría puede emitir los lineamientos para el debido cumplimiento de lo establecido en el presente Capítulo.\"]},{\"article\":\"Artículo 41.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 41\",\"from_block\":1,\"to_block\":12,\"paragraphs\":[\"Derogado\"]},{\"article\":\"Artículo 42.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 42\",\"from_block\":1,\"to_block\":17,\"paragraphs\":[\"Derogado\"]},{\"article\":\"Artículo 43.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 43\",\"from_block\":1,\"to_block\":21,\"paragraphs\":[\"Derogado\",\"Derogado\"]}],\"divisions\":[{\"operation\":\"rename\",\"kind\":\"capitulo\",\"label\":\"CAPÍTULO I\",\"name\":\"DEL DERECHO PETROLERO PARA EL BIENESTAR\",\"before_article\":\"Artículo 39.\",\"current_heading\":null}],\"needs_review\":[{\"article\":\"Artículo 39.\",\"reason\":\"El decreto reforma la denominación del Capítulo I del Título Tercero, pero el texto vigente del encabezado no se proporcionó; se dejó current_heading vacío para que se verifique el encabezado actual.\"},{\"article\":\"Artículo 43.\",\"reason\":\"El decreto imprime \\\"Derogado\\\" dos veces (tras la etiqueta y en una línea adicional); verificar si el texto consolidado debe mostrar una o dos líneas.\"}]}",
+ "duration_ms": 43844,
+ "total_cost_usd": 0.2588898,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 6132,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 16955,
+   "webSearchRequests": 0,
+   "costUSD": 0.2588898,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 1120,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 16955,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

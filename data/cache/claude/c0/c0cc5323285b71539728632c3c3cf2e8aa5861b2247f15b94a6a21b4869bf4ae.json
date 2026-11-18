@@ -1,0 +1,118 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 168.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Para la procedencia de la suspensión contra actos derivados de un procedimiento penal que afecten la libertad personal en los términos del artículo 166, fracción II, el órgano jurisdiccional de amparo deberá exigir a la persona quejosa que, dentro de los cinco días siguientes a la notificación de la determinación de la suspensión, exhiba garantía, sin perjuicio de otras medidas de aseguramiento que estime convenientes."
+    ]
+   },
+   {
+    "article": "Artículo 168.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "insert_after": 8,
+    "paragraphs": [
+     "El incumplimiento de cualesquiera de las condiciones fijadas por la persona juzgadora dará lugar a la revocación de la suspensión."
+    ]
+   },
+   {
+    "article": "Artículo 181.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Si la persona titular de la presidencia del tribunal colegiado de circuito no encuentra motivo de improcedencia o defecto en el escrito de demanda, o si este último fuera subsanado, la admitirá y mandará notificar a las partes el acuerdo relativo dentro de los cinco días siguientes a su pronunciamiento, para que en el plazo de quince días presenten sus alegatos o promuevan amparo adhesivo."
+    ]
+   },
+   {
+    "article": "Artículo 186.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Transcurrido el plazo señalado en el párrafo anterior sin que se haya emitido el voto particular, se asentará razón en autos y se continuará el trámite correspondiente. La falta de emisión de un voto particular no impedirá la publicación de la sentencia."
+    ]
+   },
+   {
+    "article": "Artículo 192.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "insert_after": 3,
+    "paragraphs": [
+     "La persona juzgadora previo a requerir a las autoridades responsables o a otras que considere como vinculadas al cumplimiento de la ejecutoria de amparo, deberá analizar el marco jurídico de actuación de las mismas para determinar si conforme a sus facultades les corresponde llevar a cabo actos relacionados con el cumplimiento respectivo."
+    ]
+   },
+   {
+    "article": "Artículo 260.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "IV. No tramite la demanda de amparo o no remita con la oportunidad debida y en los plazos previstos por esta Ley las constancias que le sean solicitadas por amparo o por las partes en el juicio constitucional."
+    ]
+   },
+   {
+    "article": "Artículo 262.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se impondrá pena de tres a nueve años de prisión, multa de cincuenta a quinientos días, destitución e inhabilitación de tres a nueve años para desempeñar otro cargo, empleo o comisión públicos, a la persona servidora pública que con el carácter de autoridad responsable o vinculada al cumplimiento en el juicio de amparo o en el incidente de suspensión:"
+    ]
+   },
+   {
+    "article": "Artículo 271.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando al concederse definitivamente el amparo a la persona quejosa aparezca que el acto reclamado, además de violar derechos humanos y garantías, cuenta con datos de prueba de un hecho que la ley señala como delito, se pondrá en conocimiento del Ministerio Público que corresponda."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 168.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Para la procedencia de la suspensión contra actos derivados de un procedimiento penal que afecten la libertad personal en los términos del artículo 166, fracción II, el órgano jurisdiccional de amparo deberá exigir a la persona quejosa que, dentro de los cinco días siguientes a la notificación de la determinación de la suspensión, exhiba garantía, sin perjuicio de otras medidas de aseguramiento que estime convenientes.\"]},{\"article\":\"Artículo 168.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"insert_after\":8,\"paragraphs\":[\"El incumplimiento de cualesquiera de las condiciones fijadas por la persona juzgadora dará lugar a la revocación de la suspensión.\"]},{\"article\":\"Artículo 181.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Si la persona titular de la presidencia del tribunal colegiado de circuito no encuentra motivo de improcedencia o defecto en el escrito de demanda, o si este último fuera subsanado, la admitirá y mandará notificar a las partes el acuerdo relativo dentro de los cinco días siguientes a su pronunciamiento, para que en el plazo de quince días presenten sus alegatos o promuevan amparo adhesivo.\"]},{\"article\":\"Artículo 186.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Transcurrido el plazo señalado en el párrafo anterior sin que se haya emitido el voto particular, se asentará razón en autos y se continuará el trámite correspondiente. La falta de emisión de un voto particular no impedirá la publicación de la sentencia.\"]},{\"article\":\"Artículo 192.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"insert_after\":3,\"paragraphs\":[\"La persona juzgadora previo a requerir a las autoridades responsables o a otras que considere como vinculadas al cumplimiento de la ejecutoria de amparo, deberá analizar el marco jurídico de actuación de las mismas para determinar si conforme a sus facultades les corresponde llevar a cabo actos relacionados con el cumplimiento respectivo.\"]},{\"article\":\"Artículo 260.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"IV. No tramite la demanda de amparo o no remita con la oportunidad debida y en los plazos previstos por esta Ley las constancias que le sean solicitadas por amparo o por las partes en el juicio constitucional.\"]},{\"article\":\"Artículo 262.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se impondrá pena de tres a nueve años de prisión, multa de cincuenta a quinientos días, destitución e inhabilitación de tres a nueve años para desempeñar otro cargo, empleo o comisión públicos, a la persona servidora pública que con el carácter de autoridad responsable o vinculada al cumplimiento en el juicio de amparo o en el incidente de suspensión:\"]},{\"article\":\"Artículo 271.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando al concederse definitivamente el amparo a la persona quejosa aparezca que el acto reclamado, además de violar derechos humanos y garantías, cuenta con datos de prueba de un hecho que la ley señala como delito, se pondrá en conocimiento del Ministerio Público que corresponda.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 13685,
+ "total_cost_usd": 0.108652,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 1863,
+   "cacheReadInputTokens": 0,
+   "cacheCreationInputTokens": 8923,
+   "webSearchRequests": 0,
+   "costUSD": 0.108652,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 386,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 8923,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

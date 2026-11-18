@@ -1,0 +1,537 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 147.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VII, párrafo primero",
+    "from_block": 11,
+    "to_block": 11,
+    "paragraphs": [
+     "VII. Que se cumplan las obligaciones establecidas en esta Ley en materia de retención y entero de impuestos a cargo de terceros o que, en su caso, se recabe de éstos copia de los documentos en que conste el pago de dichos impuestos. Tratándose de pagos al extranjero, sólo se podrán deducir en el ejercicio en el que se pague la contraprestación y se entere la retención que corresponda en términos del artículo 153, quinto párrafo, de esta Ley y siempre que el contribuyente proporcione la información a que esté obligado en los términos del artículo 76, fracción VI de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 153.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "quinto",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "Cuando en los términos del presente Título esté previsto que el impuesto se pague mediante retención, el retenedor estará obligado a enterar una cantidad equivalente a la que debió haber retenido en la fecha de la exigibilidad, del devengo o al momento en que efectúe el pago, lo que suceda primero. Tratándose de contraprestaciones efectuadas en moneda extranjera, el impuesto se enterará haciendo la conversión a moneda nacional en el momento en que se efectúe la retención del impuesto correspondiente. Para los efectos de este Título, tendrá el mismo efecto que el pago, cualquier otro acto jurídico por virtud del cual el deudor extingue la obligación de que se trate."
+    ]
+   },
+   {
+    "article": "Artículo 206.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Podrán cumplir con sus obligaciones fiscales en materia del impuesto sobre la renta conforme al régimen establecido en el presente Capítulo, las personas morales residentes en México únicamente constituidas por personas físicas, cuyos ingresos totales en el ejercicio inmediato anterior no excedan de la cantidad de cincuenta millones de pesos o las personas morales residentes en México únicamente constituidas por personas físicas que inicien operaciones y que estimen que sus ingresos totales no excederán de la cantidad referida."
+    ]
+   },
+   {
+    "article": "Artículo 206.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "No podrán tributar conforme a este Capítulo:"
+    ]
+   },
+   {
+    "article": "Artículo 206.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "III. Quienes tributen conforme a los Capítulos IV, VII y VIII del Título II y las del Título III de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 206.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "V. Los contribuyentes que dejen de tributar conforme a lo establecido en este Capítulo."
+    ]
+   },
+   {
+    "article": "Artículo 206.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "insert_after": 9,
+    "paragraphs": [
+     "Cuando los contribuyentes dejen de tributar en términos de este Capítulo conforme a lo dispuesto en el párrafo segundo de este artículo, podrán optar por tributar nuevamente en este Capítulo, siempre que, en cualquier ejercicio posterior a aquel en el que hubieren dejado de tributar conforme a dicho Capítulo, obtengan ingresos que no excedan de cincuenta millones de pesos, se encuentren al corriente en el cumplimiento de sus obligaciones fiscales y cumplan con los demás requisitos establecidos en este Capítulo. En este supuesto, la opción podrá ejercerse a partir del ejercicio inmediato siguiente a aquel en el que se cumplan los requisitos señalados en este párrafo."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "A, I",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "I. 10% para cargos diferidos."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "A, II",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "II. 20% para erogaciones realizadas en periodos preoperativos."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "A, III",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "III. 30% para regalías, para asistencia técnica, así como para otros gastos diferidos, a excepción de los señalados en la fracción IV del presente artículo."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "B, I, a)",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "a) 40% para inmuebles declarados como monumentos arqueológicos, artísticos, históricos o patrimoniales, conforme a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, que cuenten con el certificado de restauración expedido por el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "B, I, b)",
+    "from_block": 11,
+    "to_block": 11,
+    "paragraphs": [
+     "b) 26% en los demás casos."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "B, II, a)",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "a) 20% para bombas de suministro de combustible a trenes."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "B, II, b)",
+    "from_block": 14,
+    "to_block": 14,
+    "paragraphs": [
+     "b) 20% para vías férreas."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "B, II, c)",
+    "from_block": 15,
+    "to_block": 15,
+    "paragraphs": [
+     "c) 20% para carros de ferrocarril, locomotoras, armones y autoarmones."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "B, II, d)",
+    "from_block": 16,
+    "to_block": 16,
+    "paragraphs": [
+     "d) 40% para maquinaria niveladora de vías, desclavadoras, esmeriles para vías, gatos de motor para levantar la vía, removedora, insertadora y taladradora de durmientes."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "B, II, e)",
+    "from_block": 17,
+    "to_block": 17,
+    "paragraphs": [
+     "e) 40% para el equipo de comunicación, señalización y telemando."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "B, III",
+    "from_block": 18,
+    "to_block": 18,
+    "paragraphs": [
+     "III. 50% para mobiliario y equipo de oficina."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "B, IV",
+    "from_block": 19,
+    "to_block": 19,
+    "paragraphs": [
+     "IV. 40% para embarcaciones."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "B, V, a)",
+    "from_block": 21,
+    "to_block": 21,
+    "paragraphs": [
+     "a) 50% para los dedicados a la aerofumigación agrícola."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "B, V, b)",
+    "from_block": 22,
+    "to_block": 22,
+    "paragraphs": [
+     "b) 40% para los demás."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "B, VI",
+    "from_block": 23,
+    "to_block": 23,
+    "paragraphs": [
+     "VI. 50% para automóviles, autobuses, camiones de carga, tractocamiones, montacargas y remolques."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "B, VII",
+    "from_block": 24,
+    "to_block": 24,
+    "paragraphs": [
+     "VII. 100% para computadoras personales de escritorio y portátiles; servidores; impresoras, lectores ópticos, graficadores, lectores de código de barras, digitalizadores, unidades de almacenamiento externo y concentradores de redes de cómputo."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "B, VIII",
+    "from_block": 25,
+    "to_block": 25,
+    "paragraphs": [
+     "VIII. 100% para dados, troqueles, moldes, matrices y herramienta."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "B, X, a)",
+    "from_block": 28,
+    "to_block": 28,
+    "paragraphs": [
+     "a) 20% para torres de transmisión y cables, excepto los de fibra óptica."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "B, X, b)",
+    "from_block": 29,
+    "to_block": 29,
+    "paragraphs": [
+     "b) 40% para sistemas de radio, incluyendo equipo de transmisión y manejo que utiliza el espectro radioeléctrico, tales como el de radiotransmisión de microonda digital o analógica, torres de microondas y guías de onda."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "B, X, c)",
+    "from_block": 30,
+    "to_block": 30,
+    "paragraphs": [
+     "c) 40% para equipo utilizado en la transmisión, tales como circuitos de la planta interna que no forman parte de la conmutación y cuyas funciones se enfocan hacia las troncales que llegan a la central telefónica, incluye multiplexores, equipos concentradores y ruteadores."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "B, X, d)",
+    "from_block": 31,
+    "to_block": 31,
+    "paragraphs": [
+     "d) 50% para equipo de la central telefónica destinado a la conmutación de llamadas de tecnología distinta a la electromecánica."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "B, X, e)",
+    "from_block": 32,
+    "to_block": 32,
+    "paragraphs": [
+     "e) 40% para los demás."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "B, XI, a)",
+    "from_block": 34,
+    "to_block": 34,
+    "paragraphs": [
+     "a) 40% para el segmento satelital en el espacio, incluyendo el cuerpo principal del satélite, los transpondedores, las antenas para la transmisión y recepción de comunicaciones digitales y análogas, y el equipo de monitoreo en el satélite."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "B, XI, b)",
+    "from_block": 35,
+    "to_block": 35,
+    "paragraphs": [
+     "b) 40% para el equipo satelital en tierra, incluyendo las antenas para la transmisión y recepción de comunicaciones digitales y análogas y el equipo para el monitoreo del satélite."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "B, XIV",
+    "from_block": 38,
+    "to_block": 38,
+    "paragraphs": [
+     "XIV. 100% para bicicletas convencionales, bicicletas y motocicletas cuya propulsión sea a través de baterías eléctricas recargables."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "C, I",
+    "from_block": 40,
+    "to_block": 40,
+    "paragraphs": [
+     "I. 40% en la generación, conducción, transformación y distribución de electricidad; en la molienda de granos; en la producción de azúcar y sus derivados; en la fabricación de aceites comestibles; en el transporte marítimo, fluvial y lacustre."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "C, II",
+    "from_block": 41,
+    "to_block": 41,
+    "paragraphs": [
+     "II. 20% en la producción de metal obtenido en primer proceso; en la fabricación de productos de tabaco y derivados del carbón natural."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "C, III",
+    "from_block": 42,
+    "to_block": 42,
+    "paragraphs": [
+     "III. 26% en la fabricación de pulpa, papel y productos similares."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "C, IV",
+    "from_block": 43,
+    "to_block": 43,
+    "paragraphs": [
+     "IV. 26% en la fabricación de vehículos de motor y sus partes; en la construcción de ferrocarriles y navíos; en la fabricación de productos de metal, de maquinaria y de instrumentos profesionales y científicos; en la elaboración de productos alimenticios y de bebidas, excepto granos, azúcar, aceites comestibles y derivados."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "C, V",
+    "from_block": 44,
+    "to_block": 44,
+    "paragraphs": [
+     "V. 40% en el curtido de piel y la fabricación de artículos de piel; en la elaboración de productos químicos, petroquímicos y farmacobiológicos; en la fabricación de productos de caucho y de plástico; en la impresión y publicación gráfica."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "C, VI",
+    "from_block": 45,
+    "to_block": 45,
+    "paragraphs": [
+     "VI. 40% en el transporte eléctrico; en infraestructura fija para el transporte, almacenamiento y procesamiento de hidrocarburos."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "C, VII",
+    "from_block": 46,
+    "to_block": 46,
+    "paragraphs": [
+     "VII. 50% en la fabricación, acabado, teñido y estampado de productos textiles, así como de prendas para el vestido."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "C, VIII",
+    "from_block": 47,
+    "to_block": 47,
+    "paragraphs": [
+     "VIII. 50% en la industria minera; en la construcción de aeronaves y en el transporte terrestre de carga y pasajeros."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "C, IX",
+    "from_block": 48,
+    "to_block": 48,
+    "paragraphs": [
+     "IX. 50% en el transporte aéreo; en la transmisión de los servicios de comunicación proporcionados por telégrafos y por las estaciones de radio y televisión."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "C, X",
+    "from_block": 49,
+    "to_block": 49,
+    "paragraphs": [
+     "X. 66% en restaurantes."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "C, XI",
+    "from_block": 50,
+    "to_block": 50,
+    "paragraphs": [
+     "XI. 50% en la industria de la construcción; en actividades de agricultura, ganadería, silvicultura y pesca."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "C, XII",
+    "from_block": 51,
+    "to_block": 51,
+    "paragraphs": [
+     "XII. 70% para los destinados directamente a la investigación de nuevos productos o desarrollo de tecnología en el país."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "C, XIII",
+    "from_block": 52,
+    "to_block": 52,
+    "paragraphs": [
+     "XIII. 100% en la manufactura, ensamble y transformación de componentes magnéticos para discos duros y tarjetas electrónicas para la industria de la computación."
+    ]
+   },
+   {
+    "article": "Artículo 209.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "C, XIV",
+    "from_block": 53,
+    "to_block": 53,
+    "paragraphs": [
+     "XIV. 40% en otras actividades no especificadas en este artículo."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 147.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VII, párrafo primero\",\"from_block\":11,\"to_block\":11,\"paragraphs\":[\"VII. Que se cumplan las obligaciones establecidas en esta Ley en materia de retención y entero de impuestos a cargo de terceros o que, en su caso, se recabe de éstos copia de los documentos en que conste el pago de dichos impuestos. Tratándose de pagos al extranjero, sólo se podrán deducir en el ejercicio en el que se pague la contraprestación y se entere la retención que corresponda en términos del artículo 153, quinto párrafo, de esta Ley y siempre que el contribuyente proporcione la información a que esté obligado en los términos del artículo 76, fracción VI de esta Ley.\"]},{\"article\":\"Artículo 153.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"quinto\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"Cuando en los términos del presente Título esté previsto que el impuesto se pague mediante retención, el retenedor estará obligado a enterar una cantidad equivalente a la que debió haber retenido en la fecha de la exigibilidad, del devengo o al momento en que efectúe el pago, lo que suceda primero. Tratándose de contraprestaciones efectuadas en moneda extranjera, el impuesto se enterará haciendo la conversión a moneda nacional en el momento en que se efectúe la retención del impuesto correspondiente. Para los efectos de este Título, tendrá el mismo efecto que el pago, cualquier otro acto jurídico por virtud del cual el deudor extingue la obligación de que se trate.\"]},{\"article\":\"Artículo 206.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Podrán cumplir con sus obligaciones fiscales en materia del impuesto sobre la renta conforme al régimen establecido en el presente Capítulo, las personas morales residentes en México únicamente constituidas por personas físicas, cuyos ingresos totales en el ejercicio inmediato anterior no excedan de la cantidad de cincuenta millones de pesos o las personas morales residentes en México únicamente constituidas por personas físicas que inicien operaciones y que estimen que sus ingresos totales no excederán de la cantidad referida.\"]},{\"article\":\"Artículo 206.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"No podrán tributar conforme a este Capítulo:\"]},{\"article\":\"Artículo 206.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"III. Quienes tributen conforme a los Capítulos IV, VII y VIII del Título II y las del Título III de esta Ley.\"]},{\"article\":\"Artículo 206.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"V. Los contribuyentes que dejen de tributar conforme a lo establecido en este Capítulo.\"]},{\"article\":\"Artículo 206.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"insert_after\":9,\"paragraphs\":[\"Cuando los contribuyentes dejen de tributar en términos de este Capítulo conforme a lo dispuesto en el párrafo segundo de este artículo, podrán optar por tributar nuevamente en este Capítulo, siempre que, en cualquier ejercicio posterior a aquel en el que hubieren dejado de tributar conforme a dicho Capítulo, obtengan ingresos que no excedan de cincuenta millones de pesos, se encuentren al corriente en el cumplimiento de sus obligaciones fiscales y cumplan con los demás requisitos establecidos en este Capítulo. En este supuesto, la opción podrá ejercerse a partir del ejercicio inmediato siguiente a aquel en el que se cumplan los requisitos señalados en este párrafo.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"A, I\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"I. 10% para cargos diferidos.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"A, II\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"II. 20% para erogaciones realizadas en periodos preoperativos.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"A, III\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"III. 30% para regalías, para asistencia técnica, así como para otros gastos diferidos, a excepción de los señalados en la fracción IV del presente artículo.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"B, I, a)\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"a) 40% para inmuebles declarados como monumentos arqueológicos, artísticos, históricos o patrimoniales, conforme a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, que cuenten con el certificado de restauración expedido por el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"B, I, b)\",\"from_block\":11,\"to_block\":11,\"paragraphs\":[\"b) 26% en los demás casos.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"B, II, a)\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"a) 20% para bombas de suministro de combustible a trenes.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"B, II, b)\",\"from_block\":14,\"to_block\":14,\"paragraphs\":[\"b) 20% para vías férreas.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"B, II, c)\",\"from_block\":15,\"to_block\":15,\"paragraphs\":[\"c) 20% para carros de ferrocarril, locomotoras, armones y autoarmones.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"B, II, d)\",\"from_block\":16,\"to_block\":16,\"paragraphs\":[\"d) 40% para maquinaria niveladora de vías, desclavadoras, esmeriles para vías, gatos de motor para levantar la vía, removedora, insertadora y taladradora de durmientes.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"B, II, e)\",\"from_block\":17,\"to_block\":17,\"paragraphs\":[\"e) 40% para el equipo de comunicación, señalización y telemando.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"B, III\",\"from_block\":18,\"to_block\":18,\"paragraphs\":[\"III. 50% para mobiliario y equipo de oficina.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"B, IV\",\"from_block\":19,\"to_block\":19,\"paragraphs\":[\"IV. 40% para embarcaciones.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"B, V, a)\",\"from_block\":21,\"to_block\":21,\"paragraphs\":[\"a) 50% para los dedicados a la aerofumigación agrícola.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"B, V, b)\",\"from_block\":22,\"to_block\":22,\"paragraphs\":[\"b) 40% para los demás.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"B, VI\",\"from_block\":23,\"to_block\":23,\"paragraphs\":[\"VI. 50% para automóviles, autobuses, camiones de carga, tractocamiones, montacargas y remolques.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"B, VII\",\"from_block\":24,\"to_block\":24,\"paragraphs\":[\"VII. 100% para computadoras personales de escritorio y portátiles; servidores; impresoras, lectores ópticos, graficadores, lectores de código de barras, digitalizadores, unidades de almacenamiento externo y concentradores de redes de cómputo.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"B, VIII\",\"from_block\":25,\"to_block\":25,\"paragraphs\":[\"VIII. 100% para dados, troqueles, moldes, matrices y herramienta.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"B, X, a)\",\"from_block\":28,\"to_block\":28,\"paragraphs\":[\"a) 20% para torres de transmisión y cables, excepto los de fibra óptica.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"B, X, b)\",\"from_block\":29,\"to_block\":29,\"paragraphs\":[\"b) 40% para sistemas de radio, incluyendo equipo de transmisión y manejo que utiliza el espectro radioeléctrico, tales como el de radiotransmisión de microonda digital o analógica, torres de microondas y guías de onda.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"B, X, c)\",\"from_block\":30,\"to_block\":30,\"paragraphs\":[\"c) 40% para equipo utilizado en la transmisión, tales como circuitos de la planta interna que no forman parte de la conmutación y cuyas funciones se enfocan hacia las troncales que llegan a la central telefónica, incluye multiplexores, equipos concentradores y ruteadores.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"B, X, d)\",\"from_block\":31,\"to_block\":31,\"paragraphs\":[\"d) 50% para equipo de la central telefónica destinado a la conmutación de llamadas de tecnología distinta a la electromecánica.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"B, X, e)\",\"from_block\":32,\"to_block\":32,\"paragraphs\":[\"e) 40% para los demás.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"B, XI, a)\",\"from_block\":34,\"to_block\":34,\"paragraphs\":[\"a) 40% para el segmento satelital en el espacio, incluyendo el cuerpo principal del satélite, los transpondedores, las antenas para la transmisión y recepción de comunicaciones digitales y análogas, y el equipo de monitoreo en el satélite.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"B, XI, b)\",\"from_block\":35,\"to_block\":35,\"paragraphs\":[\"b) 40% para el equipo satelital en tierra, incluyendo las antenas para la transmisión y recepción de comunicaciones digitales y análogas y el equipo para el monitoreo del satélite.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"B, XIV\",\"from_block\":38,\"to_block\":38,\"paragraphs\":[\"XIV. 100% para bicicletas convencionales, bicicletas y motocicletas cuya propulsión sea a través de baterías eléctricas recargables.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"C, I\",\"from_block\":40,\"to_block\":40,\"paragraphs\":[\"I. 40% en la generación, conducción, transformación y distribución de electricidad; en la molienda de granos; en la producción de azúcar y sus derivados; en la fabricación de aceites comestibles; en el transporte marítimo, fluvial y lacustre.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"C, II\",\"from_block\":41,\"to_block\":41,\"paragraphs\":[\"II. 20% en la producción de metal obtenido en primer proceso; en la fabricación de productos de tabaco y derivados del carbón natural.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"C, III\",\"from_block\":42,\"to_block\":42,\"paragraphs\":[\"III. 26% en la fabricación de pulpa, papel y productos similares.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"C, IV\",\"from_block\":43,\"to_block\":43,\"paragraphs\":[\"IV. 26% en la fabricación de vehículos de motor y sus partes; en la construcción de ferrocarriles y navíos; en la fabricación de productos de metal, de maquinaria y de instrumentos profesionales y científicos; en la elaboración de productos alimenticios y de bebidas, excepto granos, azúcar, aceites comestibles y derivados.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"C, V\",\"from_block\":44,\"to_block\":44,\"paragraphs\":[\"V. 40% en el curtido de piel y la fabricación de artículos de piel; en la elaboración de productos químicos, petroquímicos y farmacobiológicos; en la fabricación de productos de caucho y de plástico; en la impresión y publicación gráfica.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"C, VI\",\"from_block\":45,\"to_block\":45,\"paragraphs\":[\"VI. 40% en el transporte eléctrico; en infraestructura fija para el transporte, almacenamiento y procesamiento de hidrocarburos.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"C, VII\",\"from_block\":46,\"to_block\":46,\"paragraphs\":[\"VII. 50% en la fabricación, acabado, teñido y estampado de productos textiles, así como de prendas para el vestido.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"C, VIII\",\"from_block\":47,\"to_block\":47,\"paragraphs\":[\"VIII. 50% en la industria minera; en la construcción de aeronaves y en el transporte terrestre de carga y pasajeros.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"C, IX\",\"from_block\":48,\"to_block\":48,\"paragraphs\":[\"IX. 50% en el transporte aéreo; en la transmisión de los servicios de comunicación proporcionados por telégrafos y por las estaciones de radio y televisión.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"C, X\",\"from_block\":49,\"to_block\":49,\"paragraphs\":[\"X. 66% en restaurantes.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"C, XI\",\"from_block\":50,\"to_block\":50,\"paragraphs\":[\"XI. 50% en la industria de la construcción; en actividades de agricultura, ganadería, silvicultura y pesca.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"C, XII\",\"from_block\":51,\"to_block\":51,\"paragraphs\":[\"XII. 70% para los destinados directamente a la investigación de nuevos productos o desarrollo de tecnología en el país.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"C, XIII\",\"from_block\":52,\"to_block\":52,\"paragraphs\":[\"XIII. 100% en la manufactura, ensamble y transformación de componentes magnéticos para discos duros y tarjetas electrónicas para la industria de la computación.\"]},{\"article\":\"Artículo 209.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"C, XIV\",\"from_block\":53,\"to_block\":53,\"paragraphs\":[\"XIV. 40% en otras actividades no especificadas en este artículo.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 51486,
+ "total_cost_usd": 0.2677218,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 7366,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 14974,
+   "webSearchRequests": 0,
+   "costUSD": 0.2677218,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 965,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 14974,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

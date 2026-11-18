@@ -1,0 +1,44 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 168 ter.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 168 ter.",
+    "insert_after": null,
+    "paragraphs": [
+     "Se sancionará con pena de doce a quince años de prisión, a quien fabrique, comercialice, adquiera, instale, porte, use u opere equipos que bloqueen, cancelen o anulen las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen con excepción de lo establecido en el segundo párrafo del artículo 190 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión.",
+     "Los equipos a que hace referencia el primer párrafo del artículo 190 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión, serán asegurados en términos de lo que establece el Código Nacional de Procedimientos Penales y posteriormente deberán ser destruidos en su totalidad.",
+     "Si el delito al que se refiere el primer párrafo de este artículo, fuera cometido por servidores públicos, y sin autorización expresa escrita debidamente acreditada por su superior inmediato, se le impondrá la pena de quince a dieciocho años de prisión."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 168 ter.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 168 ter.\",\"insert_after\":null,\"paragraphs\":[\"Se sancionará con pena de doce a quince años de prisión, a quien fabrique, comercialice, adquiera, instale, porte, use u opere equipos que bloqueen, cancelen o anulen las señales de telefonía celular, de radiocomunicación o de transmisión de datos o imagen con excepción de lo establecido en el segundo párrafo del artículo 190 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión.\",\"Los equipos a que hace referencia el primer párrafo del artículo 190 Bis de la Ley Federal de Telecomunicaciones y Radiodifusión, serán asegurados en términos de lo que establece el Código Nacional de Procedimientos Penales y posteriormente deberán ser destruidos en su totalidad.\",\"Si el delito al que se refiere el primer párrafo de este artículo, fuera cometido por servidores públicos, y sin autorización expresa escrita debidamente acreditada por su superior inmediato, se le impondrá la pena de quince a dieciocho años de prisión.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 4770,
+ "total_cost_usd": 0.0216738,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 524,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 1323,
+   "webSearchRequests": 0,
+   "costUSD": 0.0216738,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 0,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 1323,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

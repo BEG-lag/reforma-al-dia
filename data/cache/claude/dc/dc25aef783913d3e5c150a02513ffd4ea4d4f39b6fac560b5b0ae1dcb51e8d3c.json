@@ -1,0 +1,58 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 113.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. (Se deroga)."
+    ]
+   },
+   {
+    "article": "Artículo 113 Bis.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 113 Bis.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se impondrá sanción de dos a nueve años de prisión, al que por sí o por interpósita persona, expida, enajene, compre o adquiera comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.",
+     "Será sancionado con las mismas penas, al que a sabiendas permita o publique, a través de cualquier medio, anuncios para la adquisición o enajenación de comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.",
+     "Cuando el delito sea cometido por un servidor público en ejercicio de sus funciones, será destituido del empleo e inhabilitado de uno a diez años para desempeñar cargo o comisión públicos, en adición a la agravante señalada en el artículo 97 de este Código.",
+     "Se requerirá querella por parte de la Secretaría de Hacienda y Crédito Público, para proceder penalmente por este delito.",
+     "El delito previsto en este artículo, así como el dispuesto en el artículo 400 Bis del Código Penal Federal, se podrán perseguir simultáneamente."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 113.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. (Se deroga).\"]},{\"article\":\"Artículo 113 Bis.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 113 Bis.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se impondrá sanción de dos a nueve años de prisión, al que por sí o por interpósita persona, expida, enajene, compre o adquiera comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.\",\"Será sancionado con las mismas penas, al que a sabiendas permita o publique, a través de cualquier medio, anuncios para la adquisición o enajenación de comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.\",\"Cuando el delito sea cometido por un servidor público en ejercicio de sus funciones, será destituido del empleo e inhabilitado de uno a diez años para desempeñar cargo o comisión públicos, en adición a la agravante señalada en el artículo 97 de este Código.\",\"Se requerirá querella por parte de la Secretaría de Hacienda y Crédito Público, para proceder penalmente por este delito.\",\"El delito previsto en este artículo, así como el dispuesto en el artículo 400 Bis del Código Penal Federal, se podrán perseguir simultáneamente.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 5024,
+ "total_cost_usd": 0.027589799999999998,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 625,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 1810,
+   "webSearchRequests": 0,
+   "costUSD": 0.027589799999999998,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 0,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 1810,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

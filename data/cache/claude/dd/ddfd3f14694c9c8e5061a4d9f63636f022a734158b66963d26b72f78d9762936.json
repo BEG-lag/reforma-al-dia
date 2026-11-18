@@ -1,0 +1,64 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 23.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "insert_after": 1,
+    "paragraphs": [
+     "Como excepción a lo establecido en el párrafo anterior, los menores de edad, a partir de los quince años cumplidos, podrán abrir cuentas de depósito bancario de dinero en términos de la Ley de Instituciones de Crédito, sin la intervención de sus representantes y tendrán la administración de los fondos depositados en dichas cuentas con los efectos a que se refiere el artículo 435 de este Código."
+    ]
+   },
+   {
+    "article": "Artículo 430.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 430.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo; la administración y la otra mitad del usufructo corresponden a las personas que ejerzan la patria potestad. Sin embargo, si los hijos adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinado, se estará a lo dispuesto. Tratándose de las cuentas de depósito bancario de dinero a que se refiere el segundo párrafo del artículo 23 de este Código, la totalidad del usufructo de los fondos depositados en dichas cuentas pertenecerá al menor de edad."
+    ]
+   },
+   {
+    "article": "Artículo 635.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 635.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 537 y el segundo párrafo del artículo 23 de este Código."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 23.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"insert_after\":1,\"paragraphs\":[\"Como excepción a lo establecido en el párrafo anterior, los menores de edad, a partir de los quince años cumplidos, podrán abrir cuentas de depósito bancario de dinero en términos de la Ley de Instituciones de Crédito, sin la intervención de sus representantes y tendrán la administración de los fondos depositados en dichas cuentas con los efectos a que se refiere el artículo 435 de este Código.\"]},{\"article\":\"Artículo 430.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 430.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo; la administración y la otra mitad del usufructo corresponden a las personas que ejerzan la patria potestad. Sin embargo, si los hijos adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinado, se estará a lo dispuesto. Tratándose de las cuentas de depósito bancario de dinero a que se refiere el segundo párrafo del artículo 23 de este Código, la totalidad del usufructo de los fondos depositados en dichas cuentas pertenecerá al menor de edad.\"]},{\"article\":\"Artículo 635.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 635.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 537 y el segundo párrafo del artículo 23 de este Código.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 5895,
+ "total_cost_usd": 0.0318418,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 768,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 1984,
+   "webSearchRequests": 0,
+   "costUSD": 0.0318418,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 0,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 1984,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

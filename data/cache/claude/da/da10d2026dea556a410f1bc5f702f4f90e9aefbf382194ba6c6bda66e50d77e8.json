@@ -1,0 +1,223 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "ARTÍCULO 110.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La operación, conservación y mantenimiento de la infraestructura hidráulica se efectuarán con cargo a las personas usuarias de los servicios respectivos. Las cuotas de autosuficiencia se determinarán con base en los costos de los servicios, previa la valuación de dichos costos en los términos de eficiencia económica; igualmente, se tomarán en consideración criterios de eficiencia económica y saneamiento financiero de la entidad o unidad prestadora del servicio."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 111.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En los distritos de riego y en las unidades de riego o de temporal tecnificado, se podrá otorgar como garantía la propiedad de las tierras o, en caso de personas ejidatarias o comuneras, el derecho de uso o aprovechamiento de la parcela, en los términos de la Ley Agraria, para asegurar la recuperación de las inversiones en las obras y del costo de los servicios de riego o de drenaje respectivos."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 112.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La prestación de los distintos servicios administrativos por parte de \"la Comisión\" o de sus Organismos de Cuenca y la explotación, uso o aprovechamiento de aguas nacionales, incluyendo las del subsuelo, así como de los bienes nacionales que administre \"la Comisión\", motivará el pago por parte de la persona usuaria de las cuotas que establezca la Ley Federal de Derechos."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 112.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Esta obligación incluye a los bienes nacionales y sus servicios que estén coordinados para administración de los cobros de derechos, con los gobiernos de los estados, la Ciudad de México o municipios en los términos de la Ley de Coordinación Fiscal y la propia Ley Federal de Derechos."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 113 BIS.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "fracción VIII",
+    "from_block": 15,
+    "to_block": 15,
+    "paragraphs": [
+     "VIII. Permitir a terceras personas en forma provisional la explotación de los materiales pétreos amparados por la concesión respectiva, la modificación de las condiciones del título respectivo, o la autorización previa de \"la Autoridad del Agua\";"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 113 BIS.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo sexto",
+    "from_block": 19,
+    "to_block": 19,
+    "paragraphs": [
+     "De detectarse daños apreciables a taludes, cauces y otros elementos vinculados con la gestión del agua, a juicio de \"la Autoridad del Agua\", conforme a sus respectivas atribuciones, deberán repararse totalmente por las personas causantes, sin menoscabo de la aplicación de otras sanciones administrativas y penales que pudieran proceder conforme a la reglamentación que se expida al respecto."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 113 BIS 1.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "\"La Comisión\" y los Organismos de Cuenca podrán coordinarse con los gobiernos de los estados y de la Ciudad de México, para que estos últimos ejecuten determinados actos administrativos relacionados con los bienes nacionales al cargo de \"la Comisión\", en los términos de lo que establece esta Ley y otros instrumentos jurídicos aplicables, para contribuir a la descentralización de la gestión de los bienes referidos."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 114.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "En caso de que las aguas superficiales tiendan a cambiar de vaso o cauce, las personas propietarias de los terrenos aledaños tendrán el derecho de construir las obras de defensa necesarias. En caso de cambio consumado, tendrán el derecho de construir obras de rectificación, dentro del plazo de un año contado a partir de la fecha del cambio. Para proceder a la construcción de defensas o de rectificación, bastará determinar el impacto ambiental, y que se dé aviso por escrito a \"la Autoridad del Agua\", la cual podrá suspender u ordenar la corrección de dichas obras en el caso de que se causen o puedan causarse daños a terceras personas o a ecosistemas vitales."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 115.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "Cuando por causas naturales ocurra un cambio definitivo en el curso de una corriente de propiedad nacional, las personas propietarias afectadas por el cambio de cauce tendrán el derecho de recibir, en sustitución, la parte proporcional de la superficie que quede disponible fuera de la ribera o zona federal, tomando en cuenta la extensión de tierra en que hubieran sido afectadas.",
+     "En su defecto, las personas propietarias ribereñas del cauce abandonado podrán adquirir hasta la mitad de dicho cauce en la parte que quede al frente de su propiedad, o la totalidad si en el lado contrario no hay persona ribereña interesada.",
+     "A falta de personas afectadas o de personas propietarias ribereñas interesadas, las terceras podrán adquirir la superficie del cauce abandonado."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 117.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Los estados, la Ciudad de México, los municipios o, en su caso, las personas particulares interesadas en los terrenos a que se refiere este Artículo, deberán presentar a \"la Comisión\" para su aprobación el proyecto para realizar las obras de control y las que sean necesarias para reducir o suprimir la zona federal."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 117.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "\"La Comisión\" podrá convenir con los gobiernos de los estados, de la Ciudad de México o de los municipios, las custodias, conservación y mantenimiento de las zonas federales referidas en este Artículo. En el caso de las personas particulares interesadas, esto se realizará mediante subasta pública."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 118 BIS.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las personas concesionarias a que se refiere el presente Capítulo estarán obligadas a:"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 118 BIS 1.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las disposiciones contenidas en este título son aplicables a los actos de verificación, inspección, ejecución de medidas de apremio y seguridad, determinación de infracciones, sanciones administrativas, recursos administrativos y delitos en el ámbito de esta Ley."
+    ]
+   },
+   {
+    "article": "ARTICULO 118 BIS 2.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 5,
+    "paragraphs": [
+     "Corresponde a \"la Autoridad del Agua\" realizar los actos de verificación e inspección para comprobar el cumplimiento de las disposiciones establecidas en el presente ordenamiento y de las que del mismo se deriven, pudiendo acceder a todo tipo de información, incluso a aquella con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de infracciones previstas en esta Ley, debiendo mantener la reserva o confidencialidad, en términos de la legislación aplicable; asimismo, podrá emplear el uso de nuevas tecnologías en el ejercicio de estas funciones."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 118 BIS 3.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando con motivo de los actos de verificación e inspección a que se refiere el artículo anterior, existan elementos que presuman la comisión de una infracción, \"la Autoridad del Agua\" sustanciará el procedimiento administrativo sancionador de conformidad con lo señalado en el Reglamento de esta Ley y, en su caso, calificará la infracción mediante la resolución administrativa correspondiente en términos de la presente Ley."
+    ]
+   }
+  ],
+  "divisions": [
+   {
+    "operation": "add",
+    "kind": "capitulo",
+    "label": "Capítulo I",
+    "name": "Disposiciones Generales",
+    "before_article": "ARTÍCULO 118 BIS 1."
+   },
+   {
+    "operation": "add",
+    "kind": "capitulo",
+    "label": "Capítulo II",
+    "name": "Verificación, inspección y calificación de infracciones",
+    "before_article": "ARTICULO 118 BIS 2."
+   }
+  ],
+  "needs_review": [
+   {
+    "article": "ARTÍCULO 118 BIS 1.",
+    "reason": "El decreto dispone que los actuales artículos 118 BIS 1, 118 BIS 2 y 118 BIS 3 pasan a ser 118 TER, 118 TER 1 y 118 TER 2, pero su texto no se reproduce en esta parte y se desconoce su ubicación (bajo qué Capítulo renumerado). Se reformaron los 118 BIS 1 a 3 con el nuevo texto; debe verificarse que el texto vigente se traslade a los artículos 118 TER, 118 TER 1 y 118 TER 2 para no perderlo."
+   },
+   {
+    "article": "ARTÍCULO 118 BIS 1.",
+    "reason": "El decreto reforma la denominación del Título Décimo ('Régimen Sancionador y Procedimientos Administrativos') y lo imprime antes del artículo 118 BIS 1; no se dispone del encabezado vigente ni de su ubicación actual (presumiblemente antes del art. 119), ni se pudo aplicar la renumeración de capítulos (Capítulo I pasa a III, II a IV, III a VI). Verificar la reubicación del Título y la coherencia con los Capítulos I y II adicionados."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"ARTÍCULO 110.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La operación, conservación y mantenimiento de la infraestructura hidráulica se efectuarán con cargo a las personas usuarias de los servicios respectivos. Las cuotas de autosuficiencia se determinarán con base en los costos de los servicios, previa la valuación de dichos costos en los términos de eficiencia económica; igualmente, se tomarán en consideración criterios de eficiencia económica y saneamiento financiero de la entidad o unidad prestadora del servicio.\"]},{\"article\":\"ARTÍCULO 111.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En los distritos de riego y en las unidades de riego o de temporal tecnificado, se podrá otorgar como garantía la propiedad de las tierras o, en caso de personas ejidatarias o comuneras, el derecho de uso o aprovechamiento de la parcela, en los términos de la Ley Agraria, para asegurar la recuperación de las inversiones en las obras y del costo de los servicios de riego o de drenaje respectivos.\"]},{\"article\":\"ARTÍCULO 112.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La prestación de los distintos servicios administrativos por parte de \\\"la Comisión\\\" o de sus Organismos de Cuenca y la explotación, uso o aprovechamiento de aguas nacionales, incluyendo las del subsuelo, así como de los bienes nacionales que administre \\\"la Comisión\\\", motivará el pago por parte de la persona usuaria de las cuotas que establezca la Ley Federal de Derechos.\"]},{\"article\":\"ARTÍCULO 112.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Esta obligación incluye a los bienes nacionales y sus servicios que estén coordinados para administración de los cobros de derechos, con los gobiernos de los estados, la Ciudad de México o municipios en los términos de la Ley de Coordinación Fiscal y la propia Ley Federal de Derechos.\"]},{\"article\":\"ARTÍCULO 113 BIS.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"fracción VIII\",\"from_block\":15,\"to_block\":15,\"paragraphs\":[\"VIII. Permitir a terceras personas en forma provisional la explotación de los materiales pétreos amparados por la concesión respectiva, la modificación de las condiciones del título respectivo, o la autorización previa de \\\"la Autoridad del Agua\\\";\"]},{\"article\":\"ARTÍCULO 113 BIS.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo sexto\",\"from_block\":19,\"to_block\":19,\"paragraphs\":[\"De detectarse daños apreciables a taludes, cauces y otros elementos vinculados con la gestión del agua, a juicio de \\\"la Autoridad del Agua\\\", conforme a sus respectivas atribuciones, deberán repararse totalmente por las personas causantes, sin menoscabo de la aplicación de otras sanciones administrativas y penales que pudieran proceder conforme a la reglamentación que se expida al respecto.\"]},{\"article\":\"ARTÍCULO 113 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"\\\"La Comisión\\\" y los Organismos de Cuenca podrán coordinarse con los gobiernos de los estados y de la Ciudad de México, para que estos últimos ejecuten determinados actos administrativos relacionados con los bienes nacionales al cargo de \\\"la Comisión\\\", en los términos de lo que establece esta Ley y otros instrumentos jurídicos aplicables, para contribuir a la descentralización de la gestión de los bienes referidos.\"]},{\"article\":\"ARTÍCULO 114.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"En caso de que las aguas superficiales tiendan a cambiar de vaso o cauce, las personas propietarias de los terrenos aledaños tendrán el derecho de construir las obras de defensa necesarias. En caso de cambio consumado, tendrán el derecho de construir obras de rectificación, dentro del plazo de un año contado a partir de la fecha del cambio. Para proceder a la construcción de defensas o de rectificación, bastará determinar el impacto ambiental, y que se dé aviso por escrito a \\\"la Autoridad del Agua\\\", la cual podrá suspender u ordenar la corrección de dichas obras en el caso de que se causen o puedan causarse daños a terceras personas o a ecosistemas vitales.\"]},{\"article\":\"ARTÍCULO 115.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"Cuando por causas naturales ocurra un cambio definitivo en el curso de una corriente de propiedad nacional, las personas propietarias afectadas por el cambio de cauce tendrán el derecho de recibir, en sustitución, la parte proporcional de la superficie que quede disponible fuera de la ribera o zona federal, tomando en cuenta la extensión de tierra en que hubieran sido afectadas.\",\"En su defecto, las personas propietarias ribereñas del cauce abandonado podrán adquirir hasta la mitad de dicho cauce en la parte que quede al frente de su propiedad, o la totalidad si en el lado contrario no hay persona ribereña interesada.\",\"A falta de personas afectadas o de personas propietarias ribereñas interesadas, las terceras podrán adquirir la superficie del cauce abandonado.\"]},{\"article\":\"ARTÍCULO 117.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Los estados, la Ciudad de México, los municipios o, en su caso, las personas particulares interesadas en los terrenos a que se refiere este Artículo, deberán presentar a \\\"la Comisión\\\" para su aprobación el proyecto para realizar las obras de control y las que sean necesarias para reducir o suprimir la zona federal.\"]},{\"article\":\"ARTÍCULO 117.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"\\\"La Comisión\\\" podrá convenir con los gobiernos de los estados, de la Ciudad de México o de los municipios, las custodias, conservación y mantenimiento de las zonas federales referidas en este Artículo. En el caso de las personas particulares interesadas, esto se realizará mediante subasta pública.\"]},{\"article\":\"ARTÍCULO 118 BIS.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las personas concesionarias a que se refiere el presente Capítulo estarán obligadas a:\"]},{\"article\":\"ARTÍCULO 118 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las disposiciones contenidas en este título son aplicables a los actos de verificación, inspección, ejecución de medidas de apremio y seguridad, determinación de infracciones, sanciones administrativas, recursos administrativos y delitos en el ámbito de esta Ley.\"]},{\"article\":\"ARTICULO 118 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":5,\"paragraphs\":[\"Corresponde a \\\"la Autoridad del Agua\\\" realizar los actos de verificación e inspección para comprobar el cumplimiento de las disposiciones establecidas en el presente ordenamiento y de las que del mismo se deriven, pudiendo acceder a todo tipo de información, incluso a aquella con carácter de reservada o confidencial, siempre que esté relacionada con la comisión de infracciones previstas en esta Ley, debiendo mantener la reserva o confidencialidad, en términos de la legislación aplicable; asimismo, podrá emplear el uso de nuevas tecnologías en el ejercicio de estas funciones.\"]},{\"article\":\"ARTÍCULO 118 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando con motivo de los actos de verificación e inspección a que se refiere el artículo anterior, existan elementos que presuman la comisión de una infracción, \\\"la Autoridad del Agua\\\" sustanciará el procedimiento administrativo sancionador de conformidad con lo señalado en el Reglamento de esta Ley y, en su caso, calificará la infracción mediante la resolución administrativa correspondiente en términos de la presente Ley.\"]}],\"divisions\":[{\"operation\":\"add\",\"kind\":\"capitulo\",\"label\":\"Capítulo I\",\"name\":\"Disposiciones Generales\",\"before_article\":\"ARTÍCULO 118 BIS 1.\"},{\"operation\":\"add\",\"kind\":\"capitulo\",\"label\":\"Capítulo II\",\"name\":\"Verificación, inspección y calificación de infracciones\",\"before_article\":\"ARTICULO 118 BIS 2.\"}],\"needs_review\":[{\"article\":\"ARTÍCULO 118 BIS 1.\",\"reason\":\"El decreto dispone que los actuales artículos 118 BIS 1, 118 BIS 2 y 118 BIS 3 pasan a ser 118 TER, 118 TER 1 y 118 TER 2, pero su texto no se reproduce en esta parte y se desconoce su ubicación (bajo qué Capítulo renumerado). Se reformaron los 118 BIS 1 a 3 con el nuevo texto; debe verificarse que el texto vigente se traslade a los artículos 118 TER, 118 TER 1 y 118 TER 2 para no perderlo.\"},{\"article\":\"ARTÍCULO 118 BIS 1.\",\"reason\":\"El decreto reforma la denominación del Título Décimo ('Régimen Sancionador y Procedimientos Administrativos') y lo imprime antes del artículo 118 BIS 1; no se dispone del encabezado vigente ni de su ubicación actual (presumiblemente antes del art. 119), ni se pudo aplicar la renumeración de capítulos (Capítulo I pasa a III, II a IV, III a VI). Verificar la reubicación del Título y la coherencia con los Capítulos I y II adicionados.\"}]}",
+ "duration_ms": 46471,
+ "total_cost_usd": 0.2213338,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 6151,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 12213,
+   "webSearchRequests": 0,
+   "costUSD": 0.2213338,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 1582,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 12213,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

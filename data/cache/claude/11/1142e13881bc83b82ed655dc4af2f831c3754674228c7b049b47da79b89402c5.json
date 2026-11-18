@@ -1,0 +1,43 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 182.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercer párrafo",
+    "from_block": 30,
+    "to_block": 30,
+    "paragraphs": [
+     "La persona residente en el país podrá obtener una resolución particular en los términos del artículo 34-A del Código Fiscal de la Federación en la que se confirme que se cumple con los artículos 179 y 180 de esta Ley."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 182.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercer párrafo\",\"from_block\":30,\"to_block\":30,\"paragraphs\":[\"La persona residente en el país podrá obtener una resolución particular en los términos del artículo 34-A del Código Fiscal de la Federación en la que se confirme que se cumple con los artículos 179 y 180 de esta Ley.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 5946,
+ "total_cost_usd": 0.06382979999999999,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 547,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 6535,
+   "webSearchRequests": 0,
+   "costUSD": 0.06382979999999999,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 302,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 6535,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

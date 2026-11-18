@@ -1,0 +1,53 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 113.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Adquiera comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados."
+    ]
+   },
+   {
+    "article": "Artículo 113 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 113 Bis.",
+    "insert_after": null,
+    "paragraphs": [
+     "Se impondrá sanción de tres a seis años de prisión, al que expida o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 113.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Adquiera comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.\"]},{\"article\":\"Artículo 113 Bis.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 113 Bis.\",\"insert_after\":null,\"paragraphs\":[\"Se impondrá sanción de tres a seis años de prisión, al que expida o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 3331,
+ "total_cost_usd": 0.0190578,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 340,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 1456,
+   "webSearchRequests": 0,
+   "costUSD": 0.0190578,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 0,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 1456,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

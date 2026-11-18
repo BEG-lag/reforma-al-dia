@@ -1,0 +1,43 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 28.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción XXXII, párrafo primero",
+    "from_block": 81,
+    "to_block": 81,
+    "paragraphs": [
+     "XXXII. Los intereses netos del ejercicio que excedan del monto que resulte de multiplicar la utilidad fiscal ajustada por el 20%."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 28.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción XXXII, párrafo primero\",\"from_block\":81,\"to_block\":81,\"paragraphs\":[\"XXXII. Los intereses netos del ejercicio que excedan del monto que resulte de multiplicar la utilidad fiscal ajustada por el 20%.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 4409,
+ "total_cost_usd": 0.13878980000000002,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 445,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 16160,
+   "webSearchRequests": 0,
+   "costUSD": 0.13878980000000002,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 83,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 16160,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

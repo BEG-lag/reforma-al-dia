@@ -1,0 +1,85 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 323 bis.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Los integrantes de la familia, en particular niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes."
+    ]
+   },
+   {
+    "article": "Artículo 323 ter.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "insert_after": 1,
+    "paragraphs": [
+     "Queda prohibido que la madre, padre o cualquier persona en la familia, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños o adolescentes. Se define el castigo corporal y humillante según lo dispuesto por la fracción VIII del artículo 47 de la Ley General de los Derechos de Niñas, Niños y Adolescentes."
+    ]
+   },
+   {
+    "article": "Artículo 323 ter.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero (antes segundo)",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Por violencia familiar se considera el uso intencional de la fuerza física, moral o de cualquier acto que tenga como objetivo provocar dolor, molestia o humillación, incluyendo el castigo corporal y humillante contra niñas, niños y adolescentes, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica y emocional independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato."
+    ]
+   },
+   {
+    "article": "Artículo 423.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole."
+    ]
+   },
+   {
+    "article": "Artículo 423.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "insert_after": 2,
+    "paragraphs": [
+     "Queda prohibido que la madre, padre o cualquier persona que ejerza la patria potestad, tutela o guarda, custodia y crianza de niñas, niños y adolescentes, utilice el castigo corporal o humillante como forma de corrección o disciplina de niñas, niños o adolescentes."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 323 bis.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Los integrantes de la familia, en particular niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.\"]},{\"article\":\"Artículo 323 ter.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"insert_after\":1,\"paragraphs\":[\"Queda prohibido que la madre, padre o cualquier persona en la familia, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños o adolescentes. Se define el castigo corporal y humillante según lo dispuesto por la fracción VIII del artículo 47 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.\"]},{\"article\":\"Artículo 323 ter.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero (antes segundo)\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Por violencia familiar se considera el uso intencional de la fuerza física, moral o de cualquier acto que tenga como objetivo provocar dolor, molestia o humillación, incluyendo el castigo corporal y humillante contra niñas, niños y adolescentes, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica y emocional independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.\"]},{\"article\":\"Artículo 423.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole.\"]},{\"article\":\"Artículo 423.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"insert_after\":2,\"paragraphs\":[\"Queda prohibido que la madre, padre o cualquier persona que ejerza la patria potestad, tutela o guarda, custodia y crianza de niñas, niños y adolescentes, utilice el castigo corporal o humillante como forma de corrección o disciplina de niñas, niños o adolescentes.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 14896,
+ "total_cost_usd": 0.058957800000000005,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 1883,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 2586,
+   "webSearchRequests": 0,
+   "costUSD": 0.058957800000000005,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 287,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 2586,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

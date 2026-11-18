@@ -1,0 +1,936 @@
+{
+ "id": "2025-12-12-lfpc",
+ "source": "backtest",
+ "law": {
+  "slug": "lfpc",
+  "title": "Ley Federal de Protección al Consumidor",
+  "abbreviation": "LFPC"
+ },
+ "decree": {
+  "code": 5775999,
+  "title": "Decreto por el que se adicionan las fracciones VIII y IX al artículo 76 Bis de la Ley Federal de Protección al Consumidor, en materia de cancelación de suscripciones y membresías con cobro recurrente.",
+  "date": "2025-12-12",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5775999&fecha=12/12/2025",
+  "pdf": null,
+  "instruction": [
+   "Artículo Único.- Se adicionan las fracciones VIII y IX al artículo 76 Bis de la Ley Federal de Protección al Consumidor, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "d14d6fbc587fef777259c95b274e677b21f6b0ba"
+ },
+ "official": {
+  "commit": "c84474154643952e41dd22281aef362fd3574b33",
+  "date": "2025-12-23",
+  "same_day": false
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "ARTÍCULO 76 BIS."
+   ],
+   "key": "97a794d61df3a17a34ad98335852bf43e29d772e5a12f1f07b418e8aa7720f11",
+   "cached": true,
+   "duration_ms": 11499,
+   "cost_usd": 0.04826180000000001,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "76 bis": {
+   "label": "ARTÍCULO 76 BIS.",
+   "headings": [],
+   "lines": [
+    "ARTÍCULO 76 BIS. ...",
+    "I. a V. ...",
+    "VI. El proveedor respetará la decisión del consumidor en cuanto a la cantidad y calidad de los productos que desea recibir, así como la de no recibir avisos comerciales;",
+    "VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, en especial tratándose de prácticas de mercadotecnia dirigidas a la población vulnerable, como los niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población;",
+    "VIII. El proveedor deberá informar de forma clara, destacada y accesible si el servicio contratado implica cobros automáticos recurrentes, su periodicidad, monto y fecha de cobro.",
+    "Los cobros señalados en el párrafo anterior, requerirán consentimiento expreso e informado de la persona consumidora. En los casos en los que, de acuerdo al contrato, proceda la renovación automática del servicio, se deberá notificar al menos con cinco días naturales de anticipación, permitiendo su cancelación sin penalización, y",
+    "IX. El proveedor deberá implementar mecanismos que, sin contravenir a las disposiciones contractuales, permita a la persona consumidora cancelar el servicio, suscripción o membresía de manera inmediata."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "ARTÍCULO 76 BIS.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "paragraphs": [
+     "VI. El proveedor respetará la decisión del consumidor en cuanto a la cantidad y calidad de los productos que desea recibir, así como la de no recibir avisos comerciales;"
+    ],
+    "from_block": 7,
+    "to_block": 7,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "ARTÍCULO 76 BIS.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VII",
+    "paragraphs": [
+     "VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, en especial tratándose de prácticas de mercadotecnia dirigidas a la población vulnerable, como los niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población;"
+    ],
+    "from_block": 8,
+    "to_block": 8,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "ARTÍCULO 76 BIS.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "VIII",
+    "paragraphs": [
+     "VIII. El proveedor deberá informar de forma clara, destacada y accesible si el servicio contratado implica cobros automáticos recurrentes, su periodicidad, monto y fecha de cobro.",
+     "Los cobros señalados en el párrafo anterior, requerirán consentimiento expreso e informado de la persona consumidora. En los casos en los que, de acuerdo al contrato, proceda la renovación automática del servicio, se deberá notificar al menos con cinco días naturales de anticipación, permitiendo su cancelación sin penalización, y"
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 8,
+    "batch": 1
+   },
+   {
+    "article": "ARTÍCULO 76 BIS.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "IX",
+    "paragraphs": [
+     "IX. El proveedor deberá implementar mecanismos que, sin contravenir a las disposiciones contractuales, permita a la persona consumidora cancelar el servicio, suscripción o membresía de manera inmediata."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 8,
+    "batch": 1
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "ARTÍCULO 76 BIS.",
+    "reason": "El decreto sólo adiciona las fracciones VIII y IX, pero vuelve a publicar las fracciones VI y VII con la puntuación del final cambiada: la VI termina en ';' en vez de ', y' y la VII en ';' en vez de '.'. Se aplicaron como reformas de puntuación para que la enumeración quede coherente; conviene confirmar que el texto consolidado de la Cámara también las recoge.",
+    "source": "model"
+   }
+  ]
+ },
+ "needs_review": [
+  {
+   "article": "ARTÍCULO 76 BIS.",
+   "reason": "El decreto sólo adiciona las fracciones VIII y IX, pero vuelve a publicar las fracciones VI y VII con la puntuación del final cambiada: la VI termina en ';' en vez de ', y' y la VII en ';' en vez de '.'. Se aplicaron como reformas de puntuación para que la enumeración quede coherente; conviene confirmar que el texto consolidado de la Cámara también las recoge.",
+   "source": "model"
+  }
+ ],
+ "counts": {
+  "exact": 1,
+  "normalized": 0,
+  "mismatch": 0,
+  "not_applied": 0,
+  "outside_decree": 10,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 0,
+  "notes_match": 1
+ },
+ "transitorios": "normalized",
+ "body_identical": false,
+ "articles": [
+  {
+   "key": "25",
+   "label": "ARTÍCULO 25.",
+   "status": "outside_decree",
+   "notes_match": true,
+   "before": [
+    "La Procuraduría, para el desempeño de las funciones que le atribuye la ley, podrá aplicar previo apercibimiento las siguientes medidas de apremio:",
+    "I. Multa de $350.57 a $35,057.35;",
+    "Multa de la fracción actualizada DOF 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023",
+    "II. El auxilio de la fuerza pública;",
+    "III. Ordenar arresto administrativo hasta por 36 horas, y",
+    "IV. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $14,022.94, por un período no mayor a 180 días.",
+    "Multa de la fracción actualizada DOF 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023",
+    "Las medidas de apremio se aplicarán en función de la gravedad de la conducta u omisión en que hubiera incurrido el proveedor, sin existir alguna prelación específica en cuanto a su imposición.",
+    "Artículo reformado DOF 04-02-2004, 11-01-2018",
+    "Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017"
+   ],
+   "ai": [
+    "La Procuraduría, para el desempeño de las funciones que le atribuye la ley, podrá aplicar previo apercibimiento las siguientes medidas de apremio:",
+    "I. Multa de $350.57 a $35,057.35;",
+    "Multa de la fracción actualizada DOF 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023",
+    "II. El auxilio de la fuerza pública;",
+    "III. Ordenar arresto administrativo hasta por 36 horas, y",
+    "IV. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $14,022.94, por un período no mayor a 180 días.",
+    "Multa de la fracción actualizada DOF 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023",
+    "Las medidas de apremio se aplicarán en función de la gravedad de la conducta u omisión en que hubiera incurrido el proveedor, sin existir alguna prelación específica en cuanto a su imposición.",
+    "Artículo reformado DOF 04-02-2004, 11-01-2018",
+    "Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017"
+   ],
+   "official": [
+    "La Procuraduría, para el desempeño de las funciones que le atribuye la ley, podrá aplicar previo apercibimiento las siguientes medidas de apremio:",
+    "I. Multa de $380.44 a $38,044.47;",
+    "Multa de la fracción actualizada DOF 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025",
+    "II. El auxilio de la fuerza pública;",
+    "III. Ordenar arresto administrativo hasta por 36 horas, y",
+    "IV. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $15,217.79, por un período no mayor a 180 días.",
+    "Multa de la fracción actualizada DOF 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025",
+    "Las medidas de apremio se aplicarán en función de la gravedad de la conducta u omisión en que hubiera incurrido el proveedor, sin existir alguna prelación específica en cuanto a su imposición.",
+    "Artículo reformado DOF 04-02-2004, 11-01-2018",
+    "Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017"
+   ],
+   "diff": [
+    [
+     "=",
+     "La Procuraduría, para el desempeño de las funciones que le atribuye la ley, podrá aplicar previo apercibimiento las siguientes medidas de apremio: ¶ I. Multa de"
+    ],
+    [
+     "-",
+     "$350.57"
+    ],
+    [
+     "+",
+     "$380.44"
+    ],
+    [
+     "=",
+     "a"
+    ],
+    [
+     "-",
+     "$35,057.35;"
+    ],
+    [
+     "+",
+     "$38,044.47;"
+    ],
+    [
+     "=",
+     "¶ Multa de la fracción actualizada DOF 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022,"
+    ],
+    [
+     "-",
+     "21-12-2023"
+    ],
+    [
+     "+",
+     "21-12-2023, 26-12-2024, 23-12-2025"
+    ],
+    [
+     "=",
+     "¶ II. El auxilio de la fuerza pública; ¶ III. Ordenar arresto … día que transcurra sin que se obedezca el mandato respectivo, hasta por"
+    ],
+    [
+     "-",
+     "$14,022.94,"
+    ],
+    [
+     "+",
+     "$15,217.79,"
+    ],
+    [
+     "=",
+     "por un período no mayor a 180 días. ¶ Multa de la fracción actualizada DOF 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022,"
+    ],
+    [
+     "-",
+     "21-12-2023"
+    ],
+    [
+     "+",
+     "21-12-2023, 26-12-2024, 23-12-2025"
+    ],
+    [
+     "=",
+     "¶ Las medidas de apremio se aplicarán en función de la gravedad …"
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "26",
+   "label": "ARTÍCULO 26.",
+   "status": "outside_decree",
+   "notes_match": false,
+   "before": [
+    "Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad o grupo de consumidores, la Procuraduría, así como cualquier legitimado a que se refiere el artículo 585 del Código Federal de Procedimientos Civiles, podrán ejercitar la acción colectiva de conformidad con lo dispuesto en el Libro Quinto de dicho Código.",
+    "Artículo reformado DOF 04-02-2004, 30-08-2011"
+   ],
+   "ai": [
+    "Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad o grupo de consumidores, la Procuraduría, así como cualquier legitimado a que se refiere el artículo 585 del Código Federal de Procedimientos Civiles, podrán ejercitar la acción colectiva de conformidad con lo dispuesto en el Libro Quinto de dicho Código.",
+    "Artículo reformado DOF 04-02-2004, 30-08-2011"
+   ],
+   "official": [
+    "Cuando se realicen actos, hechos u omisiones que vulneren derechos e intereses de una colectividad o grupo de consumidores, la Procuraduría, así como cualquier legitimado a que se refiere el artículo 862 del Código Nacional de Procedimientos Civiles y Familiares, podrán ejercitar la acción colectiva.",
+    "Artículo reformado DOF 04-02-2004, 30-08-2011, 14-11-2025"
+   ],
+   "diff": [
+    [
+     "=",
+     "… la Procuraduría, así como cualquier legitimado a que se refiere el artículo"
+    ],
+    [
+     "-",
+     "585"
+    ],
+    [
+     "+",
+     "862"
+    ],
+    [
+     "=",
+     "del Código"
+    ],
+    [
+     "-",
+     "Federal"
+    ],
+    [
+     "+",
+     "Nacional"
+    ],
+    [
+     "=",
+     "de Procedimientos"
+    ],
+    [
+     "-",
+     "Civiles,"
+    ],
+    [
+     "+",
+     "Civiles y Familiares,"
+    ],
+    [
+     "=",
+     "podrán ejercitar la acción"
+    ],
+    [
+     "-",
+     "colectiva de conformidad con lo dispuesto en el Libro Quinto de dicho Código."
+    ],
+    [
+     "+",
+     "colectiva."
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "76 bis",
+   "label": "ARTÍCULO 76 BIS.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Las disposiciones del presente Capítulo aplican a las relaciones entre proveedores y consumidores en las transacciones efectuadas a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología. En la celebración de dichas transacciones se cumplirá con lo siguiente:",
+    "I. El proveedor utilizará la información proporcionada por el consumidor en forma confidencial, por lo que no podrá difundirla o transmitirla a otros proveedores ajenos a la transacción, salvo autorización expresa del propio consumidor o por requerimiento de autoridad competente;",
+    "II. El proveedor utilizará alguno de los elementos técnicos disponibles para brindar seguridad y confidencialidad a la información proporcionada por el consumidor e informará a éste, previamente a la celebración de la transacción, de las características generales de dichos elementos;",
+    "III. El proveedor deberá proporcionar al consumidor, antes de celebrar la transacción, su domicilio físico, números telefónicos y demás medios a los que pueda acudir el propio consumidor para presentarle sus reclamaciones o solicitarle aclaraciones;",
+    "IV. El proveedor evitará las prácticas comerciales engañosas respecto de las características de los productos, por lo que deberá cumplir con las disposiciones relativas a la información y publicidad de los bienes y servicios que ofrezca, señaladas en esta Ley y demás disposiciones que se deriven de ella;",
+    "V. El consumidor tendrá derecho a conocer toda la información sobre los términos, condiciones, costos, cargos adicionales, en su caso, formas de pago de los bienes y servicios ofrecidos por el proveedor;",
+    "VI. El proveedor respetará la decisión del consumidor en cuanto a la cantidad y calidad de los productos que desea recibir, así como la de no recibir avisos comerciales, y",
+    "VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, en especial tratándose de prácticas de mercadotecnia dirigidas a la población vulnerable, como los niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población.",
+    "Fracción reformada DOF 04-02-2004",
+    "Artículo adicionado DOF 29-05-2000"
+   ],
+   "ai": [
+    "Las disposiciones del presente Capítulo aplican a las relaciones entre proveedores y consumidores en las transacciones efectuadas a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología. En la celebración de dichas transacciones se cumplirá con lo siguiente:",
+    "I. El proveedor utilizará la información proporcionada por el consumidor en forma confidencial, por lo que no podrá difundirla o transmitirla a otros proveedores ajenos a la transacción, salvo autorización expresa del propio consumidor o por requerimiento de autoridad competente;",
+    "II. El proveedor utilizará alguno de los elementos técnicos disponibles para brindar seguridad y confidencialidad a la información proporcionada por el consumidor e informará a éste, previamente a la celebración de la transacción, de las características generales de dichos elementos;",
+    "III. El proveedor deberá proporcionar al consumidor, antes de celebrar la transacción, su domicilio físico, números telefónicos y demás medios a los que pueda acudir el propio consumidor para presentarle sus reclamaciones o solicitarle aclaraciones;",
+    "IV. El proveedor evitará las prácticas comerciales engañosas respecto de las características de los productos, por lo que deberá cumplir con las disposiciones relativas a la información y publicidad de los bienes y servicios que ofrezca, señaladas en esta Ley y demás disposiciones que se deriven de ella;",
+    "V. El consumidor tendrá derecho a conocer toda la información sobre los términos, condiciones, costos, cargos adicionales, en su caso, formas de pago de los bienes y servicios ofrecidos por el proveedor;",
+    "VI. El proveedor respetará la decisión del consumidor en cuanto a la cantidad y calidad de los productos que desea recibir, así como la de no recibir avisos comerciales;",
+    "Fracción reformada DOF 12-12-2025",
+    "VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, en especial tratándose de prácticas de mercadotecnia dirigidas a la población vulnerable, como los niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población;",
+    "Fracción reformada DOF 04-02-2004, 12-12-2025",
+    "VIII. El proveedor deberá informar de forma clara, destacada y accesible si el servicio contratado implica cobros automáticos recurrentes, su periodicidad, monto y fecha de cobro.",
+    "Los cobros señalados en el párrafo anterior, requerirán consentimiento expreso e informado de la persona consumidora. En los casos en los que, de acuerdo al contrato, proceda la renovación automática del servicio, se deberá notificar al menos con cinco días naturales de anticipación, permitiendo su cancelación sin penalización, y",
+    "Fracción adicionada DOF 12-12-2025",
+    "IX. El proveedor deberá implementar mecanismos que, sin contravenir a las disposiciones contractuales, permita a la persona consumidora cancelar el servicio, suscripción o membresía de manera inmediata.",
+    "Fracción adicionada DOF 12-12-2025",
+    "Artículo adicionado DOF 29-05-2000"
+   ],
+   "official": [
+    "Las disposiciones del presente Capítulo aplican a las relaciones entre proveedores y consumidores en las transacciones efectuadas a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología. En la celebración de dichas transacciones se cumplirá con lo siguiente:",
+    "I. El proveedor utilizará la información proporcionada por el consumidor en forma confidencial, por lo que no podrá difundirla o transmitirla a otros proveedores ajenos a la transacción, salvo autorización expresa del propio consumidor o por requerimiento de autoridad competente;",
+    "II. El proveedor utilizará alguno de los elementos técnicos disponibles para brindar seguridad y confidencialidad a la información proporcionada por el consumidor e informará a éste, previamente a la celebración de la transacción, de las características generales de dichos elementos;",
+    "III. El proveedor deberá proporcionar al consumidor, antes de celebrar la transacción, su domicilio físico, números telefónicos y demás medios a los que pueda acudir el propio consumidor para presentarle sus reclamaciones o solicitarle aclaraciones;",
+    "IV. El proveedor evitará las prácticas comerciales engañosas respecto de las características de los productos, por lo que deberá cumplir con las disposiciones relativas a la información y publicidad de los bienes y servicios que ofrezca, señaladas en esta Ley y demás disposiciones que se deriven de ella;",
+    "V. El consumidor tendrá derecho a conocer toda la información sobre los términos, condiciones, costos, cargos adicionales, en su caso, formas de pago de los bienes y servicios ofrecidos por el proveedor;",
+    "VI. El proveedor respetará la decisión del consumidor en cuanto a la cantidad y calidad de los productos que desea recibir, así como la de no recibir avisos comerciales;",
+    "Fracción reformada DOF 12-12-2025",
+    "VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, en especial tratándose de prácticas de mercadotecnia dirigidas a la población vulnerable, como los niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población;",
+    "Fracción reformada DOF 04-02-2004, 12-12-2025",
+    "VIII. El proveedor deberá informar de forma clara, destacada y accesible si el servicio contratado implica cobros automáticos recurrentes, su periodicidad, monto y fecha de cobro.",
+    "Los cobros señalados en el párrafo anterior, requerirán consentimiento expreso e informado de la persona consumidora. En los casos en los que, de acuerdo al contrato, proceda la renovación automática del servicio, se deberá notificar al menos con cinco días naturales de anticipación, permitiendo su cancelación sin penalización, y",
+    "Fracción adicionada DOF 12-12-2025",
+    "IX. El proveedor deberá implementar mecanismos que, sin contravenir a las disposiciones contractuales, permita a la persona consumidora cancelar el servicio, suscripción o membresía de manera inmediata.",
+    "Fracción adicionada DOF 12-12-2025",
+    "Artículo adicionado DOF 29-05-2000"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "99",
+   "label": "ARTÍCULO 99.",
+   "status": "outside_decree",
+   "notes_match": true,
+   "before": [
+    "La Procuraduría recibirá las quejas o reclamaciones de los consumidores de manera individual o grupal con base en esta ley, las cuales podrán presentarse en forma escrita, oral, telefónica, electrónica o por cualquier otro medio cumpliendo con los siguientes requisitos:",
+    "Párrafo reformado DOF 04-02-2004, 28-01-2011",
+    "I. Señalar nombre y domicilio del reclamante;",
+    "II. Descripción del bien o servicio que se reclama y relación sucinta de los hechos;",
+    "Fracción reformada DOF 28-01-2011",
+    "III. Señalar nombre y domicilio del proveedor que se contenga en el comprobante o recibo que ampare la operación materia de la reclamación o, en su defecto, el que proporcione el reclamante;",
+    "Fracción reformada DOF 04-02-2004, 28-01-2011",
+    "IV. Señalar el lugar o forma en que solicita se desahogue su reclamación;",
+    "Fracción adicionada DOF 04-02-2004. Reformada DOF 28-01-2011",
+    "V. Para la atención y procedencia de quejas o reclamaciones grupales, se deberá acreditar, además, que existe identidad de causa, acción, pretensiones y proveedor; la personalidad del o los representantes del grupo de quejosos; que la representación y gestión se realiza de manera gratuita, y que no están vinculadas con actividades de proselitismo político o electoral, y",
+    "Fracción adicionada DOF 28-01-2011",
+    "VI. Las asociaciones u organizaciones de consumidores que presenten reclamaciones grupales deberán acreditar, además:",
+    "a) Su legal constitución y la personalidad de los representantes;",
+    "b) Que su objeto social sea el de la promoción y defensa de los intereses y derechos de los consumidores;",
+    "c) Que tienen como mínimo un año de haberse constituido;",
+    "d) Que los consumidores que participan en la queja grupal expresaron su voluntad para formar parte de la misma;",
+    "e) Que no tienen conflicto de intereses respecto de la queja que se pretenda presentar, expresándolo en un escrito en el que, bajo protesta de decir verdad, se haga constar dicha circunstancia;",
+    "f) Que la representación y gestión se realiza de manera gratuita, y",
+    "g) Que no participan de manera institucional en actividades de proselitismo político o electoral.",
+    "Fracción adicionada DOF 28-01-2011",
+    "Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $701,147.34.",
+    "Párrafo adicionado DOF 04-02-2004",
+    "Monto de operación del párrafo actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023",
+    "La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación."
+   ],
+   "ai": [
+    "La Procuraduría recibirá las quejas o reclamaciones de los consumidores de manera individual o grupal con base en esta ley, las cuales podrán presentarse en forma escrita, oral, telefónica, electrónica o por cualquier otro medio cumpliendo con los siguientes requisitos:",
+    "Párrafo reformado DOF 04-02-2004, 28-01-2011",
+    "I. Señalar nombre y domicilio del reclamante;",
+    "II. Descripción del bien o servicio que se reclama y relación sucinta de los hechos;",
+    "Fracción reformada DOF 28-01-2011",
+    "III. Señalar nombre y domicilio del proveedor que se contenga en el comprobante o recibo que ampare la operación materia de la reclamación o, en su defecto, el que proporcione el reclamante;",
+    "Fracción reformada DOF 04-02-2004, 28-01-2011",
+    "IV. Señalar el lugar o forma en que solicita se desahogue su reclamación;",
+    "Fracción adicionada DOF 04-02-2004. Reformada DOF 28-01-2011",
+    "V. Para la atención y procedencia de quejas o reclamaciones grupales, se deberá acreditar, además, que existe identidad de causa, acción, pretensiones y proveedor; la personalidad del o los representantes del grupo de quejosos; que la representación y gestión se realiza de manera gratuita, y que no están vinculadas con actividades de proselitismo político o electoral, y",
+    "Fracción adicionada DOF 28-01-2011",
+    "VI. Las asociaciones u organizaciones de consumidores que presenten reclamaciones grupales deberán acreditar, además:",
+    "a) Su legal constitución y la personalidad de los representantes;",
+    "b) Que su objeto social sea el de la promoción y defensa de los intereses y derechos de los consumidores;",
+    "c) Que tienen como mínimo un año de haberse constituido;",
+    "d) Que los consumidores que participan en la queja grupal expresaron su voluntad para formar parte de la misma;",
+    "e) Que no tienen conflicto de intereses respecto de la queja que se pretenda presentar, expresándolo en un escrito en el que, bajo protesta de decir verdad, se haga constar dicha circunstancia;",
+    "f) Que la representación y gestión se realiza de manera gratuita, y",
+    "g) Que no participan de manera institucional en actividades de proselitismo político o electoral.",
+    "Fracción adicionada DOF 28-01-2011",
+    "Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $701,147.34.",
+    "Párrafo adicionado DOF 04-02-2004",
+    "Monto de operación del párrafo actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023",
+    "La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación."
+   ],
+   "official": [
+    "La Procuraduría recibirá las quejas o reclamaciones de los consumidores de manera individual o grupal con base en esta ley, las cuales podrán presentarse en forma escrita, oral, telefónica, electrónica o por cualquier otro medio cumpliendo con los siguientes requisitos:",
+    "Párrafo reformado DOF 04-02-2004, 28-01-2011",
+    "I. Señalar nombre y domicilio del reclamante;",
+    "II. Descripción del bien o servicio que se reclama y relación sucinta de los hechos;",
+    "Fracción reformada DOF 28-01-2011",
+    "III. Señalar nombre y domicilio del proveedor que se contenga en el comprobante o recibo que ampare la operación materia de la reclamación o, en su defecto, el que proporcione el reclamante;",
+    "Fracción reformada DOF 04-02-2004, 28-01-2011",
+    "IV. Señalar el lugar o forma en que solicita se desahogue su reclamación;",
+    "Fracción adicionada DOF 04-02-2004. Reformada DOF 28-01-2011",
+    "V. Para la atención y procedencia de quejas o reclamaciones grupales, se deberá acreditar, además, que existe identidad de causa, acción, pretensiones y proveedor; la personalidad del o los representantes del grupo de quejosos; que la representación y gestión se realiza de manera gratuita, y que no están vinculadas con actividades de proselitismo político o electoral, y",
+    "Fracción adicionada DOF 28-01-2011",
+    "VI. Las asociaciones u organizaciones de consumidores que presenten reclamaciones grupales deberán acreditar, además:",
+    "a) Su legal constitución y la personalidad de los representantes;",
+    "b) Que su objeto social sea el de la promoción y defensa de los intereses y derechos de los consumidores;",
+    "c) Que tienen como mínimo un año de haberse constituido;",
+    "d) Que los consumidores que participan en la queja grupal expresaron su voluntad para formar parte de la misma;",
+    "e) Que no tienen conflicto de intereses respecto de la queja que se pretenda presentar, expresándolo en un escrito en el que, bajo protesta de decir verdad, se haga constar dicha circunstancia;",
+    "f) Que la representación y gestión se realiza de manera gratuita, y",
+    "g) Que no participan de manera institucional en actividades de proselitismo político o electoral.",
+    "Fracción adicionada DOF 28-01-2011",
+    "Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $760,889.82.",
+    "Párrafo adicionado DOF 04-02-2004",
+    "Monto de operación del párrafo actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025",
+    "La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación."
+   ],
+   "diff": [
+    [
+     "=",
+     "… el monto de la operación motivo de la reclamación no exceda de"
+    ],
+    [
+     "-",
+     "$701,147.34."
+    ],
+    [
+     "+",
+     "$760,889.82."
+    ],
+    [
+     "=",
+     "¶ Monto de operación del párrafo actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022,"
+    ],
+    [
+     "-",
+     "21-12-2023"
+    ],
+    [
+     "+",
+     "21-12-2023, 26-12-2024, 23-12-2025"
+    ],
+    [
+     "=",
+     "¶ La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o …"
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "114",
+   "label": "ARTÍCULO 114.",
+   "status": "outside_decree",
+   "notes_match": false,
+   "before": [
+    "El conciliador podrá en todo momento requerir a las partes los elementos de convicción que estime necesarios para la conciliación, así como para el ejercicio de las atribuciones que a la Procuraduría le confiere la ley. Asimismo, podrá acordar la práctica de diligencias que permitan acreditar los hechos constitutivos de la reclamación. Las partes podrán aportar las pruebas que estimen necesarias para acreditar los elementos de la reclamación y del informe.",
+    "Párrafo reformado DOF 04-02-2004",
+    "El conciliador podrá suspender cuando lo estime pertinente o a instancia de ambas partes, la audiencia de conciliación hasta en tres ocasiones. Asimismo, podrá requerir la emisión de un dictamen a través del cual se cuantifique en cantidad líquida la obligación contractual.",
+    "Párrafo reformado DOF 04-02-2004",
+    "En caso de que se suspenda la audiencia, el conciliador señalará día y hora para su reanudación, dentro de los quince días siguientes, donde en su caso, hará del conocimiento de las partes el dictamen correspondiente, las cuales podrán formular durante la audiencia observaciones al mismo.",
+    "Párrafo reformado DOF 04-02-2004",
+    "La Procuraduría podrá emitir un acuerdo de trámite que contenga el dictamen a que se refieren los párrafos anteriores, que constituirá título ejecutivo no negociable a favor del consumidor, siempre y cuando la obligación contractual incumplida que en él se consigne sea cierta, exigible y líquida a juicio de la autoridad judicial, ante la que el proveedor podrá controvertir el monto del título, presentar las pruebas y oponer las excepciones que estime convenientes.",
+    "Párrafo adicionado DOF 04-02-2004",
+    "De toda audiencia se levantará el acta respectiva. En caso de que el proveedor no firme el acta, ello no afectará su validez, debiéndose hacer constar dicha negativa.",
+    "Párrafo reformado DOF 04-02-2004",
+    "Para la sustanciación del procedimiento de conciliación a que se refiere el presente Capítulo, se aplicará supletoriamente el Código Federal de Procedimientos Civiles.",
+    "Párrafo adicionado DOF 04-02-2004"
+   ],
+   "ai": [
+    "El conciliador podrá en todo momento requerir a las partes los elementos de convicción que estime necesarios para la conciliación, así como para el ejercicio de las atribuciones que a la Procuraduría le confiere la ley. Asimismo, podrá acordar la práctica de diligencias que permitan acreditar los hechos constitutivos de la reclamación. Las partes podrán aportar las pruebas que estimen necesarias para acreditar los elementos de la reclamación y del informe.",
+    "Párrafo reformado DOF 04-02-2004",
+    "El conciliador podrá suspender cuando lo estime pertinente o a instancia de ambas partes, la audiencia de conciliación hasta en tres ocasiones. Asimismo, podrá requerir la emisión de un dictamen a través del cual se cuantifique en cantidad líquida la obligación contractual.",
+    "Párrafo reformado DOF 04-02-2004",
+    "En caso de que se suspenda la audiencia, el conciliador señalará día y hora para su reanudación, dentro de los quince días siguientes, donde en su caso, hará del conocimiento de las partes el dictamen correspondiente, las cuales podrán formular durante la audiencia observaciones al mismo.",
+    "Párrafo reformado DOF 04-02-2004",
+    "La Procuraduría podrá emitir un acuerdo de trámite que contenga el dictamen a que se refieren los párrafos anteriores, que constituirá título ejecutivo no negociable a favor del consumidor, siempre y cuando la obligación contractual incumplida que en él se consigne sea cierta, exigible y líquida a juicio de la autoridad judicial, ante la que el proveedor podrá controvertir el monto del título, presentar las pruebas y oponer las excepciones que estime convenientes.",
+    "Párrafo adicionado DOF 04-02-2004",
+    "De toda audiencia se levantará el acta respectiva. En caso de que el proveedor no firme el acta, ello no afectará su validez, debiéndose hacer constar dicha negativa.",
+    "Párrafo reformado DOF 04-02-2004",
+    "Para la sustanciación del procedimiento de conciliación a que se refiere el presente Capítulo, se aplicará supletoriamente el Código Federal de Procedimientos Civiles.",
+    "Párrafo adicionado DOF 04-02-2004"
+   ],
+   "official": [
+    "El conciliador podrá en todo momento requerir a las partes los elementos de convicción que estime necesarios para la conciliación, así como para el ejercicio de las atribuciones que a la Procuraduría le confiere la ley. Asimismo, podrá acordar la práctica de diligencias que permitan acreditar los hechos constitutivos de la reclamación. Las partes podrán aportar las pruebas que estimen necesarias para acreditar los elementos de la reclamación y del informe.",
+    "Párrafo reformado DOF 04-02-2004",
+    "El conciliador podrá suspender cuando lo estime pertinente o a instancia de ambas partes, la audiencia de conciliación hasta en tres ocasiones. Asimismo, podrá requerir la emisión de un dictamen a través del cual se cuantifique en cantidad líquida la obligación contractual.",
+    "Párrafo reformado DOF 04-02-2004",
+    "En caso de que se suspenda la audiencia, el conciliador señalará día y hora para su reanudación, dentro de los quince días siguientes, donde en su caso, hará del conocimiento de las partes el dictamen correspondiente, las cuales podrán formular durante la audiencia observaciones al mismo.",
+    "Párrafo reformado DOF 04-02-2004",
+    "La Procuraduría podrá emitir un acuerdo de trámite que contenga el dictamen a que se refieren los párrafos anteriores, que constituirá título ejecutivo no negociable a favor del consumidor, siempre y cuando la obligación contractual incumplida que en él se consigne sea cierta, exigible y líquida a juicio de la autoridad judicial, ante la que el proveedor podrá controvertir el monto del título, presentar las pruebas y oponer las excepciones que estime convenientes.",
+    "Párrafo adicionado DOF 04-02-2004",
+    "De toda audiencia se levantará el acta respectiva. En caso de que el proveedor no firme el acta, ello no afectará su validez, debiéndose hacer constar dicha negativa.",
+    "Párrafo reformado DOF 04-02-2004",
+    "Para la sustanciación del procedimiento de conciliación a que se refiere el presente Capítulo, se aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Párrafo adicionado DOF 04-02-2004. Reformado DOF 14-11-2025"
+   ],
+   "diff": [
+    [
+     "=",
+     "… a que se refiere el presente Capítulo, se aplicará supletoriamente el Código"
+    ],
+    [
+     "-",
+     "Federal"
+    ],
+    [
+     "+",
+     "Nacional"
+    ],
+    [
+     "=",
+     "de Procedimientos"
+    ],
+    [
+     "-",
+     "Civiles."
+    ],
+    [
+     "+",
+     "Civiles y Familiares."
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "117",
+   "label": "ARTÍCULO 117.",
+   "status": "outside_decree",
+   "notes_match": true,
+   "before": [
+    "La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cuando los interesados así la designen y sin necesidad de reclamación o procedimiento conciliatorio previos, observando los principios de legalidad, equidad y de igualdad entre las partes.",
+    "Párrafo reformado DOF 04-02-2004",
+    "Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $701,147.34.",
+    "Párrafo adicionado DOF 04-02-2004",
+    "Monto de operación del párrafo actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023"
+   ],
+   "ai": [
+    "La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cuando los interesados así la designen y sin necesidad de reclamación o procedimiento conciliatorio previos, observando los principios de legalidad, equidad y de igualdad entre las partes.",
+    "Párrafo reformado DOF 04-02-2004",
+    "Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $701,147.34.",
+    "Párrafo adicionado DOF 04-02-2004",
+    "Monto de operación del párrafo actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023"
+   ],
+   "official": [
+    "La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cuando los interesados así la designen y sin necesidad de reclamación o procedimiento conciliatorio previos, observando los principios de legalidad, equidad y de igualdad entre las partes.",
+    "Párrafo reformado DOF 04-02-2004",
+    "Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $760,889.82.",
+    "Párrafo adicionado DOF 04-02-2004",
+    "Monto de operación del párrafo actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025"
+   ],
+   "diff": [
+    [
+     "=",
+     "… como árbitro siempre que el monto de lo reclamado no exceda de"
+    ],
+    [
+     "-",
+     "$701,147.34."
+    ],
+    [
+     "+",
+     "$760,889.82."
+    ],
+    [
+     "=",
+     "¶ Monto de operación del párrafo actualizado DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022,"
+    ],
+    [
+     "-",
+     "21-12-2023"
+    ],
+    [
+     "+",
+     "21-12-2023, 26-12-2024, 23-12-2025"
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "126",
+   "label": "ARTÍCULO 126.",
+   "status": "outside_decree",
+   "notes_match": true,
+   "before": [
+    "Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $350.57 a $1’121,835.75.",
+    "Artículo reformado DOF 04-02-2004",
+    "Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023"
+   ],
+   "ai": [
+    "Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $350.57 a $1’121,835.75.",
+    "Artículo reformado DOF 04-02-2004",
+    "Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023"
+   ],
+   "official": [
+    "Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $380.44 a $1,217,423.72.",
+    "Artículo reformado DOF 04-02-2004",
+    "Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025"
+   ],
+   "diff": [
+    [
+     "=",
+     "… mencionadas en los artículos 127 y 128, serán sancionadas con multa de"
+    ],
+    [
+     "-",
+     "$350.57"
+    ],
+    [
+     "+",
+     "$380.44"
+    ],
+    [
+     "=",
+     "a"
+    ],
+    [
+     "-",
+     "$1’121,835.75."
+    ],
+    [
+     "+",
+     "$1,217,423.72."
+    ],
+    [
+     "=",
+     "¶ Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022,"
+    ],
+    [
+     "-",
+     "21-12-2023"
+    ],
+    [
+     "+",
+     "21-12-2023, 26-12-2024, 23-12-2025"
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "127",
+   "label": "ARTÍCULO 127.",
+   "status": "outside_decree",
+   "notes_match": true,
+   "before": [
+    "Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $701.15 a $2’243,671.49.",
+    "Artículo reformado DOF 04-02-2004, 15-12-2011, 11-01-2018",
+    "Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023"
+   ],
+   "ai": [
+    "Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $701.15 a $2’243,671.49.",
+    "Artículo reformado DOF 04-02-2004, 15-12-2011, 11-01-2018",
+    "Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023"
+   ],
+   "official": [
+    "Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $760.89 a $2,434,847.42.",
+    "Artículo reformado DOF 04-02-2004, 15-12-2011, 11-01-2018",
+    "Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025"
+   ],
+   "diff": [
+    [
+     "=",
+     "… BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de"
+    ],
+    [
+     "-",
+     "$701.15"
+    ],
+    [
+     "+",
+     "$760.89"
+    ],
+    [
+     "=",
+     "a"
+    ],
+    [
+     "-",
+     "$2’243,671.49."
+    ],
+    [
+     "+",
+     "$2,434,847.42."
+    ],
+    [
+     "=",
+     "¶ Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022,"
+    ],
+    [
+     "-",
+     "21-12-2023"
+    ],
+    [
+     "+",
+     "21-12-2023, 26-12-2024, 23-12-2025"
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "128",
+   "label": "ARTÍCULO 128.",
+   "status": "outside_decree",
+   "notes_match": true,
+   "before": [
+    "Las infracciones a lo dispuesto por los artículos 7, 8, 10, 10 BIS, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 66, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis, y 121 serán sancionadas con multa de $1,007.20 a $3’939,305.36.",
+    "Artículo reformado DOF 29-05-2000, 04-02-2004, 06-06-2006, 29-01-2009, 15-12-2011, 16-01-2013, 11-01-2018",
+    "Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023"
+   ],
+   "ai": [
+    "Las infracciones a lo dispuesto por los artículos 7, 8, 10, 10 BIS, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 66, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis, y 121 serán sancionadas con multa de $1,007.20 a $3’939,305.36.",
+    "Artículo reformado DOF 29-05-2000, 04-02-2004, 06-06-2006, 29-01-2009, 15-12-2011, 16-01-2013, 11-01-2018",
+    "Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023"
+   ],
+   "official": [
+    "Las infracciones a lo dispuesto por los artículos 7, 8, 10, 10 BIS, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 66, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis, y 121 serán sancionadas con multa de $1,093.02 a $4,274,960.73.",
+    "Artículo reformado DOF 29-05-2000, 04-02-2004, 06-06-2006, 29-01-2009, 15-12-2011, 16-01-2013, 11-01-2018",
+    "Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025"
+   ],
+   "diff": [
+    [
+     "=",
+     "… 92, 92 Ter, 98 Bis, y 121 serán sancionadas con multa de"
+    ],
+    [
+     "-",
+     "$1,007.20"
+    ],
+    [
+     "+",
+     "$1,093.02"
+    ],
+    [
+     "=",
+     "a"
+    ],
+    [
+     "-",
+     "$3’939,305.36."
+    ],
+    [
+     "+",
+     "$4,274,960.73."
+    ],
+    [
+     "=",
+     "¶ Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022,"
+    ],
+    [
+     "-",
+     "21-12-2023"
+    ],
+    [
+     "+",
+     "21-12-2023, 26-12-2024, 23-12-2025"
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "128 bis",
+   "label": "ARTÍCULO 128 BIS.",
+   "status": "outside_decree",
+   "notes_match": true,
+   "before": [
+    "En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $210,344.21 a $5’889,637.72. La clausura sólo se podrá imponer en el establecimiento en que se haya acreditado la irregularidad.",
+    "Párrafo reformado DOF 11-01-2018",
+    "Multa del párrafo actualizada DOF 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023",
+    "Las violaciones a lo establecido en el artículo 32 que se consideren particularmente graves conforme a lo establecido en el artículo 128 Ter de esta ley, serán sancionadas con la multa establecida en el párrafo anterior o bien con multa de hasta un 10% de los ingresos brutos anuales del infractor obtenidos por la comercialización del bien o los bienes, productos o servicios contenidos en la publicidad respectiva, correspondiente al último ejercicio fiscal en que se haya cometido la infracción, en caso de reincidencia.",
+    "Artículo adicionado DOF 04-02-2004. Reformado DOF 15-12-2011",
+    "Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010"
+   ],
+   "ai": [
+    "En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $210,344.21 a $5’889,637.72. La clausura sólo se podrá imponer en el establecimiento en que se haya acreditado la irregularidad.",
+    "Párrafo reformado DOF 11-01-2018",
+    "Multa del párrafo actualizada DOF 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023",
+    "Las violaciones a lo establecido en el artículo 32 que se consideren particularmente graves conforme a lo establecido en el artículo 128 Ter de esta ley, serán sancionadas con la multa establecida en el párrafo anterior o bien con multa de hasta un 10% de los ingresos brutos anuales del infractor obtenidos por la comercialización del bien o los bienes, productos o servicios contenidos en la publicidad respectiva, correspondiente al último ejercicio fiscal en que se haya cometido la infracción, en caso de reincidencia.",
+    "Artículo adicionado DOF 04-02-2004. Reformado DOF 15-12-2011",
+    "Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010"
+   ],
+   "official": [
+    "En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $228,266.96 a $6,391,474.56. La clausura sólo se podrá imponer en el establecimiento en que se haya acreditado la irregularidad.",
+    "Párrafo reformado DOF 11-01-2018",
+    "Multa del párrafo actualizada DOF 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025",
+    "Las violaciones a lo establecido en el artículo 32 que se consideren particularmente graves conforme a lo establecido en el artículo 128 Ter de esta ley, serán sancionadas con la multa establecida en el párrafo anterior o bien con multa de hasta un 10% de los ingresos brutos anuales del infractor obtenidos por la comercialización del bien o los bienes, productos o servicios contenidos en la publicidad respectiva, correspondiente al último ejercicio fiscal en que se haya cometido la infracción, en caso de reincidencia.",
+    "Artículo adicionado DOF 04-02-2004. Reformado DOF 15-12-2011",
+    "Multa del artículo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010"
+   ],
+   "diff": [
+    [
+     "=",
+     "En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de"
+    ],
+    [
+     "-",
+     "$210,344.21"
+    ],
+    [
+     "+",
+     "$228,266.96"
+    ],
+    [
+     "=",
+     "a"
+    ],
+    [
+     "-",
+     "$5’889,637.72."
+    ],
+    [
+     "+",
+     "$6,391,474.56."
+    ],
+    [
+     "=",
+     "La clausura sólo se podrá imponer en el establecimiento en que se … 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022,"
+    ],
+    [
+     "-",
+     "21-12-2023"
+    ],
+    [
+     "+",
+     "21-12-2023, 26-12-2024, 23-12-2025"
+    ],
+    [
+     "=",
+     "¶ Las violaciones a lo establecido en el artículo 32 que se …"
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "133",
+   "label": "ARTÍCULO 133.",
+   "status": "outside_decree",
+   "notes_match": true,
+   "before": [
+    "En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia o cuando se afecten derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.",
+    "Párrafo reformado DOF 19-08-2010",
+    "Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $11’779,275.40.",
+    "Párrafo adicionado DOF 04-02-2004",
+    "Multa del párrafo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023"
+   ],
+   "ai": [
+    "En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia o cuando se afecten derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.",
+    "Párrafo reformado DOF 19-08-2010",
+    "Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $11’779,275.40.",
+    "Párrafo adicionado DOF 04-02-2004",
+    "Multa del párrafo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023"
+   ],
+   "official": [
+    "En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia o cuando se afecten derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.",
+    "Párrafo reformado DOF 19-08-2010",
+    "Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $12,782,949.06.",
+    "Párrafo adicionado DOF 04-02-2004",
+    "Multa del párrafo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025"
+   ],
+   "diff": [
+    [
+     "=",
+     "… imponga una sanción, el total de las mismas no deberá rebasar de"
+    ],
+    [
+     "-",
+     "$11’779,275.40."
+    ],
+    [
+     "+",
+     "$12,782,949.06."
+    ],
+    [
+     "=",
+     "¶ Multa del párrafo actualizada DOF 21-12-2004, 22-12-2005, 19-12-2006, 21-12-2007, 17-12-2008, 21-12-2009, 21-12-2010, 21-12-2011, 31-12-2012, 31-12-2013, 26-12-2014, 30-12-2015, 28-12-2016, 22-12-2017, 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022,"
+    ],
+    [
+     "-",
+     "21-12-2023"
+    ],
+    [
+     "+",
+     "21-12-2023, 26-12-2024, 23-12-2025"
+    ]
+   ],
+   "cause": null
+  }
+ ]
+}

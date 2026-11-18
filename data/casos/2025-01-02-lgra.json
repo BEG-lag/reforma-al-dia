@@ -1,0 +1,940 @@
+{
+ "id": "2025-01-02-lgra",
+ "source": "backtest",
+ "law": {
+  "slug": "lgra",
+  "title": "Ley General de Responsabilidades Administrativas",
+  "abbreviation": "LGRA"
+ },
+ "decree": {
+  "code": 5746626,
+  "title": "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Responsabilidades Administrativas.",
+  "date": "2025-01-02",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5746626&fecha=02/01/2025",
+  "pdf": null,
+  "instruction": [
+   "Artículo Único.- Se reforman los artículos 6; 7, primer párrafo; 9, fracción V; 16; 19; 21; 22; 37; 38; 39; 49, párrafo primero y fracciones I y VI, y 148; se adicionan una fracción XXI Bis al artículo 3, y se deroga la fracción XXV del artículo 3, de la Ley General de Responsabilidades Administrativas, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "a95fd608519f435b8b658cdd095310da3c83e4d5"
+ },
+ "official": {
+  "commit": "6dfca7b6d9ee70e5cc5ff8bf929832ec6d74bdd9",
+  "date": "2025-01-02",
+  "same_day": true
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "Artículo 3.",
+    "Artículo 6.",
+    "Artículo 7.",
+    "Artículo 9.",
+    "Artículo 16.",
+    "Artículo 19.",
+    "Artículo 21.",
+    "Artículo 22.",
+    "Artículo 37.",
+    "Artículo 38.",
+    "Artículo 39.",
+    "Artículo 49."
+   ],
+   "key": "a5eadfdaa28e27ee8e696aca6b4fffa2a90e483c8898e3a17a345b4807f1cb32",
+   "cached": true,
+   "duration_ms": 27349,
+   "cost_usd": 0.1962538,
+   "model": "claude-opus-5-5",
+   "error": null
+  },
+  {
+   "batch": 2,
+   "articles": [
+    "Artículo 148."
+   ],
+   "key": "41299ec81b1c682cfb72148ec7efa0b80d6218b016cc24166b359e5134615f9e",
+   "cached": true,
+   "duration_ms": 6250,
+   "cost_usd": 0.0306458,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "3": {
+   "label": "Artículo 3.",
+   "headings": [],
+   "lines": [
+    "Artículo 3. Para efectos de esta Ley se entenderá por:",
+    "I. a XXI. ...",
+    "XXI Bis. Personas Servidoras Públicas: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito federal y local, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos. La referencia sobre Servidor Público y/o Servidores Públicos, se entenderá como el contenido de esta fracción;",
+    "XXII. a XXIV. ...",
+    "XXV. Se deroga.",
+    "XXVI. y XXVII. ..."
+   ]
+  },
+  "6": {
+   "label": "Artículo 6.",
+   "headings": [],
+   "lines": [
+    "Artículo 6. Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada Persona Servidora Pública, en el marco del respeto a los derechos humanos, la buena administración pública y la perspectiva de género."
+   ]
+  },
+  "7": {
+   "label": "Artículo 7.",
+   "headings": [],
+   "lines": [
+    "Artículo 7. Las Personas Servidoras Públicas observarán en el desempeño de su empleo, cargo o comisión, los principios de austeridad, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia y racionalidad en el uso de los recursos públicos, mismos que rigen el servicio público. Para la efectiva aplicación de dichos principios, las Personas Servidoras Públicas observarán las siguientes directrices:",
+    "I. a XIII. ...",
+    "..."
+   ]
+  },
+  "9": {
+   "label": "Artículo 9.",
+   "headings": [],
+   "lines": [
+    "Artículo 9. En el ámbito de su competencia, serán autoridades facultadas para aplicar la presente Ley:",
+    "I. a IV. ...",
+    "V. Tratándose de las responsabilidades administrativas de las Personas Servidoras Públicas de los poderes judiciales, serán competentes para investigar e imponer las sanciones que correspondan:",
+    "a) Tratándose del Poder Judicial de la Federación, el Tribunal de Disciplina Judicial conforme al régimen establecido en los artículos 94, 100 y 109 de la Constitución y en su reglamentación interna correspondiente.",
+    "b) Los Tribunales de Disciplina Judicial de los poderes judiciales de los estados y de la Ciudad de México, de acuerdo con lo previsto en los artículos 116 y 122 de la Constitución, así como en sus constituciones locales y reglamentaciones orgánicas correspondientes.",
+    "Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior y de las Entidades de fiscalización de las entidades federativas, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos, y",
+    "VI. ..."
+   ]
+  },
+  "16": {
+   "label": "Artículo 16.",
+   "headings": [],
+   "lines": [
+    "Artículo 16. Las Personas Servidoras Públicas deberán observar el código de ética y el de conducta según corresponda, que al efecto sea emitido por las Secretarías o los Órganos internos de control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.",
+    "Los códigos que se refieren en el párrafo anterior, deberán hacerse del conocimiento de las Personas Servidoras Públicas de la dependencia o entidad de que se trate, así como darles la máxima publicidad."
+   ]
+  },
+  "19": {
+   "label": "Artículo 19.",
+   "headings": [],
+   "lines": [
+    "Artículo 19. Los entes públicos deberán implementar los mecanismos de coordinación que, en términos de la Ley General del Sistema Nacional Anticorrupción, determine el Comité Coordinador del Sistema Nacional Anticorrupción e informar a dicho órgano de los avances y resultados que estos tengan, a través de sus Órganos internos de control o instancia interna equivalente."
+   ]
+  },
+  "21": {
+   "label": "Artículo 21.",
+   "headings": [],
+   "lines": [
+    "Artículo 21. Las Secretarías podrán suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura de la ética, honestidad y buenas prácticas en su organización."
+   ]
+  },
+  "22": {
+   "label": "Artículo 22.",
+   "headings": [],
+   "lines": [
+    "Artículo 22. En el diseño y supervisión de los mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética, honradez e integridad en los negocios, además de incluir medidas que inhiban la práctica de conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de denuncia y de protección a denunciantes."
+   ]
+  },
+  "37": {
+   "label": "Artículo 37.",
+   "headings": [],
+   "lines": [
+    "Artículo 37. En los casos en que la declaración de situación patrimonial del Declarante refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como Persona Servidora Pública, las Secretarías y los Órganos internos de control inmediatamente solicitarán sea aclarado el origen de dicho enriquecimiento. De no justificarse la procedencia de dicho enriquecimiento, las Secretarías y los Órganos internos de control procederán a integrar el expediente correspondiente para darle trámite conforme a lo establecido en esta Ley, y formularán, en su caso, la denuncia correspondiente ante el Ministerio Público.",
+    "Las Personas Servidoras Públicas de los centros públicos de investigación, instituciones de educación y las entidades de la Administración Pública Federal de conformidad con las disposiciones aplicables en la materia que realicen actividades de investigación científica, desarrollo tecnológico e innovación podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios, en los términos que para ello establezcan los órganos de gobierno de dichos centros, instituciones y entidades, con la previa opinión de la Secretaría, sin que dichos beneficios se consideren como tales para efectos de lo contenido en el artículo 52 de esta Ley.",
+    "Las actividades de vinculación a las que hace referencia el párrafo anterior, además de las previstas en disposiciones legales especializadas en la materia, incluirán la participación de investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas privadas de base tecnológica o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual perteneciente a la propia institución, centro o entidad, según corresponda. Dichas Personas Servidoras Públicas incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o por cualquier otro concepto en contravención a las disposiciones aplicables en la Institución."
+   ]
+  },
+  "38": {
+   "label": "Artículo 38.",
+   "headings": [],
+   "lines": [
+    "Artículo 38. Los Declarantes estarán obligados a proporcionar a las Secretarías y los Órganos internos de control, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios, dependientes económicos directos o integrantes de sociedades de convivencia.",
+    "Sólo las personas titulares de las Secretarías o las Personas Servidoras Públicas en quien deleguen esta facultad podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios."
+   ]
+  },
+  "39": {
+   "label": "Artículo 39.",
+   "headings": [],
+   "lines": [
+    "Artículo 39. Para los efectos de la presente Ley y de la legislación penal, se computarán entre los bienes que adquieran los Declarantes o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge, concubina o concubinario, sus dependientes económicos directos o integrantes de sociedad de convivencia; salvo que se acredite que éstos los obtuvieron por sí mismos."
+   ]
+  },
+  "49": {
+   "label": "Artículo 49.",
+   "headings": [],
+   "lines": [
+    "Artículo 49. Incurrirá en Falta administrativa no grave la Persona Servidora Pública cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:",
+    "I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a las demás Personas Servidoras Públicas como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley, y los de conducta, según corresponda;",
+    "II. a V. ...",
+    "VI. Supervisar que las Personas Servidoras Públicas sujetas a su dirección, cumplan con las disposiciones de este artículo;",
+    "VII. a XI. ...",
+    "..."
+   ]
+  },
+  "148": {
+   "label": "Artículo 148.",
+   "headings": [],
+   "lines": [
+    "Artículo 148. Las personas representantes de elección popular, ministras, ministros, magistradas, magistrados, juezas y jueces del Poder Judicial de la Federación, magistrados y magistradas del Tribunal de Disciplina Judicial, las y los miembros del Órgano de Administración Judicial, las personas Servidoras Públicas que sean ratificadas o nombradas con la intervención de cualquiera de las Cámaras del Congreso de la Unión o los congresos locales, las Secretarias y los Secretarios de Despacho del Poder Ejecutivo Federal y los equivalentes en las entidades federativas, las y los titulares de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos otorgue autonomía, las magistradas, magistrados, juezas y jueces de los Tribunales de Justicia de las entidades federativas, magistrados y magistradas de los Tribunales de Disciplina Judicial, las y los miembros de los órganos de administración judicial de las entidades federativas, y las y los titulares de los órganos a los que las constituciones locales les otorguen autonomía, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "Artículo 3.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XXI Bis",
+    "paragraphs": [
+     "XXI Bis. Personas Servidoras Públicas: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito federal y local, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos. La referencia sobre Servidor Público y/o Servidores Públicos, se entenderá como el contenido de esta fracción;"
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 23,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 3.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "XXV",
+    "paragraphs": [
+     "XXV. Se deroga."
+    ],
+    "from_block": 27,
+    "to_block": 27,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 6.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 6.",
+    "paragraphs": [
+     "Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada Persona Servidora Pública, en el marco del respeto a los derechos humanos, la buena administración pública y la perspectiva de género."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 7.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "paragraphs": [
+     "Las Personas Servidoras Públicas observarán en el desempeño de su empleo, cargo o comisión, los principios de austeridad, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia y racionalidad en el uso de los recursos públicos, mismos que rigen el servicio público. Para la efectiva aplicación de dichos principios, las Personas Servidoras Públicas observarán las siguientes directrices:"
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 9.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "paragraphs": [
+     "V. Tratándose de las responsabilidades administrativas de las Personas Servidoras Públicas de los poderes judiciales, serán competentes para investigar e imponer las sanciones que correspondan:",
+     "a) Tratándose del Poder Judicial de la Federación, el Tribunal de Disciplina Judicial conforme al régimen establecido en los artículos 94, 100 y 109 de la Constitución y en su reglamentación interna correspondiente.",
+     "b) Los Tribunales de Disciplina Judicial de los poderes judiciales de los estados y de la Ciudad de México, de acuerdo con lo previsto en los artículos 116 y 122 de la Constitución, así como en sus constituciones locales y reglamentaciones orgánicas correspondientes.",
+     "Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior y de las Entidades de fiscalización de las entidades federativas, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos, y"
+    ],
+    "from_block": 6,
+    "to_block": 6,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 16.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 16.",
+    "paragraphs": [
+     "Las Personas Servidoras Públicas deberán observar el código de ética y el de conducta según corresponda, que al efecto sea emitido por las Secretarías o los Órganos internos de control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.",
+     "Los códigos que se refieren en el párrafo anterior, deberán hacerse del conocimiento de las Personas Servidoras Públicas de la dependencia o entidad de que se trate, así como darles la máxima publicidad."
+    ],
+    "from_block": 1,
+    "to_block": 2,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 19.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 19.",
+    "paragraphs": [
+     "Los entes públicos deberán implementar los mecanismos de coordinación que, en términos de la Ley General del Sistema Nacional Anticorrupción, determine el Comité Coordinador del Sistema Nacional Anticorrupción e informar a dicho órgano de los avances y resultados que estos tengan, a través de sus Órganos internos de control o instancia interna equivalente."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 21.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 21.",
+    "paragraphs": [
+     "Las Secretarías podrán suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura de la ética, honestidad y buenas prácticas en su organización."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 22.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 22.",
+    "paragraphs": [
+     "En el diseño y supervisión de los mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética, honradez e integridad en los negocios, además de incluir medidas que inhiban la práctica de conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de denuncia y de protección a denunciantes."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 37.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 37.",
+    "paragraphs": [
+     "En los casos en que la declaración de situación patrimonial del Declarante refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como Persona Servidora Pública, las Secretarías y los Órganos internos de control inmediatamente solicitarán sea aclarado el origen de dicho enriquecimiento. De no justificarse la procedencia de dicho enriquecimiento, las Secretarías y los Órganos internos de control procederán a integrar el expediente correspondiente para darle trámite conforme a lo establecido en esta Ley, y formularán, en su caso, la denuncia correspondiente ante el Ministerio Público.",
+     "Las Personas Servidoras Públicas de los centros públicos de investigación, instituciones de educación y las entidades de la Administración Pública Federal de conformidad con las disposiciones aplicables en la materia que realicen actividades de investigación científica, desarrollo tecnológico e innovación podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios, en los términos que para ello establezcan los órganos de gobierno de dichos centros, instituciones y entidades, con la previa opinión de la Secretaría, sin que dichos beneficios se consideren como tales para efectos de lo contenido en el artículo 52 de esta Ley.",
+     "Las actividades de vinculación a las que hace referencia el párrafo anterior, además de las previstas en disposiciones legales especializadas en la materia, incluirán la participación de investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas privadas de base tecnológica o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual perteneciente a la propia institución, centro o entidad, según corresponda. Dichas Personas Servidoras Públicas incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o por cualquier otro concepto en contravención a las disposiciones aplicables en la Institución."
+    ],
+    "from_block": 1,
+    "to_block": 3,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 38.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 38.",
+    "paragraphs": [
+     "Los Declarantes estarán obligados a proporcionar a las Secretarías y los Órganos internos de control, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios, dependientes económicos directos o integrantes de sociedades de convivencia.",
+     "Sólo las personas titulares de las Secretarías o las Personas Servidoras Públicas en quien deleguen esta facultad podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios."
+    ],
+    "from_block": 1,
+    "to_block": 2,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 39.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 39.",
+    "paragraphs": [
+     "Para los efectos de la presente Ley y de la legislación penal, se computarán entre los bienes que adquieran los Declarantes o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge, concubina o concubinario, sus dependientes económicos directos o integrantes de sociedad de convivencia; salvo que se acredite que éstos los obtuvieron por sí mismos."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 49.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "paragraphs": [
+     "Incurrirá en Falta administrativa no grave la Persona Servidora Pública cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:"
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 49.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "paragraphs": [
+     "I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a las demás Personas Servidoras Públicas como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley, y los de conducta, según corresponda;"
+    ],
+    "from_block": 2,
+    "to_block": 2,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 49.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "paragraphs": [
+     "VI. Supervisar que las Personas Servidoras Públicas sujetas a su dirección, cumplan con las disposiciones de este artículo;"
+    ],
+    "from_block": 8,
+    "to_block": 8,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 148.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 148.",
+    "paragraphs": [
+     "Las personas representantes de elección popular, ministras, ministros, magistradas, magistrados, juezas y jueces del Poder Judicial de la Federación, magistrados y magistradas del Tribunal de Disciplina Judicial, las y los miembros del Órgano de Administración Judicial, las personas Servidoras Públicas que sean ratificadas o nombradas con la intervención de cualquiera de las Cámaras del Congreso de la Unión o los congresos locales, las Secretarias y los Secretarios de Despacho del Poder Ejecutivo Federal y los equivalentes en las entidades federativas, las y los titulares de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos otorgue autonomía, las magistradas, magistrados, juezas y jueces de los Tribunales de Justicia de las entidades federativas, magistrados y magistradas de los Tribunales de Disciplina Judicial, las y los miembros de los órganos de administración judicial de las entidades federativas, y las y los titulares de los órganos a los que las constituciones locales les otorguen autonomía, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 2
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "needs_review": [],
+ "counts": {
+  "exact": 13,
+  "normalized": 0,
+  "mismatch": 0,
+  "not_applied": 0,
+  "outside_decree": 0,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 0,
+  "notes_match": 13
+ },
+ "transitorios": "normalized",
+ "body_identical": false,
+ "articles": [
+  {
+   "key": "3",
+   "label": "Artículo 3.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Para efectos de esta Ley se entenderá por:",
+    "I. Auditoría Superior: La Auditoría Superior de la Federación;",
+    "II. Autoridad investigadora: La autoridad en las Secretarías, los Órganos internos de control, la Auditoría Superior de la Federación y las entidades de fiscalización superior de las entidades federativas, así como las unidades de responsabilidades de las Empresas productivas del Estado, encargada de la investigación de Faltas administrativas;",
+    "III. Autoridad substanciadora: La autoridad en las Secretarías, los Órganos internos de control, la Auditoría Superior y sus homólogas en las entidades federativas, así como las unidades de responsabilidades de las Empresas productivas del Estado que, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial. La función de la Autoridad substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora;",
+    "IV. Autoridad resolutora: Tratándose de Faltas administrativas no graves lo será la unidad de responsabilidades administrativas o el servidor público asignado en los Órganos internos de control. Para las Faltas administrativas graves, así como para las Faltas de particulares, lo será el Tribunal competente;",
+    "V. Comité Coordinador: Instancia a la que hace referencia el artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, encargada de la coordinación y eficacia del Sistema Nacional Anticorrupción;",
+    "VI. Conflicto de Interés: La posible afectación del desempeño imparcial y objetivo de las funciones de los Servidores Públicos en razón de intereses personales, familiares o de negocios;",
+    "VII. Constitución: La Constitución Política de los Estados Unidos Mexicanos;",
+    "VIII. Declarante: El Servidor Público obligado a presentar declaración de situación patrimonial, de intereses y fiscal, en los términos de esta Ley;",
+    "IX. Denunciante: La persona física o moral, o el Servidor Público que acude ante las Autoridades investigadoras a que se refiere la presente Ley, con el fin de denunciar actos u omisiones que pudieran constituir o vincularse con Faltas administrativas, en términos de los artículos 91 y 93 de esta Ley;",
+    "X. Ente público: Los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, las dependencias y entidades de la Administración Pública Federal, y sus homólogos de las entidades federativas, los municipios y alcaldías de la Ciudad de México y sus dependencias y entidades, las fiscalías o procuradurías locales, los órganos jurisdiccionales que no formen parte de los poderes judiciales, las Empresas productivas del Estado, así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos citados de los tres órdenes de gobierno;",
+    "Fracción reformada DOF 20-05-2021",
+    "XI. Entidades: Los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que tengan el carácter de entidad paraestatal a que se refieren los artículos 3, 45, 46 y 47 de la Ley Orgánica de la Administración Pública Federal y sus correlativas en las entidades federativas y municipios;",
+    "XII. Entidades de fiscalización superior de las entidades federativas: Los órganos a los que hacen referencian el sexto párrafo de la fracción segunda del artículo 116 y el sexto párrafo de la fracción II del Apartado A del artículo 122, de la Constitución Política de los Estados Unidos Mexicanos;",
+    "XIII. Expediente de presunta responsabilidad administrativa: El expediente derivado de la investigación que las Autoridades Investigadoras realizan en sede administrativa, al tener conocimiento de un acto u omisión posiblemente constitutivo de Faltas administrativas;",
+    "XIV. Faltas administrativas: Las Faltas administrativas graves, las Faltas administrativas no graves; así como las Faltas de particulares, conforme a lo dispuesto en esta Ley;",
+    "XV. Falta administrativa no grave: Las faltas administrativas de los Servidores Públicos en los términos de la presente Ley, cuya sanción corresponde a las Secretarías y a los Órganos internos de control;",
+    "XVI. Falta administrativa grave: Las faltas administrativas de los Servidores Públicos catalogadas como graves en los términos de la presente Ley, cuya sanción corresponde al Tribunal Federal de Justicia Administrativa y sus homólogos en las entidades federativas;",
+    "XVII. Faltas de particulares: Los actos de personas físicas o morales privadas que estén vinculados con faltas administrativas graves a que se refieren los Capítulos III y IV del Título Tercero de esta Ley, cuya sanción corresponde al Tribunal en los términos de la misma;",
+    "XVIII. Informe de Presunta Responsabilidad Administrativa: El instrumento en el que las autoridades investigadoras describen los hechos relacionados con alguna de las faltas señaladas en la presente Ley, exponiendo de forma documentada con las pruebas y fundamentos, los motivos y presunta responsabilidad del Servidor Público o de un particular en la comisión de Faltas administrativas;",
+    "XIX. Magistrado: El Titular o integrante de la sección competente en materia de responsabilidades administrativas, de la Sala Superior del Tribunal Federal de Justicia Administrativa o de las salas especializadas que, en su caso, se establezcan en dicha materia, así como sus homólogos en las entidades federativas;",
+    "XX. Órganos constitucionales autónomos: Organismos a los que la Constitución otorga expresamente autonomía técnica y de gestión, personalidad jurídica y patrimonio propio, incluidos aquellos creados con tal carácter en las constituciones de las entidades federativas;",
+    "XXI. Órganos internos de control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los Órganos constitucionales autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las leyes en materia de responsabilidades de Servidores Públicos;",
+    "XXII. Plataforma digital nacional: La plataforma a que se refiere la Ley General del Sistema Nacional Anticorrupción, que contará con los sistemas que establece la referida ley, así como los contenidos previstos en la presente Ley;",
+    "XXIII. Secretaría: La Secretaría de la Función Pública en el Poder Ejecutivo Federal;",
+    "XXIV. Secretarías: La Secretaría de la Función Pública en el Poder Ejecutivo Federal y sus homólogos en las entidades federativas;",
+    "XXV. Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito federal y local, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos;",
+    "XXVI. Sistema Nacional Anticorrupción: La instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos, y",
+    "XXVII. Tribunal: La Sección competente en materia de responsabilidades administrativas, de la Sala Superior del Tribunal Federal de Justicia Administrativa o las salas especializadas que, en su caso, se establezcan en dicha materia, así como sus homólogos en las entidades federativas."
+   ],
+   "ai": [
+    "Para efectos de esta Ley se entenderá por:",
+    "I. Auditoría Superior: La Auditoría Superior de la Federación;",
+    "II. Autoridad investigadora: La autoridad en las Secretarías, los Órganos internos de control, la Auditoría Superior de la Federación y las entidades de fiscalización superior de las entidades federativas, así como las unidades de responsabilidades de las Empresas productivas del Estado, encargada de la investigación de Faltas administrativas;",
+    "III. Autoridad substanciadora: La autoridad en las Secretarías, los Órganos internos de control, la Auditoría Superior y sus homólogas en las entidades federativas, así como las unidades de responsabilidades de las Empresas productivas del Estado que, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial. La función de la Autoridad substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora;",
+    "IV. Autoridad resolutora: Tratándose de Faltas administrativas no graves lo será la unidad de responsabilidades administrativas o el servidor público asignado en los Órganos internos de control. Para las Faltas administrativas graves, así como para las Faltas de particulares, lo será el Tribunal competente;",
+    "V. Comité Coordinador: Instancia a la que hace referencia el artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, encargada de la coordinación y eficacia del Sistema Nacional Anticorrupción;",
+    "VI. Conflicto de Interés: La posible afectación del desempeño imparcial y objetivo de las funciones de los Servidores Públicos en razón de intereses personales, familiares o de negocios;",
+    "VII. Constitución: La Constitución Política de los Estados Unidos Mexicanos;",
+    "VIII. Declarante: El Servidor Público obligado a presentar declaración de situación patrimonial, de intereses y fiscal, en los términos de esta Ley;",
+    "IX. Denunciante: La persona física o moral, o el Servidor Público que acude ante las Autoridades investigadoras a que se refiere la presente Ley, con el fin de denunciar actos u omisiones que pudieran constituir o vincularse con Faltas administrativas, en términos de los artículos 91 y 93 de esta Ley;",
+    "X. Ente público: Los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, las dependencias y entidades de la Administración Pública Federal, y sus homólogos de las entidades federativas, los municipios y alcaldías de la Ciudad de México y sus dependencias y entidades, las fiscalías o procuradurías locales, los órganos jurisdiccionales que no formen parte de los poderes judiciales, las Empresas productivas del Estado, así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos citados de los tres órdenes de gobierno;",
+    "Fracción reformada DOF 20-05-2021",
+    "XI. Entidades: Los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que tengan el carácter de entidad paraestatal a que se refieren los artículos 3, 45, 46 y 47 de la Ley Orgánica de la Administración Pública Federal y sus correlativas en las entidades federativas y municipios;",
+    "XII. Entidades de fiscalización superior de las entidades federativas: Los órganos a los que hacen referencian el sexto párrafo de la fracción segunda del artículo 116 y el sexto párrafo de la fracción II del Apartado A del artículo 122, de la Constitución Política de los Estados Unidos Mexicanos;",
+    "XIII. Expediente de presunta responsabilidad administrativa: El expediente derivado de la investigación que las Autoridades Investigadoras realizan en sede administrativa, al tener conocimiento de un acto u omisión posiblemente constitutivo de Faltas administrativas;",
+    "XIV. Faltas administrativas: Las Faltas administrativas graves, las Faltas administrativas no graves; así como las Faltas de particulares, conforme a lo dispuesto en esta Ley;",
+    "XV. Falta administrativa no grave: Las faltas administrativas de los Servidores Públicos en los términos de la presente Ley, cuya sanción corresponde a las Secretarías y a los Órganos internos de control;",
+    "XVI. Falta administrativa grave: Las faltas administrativas de los Servidores Públicos catalogadas como graves en los términos de la presente Ley, cuya sanción corresponde al Tribunal Federal de Justicia Administrativa y sus homólogos en las entidades federativas;",
+    "XVII. Faltas de particulares: Los actos de personas físicas o morales privadas que estén vinculados con faltas administrativas graves a que se refieren los Capítulos III y IV del Título Tercero de esta Ley, cuya sanción corresponde al Tribunal en los términos de la misma;",
+    "XVIII. Informe de Presunta Responsabilidad Administrativa: El instrumento en el que las autoridades investigadoras describen los hechos relacionados con alguna de las faltas señaladas en la presente Ley, exponiendo de forma documentada con las pruebas y fundamentos, los motivos y presunta responsabilidad del Servidor Público o de un particular en la comisión de Faltas administrativas;",
+    "XIX. Magistrado: El Titular o integrante de la sección competente en materia de responsabilidades administrativas, de la Sala Superior del Tribunal Federal de Justicia Administrativa o de las salas especializadas que, en su caso, se establezcan en dicha materia, así como sus homólogos en las entidades federativas;",
+    "XX. Órganos constitucionales autónomos: Organismos a los que la Constitución otorga expresamente autonomía técnica y de gestión, personalidad jurídica y patrimonio propio, incluidos aquellos creados con tal carácter en las constituciones de las entidades federativas;",
+    "XXI. Órganos internos de control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los Órganos constitucionales autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las leyes en materia de responsabilidades de Servidores Públicos;",
+    "XXI Bis. Personas Servidoras Públicas: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito federal y local, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos. La referencia sobre Servidor Público y/o Servidores Públicos, se entenderá como el contenido de esta fracción;",
+    "Fracción adicionada DOF 02-01-2025",
+    "XXII. Plataforma digital nacional: La plataforma a que se refiere la Ley General del Sistema Nacional Anticorrupción, que contará con los sistemas que establece la referida ley, así como los contenidos previstos en la presente Ley;",
+    "XXIII. Secretaría: La Secretaría de la Función Pública en el Poder Ejecutivo Federal;",
+    "XXIV. Secretarías: La Secretaría de la Función Pública en el Poder Ejecutivo Federal y sus homólogos en las entidades federativas;",
+    "XXV. Se deroga.",
+    "Fracción derogada DOF 02-01-2025",
+    "XXVI. Sistema Nacional Anticorrupción: La instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos, y",
+    "XXVII. Tribunal: La Sección competente en materia de responsabilidades administrativas, de la Sala Superior del Tribunal Federal de Justicia Administrativa o las salas especializadas que, en su caso, se establezcan en dicha materia, así como sus homólogos en las entidades federativas."
+   ],
+   "official": [
+    "Para efectos de esta Ley se entenderá por:",
+    "I. Auditoría Superior: La Auditoría Superior de la Federación;",
+    "II. Autoridad investigadora: La autoridad en las Secretarías, los Órganos internos de control, la Auditoría Superior de la Federación y las entidades de fiscalización superior de las entidades federativas, así como las unidades de responsabilidades de las Empresas productivas del Estado, encargada de la investigación de Faltas administrativas;",
+    "III. Autoridad substanciadora: La autoridad en las Secretarías, los Órganos internos de control, la Auditoría Superior y sus homólogas en las entidades federativas, así como las unidades de responsabilidades de las Empresas productivas del Estado que, en el ámbito de su competencia, dirigen y conducen el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial. La función de la Autoridad substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora;",
+    "IV. Autoridad resolutora: Tratándose de Faltas administrativas no graves lo será la unidad de responsabilidades administrativas o el servidor público asignado en los Órganos internos de control. Para las Faltas administrativas graves, así como para las Faltas de particulares, lo será el Tribunal competente;",
+    "V. Comité Coordinador: Instancia a la que hace referencia el artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, encargada de la coordinación y eficacia del Sistema Nacional Anticorrupción;",
+    "VI. Conflicto de Interés: La posible afectación del desempeño imparcial y objetivo de las funciones de los Servidores Públicos en razón de intereses personales, familiares o de negocios;",
+    "VII. Constitución: La Constitución Política de los Estados Unidos Mexicanos;",
+    "VIII. Declarante: El Servidor Público obligado a presentar declaración de situación patrimonial, de intereses y fiscal, en los términos de esta Ley;",
+    "IX. Denunciante: La persona física o moral, o el Servidor Público que acude ante las Autoridades investigadoras a que se refiere la presente Ley, con el fin de denunciar actos u omisiones que pudieran constituir o vincularse con Faltas administrativas, en términos de los artículos 91 y 93 de esta Ley;",
+    "X. Ente público: Los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, las dependencias y entidades de la Administración Pública Federal, y sus homólogos de las entidades federativas, los municipios y alcaldías de la Ciudad de México y sus dependencias y entidades, las fiscalías o procuradurías locales, los órganos jurisdiccionales que no formen parte de los poderes judiciales, las Empresas productivas del Estado, así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos citados de los tres órdenes de gobierno;",
+    "Fracción reformada DOF 20-05-2021",
+    "XI. Entidades: Los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que tengan el carácter de entidad paraestatal a que se refieren los artículos 3, 45, 46 y 47 de la Ley Orgánica de la Administración Pública Federal y sus correlativas en las entidades federativas y municipios;",
+    "XII. Entidades de fiscalización superior de las entidades federativas: Los órganos a los que hacen referencian el sexto párrafo de la fracción segunda del artículo 116 y el sexto párrafo de la fracción II del Apartado A del artículo 122, de la Constitución Política de los Estados Unidos Mexicanos;",
+    "XIII. Expediente de presunta responsabilidad administrativa: El expediente derivado de la investigación que las Autoridades Investigadoras realizan en sede administrativa, al tener conocimiento de un acto u omisión posiblemente constitutivo de Faltas administrativas;",
+    "XIV. Faltas administrativas: Las Faltas administrativas graves, las Faltas administrativas no graves; así como las Faltas de particulares, conforme a lo dispuesto en esta Ley;",
+    "XV. Falta administrativa no grave: Las faltas administrativas de los Servidores Públicos en los términos de la presente Ley, cuya sanción corresponde a las Secretarías y a los Órganos internos de control;",
+    "XVI. Falta administrativa grave: Las faltas administrativas de los Servidores Públicos catalogadas como graves en los términos de la presente Ley, cuya sanción corresponde al Tribunal Federal de Justicia Administrativa y sus homólogos en las entidades federativas;",
+    "XVII. Faltas de particulares: Los actos de personas físicas o morales privadas que estén vinculados con faltas administrativas graves a que se refieren los Capítulos III y IV del Título Tercero de esta Ley, cuya sanción corresponde al Tribunal en los términos de la misma;",
+    "XVIII. Informe de Presunta Responsabilidad Administrativa: El instrumento en el que las autoridades investigadoras describen los hechos relacionados con alguna de las faltas señaladas en la presente Ley, exponiendo de forma documentada con las pruebas y fundamentos, los motivos y presunta responsabilidad del Servidor Público o de un particular en la comisión de Faltas administrativas;",
+    "XIX. Magistrado: El Titular o integrante de la sección competente en materia de responsabilidades administrativas, de la Sala Superior del Tribunal Federal de Justicia Administrativa o de las salas especializadas que, en su caso, se establezcan en dicha materia, así como sus homólogos en las entidades federativas;",
+    "XX. Órganos constitucionales autónomos: Organismos a los que la Constitución otorga expresamente autonomía técnica y de gestión, personalidad jurídica y patrimonio propio, incluidos aquellos creados con tal carácter en las constituciones de las entidades federativas;",
+    "XXI. Órganos internos de control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los Órganos constitucionales autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las leyes en materia de responsabilidades de Servidores Públicos;",
+    "XXI Bis. Personas Servidoras Públicas: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito federal y local, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos. La referencia sobre Servidor Público y/o Servidores Públicos, se entenderá como el contenido de esta fracción;",
+    "Fracción adicionada DOF 02-01-2025",
+    "XXII. Plataforma digital nacional: La plataforma a que se refiere la Ley General del Sistema Nacional Anticorrupción, que contará con los sistemas que establece la referida ley, así como los contenidos previstos en la presente Ley;",
+    "XXIII. Secretaría: La Secretaría de la Función Pública en el Poder Ejecutivo Federal;",
+    "XXIV. Secretarías: La Secretaría de la Función Pública en el Poder Ejecutivo Federal y sus homólogos en las entidades federativas;",
+    "XXV. Se deroga.",
+    "Fracción derogada DOF 02-01-2025",
+    "XXVI. Sistema Nacional Anticorrupción: La instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos, y",
+    "XXVII. Tribunal: La Sección competente en materia de responsabilidades administrativas, de la Sala Superior del Tribunal Federal de Justicia Administrativa o las salas especializadas que, en su caso, se establezcan en dicha materia, así como sus homólogos en las entidades federativas."
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "6",
+   "label": "Artículo 6.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada servidor público."
+   ],
+   "ai": [
+    "Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada Persona Servidora Pública, en el marco del respeto a los derechos humanos, la buena administración pública y la perspectiva de género.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "official": [
+    "Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada Persona Servidora Pública, en el marco del respeto a los derechos humanos, la buena administración pública y la perspectiva de género.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "7",
+   "label": "Artículo 7.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Los Servidores Públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los Servidores Públicos observarán las siguientes directrices:",
+    "I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;",
+    "II. Conducirse con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización;",
+    "III. Satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;",
+    "IV. Dar a las personas en general el mismo trato, por lo que no concederán privilegios o preferencias a organizaciones o personas, ni permitirán que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva;",
+    "V. Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades;",
+    "VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de austeridad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados;",
+    "Fracción reformada DOF 12-04-2019",
+    "VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos en la Constitución;",
+    "VIII. Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;",
+    "IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones;",
+    "Fracción reformada DOF 19-11-2019",
+    "X. Se abstendrán de asociarse con inversionistas, contratistas o empresarios nacionales o extranjeros, para establecer cualquier tipo de negocio privado que afecte el desempeño imparcial y objetivo en razón de intereses personales o familiares, hasta el cuarto grado por consanguinidad o afinidad;",
+    "Fracción adicionada DOF 19-11-2019",
+    "XI. Separarse legalmente de los activos e intereses económicos que afecten de manera directa el ejercicio de sus responsabilidades en el servicio público y que constituyan conflicto de intereses, de acuerdo con lo establecido en esta Ley, en forma previa a la asunción de cualquier empleo, cargo o comisión;",
+    "Fracción adicionada DOF 19-11-2019",
+    "XII. Abstenerse de intervenir o promover, por sí o por interpósita persona, en la selección, nombramiento o designación para el servicio público de personas con quienes tenga parentesco por filiación hasta el cuarto grado o por afinidad hasta el segundo grado, y",
+    "Fracción adicionada DOF 19-11-2019",
+    "XIII. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano.",
+    "Fracción recorrida DOF 19-11-2019",
+    "La separación de activos o intereses económicos a que se refiere la fracción XI de este artículo, deberá comprobarse mediante la exhibición de los instrumentos legales conducentes, mismos que deberán incluir una cláusula que garantice la vigencia de la separación durante el tiempo de ejercicio del cargo y hasta por un año posterior a haberse retirado del empleo, cargo o comisión.",
+    "Párrafo adicionado DOF 19-11-2019"
+   ],
+   "ai": [
+    "Las Personas Servidoras Públicas observarán en el desempeño de su empleo, cargo o comisión, los principios de austeridad, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia y racionalidad en el uso de los recursos públicos, mismos que rigen el servicio público. Para la efectiva aplicación de dichos principios, las Personas Servidoras Públicas observarán las siguientes directrices:",
+    "Párrafo reformado DOF 02-01-2025",
+    "I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;",
+    "II. Conducirse con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización;",
+    "III. Satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;",
+    "IV. Dar a las personas en general el mismo trato, por lo que no concederán privilegios o preferencias a organizaciones o personas, ni permitirán que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva;",
+    "V. Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades;",
+    "VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de austeridad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados;",
+    "Fracción reformada DOF 12-04-2019",
+    "VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos en la Constitución;",
+    "VIII. Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;",
+    "IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones;",
+    "Fracción reformada DOF 19-11-2019",
+    "X. Se abstendrán de asociarse con inversionistas, contratistas o empresarios nacionales o extranjeros, para establecer cualquier tipo de negocio privado que afecte el desempeño imparcial y objetivo en razón de intereses personales o familiares, hasta el cuarto grado por consanguinidad o afinidad;",
+    "Fracción adicionada DOF 19-11-2019",
+    "XI. Separarse legalmente de los activos e intereses económicos que afecten de manera directa el ejercicio de sus responsabilidades en el servicio público y que constituyan conflicto de intereses, de acuerdo con lo establecido en esta Ley, en forma previa a la asunción de cualquier empleo, cargo o comisión;",
+    "Fracción adicionada DOF 19-11-2019",
+    "XII. Abstenerse de intervenir o promover, por sí o por interpósita persona, en la selección, nombramiento o designación para el servicio público de personas con quienes tenga parentesco por filiación hasta el cuarto grado o por afinidad hasta el segundo grado, y",
+    "Fracción adicionada DOF 19-11-2019",
+    "XIII. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano.",
+    "Fracción recorrida DOF 19-11-2019",
+    "La separación de activos o intereses económicos a que se refiere la fracción XI de este artículo, deberá comprobarse mediante la exhibición de los instrumentos legales conducentes, mismos que deberán incluir una cláusula que garantice la vigencia de la separación durante el tiempo de ejercicio del cargo y hasta por un año posterior a haberse retirado del empleo, cargo o comisión.",
+    "Párrafo adicionado DOF 19-11-2019"
+   ],
+   "official": [
+    "Las Personas Servidoras Públicas observarán en el desempeño de su empleo, cargo o comisión, los principios de austeridad, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia y racionalidad en el uso de los recursos públicos, mismos que rigen el servicio público. Para la efectiva aplicación de dichos principios, las Personas Servidoras Públicas observarán las siguientes directrices:",
+    "Párrafo reformado DOF 02-01-2025",
+    "I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;",
+    "II. Conducirse con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización;",
+    "III. Satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;",
+    "IV. Dar a las personas en general el mismo trato, por lo que no concederán privilegios o preferencias a organizaciones o personas, ni permitirán que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva;",
+    "V. Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades;",
+    "VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de austeridad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados;",
+    "Fracción reformada DOF 12-04-2019",
+    "VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos en la Constitución;",
+    "VIII. Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;",
+    "IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones;",
+    "Fracción reformada DOF 19-11-2019",
+    "X. Se abstendrán de asociarse con inversionistas, contratistas o empresarios nacionales o extranjeros, para establecer cualquier tipo de negocio privado que afecte el desempeño imparcial y objetivo en razón de intereses personales o familiares, hasta el cuarto grado por consanguinidad o afinidad;",
+    "Fracción adicionada DOF 19-11-2019",
+    "XI. Separarse legalmente de los activos e intereses económicos que afecten de manera directa el ejercicio de sus responsabilidades en el servicio público y que constituyan conflicto de intereses, de acuerdo con lo establecido en esta Ley, en forma previa a la asunción de cualquier empleo, cargo o comisión;",
+    "Fracción adicionada DOF 19-11-2019",
+    "XII. Abstenerse de intervenir o promover, por sí o por interpósita persona, en la selección, nombramiento o designación para el servicio público de personas con quienes tenga parentesco por filiación hasta el cuarto grado o por afinidad hasta el segundo grado, y",
+    "Fracción adicionada DOF 19-11-2019",
+    "XIII. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano.",
+    "Fracción recorrida DOF 19-11-2019",
+    "La separación de activos o intereses económicos a que se refiere la fracción XI de este artículo, deberá comprobarse mediante la exhibición de los instrumentos legales conducentes, mismos que deberán incluir una cláusula que garantice la vigencia de la separación durante el tiempo de ejercicio del cargo y hasta por un año posterior a haberse retirado del empleo, cargo o comisión.",
+    "Párrafo adicionado DOF 19-11-2019"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "9",
+   "label": "Artículo 9.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "En el ámbito de su competencia, serán autoridades facultadas para aplicar la presente Ley:",
+    "I. Las Secretarías;",
+    "II. Los Órganos internos de control;",
+    "III. La Auditoría Superior de la Federación y las Entidades de fiscalización superior de las entidades federativas;",
+    "IV. Los Tribunales;",
+    "V. Tratándose de las responsabilidades administrativas de los Servidores Públicos de los poderes judiciales, serán competentes para investigar e imponer las sanciones que correspondan, la Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal, conforme al régimen establecido en los artículos 94 y 109 de la Constitución y en su reglamentación interna correspondiente; y los poderes judiciales de los estados y el Tribunal Superior de Justicia de la Ciudad de México, así como sus consejos de la judicatura respectivos, de acuerdo a lo previsto en los artículos 116 y 122 de la Constitución, así como sus constituciones locales y reglamentaciones orgánicas correspondientes. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior y de las Entidades de fiscalización de las entidades federativas, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos, y",
+    "VI. Las unidades de responsabilidades de las empresas productivas del Estado, de conformidad con las leyes que las regulan. Para tal efecto, contarán exclusivamente con las siguientes atribuciones:",
+    "a) Las que esta Ley prevé para las autoridades investigadoras y substanciadoras;",
+    "b) Las necesarias para imponer sanciones por Faltas administrativas no graves, y",
+    "c) Las relacionadas con la Plataforma digital nacional, en los términos previstos en esta Ley."
+   ],
+   "ai": [
+    "En el ámbito de su competencia, serán autoridades facultadas para aplicar la presente Ley:",
+    "I. Las Secretarías;",
+    "II. Los Órganos internos de control;",
+    "III. La Auditoría Superior de la Federación y las Entidades de fiscalización superior de las entidades federativas;",
+    "IV. Los Tribunales;",
+    "V. Tratándose de las responsabilidades administrativas de las Personas Servidoras Públicas de los poderes judiciales, serán competentes para investigar e imponer las sanciones que correspondan:",
+    "a) Tratándose del Poder Judicial de la Federación, el Tribunal de Disciplina Judicial conforme al régimen establecido en los artículos 94, 100 y 109 de la Constitución y en su reglamentación interna correspondiente.",
+    "b) Los Tribunales de Disciplina Judicial de los poderes judiciales de los estados y de la Ciudad de México, de acuerdo con lo previsto en los artículos 116 y 122 de la Constitución, así como en sus constituciones locales y reglamentaciones orgánicas correspondientes.",
+    "Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior y de las Entidades de fiscalización de las entidades federativas, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos, y",
+    "Fracción reformada DOF 02-01-2025",
+    "VI. Las unidades de responsabilidades de las empresas productivas del Estado, de conformidad con las leyes que las regulan. Para tal efecto, contarán exclusivamente con las siguientes atribuciones:",
+    "a) Las que esta Ley prevé para las autoridades investigadoras y substanciadoras;",
+    "b) Las necesarias para imponer sanciones por Faltas administrativas no graves, y",
+    "c) Las relacionadas con la Plataforma digital nacional, en los términos previstos en esta Ley."
+   ],
+   "official": [
+    "En el ámbito de su competencia, serán autoridades facultadas para aplicar la presente Ley:",
+    "I. Las Secretarías;",
+    "II. Los Órganos internos de control;",
+    "III. La Auditoría Superior de la Federación y las Entidades de fiscalización superior de las entidades federativas;",
+    "IV. Los Tribunales;",
+    "V. Tratándose de las responsabilidades administrativas de las Personas Servidoras Públicas de los poderes judiciales, serán competentes para investigar e imponer las sanciones que correspondan:",
+    "a) Tratándose del Poder Judicial de la Federación, el Tribunal de Disciplina Judicial conforme al régimen establecido en los artículos 94, 100 y 109 de la Constitución y en su reglamentación interna correspondiente.",
+    "b) Los Tribunales de Disciplina Judicial de los poderes judiciales de los estados y de la Ciudad de México, de acuerdo con lo previsto en los artículos 116 y 122 de la Constitución, así como en sus constituciones locales y reglamentaciones orgánicas correspondientes.",
+    "Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior y de las Entidades de fiscalización de las entidades federativas, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos, y",
+    "Fracción reformada DOF 02-01-2025",
+    "VI. Las unidades de responsabilidades de las empresas productivas del Estado, de conformidad con las leyes que las regulan. Para tal efecto, contarán exclusivamente con las siguientes atribuciones:",
+    "a) Las que esta Ley prevé para las autoridades investigadoras y substanciadoras;",
+    "b) Las necesarias para imponer sanciones por Faltas administrativas no graves, y",
+    "c) Las relacionadas con la Plataforma digital nacional, en los términos previstos en esta Ley."
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "16",
+   "label": "Artículo 16.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Los Servidores Públicos deberán observar el código de ética que al efecto sea emitido por las Secretarías o los Órganos internos de control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.",
+    "El código de ética a que se refiere el párrafo anterior, deberá hacerse del conocimiento de los Servidores Públicos de la dependencia o entidad de que se trate, así como darle la máxima publicidad."
+   ],
+   "ai": [
+    "Las Personas Servidoras Públicas deberán observar el código de ética y el de conducta según corresponda, que al efecto sea emitido por las Secretarías o los Órganos internos de control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.",
+    "Los códigos que se refieren en el párrafo anterior, deberán hacerse del conocimiento de las Personas Servidoras Públicas de la dependencia o entidad de que se trate, así como darles la máxima publicidad.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "official": [
+    "Las Personas Servidoras Públicas deberán observar el código de ética y el de conducta según corresponda, que al efecto sea emitido por las Secretarías o los Órganos internos de control, conforme a los lineamientos que emita el Sistema Nacional Anticorrupción, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.",
+    "Los códigos que se refieren en el párrafo anterior, deberán hacerse del conocimiento de las Personas Servidoras Públicas de la dependencia o entidad de que se trate, así como darles la máxima publicidad.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "19",
+   "label": "Artículo 19.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Los entes públicos deberán implementar los mecanismos de coordinación que, en términos de la Ley General del Sistema Nacional Anticorrupción, determine el Comité Coordinador del Sistema Nacional Anticorrupción e informar a dicho órgano de los avances y resultados que estos tengan, a través de sus Órganos internos de control."
+   ],
+   "ai": [
+    "Los entes públicos deberán implementar los mecanismos de coordinación que, en términos de la Ley General del Sistema Nacional Anticorrupción, determine el Comité Coordinador del Sistema Nacional Anticorrupción e informar a dicho órgano de los avances y resultados que estos tengan, a través de sus Órganos internos de control o instancia interna equivalente.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "official": [
+    "Los entes públicos deberán implementar los mecanismos de coordinación que, en términos de la Ley General del Sistema Nacional Anticorrupción, determine el Comité Coordinador del Sistema Nacional Anticorrupción e informar a dicho órgano de los avances y resultados que estos tengan, a través de sus Órganos internos de control o instancia interna equivalente.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "21",
+   "label": "Artículo 21.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Las Secretarías podrán suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura ética en su organización."
+   ],
+   "ai": [
+    "Las Secretarías podrán suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura de la ética, honestidad y buenas prácticas en su organización.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "official": [
+    "Las Secretarías podrán suscribir convenios de colaboración con las personas físicas o morales que participen en contrataciones públicas, así como con las cámaras empresariales u organizaciones industriales o de comercio, con la finalidad de orientarlas en el establecimiento de mecanismos de autorregulación que incluyan la instrumentación de controles internos y un programa de integridad que les permita asegurar el desarrollo de una cultura de la ética, honestidad y buenas prácticas en su organización.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "22",
+   "label": "Artículo 22.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "En el diseño y supervisión de los mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética e integridad en los negocios, además de incluir medidas que inhiban la práctica de conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de denuncia y de protección a denunciantes."
+   ],
+   "ai": [
+    "En el diseño y supervisión de los mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética, honradez e integridad en los negocios, además de incluir medidas que inhiban la práctica de conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de denuncia y de protección a denunciantes.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "official": [
+    "En el diseño y supervisión de los mecanismos a que se refiere el artículo anterior, se considerarán las mejores prácticas internacionales sobre controles, ética, honradez e integridad en los negocios, además de incluir medidas que inhiban la práctica de conductas irregulares, que orienten a los socios, directivos y empleados de las empresas sobre el cumplimiento del programa de integridad y que contengan herramientas de denuncia y de protección a denunciantes.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "37",
+   "label": "Artículo 37.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "En los casos en que la declaración de situación patrimonial del Declarante refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como servidor público, las Secretarías y los Órganos internos de control inmediatamente solicitarán sea aclarado el origen de dicho enriquecimiento. De no justificarse la procedencia de dicho enriquecimiento, las Secretarías y los Órganos internos de control procederán a integrar el expediente correspondiente para darle trámite conforme a lo establecido en esta Ley, y formularán, en su caso, la denuncia correspondiente ante el Ministerio Público.",
+    "Los Servidores Públicos de los centros públicos de investigación, instituciones de educación y las entidades de la Administración Pública Federal a que se refiere el artículo 51 de la Ley de Ciencia y Tecnología, que realicen actividades de investigación científica, desarrollo tecnológico e innovación podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios, en los términos que para ello establezcan los órganos de gobierno de dichos centros, instituciones y entidades, con la previa opinión de la Secretaría, sin que dichos beneficios se consideren como tales para efectos de lo contenido en el artículo 52 de esta Ley.",
+    "Las actividades de vinculación a las que hace referencia el párrafo anterior, además de las previstas en el citado artículo 51 de la Ley de Ciencia y Tecnología, incluirán la participación de investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas privadas de base tecnológica o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual perteneciente a la propia institución, centro o entidad, según corresponda. Dichos Servidores Públicos incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o por cualquier otro concepto en contravención a las disposiciones aplicables en la Institución."
+   ],
+   "ai": [
+    "En los casos en que la declaración de situación patrimonial del Declarante refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como Persona Servidora Pública, las Secretarías y los Órganos internos de control inmediatamente solicitarán sea aclarado el origen de dicho enriquecimiento. De no justificarse la procedencia de dicho enriquecimiento, las Secretarías y los Órganos internos de control procederán a integrar el expediente correspondiente para darle trámite conforme a lo establecido en esta Ley, y formularán, en su caso, la denuncia correspondiente ante el Ministerio Público.",
+    "Las Personas Servidoras Públicas de los centros públicos de investigación, instituciones de educación y las entidades de la Administración Pública Federal de conformidad con las disposiciones aplicables en la materia que realicen actividades de investigación científica, desarrollo tecnológico e innovación podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios, en los términos que para ello establezcan los órganos de gobierno de dichos centros, instituciones y entidades, con la previa opinión de la Secretaría, sin que dichos beneficios se consideren como tales para efectos de lo contenido en el artículo 52 de esta Ley.",
+    "Las actividades de vinculación a las que hace referencia el párrafo anterior, además de las previstas en disposiciones legales especializadas en la materia, incluirán la participación de investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas privadas de base tecnológica o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual perteneciente a la propia institución, centro o entidad, según corresponda. Dichas Personas Servidoras Públicas incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o por cualquier otro concepto en contravención a las disposiciones aplicables en la Institución.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "official": [
+    "En los casos en que la declaración de situación patrimonial del Declarante refleje un incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como Persona Servidora Pública, las Secretarías y los Órganos internos de control inmediatamente solicitarán sea aclarado el origen de dicho enriquecimiento. De no justificarse la procedencia de dicho enriquecimiento, las Secretarías y los Órganos internos de control procederán a integrar el expediente correspondiente para darle trámite conforme a lo establecido en esta Ley, y formularán, en su caso, la denuncia correspondiente ante el Ministerio Público.",
+    "Las Personas Servidoras Públicas de los centros públicos de investigación, instituciones de educación y las entidades de la Administración Pública Federal de conformidad con las disposiciones aplicables en la materia que realicen actividades de investigación científica, desarrollo tecnológico e innovación podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios, en los términos que para ello establezcan los órganos de gobierno de dichos centros, instituciones y entidades, con la previa opinión de la Secretaría, sin que dichos beneficios se consideren como tales para efectos de lo contenido en el artículo 52 de esta Ley.",
+    "Las actividades de vinculación a las que hace referencia el párrafo anterior, además de las previstas en disposiciones legales especializadas en la materia, incluirán la participación de investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas privadas de base tecnológica o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual perteneciente a la propia institución, centro o entidad, según corresponda. Dichas Personas Servidoras Públicas incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o por cualquier otro concepto en contravención a las disposiciones aplicables en la Institución.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "38",
+   "label": "Artículo 38.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Los Declarantes estarán obligados a proporcionar a las Secretarías y los Órganos internos de control, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios y dependientes económicos directos.",
+    "Sólo los titulares de las Secretarías o los Servidores Públicos en quien deleguen esta facultad podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios."
+   ],
+   "ai": [
+    "Los Declarantes estarán obligados a proporcionar a las Secretarías y los Órganos internos de control, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios, dependientes económicos directos o integrantes de sociedades de convivencia.",
+    "Sólo las personas titulares de las Secretarías o las Personas Servidoras Públicas en quien deleguen esta facultad podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "official": [
+    "Los Declarantes estarán obligados a proporcionar a las Secretarías y los Órganos internos de control, la información que se requiera para verificar la evolución de su situación patrimonial, incluyendo la de sus cónyuges, concubinas o concubinarios, dependientes económicos directos o integrantes de sociedades de convivencia.",
+    "Sólo las personas titulares de las Secretarías o las Personas Servidoras Públicas en quien deleguen esta facultad podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "39",
+   "label": "Artículo 39.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Para los efectos de la presente Ley y de la legislación penal, se computarán entre los bienes que adquieran los Declarantes o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge, concubina o concubinario y sus dependientes económicos directos, salvo que se acredite que éstos los obtuvieron por sí mismos."
+   ],
+   "ai": [
+    "Para los efectos de la presente Ley y de la legislación penal, se computarán entre los bienes que adquieran los Declarantes o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge, concubina o concubinario, sus dependientes económicos directos o integrantes de sociedad de convivencia; salvo que se acredite que éstos los obtuvieron por sí mismos.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "official": [
+    "Para los efectos de la presente Ley y de la legislación penal, se computarán entre los bienes que adquieran los Declarantes o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge, concubina o concubinario, sus dependientes económicos directos o integrantes de sociedad de convivencia; salvo que se acredite que éstos los obtuvieron por sí mismos.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "49",
+   "label": "Artículo 49.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Incurrirá en Falta administrativa no grave el servidor público cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:",
+    "I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a los demás Servidores Públicos como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley;",
+    "II. Denunciar los actos u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir Faltas administrativas, en términos del artículo 93 de la presente Ley;",
+    "III. Atender las instrucciones de sus superiores, siempre que éstas sean acordes con las disposiciones relacionadas con el servicio público.",
+    "En caso de recibir instrucción o encomienda contraria a dichas disposiciones, deberá denunciar esta circunstancia en términos del artículo 93 de la presente Ley;",
+    "IV. Presentar en tiempo y forma las declaraciones de situación patrimonial y de intereses, en los términos establecidos por esta Ley;",
+    "V. Registrar, integrar, custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, divulgación, sustracción, destrucción, ocultamiento o inutilización indebidos;",
+    "VI. Supervisar que los Servidores Públicos sujetos a su dirección, cumplan con las disposiciones de este artículo;",
+    "VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las normas aplicables;",
+    "VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;",
+    "Fracción reformada DOF 19-11-2019",
+    "IX. [Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad, y]",
+    "Fracción reformada DOF 19-11-2019, 27-12-2022",
+    "Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023",
+    "Fracción que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023",
+    "X. [Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.]",
+    "Fracción adicionada DOF 19-11-2019. Reformada DOF 27-12-2022",
+    "Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023",
+    "Fracción que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023",
+    "[XI. Suprimida]",
+    "Fracción adicionada DOF 27-12-2022",
+    "Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023",
+    "Fracción suprimida conforme al texto de la ley “que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023",
+    "Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales."
+   ],
+   "ai": [
+    "Incurrirá en Falta administrativa no grave la Persona Servidora Pública cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:",
+    "Párrafo reformado DOF 02-01-2025",
+    "I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a las demás Personas Servidoras Públicas como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley, y los de conducta, según corresponda;",
+    "Fracción reformada DOF 02-01-2025",
+    "II. Denunciar los actos u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir Faltas administrativas, en términos del artículo 93 de la presente Ley;",
+    "III. Atender las instrucciones de sus superiores, siempre que éstas sean acordes con las disposiciones relacionadas con el servicio público.",
+    "En caso de recibir instrucción o encomienda contraria a dichas disposiciones, deberá denunciar esta circunstancia en términos del artículo 93 de la presente Ley;",
+    "IV. Presentar en tiempo y forma las declaraciones de situación patrimonial y de intereses, en los términos establecidos por esta Ley;",
+    "V. Registrar, integrar, custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, divulgación, sustracción, destrucción, ocultamiento o inutilización indebidos;",
+    "VI. Supervisar que las Personas Servidoras Públicas sujetas a su dirección, cumplan con las disposiciones de este artículo;",
+    "Fracción reformada DOF 02-01-2025",
+    "VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las normas aplicables;",
+    "VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;",
+    "Fracción reformada DOF 19-11-2019",
+    "IX. [Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad, y]",
+    "Fracción reformada DOF 19-11-2019, 27-12-2022",
+    "Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023",
+    "Fracción que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023",
+    "X. [Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.]",
+    "Fracción adicionada DOF 19-11-2019. Reformada DOF 27-12-2022",
+    "Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023",
+    "Fracción que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023",
+    "[XI. Suprimida]",
+    "Fracción adicionada DOF 27-12-2022",
+    "Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023",
+    "Fracción suprimida conforme al texto de la ley “que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023",
+    "Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales."
+   ],
+   "official": [
+    "Incurrirá en Falta administrativa no grave la Persona Servidora Pública cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:",
+    "Párrafo reformado DOF 02-01-2025",
+    "I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a las demás Personas Servidoras Públicas como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley, y los de conducta, según corresponda;",
+    "Fracción reformada DOF 02-01-2025",
+    "II. Denunciar los actos u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir Faltas administrativas, en términos del artículo 93 de la presente Ley;",
+    "III. Atender las instrucciones de sus superiores, siempre que éstas sean acordes con las disposiciones relacionadas con el servicio público.",
+    "En caso de recibir instrucción o encomienda contraria a dichas disposiciones, deberá denunciar esta circunstancia en términos del artículo 93 de la presente Ley;",
+    "IV. Presentar en tiempo y forma las declaraciones de situación patrimonial y de intereses, en los términos establecidos por esta Ley;",
+    "V. Registrar, integrar, custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, divulgación, sustracción, destrucción, ocultamiento o inutilización indebidos;",
+    "VI. Supervisar que las Personas Servidoras Públicas sujetas a su dirección, cumplan con las disposiciones de este artículo;",
+    "Fracción reformada DOF 02-01-2025",
+    "VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las normas aplicables;",
+    "VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;",
+    "Fracción reformada DOF 19-11-2019",
+    "IX. [Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad, y]",
+    "Fracción reformada DOF 19-11-2019, 27-12-2022",
+    "Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023",
+    "Fracción que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023",
+    "X. [Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.]",
+    "Fracción adicionada DOF 19-11-2019. Reformada DOF 27-12-2022",
+    "Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023",
+    "Fracción que “recupera su vigencia con el texto que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023",
+    "[XI. Suprimida]",
+    "Fracción adicionada DOF 27-12-2022",
+    "Fracción declarada inválida por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023",
+    "Fracción suprimida conforme al texto de la ley “que tenía al 27 de diciembre de 2022” por Engrose de sentencia de la SCJN a Acción de Inconstitucionalidad notificado el 31-05-2023 y publicado DOF 24-11-2023",
+    "Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales."
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "148",
+   "label": "Artículo 148.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Los representantes de elección popular, ministros, magistrados y jueces del Poder Judicial de la Federación, los consejeros del Consejo de la Judicatura Federal, los servidores públicos que sean ratificados o nombrados con la intervención de cualquiera de las Cámaras del Congreso de la Unión o los congresos locales, los Secretarios de Despacho del Poder Ejecutivo Federal y los equivalentes en las entidades federativas, los titulares de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos otorgue autonomía, los magistrados y jueces de los Tribunales de Justicia de las entidades federativas, los consejeros de los Consejos de la Judicatura o sus equivalentes de las entidades federativas, y los titulares de los órganos a los que las constituciones locales les otorguen autonomía, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes."
+   ],
+   "ai": [
+    "Las personas representantes de elección popular, ministras, ministros, magistradas, magistrados, juezas y jueces del Poder Judicial de la Federación, magistrados y magistradas del Tribunal de Disciplina Judicial, las y los miembros del Órgano de Administración Judicial, las personas Servidoras Públicas que sean ratificadas o nombradas con la intervención de cualquiera de las Cámaras del Congreso de la Unión o los congresos locales, las Secretarias y los Secretarios de Despacho del Poder Ejecutivo Federal y los equivalentes en las entidades federativas, las y los titulares de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos otorgue autonomía, las magistradas, magistrados, juezas y jueces de los Tribunales de Justicia de las entidades federativas, magistrados y magistradas de los Tribunales de Disciplina Judicial, las y los miembros de los órganos de administración judicial de las entidades federativas, y las y los titulares de los órganos a los que las constituciones locales les otorguen autonomía, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "official": [
+    "Las personas representantes de elección popular, ministras, ministros, magistradas, magistrados, juezas y jueces del Poder Judicial de la Federación, magistrados y magistradas del Tribunal de Disciplina Judicial, las y los miembros del Órgano de Administración Judicial, las personas Servidoras Públicas que sean ratificadas o nombradas con la intervención de cualquiera de las Cámaras del Congreso de la Unión o los congresos locales, las Secretarias y los Secretarios de Despacho del Poder Ejecutivo Federal y los equivalentes en las entidades federativas, las y los titulares de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos otorgue autonomía, las magistradas, magistrados, juezas y jueces de los Tribunales de Justicia de las entidades federativas, magistrados y magistradas de los Tribunales de Disciplina Judicial, las y los miembros de los órganos de administración judicial de las entidades federativas, y las y los titulares de los órganos a los que las constituciones locales les otorguen autonomía, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.",
+    "Artículo reformado DOF 02-01-2025"
+   ],
+   "diff": [],
+   "cause": null
+  }
+ ]
+}

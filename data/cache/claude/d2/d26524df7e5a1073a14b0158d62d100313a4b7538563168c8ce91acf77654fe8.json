@@ -1,0 +1,53 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 122.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "Apartado A, fracción III, párrafo segundo",
+    "from_block": 18,
+    "to_block": 18,
+    "paragraphs": [
+     "La Constitución Política de la Ciudad de México establecerá las facultades del Jefe o Jefa de Gobierno y los requisitos que deberá reunir quien aspire a ocupar dicho encargo. En todo caso se requerirá ser ciudadana o ciudadano mexicano por nacimiento y no tener ni adquirir otra nacionalidad y, en caso de tenerla renunciar a ella previo a solicitar su registro como candidato o candidata en los términos que establezca la ley."
+    ]
+   },
+   {
+    "article": "Artículo 122.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "Apartado A, fracción III, párrafo tercero",
+    "insert_after": 18,
+    "paragraphs": [
+     "Quien ejerza el cargo no podrá adquirir ni solicitar otra nacionalidad, ni invocar ante autoridad extranjera una nacionalidad distinta de la mexicana. Quedan comprendidos en esta prohibición, entre otros supuestos, el uso de pasaporte o documento de identidad expedido por un Estado extranjero, el ejercicio de los derechos políticos inherentes a la ciudadanía ante este y el acogerse a su protección diplomática. La contravención de esta disposición se sancionará en los términos del Título Cuarto de esta Constitución, y de la Constitución Política de la Ciudad de México."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 122.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"Apartado A, fracción III, párrafo segundo\",\"from_block\":18,\"to_block\":18,\"paragraphs\":[\"La Constitución Política de la Ciudad de México establecerá las facultades del Jefe o Jefa de Gobierno y los requisitos que deberá reunir quien aspire a ocupar dicho encargo. En todo caso se requerirá ser ciudadana o ciudadano mexicano por nacimiento y no tener ni adquirir otra nacionalidad y, en caso de tenerla renunciar a ella previo a solicitar su registro como candidato o candidata en los términos que establezca la ley.\"]},{\"article\":\"Artículo 122.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"Apartado A, fracción III, párrafo tercero\",\"insert_after\":18,\"paragraphs\":[\"Quien ejerza el cargo no podrá adquirir ni solicitar otra nacionalidad, ni invocar ante autoridad extranjera una nacionalidad distinta de la mexicana. Quedan comprendidos en esta prohibición, entre otros supuestos, el uso de pasaporte o documento de identidad expedido por un Estado extranjero, el ejercicio de los derechos políticos inherentes a la ciudadanía ante este y el acogerse a su protección diplomática. La contravención de esta disposición se sancionará en los términos del Título Cuarto de esta Constitución, y de la Constitución Política de la Ciudad de México.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 5466,
+ "total_cost_usd": 0.0994098,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 690,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 10625,
+   "webSearchRequests": 0,
+   "costUSD": 0.0994098,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 0,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 10625,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

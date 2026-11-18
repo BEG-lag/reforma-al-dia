@@ -1,0 +1,271 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 31.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La persona titular de la Autoridad Investigadora durará en su encargo cuatro años, pudiendo ser reelecta por una sola vez, previa evaluación objetiva de su desempeño."
+    ]
+   },
+   {
+    "article": "Artículo 31.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "I. Ser persona ciudadana mexicana, en pleno goce de sus derechos civiles y políticos;"
+    ]
+   },
+   {
+    "article": "Artículo 31.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "II. Tener cuando menos treinta años cumplidos al día de la designación;"
+    ]
+   },
+   {
+    "article": "Artículo 31.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "III. Poseer al día de la designación, título profesional expedido por autoridad o institución legalmente facultada para ello;"
+    ]
+   },
+   {
+    "article": "Artículo 31.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "V. Contar con al menos cinco años de experiencia en el servicio público;"
+    ]
+   },
+   {
+    "article": "Artículo 31.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "VI. Haberse desempeñado, cuando menos ocho años, en forma destacada en actividades profesionales, de servicio público o académicas relacionadas con materias afines a las de competencia económica;"
+    ]
+   },
+   {
+    "article": "Artículo 32.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La persona titular de la Autoridad Investigadora podrá ser removida del cargo por el Pleno por las siguientes causas:"
+    ]
+   },
+   {
+    "article": "Artículo 33.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 33.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En el desempeño de su encargo, la persona titular de la Autoridad Investigadora será independiente en sus decisiones y funcionamiento, profesional en su desempeño e imparcial en sus actuaciones, sujetándose a los principios de legalidad, objetividad, certeza, honestidad, exhaustividad y transparencia, así como a las reglas de contacto que se establezcan en el estatuto orgánico."
+    ]
+   },
+   {
+    "article": "Artículo 34.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 34.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando las quejas o denuncias se presenten en contra de la persona titular de la Autoridad Investigadora, el Órgano Interno de Control resolverá lo conducente únicamente cuando el trámite de los casos a los que se refieran las denuncias haya finalizado."
+    ]
+   },
+   {
+    "article": "Artículo 35.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Para efectos de esta Ley, además de los supuestos establecidos en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la persona titular de la Autoridad Investigadora podrá ser destituida del cargo por las siguientes causas de responsabilidad administrativa:"
+    ]
+   },
+   {
+    "article": "Artículo 36.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 36.",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "La persona titular de la Autoridad Investigadora se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes. Asimismo, estará impedida y deberá excusarse inmediatamente de conocer asuntos en los que exista una o varias situaciones que razonablemente le impidan resolver un asunto de su competencia con plena independencia, profesionalismo e imparcialidad.",
+     "Para efectos de lo anterior, la persona titular de la Autoridad Investigadora estará impedida para conocer de un asunto cuando se actualice alguno de los casos de impedimento previstos para las Personas Comisionadas en esta Ley.",
+     "En caso de impedimento de la persona titular de la Autoridad Investigadora para conocer de un asunto, dicha persona titular será suplida por la persona servidora pública que señale el estatuto orgánico de la Comisión."
+    ]
+   },
+   {
+    "article": "Artículo 37.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 37.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 38.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 38.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 39.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 39.",
+    "from_block": 1,
+    "to_block": 44,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 40.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 40.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 41.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 41.",
+    "from_block": 1,
+    "to_block": 18,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 42.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 42.",
+    "from_block": 1,
+    "to_block": 4,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   }
+  ],
+  "divisions": [
+   {
+    "operation": "rename",
+    "kind": "capitulo",
+    "label": "Capítulo IV",
+    "name": "De la Responsabilidad de la Persona Titular de la Autoridad Investigadora",
+    "current_heading": null,
+    "before_article": "Artículo 34."
+   },
+   {
+    "operation": "rename",
+    "kind": "titulo",
+    "label": "TÍTULO IV",
+    "name": "Se deroga",
+    "current_heading": null,
+    "before_article": "Artículo 37."
+   },
+   {
+    "operation": "rename",
+    "kind": "capitulo",
+    "label": "Capítulo I",
+    "name": "Se deroga",
+    "current_heading": null,
+    "before_article": "Artículo 37."
+   },
+   {
+    "operation": "rename",
+    "kind": "capitulo",
+    "label": "Capítulo II",
+    "name": "Se deroga",
+    "current_heading": null,
+    "before_article": "Artículo 39."
+   },
+   {
+    "operation": "rename",
+    "kind": "capitulo",
+    "label": "Capítulo III",
+    "name": "Se deroga",
+    "current_heading": null,
+    "before_article": "Artículo 40."
+   }
+  ],
+  "needs_review": [
+   {
+    "article": "Artículo 34.",
+    "reason": "El decreto reforma la denominación del Capítulo IV del Título III del Libro Primero, pero no se proporcionó el texto vigente del encabezado; se registró el cambio de nombre sin current_heading. Verificar que el encabezado correcto sea el que precede al artículo 34."
+   },
+   {
+    "article": "Artículo 37.",
+    "reason": "El decreto deroga el Título IV del Libro Primero y sus Capítulos I, II y III (encabezados 'Se deroga' antes de los artículos 37, 39 y 40), pero no se proporcionó el texto vigente de esos encabezados; se registraron los cambios de nombre sin current_heading. Los Capítulos IV y V del Título IV corresponden a artículos que no se incluyen en esta parte."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 31.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La persona titular de la Autoridad Investigadora durará en su encargo cuatro años, pudiendo ser reelecta por una sola vez, previa evaluación objetiva de su desempeño.\"]},{\"article\":\"Artículo 31.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"I. Ser persona ciudadana mexicana, en pleno goce de sus derechos civiles y políticos;\"]},{\"article\":\"Artículo 31.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"II. Tener cuando menos treinta años cumplidos al día de la designación;\"]},{\"article\":\"Artículo 31.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"III. Poseer al día de la designación, título profesional expedido por autoridad o institución legalmente facultada para ello;\"]},{\"article\":\"Artículo 31.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"V. Contar con al menos cinco años de experiencia en el servicio público;\"]},{\"article\":\"Artículo 31.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VI\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"VI. Haberse desempeñado, cuando menos ocho años, en forma destacada en actividades profesionales, de servicio público o académicas relacionadas con materias afines a las de competencia económica;\"]},{\"article\":\"Artículo 32.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La persona titular de la Autoridad Investigadora podrá ser removida del cargo por el Pleno por las siguientes causas:\"]},{\"article\":\"Artículo 33.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 33.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En el desempeño de su encargo, la persona titular de la Autoridad Investigadora será independiente en sus decisiones y funcionamiento, profesional en su desempeño e imparcial en sus actuaciones, sujetándose a los principios de legalidad, objetividad, certeza, honestidad, exhaustividad y transparencia, así como a las reglas de contacto que se establezcan en el estatuto orgánico.\"]},{\"article\":\"Artículo 34.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 34.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando las quejas o denuncias se presenten en contra de la persona titular de la Autoridad Investigadora, el Órgano Interno de Control resolverá lo conducente únicamente cuando el trámite de los casos a los que se refieran las denuncias haya finalizado.\"]},{\"article\":\"Artículo 35.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Para efectos de esta Ley, además de los supuestos establecidos en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la persona titular de la Autoridad Investigadora podrá ser destituida del cargo por las siguientes causas de responsabilidad administrativa:\"]},{\"article\":\"Artículo 36.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 36.\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"La persona titular de la Autoridad Investigadora se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes. Asimismo, estará impedida y deberá excusarse inmediatamente de conocer asuntos en los que exista una o varias situaciones que razonablemente le impidan resolver un asunto de su competencia con plena independencia, profesionalismo e imparcialidad.\",\"Para efectos de lo anterior, la persona titular de la Autoridad Investigadora estará impedida para conocer de un asunto cuando se actualice alguno de los casos de impedimento previstos para las Personas Comisionadas en esta Ley.\",\"En caso de impedimento de la persona titular de la Autoridad Investigadora para conocer de un asunto, dicha persona titular será suplida por la persona servidora pública que señale el estatuto orgánico de la Comisión.\"]},{\"article\":\"Artículo 37.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 37.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 38.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 38.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 39.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 39.\",\"from_block\":1,\"to_block\":44,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 40.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 40.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 41.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 41.\",\"from_block\":1,\"to_block\":18,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 42.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 42.\",\"from_block\":1,\"to_block\":4,\"paragraphs\":[\"Se deroga\"]}],\"divisions\":[{\"operation\":\"rename\",\"kind\":\"capitulo\",\"label\":\"Capítulo IV\",\"name\":\"De la Responsabilidad de la Persona Titular de la Autoridad Investigadora\",\"current_heading\":null,\"before_article\":\"Artículo 34.\"},{\"operation\":\"rename\",\"kind\":\"titulo\",\"label\":\"TÍTULO IV\",\"name\":\"Se deroga\",\"current_heading\":null,\"before_article\":\"Artículo 37.\"},{\"operation\":\"rename\",\"kind\":\"capitulo\",\"label\":\"Capítulo I\",\"name\":\"Se deroga\",\"current_heading\":null,\"before_article\":\"Artículo 37.\"},{\"operation\":\"rename\",\"kind\":\"capitulo\",\"label\":\"Capítulo II\",\"name\":\"Se deroga\",\"current_heading\":null,\"before_article\":\"Artículo 39.\"},{\"operation\":\"rename\",\"kind\":\"capitulo\",\"label\":\"Capítulo III\",\"name\":\"Se deroga\",\"current_heading\":null,\"before_article\":\"Artículo 40.\"}],\"needs_review\":[{\"article\":\"Artículo 34.\",\"reason\":\"El decreto reforma la denominación del Capítulo IV del Título III del Libro Primero, pero no se proporcionó el texto vigente del encabezado; se registró el cambio de nombre sin current_heading. Verificar que el encabezado correcto sea el que precede al artículo 34.\"},{\"article\":\"Artículo 37.\",\"reason\":\"El decreto deroga el Título IV del Libro Primero y sus Capítulos I, II y III (encabezados 'Se deroga' antes de los artículos 37, 39 y 40), pero no se proporcionó el texto vigente de esos encabezados; se registraron los cambios de nombre sin current_heading. Los Capítulos IV y V del Título IV corresponden a artículos que no se incluyen en esta parte.\"}]}",
+ "duration_ms": 28666,
+ "total_cost_usd": 0.1650338,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 3780,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 11103,
+   "webSearchRequests": 0,
+   "costUSD": 0.1650338,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 1004,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 11103,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

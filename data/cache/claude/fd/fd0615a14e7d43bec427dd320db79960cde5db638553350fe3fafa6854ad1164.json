@@ -1,0 +1,132 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 49.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VIII",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;"
+    ]
+   },
+   {
+    "article": "Artículo 49.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IX",
+    "from_block": 11,
+    "to_block": 11,
+    "paragraphs": [
+     "IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad, y"
+    ]
+   },
+   {
+    "article": "Artículo 49.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "X",
+    "insert_after": 11,
+    "paragraphs": [
+     "X. Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés."
+    ]
+   },
+   {
+    "article": "Artículo 53.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "insert_after": 1,
+    "paragraphs": [
+     "En términos de lo dispuesto por el párrafo anterior, los servidores públicos no podrán disponer del servicio de miembros de alguna corporación policiaca, seguridad pública o de las fuerzas armadas, en el ejercicio de sus funciones, para otorgar seguridad personal, salvo en los casos en que la normativa que regule su actividad lo contemple o por las circunstancias se considere necesario proveer de dicha seguridad, siempre que se encuentre debidamente justificada a juicio del titular de las propias corporaciones de seguridad y previo informe al Órgano interno de control respectivo o a la Secretaría."
+    ]
+   },
+   {
+    "article": "Artículo 59.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "insert_after": 1,
+    "paragraphs": [
+     "Incurrirá en la responsabilidad dispuesta en el párrafo anterior, el servidor público que intervenga o promueva, por sí o por interpósita persona, en la selección, nombramiento o designación de personas para el servicio público en función de intereses de negocios."
+    ]
+   },
+   {
+    "article": "Artículo 60 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 60 Bis.",
+    "insert_after": null,
+    "paragraphs": [
+     "Comete simulación de acto jurídico el servidor público que utilice personalidad jurídica distinta a la suya para obtener, en beneficio propio o de algún familiar hasta el cuarto grado por consanguinidad o afinidad, recursos públicos en forma contraria a la ley.",
+     "Esta falta administrativa se sancionará con inhabilitación de cinco a diez años."
+    ]
+   },
+   {
+    "article": "Artículo 63 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 63 Bis.",
+    "insert_after": null,
+    "paragraphs": [
+     "Cometerá nepotismo el servidor público que, valiéndose de las atribuciones o facultades de su empleo, cargo o comisión, directa o indirectamente, designe, nombre o intervenga para que se contrate como personal de confianza, de estructura, de base o por honorarios en el ente público en que ejerza sus funciones, a personas con las que tenga lazos de parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato."
+    ]
+   },
+   {
+    "article": "Artículo 64 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 64 Bis.",
+    "insert_after": null,
+    "paragraphs": [
+     "Son faltas administrativas graves las violaciones a las disposiciones sobre fideicomisos establecidas en la Ley Federal de Austeridad Republicana."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "Artículo 28.",
+    "reason": "El texto del decreto para el artículo 28 pertenece a la Ley Federal de Austeridad Republicana que expide el Artículo Primero del decreto (Capítulo Segundo 'De las Responsabilidades'), no a la LGRA; el Artículo Segundo no menciona el artículo 28 de la LGRA. No se aplica ninguna edición."
+   },
+   {
+    "article": "Artículo 29.",
+    "reason": "El texto del decreto para el artículo 29 pertenece a la Ley Federal de Austeridad Republicana (remite a la 'Ley General de Responsabilidades Administrativas' como otra ley); el Artículo Segundo no reforma el artículo 29 de la LGRA. No se aplica ninguna edición."
+   },
+   {
+    "article": "Artículo 30.",
+    "reason": "El texto del decreto para el artículo 30 pertenece a la Ley Federal de Austeridad Republicana; el Artículo Segundo no reforma el artículo 30 de la LGRA, cuyo texto vigente trata de la verificación de declaraciones patrimoniales. No se aplica ninguna edición."
+   },
+   {
+    "article": "Artículo 49.",
+    "reason": "La instrucción sólo adiciona la fracción X, pero el decreto vuelve a imprimir las fracciones VIII y IX con la puntuación cambiada (se quita la 'y' de la VIII y se añade ', y' al final de la IX). Se aplicaron como reformas; conviene verificarlo contra el texto consolidado."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 49.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VIII\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;\"]},{\"article\":\"Artículo 49.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IX\",\"from_block\":11,\"to_block\":11,\"paragraphs\":[\"IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad, y\"]},{\"article\":\"Artículo 49.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"X\",\"insert_after\":11,\"paragraphs\":[\"X. Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.\"]},{\"article\":\"Artículo 53.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"insert_after\":1,\"paragraphs\":[\"En términos de lo dispuesto por el párrafo anterior, los servidores públicos no podrán disponer del servicio de miembros de alguna corporación policiaca, seguridad pública o de las fuerzas armadas, en el ejercicio de sus funciones, para otorgar seguridad personal, salvo en los casos en que la normativa que regule su actividad lo contemple o por las circunstancias se considere necesario proveer de dicha seguridad, siempre que se encuentre debidamente justificada a juicio del titular de las propias corporaciones de seguridad y previo informe al Órgano interno de control respectivo o a la Secretaría.\"]},{\"article\":\"Artículo 59.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"insert_after\":1,\"paragraphs\":[\"Incurrirá en la responsabilidad dispuesta en el párrafo anterior, el servidor público que intervenga o promueva, por sí o por interpósita persona, en la selección, nombramiento o designación de personas para el servicio público en función de intereses de negocios.\"]},{\"article\":\"Artículo 60 Bis.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 60 Bis.\",\"insert_after\":null,\"paragraphs\":[\"Comete simulación de acto jurídico el servidor público que utilice personalidad jurídica distinta a la suya para obtener, en beneficio propio o de algún familiar hasta el cuarto grado por consanguinidad o afinidad, recursos públicos en forma contraria a la ley.\",\"Esta falta administrativa se sancionará con inhabilitación de cinco a diez años.\"]},{\"article\":\"Artículo 63 Bis.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 63 Bis.\",\"insert_after\":null,\"paragraphs\":[\"Cometerá nepotismo el servidor público que, valiéndose de las atribuciones o facultades de su empleo, cargo o comisión, directa o indirectamente, designe, nombre o intervenga para que se contrate como personal de confianza, de estructura, de base o por honorarios en el ente público en que ejerza sus funciones, a personas con las que tenga lazos de parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato.\"]},{\"article\":\"Artículo 64 Bis.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 64 Bis.\",\"insert_after\":null,\"paragraphs\":[\"Son faltas administrativas graves las violaciones a las disposiciones sobre fideicomisos establecidas en la Ley Federal de Austeridad Republicana.\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"Artículo 28.\",\"reason\":\"El texto del decreto para el artículo 28 pertenece a la Ley Federal de Austeridad Republicana que expide el Artículo Primero del decreto (Capítulo Segundo 'De las Responsabilidades'), no a la LGRA; el Artículo Segundo no menciona el artículo 28 de la LGRA. No se aplica ninguna edición.\"},{\"article\":\"Artículo 29.\",\"reason\":\"El texto del decreto para el artículo 29 pertenece a la Ley Federal de Austeridad Republicana (remite a la 'Ley General de Responsabilidades Administrativas' como otra ley); el Artículo Segundo no reforma el artículo 29 de la LGRA. No se aplica ninguna edición.\"},{\"article\":\"Artículo 30.\",\"reason\":\"El texto del decreto para el artículo 30 pertenece a la Ley Federal de Austeridad Republicana; el Artículo Segundo no reforma el artículo 30 de la LGRA, cuyo texto vigente trata de la verificación de declaraciones patrimoniales. No se aplica ninguna edición.\"},{\"article\":\"Artículo 49.\",\"reason\":\"La instrucción sólo adiciona la fracción X, pero el decreto vuelve a imprimir las fracciones VIII y IX con la puntuación cambiada (se quita la 'y' de la VIII y se añade ', y' al final de la IX). Se aplicaron como reformas; conviene verificarlo contra el texto consolidado.\"}]}",
+ "duration_ms": 17999,
+ "total_cost_usd": 0.0980298,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 2489,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 5955,
+   "webSearchRequests": 0,
+   "costUSD": 0.0980298,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 243,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 5955,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

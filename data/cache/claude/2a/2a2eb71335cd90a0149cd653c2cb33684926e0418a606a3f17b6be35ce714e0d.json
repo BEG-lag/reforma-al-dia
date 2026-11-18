@@ -1,0 +1,64 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 27.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción V, párrafo primero",
+    "from_block": 20,
+    "to_block": 20,
+    "paragraphs": [
+     "V. Cumplir con las obligaciones establecidas en esta Ley y las demás disposiciones fiscales en materia de retención y entero de impuestos a cargo de terceros o que, en su caso, se recabe de éstos copia de los documentos en que conste el pago de dichos impuestos. Tratándose de pagos al extranjero, éstos sólo se podrán deducir en el ejercicio en el que se pague la contraprestación y se entere la retención que corresponda en términos del artículo 153, quinto párrafo, de esta Ley y siempre que el contribuyente proporcione la información a que esté obligado en los términos del artículo 76 de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 27.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción XVIII, párrafo segundo",
+    "from_block": 74,
+    "to_block": 74,
+    "paragraphs": [
+     "Tratándose de anticipos por los gastos a que se refiere la fracción III del artículo 25 de esta Ley, estos serán deducibles en el ejercicio en el que se efectúen, siempre que se cuente con el comprobante fiscal del anticipo en el mismo ejercicio en el que se pagó y con el comprobante fiscal que ampare la totalidad de la operación por la que se efectuó el anticipo, a más tardar el último día del ejercicio siguiente a aquel en que se dio el anticipo. La deducción del anticipo en el ejercicio en el que se pague será por el monto de este y, en el ejercicio en el que se reciba el bien, la deducción será por la diferencia entre el valor total consignado en el comprobante fiscal y el monto del anticipo. En todo caso para efectuar esta deducción, se deberán cumplir con los demás requisitos que establezcan las disposiciones fiscales."
+    ]
+   },
+   {
+    "article": "Artículo 27.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "fracción XVIII, párrafo cuarto",
+    "insert_after": 75,
+    "paragraphs": [
+     "Lo establecido en esta fracción no será aplicable a los anticipos a que se refiere el artículo 25, párrafo tercero, de la presente Ley, sin perjuicio de la obligación consistente en contar con el comprobante fiscal en el mismo ejercicio en el que se pagaron y con el comprobante fiscal que ampare la totalidad de la operación por la que se efectuaron."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 27.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción V, párrafo primero\",\"from_block\":20,\"to_block\":20,\"paragraphs\":[\"V. Cumplir con las obligaciones establecidas en esta Ley y las demás disposiciones fiscales en materia de retención y entero de impuestos a cargo de terceros o que, en su caso, se recabe de éstos copia de los documentos en que conste el pago de dichos impuestos. Tratándose de pagos al extranjero, éstos sólo se podrán deducir en el ejercicio en el que se pague la contraprestación y se entere la retención que corresponda en términos del artículo 153, quinto párrafo, de esta Ley y siempre que el contribuyente proporcione la información a que esté obligado en los términos del artículo 76 de esta Ley.\"]},{\"article\":\"Artículo 27.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción XVIII, párrafo segundo\",\"from_block\":74,\"to_block\":74,\"paragraphs\":[\"Tratándose de anticipos por los gastos a que se refiere la fracción III del artículo 25 de esta Ley, estos serán deducibles en el ejercicio en el que se efectúen, siempre que se cuente con el comprobante fiscal del anticipo en el mismo ejercicio en el que se pagó y con el comprobante fiscal que ampare la totalidad de la operación por la que se efectuó el anticipo, a más tardar el último día del ejercicio siguiente a aquel en que se dio el anticipo. La deducción del anticipo en el ejercicio en el que se pague será por el monto de este y, en el ejercicio en el que se reciba el bien, la deducción será por la diferencia entre el valor total consignado en el comprobante fiscal y el monto del anticipo. En todo caso para efectuar esta deducción, se deberán cumplir con los demás requisitos que establezcan las disposiciones fiscales.\"]},{\"article\":\"Artículo 27.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"fracción XVIII, párrafo cuarto\",\"insert_after\":75,\"paragraphs\":[\"Lo establecido en esta fracción no será aplicable a los anticipos a que se refiere el artículo 25, párrafo tercero, de la presente Ley, sin perjuicio de la obligación consistente en contar con el comprobante fiscal en el mismo ejercicio en el que se pagaron y con el comprobante fiscal que ampare la totalidad de la operación por la que se efectuaron.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 10694,
+ "total_cost_usd": 0.1358618,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 1407,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 13389,
+   "webSearchRequests": 0,
+   "costUSD": 0.1358618,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 110,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 13389,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

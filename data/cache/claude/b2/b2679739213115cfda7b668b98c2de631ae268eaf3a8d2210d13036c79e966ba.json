@@ -1,0 +1,205 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 168 bis.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Descifre o decodifique señales de telecomunicaciones distintas a las de satélite portadoras de programas;"
+    ]
+   },
+   {
+    "article": "Artículo 168 bis.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Transmita la propiedad, uso o goce de aparatos, instrumentos o información que permitan descifrar o decodificar señales de telecomunicaciones distintas a las de satélite portadoras de programas, o"
+    ]
+   },
+   {
+    "article": "Artículo 168 bis.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "insert_after": 3,
+    "paragraphs": [
+     "III. Reciba o distribuya una señal de satélite cifrada portadora de programas originalmente codificada, sin la autorización del distribuidor legal de la señal."
+    ]
+   },
+   {
+    "article": "Artículo 424 bis.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo párrafo de la fracción I",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Igual pena se impondrá a quienes, a sabiendas, aporten o provean de cualquier forma, materias primas o insumos destinados a la producción o reproducción de obras, fonogramas, videogramas o libros a que se refiere el párrafo anterior;"
+    ]
+   },
+   {
+    "article": "Artículo 424 bis.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "II. A quien fabrique con fin de lucro un dispositivo o sistema cuya finalidad sea desactivar los dispositivos electrónicos de protección de un programa de computación, o"
+    ]
+   },
+   {
+    "article": "Artículo 424 bis.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "insert_after": 4,
+    "paragraphs": [
+     "III. A quien grabe, transmita o realice una copia total o parcial de una obra cinematográfica protegida, exhibida en una sala de cine o lugares que hagan sus veces, sin la autorización del titular del derecho de autor o derechos conexos."
+    ]
+   },
+   {
+    "article": "Artículo 426.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. A quien fabrique, modifique, importe, distribuya, venda o arriende un dispositivo o sistema para descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal;"
+    ]
+   },
+   {
+    "article": "Artículo 426.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. A quien realice con fines de lucro cualquier acto con la finalidad de descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal;"
+    ]
+   },
+   {
+    "article": "Artículo 426.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "insert_after": 3,
+    "paragraphs": [
+     "III. A quien fabrique o distribuya equipo destinado a la recepción de una señal de cable encriptada portadora de programas, sin autorización del distribuidor legítimo de dicha señal, o"
+    ]
+   },
+   {
+    "article": "Artículo 426.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "insert_after": 3,
+    "paragraphs": [
+     "IV. A quien reciba o asista a otro a recibir una señal de cable encriptada portadora de programas sin la autorización del distribuidor legítimo de dicha señal."
+    ]
+   },
+   {
+    "article": "Artículo 427 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 427 Bis.",
+    "insert_after": null,
+    "paragraphs": [
+     "A quien, a sabiendas y con fines de lucro eluda sin autorización cualquier medida tecnológica de protección efectiva que utilicen los productores de fonogramas, artistas, intérpretes o ejecutantes, así como autores de cualquier obra protegida por derechos de autor o derechos conexos, será sancionado con una pena de prisión de seis meses a seis años y de quinientos a mil días multa."
+    ]
+   },
+   {
+    "article": "Artículo 427 Ter.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 427 Ter.",
+    "insert_after": null,
+    "paragraphs": [
+     "A quien, con fines de lucro, fabrique, importe, distribuya, rente o de cualquier manera comercialice dispositivos, productos o componentes destinados a eludir una medida tecnológica de protección efectiva que utilicen los productores de fonogramas, artistas, intérpretes o ejecutantes, así como los autores de cualquier obra protegida por el derecho de autor o derecho conexo, se le impondrá de seis meses a seis años de prisión y de quinientos a mil días multa."
+    ]
+   },
+   {
+    "article": "Artículo 427 Quáter.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 427 Quáter.",
+    "insert_after": null,
+    "paragraphs": [
+     "A quien, con fines de lucro, brinde u ofrezca servicios al público destinados principalmente a eludir una medida tecnológica de protección efectiva que utilicen los productores de fonogramas, artistas, intérpretes o ejecutantes, así como los autores de cualquier obra protegida por derecho de autor o derecho conexo, se le impondrá de seis meses a seis años de prisión y de quinientos a mil días multa."
+    ]
+   },
+   {
+    "article": "Artículo 427 Quinquies.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 427 Quinquies.",
+    "insert_after": null,
+    "paragraphs": [
+     "A quien, a sabiendas, sin autorización y con fines de lucro, suprima o altere, por sí o por medio de otro, cualquier información sobre gestión de derechos, se le impondrá de seis meses a seis años de prisión y de quinientos a mil días multa.",
+     "La misma pena será impuesta a quien con fines de lucro:",
+     "I. Distribuya o importe para su distribución información sobre gestión de derechos, a sabiendas de que ésta ha sido suprimida o alterada sin autorización, o",
+     "II. Distribuya, importe para su distribución, transmita, comunique o ponga a disposición del público copias de las obras, interpretaciones, ejecuciones o fonogramas, a sabiendas de que la información sobre gestión de derechos ha sido suprimida o alterada sin autorización."
+    ]
+   },
+   {
+    "article": "Artículo 429.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 429.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Los delitos previstos en este Título se perseguirán de oficio, excepto lo previsto en los artículos 424, fracción II, 424 Bis, fracción III y 427."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "Artículo 168 bis.",
+    "reason": "La instrucción sólo adiciona la fracción III, pero el decreto transcribe completas las fracciones I y II con cambio de puntuación (I termina en \";\" en lugar de \", o\"; II termina en \", o\" en lugar de \".\"). Se aplicó el texto transcrito a I y II; verificar que el texto consolidado de la Cámara recoja ese ajuste."
+   },
+   {
+    "article": "Artículo 424 bis.",
+    "reason": "La instrucción sólo adiciona la fracción III, pero el decreto transcribe el segundo párrafo de la fracción I (termina en \";\" en lugar de \", o\") y la fracción II (termina en \", o\"). Se aplicó el texto transcrito; verificar con el texto consolidado."
+   },
+   {
+    "article": "Artículo 426.",
+    "reason": "La instrucción reforma sólo la fracción I y adiciona III y IV, pero el decreto transcribe la fracción II terminada en \";\" en lugar de \".\". Se aplicó el texto transcrito a la fracción II; verificar con el texto consolidado."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 168 bis.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Descifre o decodifique señales de telecomunicaciones distintas a las de satélite portadoras de programas;\"]},{\"article\":\"Artículo 168 bis.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Transmita la propiedad, uso o goce de aparatos, instrumentos o información que permitan descifrar o decodificar señales de telecomunicaciones distintas a las de satélite portadoras de programas, o\"]},{\"article\":\"Artículo 168 bis.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"insert_after\":3,\"paragraphs\":[\"III. Reciba o distribuya una señal de satélite cifrada portadora de programas originalmente codificada, sin la autorización del distribuidor legal de la señal.\"]},{\"article\":\"Artículo 424 bis.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo párrafo de la fracción I\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Igual pena se impondrá a quienes, a sabiendas, aporten o provean de cualquier forma, materias primas o insumos destinados a la producción o reproducción de obras, fonogramas, videogramas o libros a que se refiere el párrafo anterior;\"]},{\"article\":\"Artículo 424 bis.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"II. A quien fabrique con fin de lucro un dispositivo o sistema cuya finalidad sea desactivar los dispositivos electrónicos de protección de un programa de computación, o\"]},{\"article\":\"Artículo 424 bis.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"insert_after\":4,\"paragraphs\":[\"III. A quien grabe, transmita o realice una copia total o parcial de una obra cinematográfica protegida, exhibida en una sala de cine o lugares que hagan sus veces, sin la autorización del titular del derecho de autor o derechos conexos.\"]},{\"article\":\"Artículo 426.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. A quien fabrique, modifique, importe, distribuya, venda o arriende un dispositivo o sistema para descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal;\"]},{\"article\":\"Artículo 426.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. A quien realice con fines de lucro cualquier acto con la finalidad de descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal;\"]},{\"article\":\"Artículo 426.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"insert_after\":3,\"paragraphs\":[\"III. A quien fabrique o distribuya equipo destinado a la recepción de una señal de cable encriptada portadora de programas, sin autorización del distribuidor legítimo de dicha señal, o\"]},{\"article\":\"Artículo 426.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"insert_after\":3,\"paragraphs\":[\"IV. A quien reciba o asista a otro a recibir una señal de cable encriptada portadora de programas sin la autorización del distribuidor legítimo de dicha señal.\"]},{\"article\":\"Artículo 427 Bis.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 427 Bis.\",\"insert_after\":null,\"paragraphs\":[\"A quien, a sabiendas y con fines de lucro eluda sin autorización cualquier medida tecnológica de protección efectiva que utilicen los productores de fonogramas, artistas, intérpretes o ejecutantes, así como autores de cualquier obra protegida por derechos de autor o derechos conexos, será sancionado con una pena de prisión de seis meses a seis años y de quinientos a mil días multa.\"]},{\"article\":\"Artículo 427 Ter.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 427 Ter.\",\"insert_after\":null,\"paragraphs\":[\"A quien, con fines de lucro, fabrique, importe, distribuya, rente o de cualquier manera comercialice dispositivos, productos o componentes destinados a eludir una medida tecnológica de protección efectiva que utilicen los productores de fonogramas, artistas, intérpretes o ejecutantes, así como los autores de cualquier obra protegida por el derecho de autor o derecho conexo, se le impondrá de seis meses a seis años de prisión y de quinientos a mil días multa.\"]},{\"article\":\"Artículo 427 Quáter.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 427 Quáter.\",\"insert_after\":null,\"paragraphs\":[\"A quien, con fines de lucro, brinde u ofrezca servicios al público destinados principalmente a eludir una medida tecnológica de protección efectiva que utilicen los productores de fonogramas, artistas, intérpretes o ejecutantes, así como los autores de cualquier obra protegida por derecho de autor o derecho conexo, se le impondrá de seis meses a seis años de prisión y de quinientos a mil días multa.\"]},{\"article\":\"Artículo 427 Quinquies.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 427 Quinquies.\",\"insert_after\":null,\"paragraphs\":[\"A quien, a sabiendas, sin autorización y con fines de lucro, suprima o altere, por sí o por medio de otro, cualquier información sobre gestión de derechos, se le impondrá de seis meses a seis años de prisión y de quinientos a mil días multa.\",\"La misma pena será impuesta a quien con fines de lucro:\",\"I. Distribuya o importe para su distribución información sobre gestión de derechos, a sabiendas de que ésta ha sido suprimida o alterada sin autorización, o\",\"II. Distribuya, importe para su distribución, transmita, comunique o ponga a disposición del público copias de las obras, interpretaciones, ejecuciones o fonogramas, a sabiendas de que la información sobre gestión de derechos ha sido suprimida o alterada sin autorización.\"]},{\"article\":\"Artículo 429.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 429.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Los delitos previstos en este Título se perseguirán de oficio, excepto lo previsto en los artículos 424, fracción II, 424 Bis, fracción III y 427.\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"Artículo 168 bis.\",\"reason\":\"La instrucción sólo adiciona la fracción III, pero el decreto transcribe completas las fracciones I y II con cambio de puntuación (I termina en \\\";\\\" en lugar de \\\", o\\\"; II termina en \\\", o\\\" en lugar de \\\".\\\"). Se aplicó el texto transcrito a I y II; verificar que el texto consolidado de la Cámara recoja ese ajuste.\"},{\"article\":\"Artículo 424 bis.\",\"reason\":\"La instrucción sólo adiciona la fracción III, pero el decreto transcribe el segundo párrafo de la fracción I (termina en \\\";\\\" en lugar de \\\", o\\\") y la fracción II (termina en \\\", o\\\"). Se aplicó el texto transcrito; verificar con el texto consolidado.\"},{\"article\":\"Artículo 426.\",\"reason\":\"La instrucción reforma sólo la fracción I y adiciona III y IV, pero el decreto transcribe la fracción II terminada en \\\";\\\" en lugar de \\\".\\\". Se aplicó el texto transcrito a la fracción II; verificar con el texto consolidado.\"}]}",
+ "duration_ms": 24941,
+ "total_cost_usd": 0.10062179999999998,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 3383,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 4044,
+   "webSearchRequests": 0,
+   "costUSD": 0.10062179999999998,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 488,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 4044,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

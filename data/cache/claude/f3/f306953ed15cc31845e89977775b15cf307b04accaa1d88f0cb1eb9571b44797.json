@@ -1,0 +1,237 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 78.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo décimo primero",
+    "from_block": 21,
+    "to_block": 21,
+    "paragraphs": [
+     "Para determinar el capital de aportación actualizado, las personas morales llevarán una cuenta de capital de aportación que se adicionará con las aportaciones de capital, las primas netas por suscripción de acciones efectuadas por los socios o accionistas, y se disminuirá con las reducciones de capital que se efectúen. Para los efectos de este párrafo, no se incluirá como capital de aportación, el correspondiente a la reinversión o capitalización de utilidades o de cualquier otro concepto que conforme el capital contable de la persona moral ni el proveniente de reinversiones de dividendos o utilidades en aumento de capital de las personas que los distribuyan realizadas dentro de los treinta días siguientes a su distribución. Tratándose de la capitalización de pasivos, no se incluirán como capital de aportación los intereses devengados no pagados, así como el impuesto al valor agregado correspondiente a dichos pasivos; en el caso de aportaciones en especie conformadas por cuentas por cobrar, cesión de derechos de cobro o de títulos de crédito, estas se adicionarán hasta el momento en que se materialicen y hasta por el importe que se cobre en efectivo. Los conceptos correspondientes a aumentos de capital mencionados en este párrafo, se adicionarán a la cuenta de capital de aportación en el momento en el que se paguen efectivamente, los cuales deberán contar con la documentación soporte conforme al Código Fiscal de la Federación, y los conceptos relativos a reducciones de capital se disminuirán de la citada cuenta en el momento en el que se pague el reembolso o se efectúe la reducción de capital, según sea el caso."
+    ]
+   },
+   {
+    "article": "Artículo 78.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo décimo séptimo",
+    "from_block": 27,
+    "to_block": 27,
+    "paragraphs": [
+     "Lo dispuesto en este artículo será aplicable, indistintamente, al reembolso, a la amortización de pérdidas o a la reducción de capital, independientemente de que haya o no cancelación de acciones."
+    ]
+   },
+   {
+    "article": "Artículo 78-A.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 78-A.",
+    "insert_after": null,
+    "paragraphs": [
+     "Para efectos del artículo 9 de esta Ley, las personas morales residentes en México que obtengan ingresos acumulables de los señalados en este Título superiores a 50 millones de pesos y determinen utilidad fiscal del ejercicio en términos del citado artículo 9, aplicarán en el ejercicio de que se trate, sus deducciones autorizadas y pérdidas fiscales a que se refiere este Título, conforme a los límites que se establecen en el presente Capítulo.",
+     "La renta gravable para efectos de la participación de los trabajadores en las utilidades de las empresas se determinará conforme a lo establecido en el artículo 9, párrafos cuarto y quinto, de esta Ley, sin considerar los límites establecidos en el presente Capítulo."
+    ]
+   },
+   {
+    "article": "Artículo 78-B.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 78-B.",
+    "insert_after": null,
+    "paragraphs": [
+     "Para efectos del artículo 78-A de esta Ley, el límite de las deducciones autorizadas se determinará conforme a lo siguiente:",
+     "A. Se aplicará el factor que corresponda conforme a lo siguiente:",
+     "I. Cuando el total de las deducciones autorizadas a que se refiere este Título sea menor o igual al resultado que se obtenga de multiplicar los ingresos acumulables del ejercicio que corresponda por el factor de 0.9667, el límite de dichas deducciones autorizadas será el monto que se obtenga como resultado de multiplicar el total de las deducciones autorizadas a que se refiere este Título por el factor de 0.9900.",
+     "II. Cuando el total de las deducciones autorizadas a que se refiere este Título sea mayor al resultado que se obtenga de multiplicar los ingresos acumulables del ejercicio que corresponda por el factor de 0.9667, el límite de las deducciones autorizadas será igual a este último resultado.",
+     "B. Las deducciones autorizadas que no sean disminuidas de la totalidad de los ingresos acumulables obtenidos en el ejercicio como consecuencia de la aplicación del límite establecido en este artículo, podrán disminuirse en los veinte ejercicios siguientes hasta agotarlas, conforme a lo siguiente:",
+     "I. En cada ejercicio, al resultado de sumar el monto de las deducciones de ejercicios anteriores no disminuidas en los términos de este artículo y las deducciones autorizadas del ejercicio que corresponda, se le aplicará el límite que corresponda conforme a lo establecido en el Apartado anterior.",
+     "II. El monto de las deducciones no disminuidas en los términos de este artículo se actualizará multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el primer mes de la segunda mitad del ejercicio en que se generaron y hasta el último mes de dicho ejercicio. La parte de las deducciones pendientes de disminuir correspondientes a ejercicios anteriores, una vez actualizadas, se actualizará multiplicándola por el factor de actualización correspondiente al periodo comprendido desde el mes en el que se actualizó por última vez y hasta el último mes de la primera mitad del ejercicio en el que se disminuirán.",
+     "Para los efectos del párrafo anterior, cuando el número de meses del ejercicio en que se generó la deducción sea impar, se considerará como primer mes de la segunda mitad, el mes inmediato posterior al que corresponda la mitad del ejercicio.",
+     "III. Cuando el contribuyente no disminuya en un ejercicio las deducciones determinadas conforme a este Apartado, pudiendo haberlo efectuado conforme a lo establecido en este artículo, perderá el derecho a hacerlo en los ejercicios posteriores, hasta por la cantidad que no estuvo sujeta al límite establecido en el presente artículo.",
+     "El derecho a disminuir las deducciones es personal del contribuyente que las haya generado y no podrá transmitirse a otra persona ni como consecuencia de fusión o escisión.",
+     "En ningún caso se podrán disminuir de la totalidad de los ingresos acumulables obtenidos en el ejercicio, deducciones que excedan el límite señalado en este artículo.",
+     "Las deducciones pendientes de disminuir en términos de este artículo no se considerarán pérdida fiscal para efectos del artículo 57 de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 78-C.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 78-C.",
+    "insert_after": null,
+    "paragraphs": [
+     "Para efectos del artículo 78-A de esta Ley, el límite de las pérdidas fiscales pendientes de aplicar de ejercicios anteriores que se podrá disminuir de la utilidad fiscal del ejercicio, será el monto que se obtenga como resultado de multiplicar la utilidad fiscal del ejercicio, después de aplicar el límite a las deducciones que establece el artículo 78-B de esta Ley, por el factor de 0.5000. Cuando las pérdidas fiscales pendientes de aplicar de ejercicios anteriores sean inferiores al resultado obtenido en términos de este párrafo únicamente se podrán disminuir dichas pérdidas.",
+     "Las pérdidas fiscales que no sean disminuidas de la utilidad fiscal del ejercicio, debido a la aplicación de la metodología establecida en este artículo, podrán disminuirse en los veinte ejercicios siguientes hasta agotarlas, en términos del artículo 57 de esta Ley, aplicando a estas el límite establecido en el presente artículo."
+    ]
+   },
+   {
+    "article": "Artículo 78-D.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 78-D.",
+    "insert_after": null,
+    "paragraphs": [
+     "Para los efectos del artículo 14, fracción II, inciso c), de esta Ley, las personas morales residentes en México que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables de los señalados en este Título superiores a 50 millones de pesos, que cuenten con pérdida fiscal de ejercicios anteriores pendiente de disminuir de las utilidades fiscales, sólo podrán disminuir por concepto de dicha pérdida fiscal el monto que se obtenga como resultado de multiplicar la utilidad fiscal para el pago provisional determinada en términos del artículo 14, fracción II, incisos a) y b), de esta Ley, por el factor de 0.5000. Cuando la pérdida fiscal de ejercicios anteriores pendiente de aplicar contra las utilidades fiscales sea inferior al resultado obtenido en términos de este párrafo, únicamente se podrá disminuir dicha pérdida."
+    ]
+   },
+   {
+    "article": "Artículo 78-E.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 78-E.",
+    "insert_after": null,
+    "paragraphs": [
+     "No aplicarán lo dispuesto en este Capítulo los siguientes contribuyentes:",
+     "I. Que tributen en el régimen de Coordinados establecido en el Título II, Capítulo VII, de esta Ley.",
+     "II. Que tributen en el régimen de Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras establecido en el Título II, Capítulo VIII, de esta Ley.",
+     "III. Que lleven a cabo operaciones de maquila en términos del artículo 182 de esta Ley, así como aquellos que realicen operaciones al amparo de una autorización de establecimiento de depósito fiscal para el ensamble y fabricación de vehículos conforme al artículo 121, fracción IV de la Ley Aduanera; salvo por los ingresos que se obtengan por la enajenación de mercancías en territorio nacional.",
+     "IV. Que sean declarados en quiebra en términos de la Ley de Concursos Mercantiles.",
+     "V. Que apliquen los beneficios fiscales consistentes en la deducción inmediata de inversiones o la deducción adicional de gastos de capacitación, certificaciones iniciales, modelos de utilidad y obtención de patentes, incluidos aquellos en los que se requiera autorización o una constancia de cumplimiento para su aplicación, durante la vigencia del beneficio otorgado y exclusivamente respecto a dicho beneficio.",
+     "VI. Que en el ejercicio de que se trate tengan menos de cinco ejercicios fiscales de haber obtenido su inscripción en el Registro Federal de Contribuyentes.",
+     "No será aplicable lo establecido en esta fracción a los contribuyentes que de una persona moral preexistente reciban, adquieran o por cualquier medio utilicen activos, inventarios, derechos, contratos, concesiones, marcas, cartera de clientes o cualquier otro bien indispensable para realizar actividades económicas similares a la de dicha persona moral y cuenten con los mismos socios, accionistas o integrantes o que los socios, accionistas o integrantes de la referida persona moral mantengan, directa o indirectamente, el control o la administración de la que recibe, adquiere o utilice los citados elementos.",
+     "Las autoridades fiscales podrán, como resultado del ejercicio de sus facultades de comprobación, determinar que no resulta aplicable la excepción establecida en esta fracción cuando los contribuyentes lleven a cabo la constitución, fusión, escisión, liquidación o reestructuración de sociedades, venta de acciones o partes sociales o cualquier otro movimiento corporativo, con la finalidad de aplicar la excepción establecida en el párrafo primero de esta fracción.",
+     "VII. Que se trate de sociedades que subsistan o surjan con motivo de la fusión de dos o más sociedades o la escisión de una sociedad, que se encuentren dentro de los cinco ejercicios fiscales a que se refiere la fracción VI de este artículo.",
+     "La excepción establecida en esta fracción sólo se aplicará a las sociedades que subsistan o surjan por el plazo que le restaba cumplir a la sociedad escindente o a la sociedad fusionante o fusionada que mayor tiempo tenía de creada.",
+     "VIII. Las instituciones de seguros en la realización de las operaciones propias de su objeto.",
+     "IX. Que realicen la actividad de expendio al público, distribución o comercialización de gasolinas y diésel, que cuenten con el permiso correspondiente a que se refiere el artículo 76, fracción II, inciso b) de la Ley del Sector Hidrocarburos."
+    ]
+   },
+   {
+    "article": "Artículo 78-F.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 78-F.",
+    "insert_after": null,
+    "paragraphs": [
+     "El Servicio de Administración Tributaria queda facultado para emitir las reglas de carácter general que resulten necesarias para la debida aplicación de lo establecido en este Capítulo."
+    ]
+   },
+   {
+    "article": "Artículo 113-E.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Los contribuyentes personas físicas que realicen únicamente actividades empresariales, profesionales u otorguen el uso o goce temporal de bienes, podrán optar por pagar el impuesto sobre la renta en los términos establecidos en esta Sección, siempre que la totalidad de sus ingresos propios de la actividad o las actividades señaladas que realicen, obtenidos en el ejercicio inmediato anterior, no hubieran excedido de la cantidad de cinco millones de pesos."
+    ]
+   },
+   {
+    "article": "Artículo 113-E.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Para los efectos de los párrafos anteriores, en caso de que los ingresos a que se refiere este artículo excedan de cinco millones de pesos en cualquier momento del año de tributación, o se incumpla con alguna de las obligaciones a que se refiere el artículo 113-G de esta Ley, o se actualice el supuesto previsto en el artículo 113-I de la misma Ley relativo a las declaraciones, no les serán aplicables a los contribuyentes las disposiciones de esta Sección, debiendo pagar el impuesto respectivo de conformidad con las disposiciones del Título IV, Capítulo II, Sección I o Capítulo III de esta Ley, según corresponda, a partir del mes siguiente a la fecha en que tales ingresos excedan la referida cantidad y los pagos efectuados en los meses transcurridos se considerarán pagos definitivos. En su caso, las autoridades fiscales podrán asignar al contribuyente el régimen que le corresponda, sin que medie solicitud del contribuyente."
+    ]
+   },
+   {
+    "article": "Artículo 113-E.",
+    "operation": "reform",
+    "unit_type": "otro",
+    "unit": "párrafo quinto, TABLA MENSUAL",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "| Monto de los ingresos amparados por comprobantes fiscales efectivamente cobrados, sin impuesto al valor agregado (pesos mensuales) | Tasa aplicable |\n| Hasta 25,000.00 | 1.00% |\n| Hasta 50,000.00 | 1.10% |\n| Hasta 83,333.33 | 1.50% |\n| Hasta 208,333.33 | 2.00% |\n| Hasta 5,000,000.00 | 2.50% |"
+    ]
+   },
+   {
+    "article": "Artículo 113-E.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo séptimo",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "Los contribuyentes que dejen de tributar conforme a esta Sección, podrán volver a tributar a partir del ejercicio fiscal siguiente, conforme a la misma, siempre que los ingresos obtenidos en el ejercicio inmediato anterior a aquel de que se trate, no excedan de cinco millones de pesos y se encuentren al corriente en el cumplimiento de sus obligaciones fiscales."
+    ]
+   },
+   {
+    "article": "Artículo 113-E.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo noveno",
+    "from_block": 15,
+    "to_block": 15,
+    "paragraphs": [
+     "Las personas físicas que se dediquen exclusivamente a las actividades agrícolas, ganaderas, silvícolas o pesqueras, cuyos ingresos en el ejercicio no excedan de un millón de pesos efectivamente cobrados, no pagarán el impuesto sobre la renta por los ingresos provenientes de dichas actividades. En caso de que los referidos ingresos excedan dicho monto, a partir de la declaración mensual correspondiente se deberá pagar el impuesto conforme al Título IV, Capítulo II, Sección IV, de esta Ley, en los términos que se determine mediante reglas de carácter general que al efecto emita el Servicio de Administración Tributaria."
+    ]
+   },
+   {
+    "article": "Artículo 113-F.",
+    "operation": "reform",
+    "unit_type": "otro",
+    "unit": "párrafo primero, TABLA ANUAL",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "| Monto de los ingresos amparados por comprobantes fiscales efectivamente cobrados, sin impuesto al valor agregado (pesos anuales) | Tasa aplicable |\n| Hasta 300,000.00 | 1.00% |\n| Hasta 600,000.00 | 1.10% |\n| Hasta 1,000,000.00 | 1.50% |\n| Hasta 2,500,000.00 | 2.00% |\n| Hasta 5,000,000.00 | 2.50% |"
+    ]
+   },
+   {
+    "article": "Artículo 113-H.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. En el caso de reanudación de actividades que, en el ejercicio inmediato anterior, los ingresos amparados en comprobantes fiscales digitales por Internet no hayan excedido de cinco millones de pesos."
+    ]
+   }
+  ],
+  "divisions": [
+   {
+    "operation": "add",
+    "kind": "capitulo",
+    "label": "Capítulo X",
+    "name": "Del Mecanismo de Control de las Deducciones Autorizadas y de las Pérdidas Fiscales",
+    "before_article": "Artículo 78-A."
+   }
+  ],
+  "needs_review": [
+   {
+    "article": "Artículo 113-E.",
+    "reason": "La instrucción reforma el 'párrafo quinto', pero el decreto imprime '...' en ese lugar (el texto vigente, bloque 5, queda igual) y sólo trae nuevo texto para la TABLA MENSUAL. Únicamente se reformó la tabla (bloque 7); hay que confirmar que el párrafo quinto en sí no cambia. Además, el decreto pone un solo '...' entre los párrafos séptimo y noveno, que cubre el párrafo octavo y sus fracciones I a IV (bloques 10 a 14). Se tomaron como sin cambios."
+   },
+   {
+    "article": "Artículo 113-F.",
+    "reason": "La instrucción reforma el 'párrafo primero, TABLA ANUAL', pero el decreto imprime 'Artículo 113-F. ...' para el párrafo primero. Sólo se reformó la tabla (bloque 3) y el texto del párrafo primero quedó sin cambios; hay que confirmarlo."
+   },
+   {
+    "article": "Artículo 78.",
+    "reason": "Los párrafos décimo primero y décimo séptimo se ubicaron sin contar las fracciones I y II como párrafos (bloques 21 y 27). El contenido coincide con el texto vigente; basta con verificarlo."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 78.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo décimo primero\",\"from_block\":21,\"to_block\":21,\"paragraphs\":[\"Para determinar el capital de aportación actualizado, las personas morales llevarán una cuenta de capital de aportación que se adicionará con las aportaciones de capital, las primas netas por suscripción de acciones efectuadas por los socios o accionistas, y se disminuirá con las reducciones de capital que se efectúen. Para los efectos de este párrafo, no se incluirá como capital de aportación, el correspondiente a la reinversión o capitalización de utilidades o de cualquier otro concepto que conforme el capital contable de la persona moral ni el proveniente de reinversiones de dividendos o utilidades en aumento de capital de las personas que los distribuyan realizadas dentro de los treinta días siguientes a su distribución. Tratándose de la capitalización de pasivos, no se incluirán como capital de aportación los intereses devengados no pagados, así como el impuesto al valor agregado correspondiente a dichos pasivos; en el caso de aportaciones en especie conformadas por cuentas por cobrar, cesión de derechos de cobro o de títulos de crédito, estas se adicionarán hasta el momento en que se materialicen y hasta por el importe que se cobre en efectivo. Los conceptos correspondientes a aumentos de capital mencionados en este párrafo, se adicionarán a la cuenta de capital de aportación en el momento en el que se paguen efectivamente, los cuales deberán contar con la documentación soporte conforme al Código Fiscal de la Federación, y los conceptos relativos a reducciones de capital se disminuirán de la citada cuenta en el momento en el que se pague el reembolso o se efectúe la reducción de capital, según sea el caso.\"]},{\"article\":\"Artículo 78.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo décimo séptimo\",\"from_block\":27,\"to_block\":27,\"paragraphs\":[\"Lo dispuesto en este artículo será aplicable, indistintamente, al reembolso, a la amortización de pérdidas o a la reducción de capital, independientemente de que haya o no cancelación de acciones.\"]},{\"article\":\"Artículo 78-A.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 78-A.\",\"insert_after\":null,\"paragraphs\":[\"Para efectos del artículo 9 de esta Ley, las personas morales residentes en México que obtengan ingresos acumulables de los señalados en este Título superiores a 50 millones de pesos y determinen utilidad fiscal del ejercicio en términos del citado artículo 9, aplicarán en el ejercicio de que se trate, sus deducciones autorizadas y pérdidas fiscales a que se refiere este Título, conforme a los límites que se establecen en el presente Capítulo.\",\"La renta gravable para efectos de la participación de los trabajadores en las utilidades de las empresas se determinará conforme a lo establecido en el artículo 9, párrafos cuarto y quinto, de esta Ley, sin considerar los límites establecidos en el presente Capítulo.\"]},{\"article\":\"Artículo 78-B.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 78-B.\",\"insert_after\":null,\"paragraphs\":[\"Para efectos del artículo 78-A de esta Ley, el límite de las deducciones autorizadas se determinará conforme a lo siguiente:\",\"A. Se aplicará el factor que corresponda conforme a lo siguiente:\",\"I. Cuando el total de las deducciones autorizadas a que se refiere este Título sea menor o igual al resultado que se obtenga de multiplicar los ingresos acumulables del ejercicio que corresponda por el factor de 0.9667, el límite de dichas deducciones autorizadas será el monto que se obtenga como resultado de multiplicar el total de las deducciones autorizadas a que se refiere este Título por el factor de 0.9900.\",\"II. Cuando el total de las deducciones autorizadas a que se refiere este Título sea mayor al resultado que se obtenga de multiplicar los ingresos acumulables del ejercicio que corresponda por el factor de 0.9667, el límite de las deducciones autorizadas será igual a este último resultado.\",\"B. Las deducciones autorizadas que no sean disminuidas de la totalidad de los ingresos acumulables obtenidos en el ejercicio como consecuencia de la aplicación del límite establecido en este artículo, podrán disminuirse en los veinte ejercicios siguientes hasta agotarlas, conforme a lo siguiente:\",\"I. En cada ejercicio, al resultado de sumar el monto de las deducciones de ejercicios anteriores no disminuidas en los términos de este artículo y las deducciones autorizadas del ejercicio que corresponda, se le aplicará el límite que corresponda conforme a lo establecido en el Apartado anterior.\",\"II. El monto de las deducciones no disminuidas en los términos de este artículo se actualizará multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el primer mes de la segunda mitad del ejercicio en que se generaron y hasta el último mes de dicho ejercicio. La parte de las deducciones pendientes de disminuir correspondientes a ejercicios anteriores, una vez actualizadas, se actualizará multiplicándola por el factor de actualización correspondiente al periodo comprendido desde el mes en el que se actualizó por última vez y hasta el último mes de la primera mitad del ejercicio en el que se disminuirán.\",\"Para los efectos del párrafo anterior, cuando el número de meses del ejercicio en que se generó la deducción sea impar, se considerará como primer mes de la segunda mitad, el mes inmediato posterior al que corresponda la mitad del ejercicio.\",\"III. Cuando el contribuyente no disminuya en un ejercicio las deducciones determinadas conforme a este Apartado, pudiendo haberlo efectuado conforme a lo establecido en este artículo, perderá el derecho a hacerlo en los ejercicios posteriores, hasta por la cantidad que no estuvo sujeta al límite establecido en el presente artículo.\",\"El derecho a disminuir las deducciones es personal del contribuyente que las haya generado y no podrá transmitirse a otra persona ni como consecuencia de fusión o escisión.\",\"En ningún caso se podrán disminuir de la totalidad de los ingresos acumulables obtenidos en el ejercicio, deducciones que excedan el límite señalado en este artículo.\",\"Las deducciones pendientes de disminuir en términos de este artículo no se considerarán pérdida fiscal para efectos del artículo 57 de esta Ley.\"]},{\"article\":\"Artículo 78-C.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 78-C.\",\"insert_after\":null,\"paragraphs\":[\"Para efectos del artículo 78-A de esta Ley, el límite de las pérdidas fiscales pendientes de aplicar de ejercicios anteriores que se podrá disminuir de la utilidad fiscal del ejercicio, será el monto que se obtenga como resultado de multiplicar la utilidad fiscal del ejercicio, después de aplicar el límite a las deducciones que establece el artículo 78-B de esta Ley, por el factor de 0.5000. Cuando las pérdidas fiscales pendientes de aplicar de ejercicios anteriores sean inferiores al resultado obtenido en términos de este párrafo únicamente se podrán disminuir dichas pérdidas.\",\"Las pérdidas fiscales que no sean disminuidas de la utilidad fiscal del ejercicio, debido a la aplicación de la metodología establecida en este artículo, podrán disminuirse en los veinte ejercicios siguientes hasta agotarlas, en términos del artículo 57 de esta Ley, aplicando a estas el límite establecido en el presente artículo.\"]},{\"article\":\"Artículo 78-D.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 78-D.\",\"insert_after\":null,\"paragraphs\":[\"Para los efectos del artículo 14, fracción II, inciso c), de esta Ley, las personas morales residentes en México que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables de los señalados en este Título superiores a 50 millones de pesos, que cuenten con pérdida fiscal de ejercicios anteriores pendiente de disminuir de las utilidades fiscales, sólo podrán disminuir por concepto de dicha pérdida fiscal el monto que se obtenga como resultado de multiplicar la utilidad fiscal para el pago provisional determinada en términos del artículo 14, fracción II, incisos a) y b), de esta Ley, por el factor de 0.5000. Cuando la pérdida fiscal de ejercicios anteriores pendiente de aplicar contra las utilidades fiscales sea inferior al resultado obtenido en términos de este párrafo, únicamente se podrá disminuir dicha pérdida.\"]},{\"article\":\"Artículo 78-E.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 78-E.\",\"insert_after\":null,\"paragraphs\":[\"No aplicarán lo dispuesto en este Capítulo los siguientes contribuyentes:\",\"I. Que tributen en el régimen de Coordinados establecido en el Título II, Capítulo VII, de esta Ley.\",\"II. Que tributen en el régimen de Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras establecido en el Título II, Capítulo VIII, de esta Ley.\",\"III. Que lleven a cabo operaciones de maquila en términos del artículo 182 de esta Ley, así como aquellos que realicen operaciones al amparo de una autorización de establecimiento de depósito fiscal para el ensamble y fabricación de vehículos conforme al artículo 121, fracción IV de la Ley Aduanera; salvo por los ingresos que se obtengan por la enajenación de mercancías en territorio nacional.\",\"IV. Que sean declarados en quiebra en términos de la Ley de Concursos Mercantiles.\",\"V. Que apliquen los beneficios fiscales consistentes en la deducción inmediata de inversiones o la deducción adicional de gastos de capacitación, certificaciones iniciales, modelos de utilidad y obtención de patentes, incluidos aquellos en los que se requiera autorización o una constancia de cumplimiento para su aplicación, durante la vigencia del beneficio otorgado y exclusivamente respecto a dicho beneficio.\",\"VI. Que en el ejercicio de que se trate tengan menos de cinco ejercicios fiscales de haber obtenido su inscripción en el Registro Federal de Contribuyentes.\",\"No será aplicable lo establecido en esta fracción a los contribuyentes que de una persona moral preexistente reciban, adquieran o por cualquier medio utilicen activos, inventarios, derechos, contratos, concesiones, marcas, cartera de clientes o cualquier otro bien indispensable para realizar actividades económicas similares a la de dicha persona moral y cuenten con los mismos socios, accionistas o integrantes o que los socios, accionistas o integrantes de la referida persona moral mantengan, directa o indirectamente, el control o la administración de la que recibe, adquiere o utilice los citados elementos.\",\"Las autoridades fiscales podrán, como resultado del ejercicio de sus facultades de comprobación, determinar que no resulta aplicable la excepción establecida en esta fracción cuando los contribuyentes lleven a cabo la constitución, fusión, escisión, liquidación o reestructuración de sociedades, venta de acciones o partes sociales o cualquier otro movimiento corporativo, con la finalidad de aplicar la excepción establecida en el párrafo primero de esta fracción.\",\"VII. Que se trate de sociedades que subsistan o surjan con motivo de la fusión de dos o más sociedades o la escisión de una sociedad, que se encuentren dentro de los cinco ejercicios fiscales a que se refiere la fracción VI de este artículo.\",\"La excepción establecida en esta fracción sólo se aplicará a las sociedades que subsistan o surjan por el plazo que le restaba cumplir a la sociedad escindente o a la sociedad fusionante o fusionada que mayor tiempo tenía de creada.\",\"VIII. Las instituciones de seguros en la realización de las operaciones propias de su objeto.\",\"IX. Que realicen la actividad de expendio al público, distribución o comercialización de gasolinas y diésel, que cuenten con el permiso correspondiente a que se refiere el artículo 76, fracción II, inciso b) de la Ley del Sector Hidrocarburos.\"]},{\"article\":\"Artículo 78-F.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 78-F.\",\"insert_after\":null,\"paragraphs\":[\"El Servicio de Administración Tributaria queda facultado para emitir las reglas de carácter general que resulten necesarias para la debida aplicación de lo establecido en este Capítulo.\"]},{\"article\":\"Artículo 113-E.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Los contribuyentes personas físicas que realicen únicamente actividades empresariales, profesionales u otorguen el uso o goce temporal de bienes, podrán optar por pagar el impuesto sobre la renta en los términos establecidos en esta Sección, siempre que la totalidad de sus ingresos propios de la actividad o las actividades señaladas que realicen, obtenidos en el ejercicio inmediato anterior, no hubieran excedido de la cantidad de cinco millones de pesos.\"]},{\"article\":\"Artículo 113-E.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Para los efectos de los párrafos anteriores, en caso de que los ingresos a que se refiere este artículo excedan de cinco millones de pesos en cualquier momento del año de tributación, o se incumpla con alguna de las obligaciones a que se refiere el artículo 113-G de esta Ley, o se actualice el supuesto previsto en el artículo 113-I de la misma Ley relativo a las declaraciones, no les serán aplicables a los contribuyentes las disposiciones de esta Sección, debiendo pagar el impuesto respectivo de conformidad con las disposiciones del Título IV, Capítulo II, Sección I o Capítulo III de esta Ley, según corresponda, a partir del mes siguiente a la fecha en que tales ingresos excedan la referida cantidad y los pagos efectuados en los meses transcurridos se considerarán pagos definitivos. En su caso, las autoridades fiscales podrán asignar al contribuyente el régimen que le corresponda, sin que medie solicitud del contribuyente.\"]},{\"article\":\"Artículo 113-E.\",\"operation\":\"reform\",\"unit_type\":\"otro\",\"unit\":\"párrafo quinto, TABLA MENSUAL\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"| Monto de los ingresos amparados por comprobantes fiscales efectivamente cobrados, sin impuesto al valor agregado (pesos mensuales) | Tasa aplicable |\\n| Hasta 25,000.00 | 1.00% |\\n| Hasta 50,000.00 | 1.10% |\\n| Hasta 83,333.33 | 1.50% |\\n| Hasta 208,333.33 | 2.00% |\\n| Hasta 5,000,000.00 | 2.50% |\"]},{\"article\":\"Artículo 113-E.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo séptimo\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"Los contribuyentes que dejen de tributar conforme a esta Sección, podrán volver a tributar a partir del ejercicio fiscal siguiente, conforme a la misma, siempre que los ingresos obtenidos en el ejercicio inmediato anterior a aquel de que se trate, no excedan de cinco millones de pesos y se encuentren al corriente en el cumplimiento de sus obligaciones fiscales.\"]},{\"article\":\"Artículo 113-E.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo noveno\",\"from_block\":15,\"to_block\":15,\"paragraphs\":[\"Las personas físicas que se dediquen exclusivamente a las actividades agrícolas, ganaderas, silvícolas o pesqueras, cuyos ingresos en el ejercicio no excedan de un millón de pesos efectivamente cobrados, no pagarán el impuesto sobre la renta por los ingresos provenientes de dichas actividades. En caso de que los referidos ingresos excedan dicho monto, a partir de la declaración mensual correspondiente se deberá pagar el impuesto conforme al Título IV, Capítulo II, Sección IV, de esta Ley, en los términos que se determine mediante reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.\"]},{\"article\":\"Artículo 113-F.\",\"operation\":\"reform\",\"unit_type\":\"otro\",\"unit\":\"párrafo primero, TABLA ANUAL\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"| Monto de los ingresos amparados por comprobantes fiscales efectivamente cobrados, sin impuesto al valor agregado (pesos anuales) | Tasa aplicable |\\n| Hasta 300,000.00 | 1.00% |\\n| Hasta 600,000.00 | 1.10% |\\n| Hasta 1,000,000.00 | 1.50% |\\n| Hasta 2,500,000.00 | 2.00% |\\n| Hasta 5,000,000.00 | 2.50% |\"]},{\"article\":\"Artículo 113-H.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. En el caso de reanudación de actividades que, en el ejercicio inmediato anterior, los ingresos amparados en comprobantes fiscales digitales por Internet no hayan excedido de cinco millones de pesos.\"]}],\"divisions\":[{\"operation\":\"add\",\"kind\":\"capitulo\",\"label\":\"Capítulo X\",\"name\":\"Del Mecanismo de Control de las Deducciones Autorizadas y de las Pérdidas Fiscales\",\"before_article\":\"Artículo 78-A.\"}],\"needs_review\":[{\"article\":\"Artículo 113-E.\",\"reason\":\"La instrucción reforma el 'párrafo quinto', pero el decreto imprime '...' en ese lugar (el texto vigente, bloque 5, queda igual) y sólo trae nuevo texto para la TABLA MENSUAL. Únicamente se reformó la tabla (bloque 7); hay que confirmar que el párrafo quinto en sí no cambia. Además, el decreto pone un solo '...' entre los párrafos séptimo y noveno, que cubre el párrafo octavo y sus fracciones I a IV (bloques 10 a 14). Se tomaron como sin cambios.\"},{\"article\":\"Artículo 113-F.\",\"reason\":\"La instrucción reforma el 'párrafo primero, TABLA ANUAL', pero el decreto imprime 'Artículo 113-F. ...' para el párrafo primero. Sólo se reformó la tabla (bloque 3) y el texto del párrafo primero quedó sin cambios; hay que confirmarlo.\"},{\"article\":\"Artículo 78.\",\"reason\":\"Los párrafos décimo primero y décimo séptimo se ubicaron sin contar las fracciones I y II como párrafos (bloques 21 y 27). El contenido coincide con el texto vigente; basta con verificarlo.\"}]}",
+ "duration_ms": 61360,
+ "total_cost_usd": 0.30697779999999997,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 8608,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 16776,
+   "webSearchRequests": 0,
+   "costUSD": 0.30697779999999997,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 1561,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 16776,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

@@ -1,0 +1,164 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 1712.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 1712.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El albacea debe formar el inventario dentro del término señalado por el Código Nacional de Procedimientos Civiles y Familiares. Si no lo hace, será removido."
+    ]
+   },
+   {
+    "article": "Artículo 1725.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 1725.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   },
+   {
+    "article": "Artículo 1750.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 1750.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El albacea definitivo, dentro del término que fije el Código Nacional de Procedimientos Civiles y Familiares, promoverá la formación del inventario."
+    ]
+   },
+   {
+    "article": "Artículo 1752.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 1752.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El inventario se formará según lo disponga el Código Nacional de Procedimientos Civiles y Familiares. Si el albacea no lo presenta dentro del término legal, será removido."
+    ]
+   },
+   {
+    "article": "Artículo 1934 Bis.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 1934 Bis.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El que cause un daño de los previstos en este Capítulo a una colectividad o grupo de personas, estará obligado a indemnizar en términos de lo dispuesto en el Libro Sexto del Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   },
+   {
+    "article": "Artículo 2118.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 2118.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   },
+   {
+    "article": "Artículo 2323.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 2323.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuanto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuanto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   },
+   {
+    "article": "Artículo 2325.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 2325.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Por regla general las ventas judiciales se harán en moneda efectiva y al contado, y cuando la cosa fuere inmueble pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el juez mandará hacer la cancelación o cancelaciones respectivas, en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   },
+   {
+    "article": "Artículo 2416.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 2416.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al juez para que estreche al arrendador al cumplimiento de su obligación, mediante el procedimiento rápido que se establezca en el Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   },
+   {
+    "article": "Artículo 2545.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 2545.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El secuestro judicial se rige por las disposiciones del Código Nacional de Procedimientos Civiles y Familiares y, en su defecto, por las mismas del secuestro convencional."
+    ]
+   },
+   {
+    "article": "Artículo 2882.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 2882.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La cosa se adjudicará al acreedor en las dos terceras partes de la postura legal, si no pudiere venderse en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   },
+   {
+    "article": "Artículo 2916.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial; o por adjudicación, en los casos en que no se presente otro postor, de acuerdo con lo que establezca el Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 1712.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 1712.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El albacea debe formar el inventario dentro del término señalado por el Código Nacional de Procedimientos Civiles y Familiares. Si no lo hace, será removido.\"]},{\"article\":\"Artículo 1725.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 1725.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares.\"]},{\"article\":\"Artículo 1750.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 1750.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El albacea definitivo, dentro del término que fije el Código Nacional de Procedimientos Civiles y Familiares, promoverá la formación del inventario.\"]},{\"article\":\"Artículo 1752.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 1752.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El inventario se formará según lo disponga el Código Nacional de Procedimientos Civiles y Familiares. Si el albacea no lo presenta dentro del término legal, será removido.\"]},{\"article\":\"Artículo 1934 Bis.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 1934 Bis.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El que cause un daño de los previstos en este Capítulo a una colectividad o grupo de personas, estará obligado a indemnizar en términos de lo dispuesto en el Libro Sexto del Código Nacional de Procedimientos Civiles y Familiares.\"]},{\"article\":\"Artículo 2118.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 2118.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares.\"]},{\"article\":\"Artículo 2323.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 2323.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuanto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuanto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código Nacional de Procedimientos Civiles y Familiares.\"]},{\"article\":\"Artículo 2325.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 2325.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Por regla general las ventas judiciales se harán en moneda efectiva y al contado, y cuando la cosa fuere inmueble pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el juez mandará hacer la cancelación o cancelaciones respectivas, en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares.\"]},{\"article\":\"Artículo 2416.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 2416.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al juez para que estreche al arrendador al cumplimiento de su obligación, mediante el procedimiento rápido que se establezca en el Código Nacional de Procedimientos Civiles y Familiares.\"]},{\"article\":\"Artículo 2545.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 2545.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El secuestro judicial se rige por las disposiciones del Código Nacional de Procedimientos Civiles y Familiares y, en su defecto, por las mismas del secuestro convencional.\"]},{\"article\":\"Artículo 2882.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 2882.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La cosa se adjudicará al acreedor en las dos terceras partes de la postura legal, si no pudiere venderse en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares.\"]},{\"article\":\"Artículo 2916.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial; o por adjudicación, en los casos en que no se presente otro postor, de acuerdo con lo que establezca el Código Nacional de Procedimientos Civiles y Familiares.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 14460,
+ "total_cost_usd": 0.07790180000000001,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 2141,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 4309,
+   "webSearchRequests": 0,
+   "costUSD": 0.07790180000000001,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 152,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 4309,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

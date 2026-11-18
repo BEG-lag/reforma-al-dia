@@ -1,0 +1,221 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 11 Bis.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "A, fracción XVI",
+    "from_block": 18,
+    "to_block": 18,
+    "paragraphs": [
+     "XVI. En materia de derechos de autor, los delitos previstos en los artículos 424 Bis, 424 Ter, segundo párrafo, 424 Quáter, 425, 426, 427 Bis, 427 Ter y 427 Quáter;"
+    ]
+   },
+   {
+    "article": "Artículo 11 Bis.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "B, fracción IX",
+    "from_block": 30,
+    "to_block": 30,
+    "paragraphs": [
+     "IX. De la Ley Federal de Protección a la Propiedad Industrial, los delitos previstos en los artículos 402, 403 Bis y 404, segundo párrafo;"
+    ]
+   },
+   {
+    "article": "Artículo 424.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 424",
+    "from_block": 1,
+    "to_block": 6,
+    "paragraphs": [
+     "Se impondrá prisión de tres a siete años y de mil a diez mil días multa:",
+     "I. A quien venda u ofrezca en venta los libros de texto gratuitos que distribuye la Secretaría de Educación Pública;",
+     "II. Al editor, productor o grabador que produzca más ejemplares de una obra protegida por la Ley Federal del Derecho de Autor, que los autorizados por el titular de los derechos, o",
+     "III. A quien use, a escala comercial y sin la autorización correspondiente, obras protegidas por la Ley Federal del Derecho de Autor."
+    ]
+   },
+   {
+    "article": "Artículo 424 bis.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 424 Bis",
+    "from_block": 1,
+    "to_block": 7,
+    "paragraphs": [
+     "Se impondrá prisión de cuatro a diez años y de dos mil a veinte mil días multa:",
+     "I. A quien produzca, reproduzca, introduzca al país, exporte, almacene, transporte, distribuya, venda o arriende, a escala comercial, copias de obras, fonogramas, videogramas o libros, protegidos por la Ley Federal del Derecho de Autor, sin la autorización que en los términos de la citada Ley deba otorgar el titular del derecho de autor o de los derechos conexos.",
+     "Igual pena se impondrá a quienes, a sabiendas y de cualquier forma, aporten o provean materias primas o insumos destinados a la producción o reproducción de dichas obras, o suministren recursos económicos o de cualquier especie, para financiar la realización de las conductas descritas en esta fracción;",
+     "II. A quien fabrique, a escala comercial, un dispositivo o sistema cuya finalidad sea desactivar los dispositivos electrónicos de protección de un programa de computación, sin perjuicio de la pena que corresponda por otros delitos, o",
+     "III. A quien grabe, transmita o realice una copia total o parcial de una obra cinematográfica protegida, exhibida en una sala de cine o lugar que haga sus veces, sin la autorización del titular del derecho de autor o derechos conexos."
+    ]
+   },
+   {
+    "article": "Artículo 424 ter.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 424 Ter",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Se impondrá prisión de dos a seis años y de mil a cien mil días multa, a quien venda u ofrezca en venta, a escala comercial, a cualquier consumidor final en vías o en lugares públicos copias de obras, fonogramas, videogramas o libros a que se refiere la fracción I del artículo 424 Bis de este Código.",
+     "Si la venta o la oferta en venta, a escala comercial, se realiza en establecimientos comerciales, locales fijos, puestos temporales o semifijos, de forma física o empleando medios electrónicos; o si dicha actividad se ejecuta de manera organizada, sistemática o reiterada, se impondrá la pena de cuatro a diez años de prisión y de dos mil a veinte mil días multa."
+    ]
+   },
+   {
+    "article": "Artículo 424 Quáter.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 424 Quáter",
+    "insert_after": null,
+    "paragraphs": [
+     "Se impondrá prisión de cuatro a diez años y de dos mil a veinte mil días multa, a quien divulgue, publique, comunique o distribuya, sin la autorización de la persona titular del derecho de autor o derecho conexo, obras, fonogramas, videogramas o libros, protegidos por la Ley Federal del Derecho de Autor, con anterioridad a su lanzamiento oficial o primera puesta a disposición autorizada en territorio nacional."
+    ]
+   },
+   {
+    "article": "Artículo 425.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 425",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se impondrá prisión de tres a siete años y de mil a diez mil días multa, al que explote una interpretación o una ejecución, sin derecho y a escala comercial."
+    ]
+   },
+   {
+    "article": "Artículo 426.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se impondrá prisión de tres a siete años y de mil a diez mil días multa, en los casos siguientes:"
+    ]
+   },
+   {
+    "article": "Artículo 426.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. A quien fabrique, modifique, introduzca al país, exporte, distribuya, venda o arriende un dispositivo o sistema para descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal;"
+    ]
+   },
+   {
+    "article": "Artículo 426.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "II. A quien realice cualquier acto, a escala comercial, con la finalidad de descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal;"
+    ]
+   },
+   {
+    "article": "Artículo 427.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 427",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se impondrá prisión de tres a siete años y de mil a diez mil días multa, a quien publique una obra substituyendo el nombre del autor por otro nombre."
+    ]
+   },
+   {
+    "article": "Artículo 427 Bis.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 427 Bis",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se impondrá prisión de tres a siete años y de mil a diez mil días multa, a quien, a sabiendas, eluda, a escala comercial y sin autorización, cualquier medida tecnológica de protección efectiva que utilicen los productores de fonogramas, artistas, intérpretes o ejecutantes, así como autores de cualquier obra protegida por derechos de autor o derechos conexos, sin perjuicio de la pena que corresponda por otros delitos."
+    ]
+   },
+   {
+    "article": "Artículo 427 Ter.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 427 Ter",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "A quien fabrique, introduzca al país, exporte, distribuya, rente o de cualquier manera comercialice, a escala comercial, dispositivos, productos o componentes destinados a eludir una medida tecnológica de protección efectiva que utilicen los productores de fonogramas, artistas, intérpretes o ejecutantes, así como los autores de cualquier obra protegida por el derecho de autor o derecho conexo, se le impondrá de tres a siete años de prisión y de mil a diez mil días multa."
+    ]
+   },
+   {
+    "article": "Artículo 427 Quáter.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 427 Quáter",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "A quien, a escala comercial, brinde u ofrezca servicios al público destinados principalmente a eludir una medida tecnológica de protección efectiva que utilicen los productores de fonogramas, artistas, intérpretes o ejecutantes, así como los autores de cualquier obra protegida por derecho de autor o derecho conexo, se le impondrá de tres a siete años de prisión y de mil a diez mil días multa."
+    ]
+   },
+   {
+    "article": "Artículo 427 Quinquies.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 427 Quinquies",
+    "from_block": 1,
+    "to_block": 4,
+    "paragraphs": [
+     "Se impondrá de tres a siete años de prisión y de mil a diez mil días multa, a quien a escala comercial y sin autorización:",
+     "I. Suprima o altere, a sabiendas, por sí o por medio de otro, cualquier información sobre gestión de derechos;",
+     "II. Distribuya o introduzca al país para su distribución, información sobre gestión de derechos, a sabiendas de que ésta ha sido suprimida o alterada sin autorización, o",
+     "III. Distribuya, introduzca al país para su distribución, transmita, comunique o ponga a disposición del público copias de obras, interpretaciones, ejecuciones o fonogramas, a sabiendas de que la información sobre la gestión de derechos ha sido suprimida o alterada sin autorización.",
+     "Para efectos del presente artículo, se entenderá por información sobre la gestión de derechos lo dispuesto en la Ley Federal del Derecho de Autor."
+    ]
+   }
+  ],
+  "divisions": [
+   {
+    "operation": "add",
+    "kind": "capitulo",
+    "label": "Capítulo I",
+    "name": "Delitos contra los derechos de autor, derechos conexos, medidas tecnológicas de protección e información de gestión de derechos",
+    "before_article": "Artículo 424."
+   }
+  ],
+  "needs_review": [
+   {
+    "article": "Artículo 424.",
+    "reason": "El decreto reforma el artículo completo y sólo reproduce las fracciones I a III (la III termina en punto final). El texto vigente conserva la fracción 'IV. Derogada.' (DOF 17-05-1999). La reforma integral la suprimiría (bloques 1 a 6). Verificar si el texto consolidado oficial mantiene la fracción IV derogada."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 11 Bis.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"A, fracción XVI\",\"from_block\":18,\"to_block\":18,\"paragraphs\":[\"XVI. En materia de derechos de autor, los delitos previstos en los artículos 424 Bis, 424 Ter, segundo párrafo, 424 Quáter, 425, 426, 427 Bis, 427 Ter y 427 Quáter;\"]},{\"article\":\"Artículo 11 Bis.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"B, fracción IX\",\"from_block\":30,\"to_block\":30,\"paragraphs\":[\"IX. De la Ley Federal de Protección a la Propiedad Industrial, los delitos previstos en los artículos 402, 403 Bis y 404, segundo párrafo;\"]},{\"article\":\"Artículo 424.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 424\",\"from_block\":1,\"to_block\":6,\"paragraphs\":[\"Se impondrá prisión de tres a siete años y de mil a diez mil días multa:\",\"I. A quien venda u ofrezca en venta los libros de texto gratuitos que distribuye la Secretaría de Educación Pública;\",\"II. Al editor, productor o grabador que produzca más ejemplares de una obra protegida por la Ley Federal del Derecho de Autor, que los autorizados por el titular de los derechos, o\",\"III. A quien use, a escala comercial y sin la autorización correspondiente, obras protegidas por la Ley Federal del Derecho de Autor.\"]},{\"article\":\"Artículo 424 bis.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 424 Bis\",\"from_block\":1,\"to_block\":7,\"paragraphs\":[\"Se impondrá prisión de cuatro a diez años y de dos mil a veinte mil días multa:\",\"I. A quien produzca, reproduzca, introduzca al país, exporte, almacene, transporte, distribuya, venda o arriende, a escala comercial, copias de obras, fonogramas, videogramas o libros, protegidos por la Ley Federal del Derecho de Autor, sin la autorización que en los términos de la citada Ley deba otorgar el titular del derecho de autor o de los derechos conexos.\",\"Igual pena se impondrá a quienes, a sabiendas y de cualquier forma, aporten o provean materias primas o insumos destinados a la producción o reproducción de dichas obras, o suministren recursos económicos o de cualquier especie, para financiar la realización de las conductas descritas en esta fracción;\",\"II. A quien fabrique, a escala comercial, un dispositivo o sistema cuya finalidad sea desactivar los dispositivos electrónicos de protección de un programa de computación, sin perjuicio de la pena que corresponda por otros delitos, o\",\"III. A quien grabe, transmita o realice una copia total o parcial de una obra cinematográfica protegida, exhibida en una sala de cine o lugar que haga sus veces, sin la autorización del titular del derecho de autor o derechos conexos.\"]},{\"article\":\"Artículo 424 ter.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 424 Ter\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Se impondrá prisión de dos a seis años y de mil a cien mil días multa, a quien venda u ofrezca en venta, a escala comercial, a cualquier consumidor final en vías o en lugares públicos copias de obras, fonogramas, videogramas o libros a que se refiere la fracción I del artículo 424 Bis de este Código.\",\"Si la venta o la oferta en venta, a escala comercial, se realiza en establecimientos comerciales, locales fijos, puestos temporales o semifijos, de forma física o empleando medios electrónicos; o si dicha actividad se ejecuta de manera organizada, sistemática o reiterada, se impondrá la pena de cuatro a diez años de prisión y de dos mil a veinte mil días multa.\"]},{\"article\":\"Artículo 424 Quáter.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 424 Quáter\",\"insert_after\":null,\"paragraphs\":[\"Se impondrá prisión de cuatro a diez años y de dos mil a veinte mil días multa, a quien divulgue, publique, comunique o distribuya, sin la autorización de la persona titular del derecho de autor o derecho conexo, obras, fonogramas, videogramas o libros, protegidos por la Ley Federal del Derecho de Autor, con anterioridad a su lanzamiento oficial o primera puesta a disposición autorizada en territorio nacional.\"]},{\"article\":\"Artículo 425.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 425\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se impondrá prisión de tres a siete años y de mil a diez mil días multa, al que explote una interpretación o una ejecución, sin derecho y a escala comercial.\"]},{\"article\":\"Artículo 426.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se impondrá prisión de tres a siete años y de mil a diez mil días multa, en los casos siguientes:\"]},{\"article\":\"Artículo 426.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. A quien fabrique, modifique, introduzca al país, exporte, distribuya, venda o arriende un dispositivo o sistema para descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal;\"]},{\"article\":\"Artículo 426.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"II. A quien realice cualquier acto, a escala comercial, con la finalidad de descifrar una señal de satélite cifrada, portadora de programas, sin autorización del distribuidor legítimo de dicha señal;\"]},{\"article\":\"Artículo 427.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 427\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se impondrá prisión de tres a siete años y de mil a diez mil días multa, a quien publique una obra substituyendo el nombre del autor por otro nombre.\"]},{\"article\":\"Artículo 427 Bis.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 427 Bis\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se impondrá prisión de tres a siete años y de mil a diez mil días multa, a quien, a sabiendas, eluda, a escala comercial y sin autorización, cualquier medida tecnológica de protección efectiva que utilicen los productores de fonogramas, artistas, intérpretes o ejecutantes, así como autores de cualquier obra protegida por derechos de autor o derechos conexos, sin perjuicio de la pena que corresponda por otros delitos.\"]},{\"article\":\"Artículo 427 Ter.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 427 Ter\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"A quien fabrique, introduzca al país, exporte, distribuya, rente o de cualquier manera comercialice, a escala comercial, dispositivos, productos o componentes destinados a eludir una medida tecnológica de protección efectiva que utilicen los productores de fonogramas, artistas, intérpretes o ejecutantes, así como los autores de cualquier obra protegida por el derecho de autor o derecho conexo, se le impondrá de tres a siete años de prisión y de mil a diez mil días multa.\"]},{\"article\":\"Artículo 427 Quáter.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 427 Quáter\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"A quien, a escala comercial, brinde u ofrezca servicios al público destinados principalmente a eludir una medida tecnológica de protección efectiva que utilicen los productores de fonogramas, artistas, intérpretes o ejecutantes, así como los autores de cualquier obra protegida por derecho de autor o derecho conexo, se le impondrá de tres a siete años de prisión y de mil a diez mil días multa.\"]},{\"article\":\"Artículo 427 Quinquies.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 427 Quinquies\",\"from_block\":1,\"to_block\":4,\"paragraphs\":[\"Se impondrá de tres a siete años de prisión y de mil a diez mil días multa, a quien a escala comercial y sin autorización:\",\"I. Suprima o altere, a sabiendas, por sí o por medio de otro, cualquier información sobre gestión de derechos;\",\"II. Distribuya o introduzca al país para su distribución, información sobre gestión de derechos, a sabiendas de que ésta ha sido suprimida o alterada sin autorización, o\",\"III. Distribuya, introduzca al país para su distribución, transmita, comunique o ponga a disposición del público copias de obras, interpretaciones, ejecuciones o fonogramas, a sabiendas de que la información sobre la gestión de derechos ha sido suprimida o alterada sin autorización.\",\"Para efectos del presente artículo, se entenderá por información sobre la gestión de derechos lo dispuesto en la Ley Federal del Derecho de Autor.\"]}],\"divisions\":[{\"operation\":\"add\",\"kind\":\"capitulo\",\"label\":\"Capítulo I\",\"name\":\"Delitos contra los derechos de autor, derechos conexos, medidas tecnológicas de protección e información de gestión de derechos\",\"before_article\":\"Artículo 424.\"}],\"needs_review\":[{\"article\":\"Artículo 424.\",\"reason\":\"El decreto reforma el artículo completo y sólo reproduce las fracciones I a III (la III termina en punto final). El texto vigente conserva la fracción 'IV. Derogada.' (DOF 17-05-1999). La reforma integral la suprimiría (bloques 1 a 6). Verificar si el texto consolidado oficial mantiene la fracción IV derogada.\"}]}",
+ "duration_ms": 37329,
+ "total_cost_usd": 0.1896138,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 4941,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 11273,
+   "webSearchRequests": 0,
+   "costUSD": 0.1896138,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 790,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 11273,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

@@ -1,0 +1,319 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 111.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Podrá ampliarse la demanda únicamente cuando:"
+    ]
+   },
+   {
+    "article": "Artículo 111.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Con independencia de lo previsto en la fracción anterior, la persona quejosa tenga conocimiento de actos de autoridad que guarden estrecha relación con los actos reclamados en la demanda inicial y que no hubieren sido de su conocimiento con anterioridad a la presentación de la demanda. En este caso, la ampliación deberá presentarse dentro de los plazos previstos en el artículo 17 de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 111.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "insert_after": 5,
+    "paragraphs": [
+     "No procederá la ampliación de demanda fuera de los casos expresamente previstos en este artículo."
+    ]
+   },
+   {
+    "article": "Artículo 115.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "insert_after": 3,
+    "paragraphs": [
+     "Las personas servidoras públicas serán responsables de verificar que los expedientes estén integrados debidamente con antelación a la celebración de la audiencia constitucional."
+    ]
+   },
+   {
+    "article": "Artículo 121.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "insert_after": 2,
+    "paragraphs": [
+     "Este plazo no podrá ampliarse con motivo del diferimiento de la audiencia constitucional, salvo que se trate de probar o desvirtuar hechos que no hayan podido ser conocidos por las partes con la oportunidad legal suficiente para ofrecerlas en el plazo referido, por causas no imputables a su descuido o negligencia dentro del procedimiento. En estos casos, el plazo para el ofrecimiento de tales pruebas será el señalado para la audiencia constitucional, tomando como indicador la nueva fecha señalada para la audiencia."
+    ]
+   },
+   {
+    "article": "Artículo 124.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las audiencias serán públicas. Abierta la audiencia, se procederá a la relación de constancias, videograbaciones analizadas íntegramente y pruebas desahogadas, y se recibirán, por su orden, las que falten por desahogarse y los alegatos por escrito que formulen las partes; acto continuo se dictará el fallo que corresponda en un plazo que no podrá exceder de noventa días naturales."
+    ]
+   },
+   {
+    "article": "Artículo 128.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Con excepción de los casos en que proceda de oficio, la suspensión se tramitará a petición de la persona quejosa en todas las materias, salvo aquellas previstas en el último párrafo de este artículo."
+    ]
+   },
+   {
+    "article": "Artículo 128.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "insert_after": 2,
+    "paragraphs": [
+     "Para ello, el órgano jurisdiccional, cuando la naturaleza del acto lo permita, deberá realizar de forma expresa y justificada un análisis ponderado de la apariencia del buen derecho y del interés social, a fin de verificar que concurran los requisitos siguientes:"
+    ]
+   },
+   {
+    "article": "Artículo 128.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "I. Que exista el acto reclamado, se tenga certeza de su inminente realización u opere una presunción razonable sobre su existencia."
+    ]
+   },
+   {
+    "article": "Artículo 128.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "II. Deberá acreditarse, aunque sea de manera indiciaria, el interés suspensional de la persona promovente, entendido como la existencia de un principio de agravio derivado del acto reclamado, que permita inferir que su ejecución afectará a la persona quejosa."
+    ]
+   },
+   {
+    "article": "Artículo 128.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "insert_after": 5,
+    "paragraphs": [
+     "III. Que, al ponderar los efectos de la suspensión frente al interés social, y a disposiciones de orden público, el órgano jurisdiccional advierta que su concesión no causa un daño significativo a la colectividad, ni priva a la sociedad de beneficios que ordinariamente le corresponden."
+    ]
+   },
+   {
+    "article": "Artículo 128.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "insert_after": 5,
+    "paragraphs": [
+     "IV. Que, del análisis preliminar de los argumentos y elementos aportados, se desprenda la apariencia del buen derecho, sin que ello implique prejuzgar sobre el fondo del asunto."
+    ]
+   },
+   {
+    "article": "Artículo 128.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto (actual)",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "Las normas generales, actos u omisiones de las autoridades a que refieren los párrafos decimoquinto y decimoséptimo del artículo 28 de la Constitución Federal, no serán objeto de suspensión. Solamente en los casos en que la autoridad a que refiere el párrafo decimoquinto del artículo 28 de la Constitución Federal imponga multas o la desincorporación de activos, derechos, partes sociales o acciones, éstas se ejecutarán hasta que se resuelva el juicio de amparo que, en su caso, se promueva."
+    ]
+   },
+   {
+    "article": "Artículo 129.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XIV",
+    "insert_after": 16,
+    "paragraphs": [
+     "XIV. Se permita la comisión o continuación de actos, operaciones o servicios que puedan favorecer, prestar ayuda, auxilio o cooperación de manera efectiva en operaciones con recursos de procedencia ilícita o conductas ilícitas relacionadas que pudieran dañar al sistema financiero, en los términos de las leyes vigentes.",
+     "El órgano jurisdiccional, en todo caso, dejará a salvo los recursos necesarios para el pago de salarios u otro tipo de obligaciones contraídas con trabajadores, de alimentos decretados por autoridad competente, o bien, para asegurar la subsistencia de la persona física titular de la cuenta y de sus acreedores alimentarios, así como de créditos fiscales o hipotecarios para vivienda de uso propio, mientras se resuelve el juicio de amparo; supuestos que deberán quedar acreditados.",
+     "La suspensión definitiva únicamente podrá ser concedida para la disposición de recursos contenidos en cuentas cuya licitud quede acreditada a juicio del órgano jurisdiccional.",
+     "Tratándose del supuesto previsto en esta fracción, en ningún caso procederá la suspensión provisional."
+    ]
+   },
+   {
+    "article": "Artículo 129.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XV",
+    "insert_after": 16,
+    "paragraphs": [
+     "XV. Se impida u obstaculice que la autoridad competente requiera, obtenga o disemine información financiera para la prevención y detección de operaciones con recursos de procedencia ilícita o conductas ilícitas relacionadas."
+    ]
+   },
+   {
+    "article": "Artículo 129.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XVI",
+    "insert_after": 16,
+    "paragraphs": [
+     "XVI. Se continúe con la realización de actividades o prestación de servicios que requieran de permiso, autorización o concesión emitida por autoridad federal competente, cuando no se cuente con la misma."
+    ]
+   },
+   {
+    "article": "Artículo 129.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XVII",
+    "insert_after": 16,
+    "paragraphs": [
+     "XVII. Se impida u obstaculice al Estado el ejercicio de sus facultades en materia de deuda pública, previstas en la Constitución Política de los Estados Unidos Mexicanos, y las que se establezcan en las leyes de la materia."
+    ]
+   },
+   {
+    "article": "Artículo 135.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "insert_after": 6,
+    "paragraphs": [
+     "Tratándose de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente, o de actos que resuelvan sobre solicitudes de prescripción respecto de dichos créditos, la suspensión podrá otorgarse discrecionalmente, la que surtirá efectos si se ha constituido garantía del interés fiscal ante la autoridad exactora mediante billete de depósito emitido por institución autorizada o carta de crédito emitida por alguna de las instituciones autorizadas por la Comisión Nacional Bancaria y de Valores y registradas para tal efecto ante el Servicio de Administración Tributaria, de conformidad con las reglas de carácter general que al efecto expida el Servicio de Administración Tributaria y las demás disposiciones jurídicas aplicables."
+    ]
+   },
+   {
+    "article": "Artículo 137.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 137",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las personas morales públicas y las oficiales que conforman las Administraciones Públicas Federal, Estatal y Municipal, los fondos, mandatos o análogos, o cualquier otro ente público, independientemente de su origen y estructura, estarán exentos de otorgar las garantías que esta Ley exige."
+    ]
+   },
+   {
+    "article": "Artículo 138.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Promovida la suspensión del acto reclamado, el órgano jurisdiccional deberá analizar los elementos que obren en autos para determinar si se actualizan los requisitos previstos en el artículo 128 de esta Ley, atendiendo a la naturaleza provisional e inmediata de la medida cautelar. Concluida dicha valoración, la persona juzgadora deberá emitir un auto en el que:"
+    ]
+   },
+   {
+    "article": "Artículo 146.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. La determinación clara y precisa del acto o actos reclamados cuya suspensión se solicita;"
+    ]
+   },
+   {
+    "article": "Artículo 146.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. La valoración de las pruebas que hayan sido admitidas y desahogadas dentro del incidente;"
+    ]
+   },
+   {
+    "article": "Artículo 146.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. El análisis expreso y razonado de cada uno de los elementos exigidos por el artículo 128 de esta Ley, y"
+    ]
+   },
+   {
+    "article": "Artículo 146.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Los puntos resolutivos en los que se exprese con claridad si se concede o niega la suspensión, señalando con precisión, en su caso, los efectos y condiciones bajo los cuales se concede, para su estricto cumplimiento por la autoridad responsable."
+    ]
+   },
+   {
+    "article": "Artículo 148.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Tratándose de juicios de amparo en los que se reclame la inconstitucionalidad de normas generales, en ningún caso la suspensión podrá concederse con efectos generales."
+    ]
+   },
+   {
+    "article": "Artículo 166.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Si se trata de delitos de prisión preventiva oficiosa a que se refiere el artículo 19 constitucional, la suspensión sólo producirá el efecto de que la persona quejosa quede a disposición del órgano jurisdiccional de amparo en el lugar que éste señale únicamente en lo que se refiera a su libertad, quedando a disposición de la autoridad a la que corresponda conocer el procedimiento penal para los efectos de su continuación. Tratándose de estos casos, la suspensión no podrá otorgarse con efectos distintos a los expresamente previstos en esta fracción;"
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "Artículo 128.",
+    "reason": "La instrucción sólo adiciona un párrafo segundo con las fracciones I a IV, pero el texto vigente ya tiene fracciones I y II, y el decreto no deja marcadores para ellas. Interpreté que las nuevas fracciones I a IV sustituyen a las actuales: reformé las fracciones I y II y adicioné las fracciones III y IV. Hay que confirmarlo con el texto consolidado oficial."
+   },
+   {
+    "article": "Artículo 146.",
+    "reason": "El decreto reproduce el párrafo primero sin la coma después de \"definitiva\" (\"suspensión definitiva deberá contener:\"), pero la instrucción sólo reforma las fracciones I a IV. No modifiqué el párrafo primero; hay que verificar si el texto oficial quitó la coma."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 111.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Podrá ampliarse la demanda únicamente cuando:\"]},{\"article\":\"Artículo 111.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Con independencia de lo previsto en la fracción anterior, la persona quejosa tenga conocimiento de actos de autoridad que guarden estrecha relación con los actos reclamados en la demanda inicial y que no hubieren sido de su conocimiento con anterioridad a la presentación de la demanda. En este caso, la ampliación deberá presentarse dentro de los plazos previstos en el artículo 17 de esta Ley.\"]},{\"article\":\"Artículo 111.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"insert_after\":5,\"paragraphs\":[\"No procederá la ampliación de demanda fuera de los casos expresamente previstos en este artículo.\"]},{\"article\":\"Artículo 115.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"insert_after\":3,\"paragraphs\":[\"Las personas servidoras públicas serán responsables de verificar que los expedientes estén integrados debidamente con antelación a la celebración de la audiencia constitucional.\"]},{\"article\":\"Artículo 121.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"insert_after\":2,\"paragraphs\":[\"Este plazo no podrá ampliarse con motivo del diferimiento de la audiencia constitucional, salvo que se trate de probar o desvirtuar hechos que no hayan podido ser conocidos por las partes con la oportunidad legal suficiente para ofrecerlas en el plazo referido, por causas no imputables a su descuido o negligencia dentro del procedimiento. En estos casos, el plazo para el ofrecimiento de tales pruebas será el señalado para la audiencia constitucional, tomando como indicador la nueva fecha señalada para la audiencia.\"]},{\"article\":\"Artículo 124.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las audiencias serán públicas. Abierta la audiencia, se procederá a la relación de constancias, videograbaciones analizadas íntegramente y pruebas desahogadas, y se recibirán, por su orden, las que falten por desahogarse y los alegatos por escrito que formulen las partes; acto continuo se dictará el fallo que corresponda en un plazo que no podrá exceder de noventa días naturales.\"]},{\"article\":\"Artículo 128.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Con excepción de los casos en que proceda de oficio, la suspensión se tramitará a petición de la persona quejosa en todas las materias, salvo aquellas previstas en el último párrafo de este artículo.\"]},{\"article\":\"Artículo 128.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"insert_after\":2,\"paragraphs\":[\"Para ello, el órgano jurisdiccional, cuando la naturaleza del acto lo permita, deberá realizar de forma expresa y justificada un análisis ponderado de la apariencia del buen derecho y del interés social, a fin de verificar que concurran los requisitos siguientes:\"]},{\"article\":\"Artículo 128.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"I. Que exista el acto reclamado, se tenga certeza de su inminente realización u opere una presunción razonable sobre su existencia.\"]},{\"article\":\"Artículo 128.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"II. Deberá acreditarse, aunque sea de manera indiciaria, el interés suspensional de la persona promovente, entendido como la existencia de un principio de agravio derivado del acto reclamado, que permita inferir que su ejecución afectará a la persona quejosa.\"]},{\"article\":\"Artículo 128.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"insert_after\":5,\"paragraphs\":[\"III. Que, al ponderar los efectos de la suspensión frente al interés social, y a disposiciones de orden público, el órgano jurisdiccional advierta que su concesión no causa un daño significativo a la colectividad, ni priva a la sociedad de beneficios que ordinariamente le corresponden.\"]},{\"article\":\"Artículo 128.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"insert_after\":5,\"paragraphs\":[\"IV. Que, del análisis preliminar de los argumentos y elementos aportados, se desprenda la apariencia del buen derecho, sin que ello implique prejuzgar sobre el fondo del asunto.\"]},{\"article\":\"Artículo 128.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto (actual)\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"Las normas generales, actos u omisiones de las autoridades a que refieren los párrafos decimoquinto y decimoséptimo del artículo 28 de la Constitución Federal, no serán objeto de suspensión. Solamente en los casos en que la autoridad a que refiere el párrafo decimoquinto del artículo 28 de la Constitución Federal imponga multas o la desincorporación de activos, derechos, partes sociales o acciones, éstas se ejecutarán hasta que se resuelva el juicio de amparo que, en su caso, se promueva.\"]},{\"article\":\"Artículo 129.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"XIV\",\"insert_after\":16,\"paragraphs\":[\"XIV. Se permita la comisión o continuación de actos, operaciones o servicios que puedan favorecer, prestar ayuda, auxilio o cooperación de manera efectiva en operaciones con recursos de procedencia ilícita o conductas ilícitas relacionadas que pudieran dañar al sistema financiero, en los términos de las leyes vigentes.\",\"El órgano jurisdiccional, en todo caso, dejará a salvo los recursos necesarios para el pago de salarios u otro tipo de obligaciones contraídas con trabajadores, de alimentos decretados por autoridad competente, o bien, para asegurar la subsistencia de la persona física titular de la cuenta y de sus acreedores alimentarios, así como de créditos fiscales o hipotecarios para vivienda de uso propio, mientras se resuelve el juicio de amparo; supuestos que deberán quedar acreditados.\",\"La suspensión definitiva únicamente podrá ser concedida para la disposición de recursos contenidos en cuentas cuya licitud quede acreditada a juicio del órgano jurisdiccional.\",\"Tratándose del supuesto previsto en esta fracción, en ningún caso procederá la suspensión provisional.\"]},{\"article\":\"Artículo 129.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"XV\",\"insert_after\":16,\"paragraphs\":[\"XV. Se impida u obstaculice que la autoridad competente requiera, obtenga o disemine información financiera para la prevención y detección de operaciones con recursos de procedencia ilícita o conductas ilícitas relacionadas.\"]},{\"article\":\"Artículo 129.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"XVI\",\"insert_after\":16,\"paragraphs\":[\"XVI. Se continúe con la realización de actividades o prestación de servicios que requieran de permiso, autorización o concesión emitida por autoridad federal competente, cuando no se cuente con la misma.\"]},{\"article\":\"Artículo 129.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"XVII\",\"insert_after\":16,\"paragraphs\":[\"XVII. Se impida u obstaculice al Estado el ejercicio de sus facultades en materia de deuda pública, previstas en la Constitución Política de los Estados Unidos Mexicanos, y las que se establezcan en las leyes de la materia.\"]},{\"article\":\"Artículo 135.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"insert_after\":6,\"paragraphs\":[\"Tratándose de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente, o de actos que resuelvan sobre solicitudes de prescripción respecto de dichos créditos, la suspensión podrá otorgarse discrecionalmente, la que surtirá efectos si se ha constituido garantía del interés fiscal ante la autoridad exactora mediante billete de depósito emitido por institución autorizada o carta de crédito emitida por alguna de las instituciones autorizadas por la Comisión Nacional Bancaria y de Valores y registradas para tal efecto ante el Servicio de Administración Tributaria, de conformidad con las reglas de carácter general que al efecto expida el Servicio de Administración Tributaria y las demás disposiciones jurídicas aplicables.\"]},{\"article\":\"Artículo 137.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 137\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las personas morales públicas y las oficiales que conforman las Administraciones Públicas Federal, Estatal y Municipal, los fondos, mandatos o análogos, o cualquier otro ente público, independientemente de su origen y estructura, estarán exentos de otorgar las garantías que esta Ley exige.\"]},{\"article\":\"Artículo 138.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Promovida la suspensión del acto reclamado, el órgano jurisdiccional deberá analizar los elementos que obren en autos para determinar si se actualizan los requisitos previstos en el artículo 128 de esta Ley, atendiendo a la naturaleza provisional e inmediata de la medida cautelar. Concluida dicha valoración, la persona juzgadora deberá emitir un auto en el que:\"]},{\"article\":\"Artículo 146.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. La determinación clara y precisa del acto o actos reclamados cuya suspensión se solicita;\"]},{\"article\":\"Artículo 146.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. La valoración de las pruebas que hayan sido admitidas y desahogadas dentro del incidente;\"]},{\"article\":\"Artículo 146.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. El análisis expreso y razonado de cada uno de los elementos exigidos por el artículo 128 de esta Ley, y\"]},{\"article\":\"Artículo 146.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Los puntos resolutivos en los que se exprese con claridad si se concede o niega la suspensión, señalando con precisión, en su caso, los efectos y condiciones bajo los cuales se concede, para su estricto cumplimiento por la autoridad responsable.\"]},{\"article\":\"Artículo 148.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Tratándose de juicios de amparo en los que se reclame la inconstitucionalidad de normas generales, en ningún caso la suspensión podrá concederse con efectos generales.\"]},{\"article\":\"Artículo 166.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Si se trata de delitos de prisión preventiva oficiosa a que se refiere el artículo 19 constitucional, la suspensión sólo producirá el efecto de que la persona quejosa quede a disposición del órgano jurisdiccional de amparo en el lugar que éste señale únicamente en lo que se refiera a su libertad, quedando a disposición de la autoridad a la que corresponda conocer el procedimiento penal para los efectos de su continuación. Tratándose de estos casos, la suspensión no podrá otorgarse con efectos distintos a los expresamente previstos en esta fracción;\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"Artículo 128.\",\"reason\":\"La instrucción sólo adiciona un párrafo segundo con las fracciones I a IV, pero el texto vigente ya tiene fracciones I y II, y el decreto no deja marcadores para ellas. Interpreté que las nuevas fracciones I a IV sustituyen a las actuales: reformé las fracciones I y II y adicioné las fracciones III y IV. Hay que confirmarlo con el texto consolidado oficial.\"},{\"article\":\"Artículo 146.\",\"reason\":\"El decreto reproduce el párrafo primero sin la coma después de \\\"definitiva\\\" (\\\"suspensión definitiva deberá contener:\\\"), pero la instrucción sólo reforma las fracciones I a IV. No modifiqué el párrafo primero; hay que verificar si el texto oficial quitó la coma.\"}]}",
+ "duration_ms": 46890,
+ "total_cost_usd": 0.248728,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 6496,
+   "cacheReadInputTokens": 0,
+   "cacheCreationInputTokens": 14850,
+   "webSearchRequests": 0,
+   "costUSD": 0.248728,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 1621,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 14850,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

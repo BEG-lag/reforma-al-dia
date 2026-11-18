@@ -1,0 +1,209 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 79.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VIII",
+    "from_block": 18,
+    "to_block": 18,
+    "paragraphs": [
+     "VIII. Organismos que conforme a la Ley agrupen a las sociedades cooperativas, ya sea de productores o de consumidores, así como los organismos cooperativos de integración y representación a que se refiere la Ley General de Sociedades Cooperativas."
+    ]
+   },
+   {
+    "article": "Artículo 79.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XI",
+    "from_block": 21,
+    "to_block": 21,
+    "paragraphs": [
+     "XI. Sociedades o asociaciones de carácter civil sin fines de lucro y autorizadas para recibir donativos deducibles en los términos de esta Ley, dedicadas a la investigación científica o tecnológica que se encuentren inscritas en el Registro Nacional de Instituciones Científicas y Tecnológicas."
+    ]
+   },
+   {
+    "article": "Artículo 79.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XVII",
+    "from_block": 32,
+    "to_block": 32,
+    "paragraphs": [
+     "XVII. Asociaciones o sociedades civiles, organizadas sin fines de lucro y autorizadas para recibir donativos deducibles en los términos de esta Ley, que otorguen becas, a que se refiere el artículo 83 de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 79.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIX",
+    "from_block": 34,
+    "to_block": 34,
+    "paragraphs": [
+     "XIX. Las sociedades o asociaciones civiles, organizadas sin fines de lucro y autorizadas para recibir donativos deducibles en los términos de esta Ley, que se constituyan y funcionen en forma exclusiva para la realización de actividades de investigación o preservación de la flora o fauna silvestre, terrestre o acuática, dentro de las áreas geográficas definidas que señale el Servicio de Administración Tributaria mediante reglas de carácter general, así como aquellas que se constituyan y funcionen en forma exclusiva para promover entre la población la prevención y control de la contaminación del agua, del aire y del suelo, la protección al ambiente y la preservación y restauración del equilibrio ecológico."
+    ]
+   },
+   {
+    "article": "Artículo 79.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XX",
+    "from_block": 35,
+    "to_block": 35,
+    "paragraphs": [
+     "XX. Las asociaciones y sociedades civiles, sin fines de lucro y autorizadas para recibir donativos deducibles en los términos de esta Ley, que comprueben que se dedican exclusivamente a la reproducción de especies en protección y peligro de extinción y a la conservación de su hábitat, siempre que además de cumplir con las reglas de carácter general que emita el Servicio de Administración Tributaria, se obtenga opinión previa de la Secretaría de Medio Ambiente y Recursos Naturales."
+    ]
+   },
+   {
+    "article": "Artículo 79.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 53,
+    "to_block": 53,
+    "paragraphs": [
+     "Las personas morales a que se refieren las fracciones V, VI, VII, IX, X, XI, XIII, XVI, XVII, XVIII, XIX, XX, XXIV y XXV de este artículo, así como las personas morales y fideicomisos autorizados para recibir donativos deducibles de impuestos, y los fondos de inversión a que se refiere este Título, considerarán remanente distribuible, aun cuando no lo hayan entregado en efectivo o en bienes a sus integrantes o socios, el importe de las omisiones de ingresos o las compras no realizadas e indebidamente registradas; las erogaciones que efectúen y no sean deducibles en los términos del Título IV de esta Ley; los préstamos que hagan a sus socios o integrantes, o a los cónyuges, ascendientes o descendientes en línea recta de dichos socios o integrantes salvo en el caso de préstamos a los socios o integrantes de las sociedades cooperativas de ahorro y préstamo a que se refiere la fracción XIII de este artículo. Tratándose de préstamos que en los términos de este párrafo se consideren remanente distribuible, su importe se disminuirá de los remanentes distribuibles que la persona moral distribuya a sus socios o integrantes."
+    ]
+   },
+   {
+    "article": "Artículo 80.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "octavo",
+    "insert_after": 9,
+    "paragraphs": [
+     "En el caso de que las personas a que se refiere el párrafo anterior obtengan ingresos por actividades distintas a los fines para los que fueron autorizados para recibir donativos en un porcentaje mayor al 50% del total de los ingresos del ejercicio fiscal, perderán la autorización correspondiente, lo cual determinará mediante resolución emitida y notificada por la autoridad fiscal. Si dentro de los doce meses siguientes a la pérdida de la autorización para recibir donativos deducibles del impuesto sobre la renta no se obtiene nuevamente dicha autorización, deberán destinar todo su patrimonio a otra donataria autorizada para recibir donativos deducibles."
+    ]
+   },
+   {
+    "article": "Artículo 82.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 12,
+    "to_block": 12,
+    "paragraphs": [
+     "IV. Que destinen sus activos exclusivamente a los fines propios de su objeto social, por el cual hayan sido autorizadas para recibir donativos deducibles del impuesto sobre la renta, no pudiendo otorgar beneficios sobre el remanente distribuible a persona física alguna o a sus integrantes personas físicas o morales, salvo que se trate, en este último caso, de alguna de las personas morales o fideicomisos autorizados para recibir donativos deducibles de impuestos o se trate de la remuneración de servicios efectivamente recibidos."
+    ]
+   },
+   {
+    "article": "Artículo 82.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción V, párrafo segundo",
+    "from_block": 14,
+    "to_block": 14,
+    "paragraphs": [
+     "En los casos de revocación de la autorización o cuando su vigencia haya concluido y no se haya obtenido nuevamente o renovado la misma, dentro de los doce meses siguientes a la fecha en que ocurran dichos eventos, se deberá destinar la totalidad de su patrimonio a otras entidades autorizadas para recibir donativos deducibles del impuesto sobre la renta quienes deberán emitir el comprobante fiscal correspondiente por concepto de donativo, el cual no será deducible para efectos del impuesto sobre la renta."
+    ]
+   },
+   {
+    "article": "Artículo 82.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción V, párrafo tercero",
+    "from_block": 15,
+    "to_block": 15,
+    "paragraphs": [
+     "Las personas morales a que se refiere el párrafo anterior tributarán en los términos y condiciones establecidos en el Título II de esta Ley. Los recursos que se deban destinar a otras donatarias autorizadas deberán ser transmitidos dentro del plazo de 6 meses contados a partir de que concluyó el plazo para obtener nuevamente la autorización cuando fue revocada o de la conclusión de la vigencia de la autorización."
+    ]
+   },
+   {
+    "article": "Artículo 82.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "fracción V, párrafo cuarto",
+    "insert_after": 15,
+    "paragraphs": [
+     "Lo dispuesto en el párrafo anterior también será aplicable en caso de que a una donataria autorizada se le apruebe su solicitud de cancelación de su autorización, quien deberá destinar todo su patrimonio a otra donataria autorizada para recibir donativos deducibles del impuesto sobre la renta y ésta última deberá emitir el comprobante fiscal correspondiente por concepto de donativo, el cual no será deducible para efectos del impuesto sobre la renta."
+    ]
+   },
+   {
+    "article": "Artículo 82.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "from_block": 17,
+    "to_block": 18,
+    "paragraphs": [
+     "VI. Mantener a disposición del público en general la información relativa a la autorización para recibir donativos, al uso y destino que se haya dado a los donativos recibidos y su patrimonio, así como al cumplimiento de sus obligaciones fiscales, y en su caso, la información a que se refiere la fracción II de este artículo, por el plazo y en los términos que mediante reglas de carácter general fije el Servicio de Administración Tributaria.",
+     "En los casos en que a las personas morales con fines no lucrativos o a los fideicomisos se les haya revocado o no se les haya renovado la autorización para recibir donativos derivado del incumplimiento de la obligación de poner a disposición del público en general la información a que se refiere el párrafo anterior, deberán cumplir con la obligación a que se refiere dicho párrafo dentro del mes siguiente a aquel en que surtió efectos la notificación de la revocación o a aquél en el que se haya publicado la no renovación de la autorización, a través de los medios y formatos establecidos en las disposiciones de carácter general que para tal efecto emita la autoridad fiscal, y solo estarán en posibilidad de obtener una nueva autorización una vez que cumplan con la obligación omitida."
+    ]
+   },
+   {
+    "article": "Artículo 82-Ter.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 82-Ter.",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "Se deroga."
+    ]
+   },
+   {
+    "article": "Artículo 82-Quáter.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 82-Quáter.",
+    "insert_after": null,
+    "paragraphs": [
+     "Para los efectos del párrafo cuarto del artículo 82 de esta Ley, se estará a lo siguiente:",
+     "A. Son causales de revocación de la autorización para recibir donativos deducibles las cuales darán inicio al procedimiento de revocación:",
+     "I. Destinar su activo a fines distintos del objeto social por el que obtuvieron la autorización correspondiente, conforme a la fracción I del artículo 82 de esta Ley.",
+     "II. No expedir el comprobante fiscal que ampare los donativos recibidos o expedir comprobantes fiscales de donativos deducibles para amparar cualquier otra operación distinta de la donación.",
+     "III. Cuando con motivo del ejercicio de las facultades de comprobación o de los expedientes, documentos o bases de datos del Servicio de Administración Tributaria o aquellas a las que tenga acceso o tenga en su poder dicho órgano administrativo desconcentrado, se conozca la actualización de cualquier hecho que constituya incumplimiento a las obligaciones o requisitos que establezcan las disposiciones fiscales a cargo de las donatarias autorizadas.",
+     "IV. Estar incluida en la lista a que se refiere el cuarto párrafo del artículo 69-B del Código Fiscal de la Federación.",
+     "V. Si el o los representantes legales, socios o asociados o cualquier integrante del Consejo Directivo o de Administración de una organización civil o fideicomiso que haya sido revocada su autorización por ubicarse en el supuesto referido en la fracción anterior, dentro de los últimos cinco años, forman parte de las organizaciones civiles y fideicomisos autorizados para recibir donativos deducibles durante la vigencia de la misma.",
+     "VI. Encontrarse en el supuesto establecido en el último párrafo del artículo 80 de esta Ley.",
+     "Las organizaciones civiles y fideicomisos cuya autorización para recibir donativos deducibles para efectos del impuesto sobre la renta haya sido revocada por las causales a que se refieren las fracciones I a V de este apartado, no podrán obtener nuevamente la autorización para recibir donativos deducibles, hasta en tanto no corrijan el motivo por el cual fueron revocadas o en su caso paguen el impuesto sobre la renta correspondiente.",
+     "En el caso de que las organizaciones civiles y fideicomisos cuya autorización para recibir donativos deducibles para efectos del impuesto sobre la renta hayan sido revocadas en una ocasión por la causal a que se refiere la fracción VI de este apartado, no podrán obtener nuevamente la autorización y deberán destinar todo su patrimonio a otra donataria autorizada para recibir donativos deducibles del impuesto sobre la renta.",
+     "B. El Servicio de Administración Tributaria realizará el procedimiento de revocación de la autorización para recibir donativos deducibles del impuesto sobre la renta conforme a lo siguiente:",
+     "I. Emitirá oficio a través del cual dé a conocer a la donataria autorizada la causal de revocación que se configure conforme al apartado anterior, otorgándole un plazo de diez días hábiles siguientes a aquél en el que surta efectos la notificación de dicho oficio, a fin de que manifieste ante la autoridad fiscal lo que a su derecho convenga, aportando la documentación e información que considere pertinente para desvirtuar la misma.",
+     "Se admitirá toda clase de pruebas, excepto la testimonial y la confesional a cargo de las autoridades. Las pruebas se valorarán en los términos del artículo 130 del Código Fiscal de la Federación.",
+     "II. Agotado el plazo a que se refiere la fracción anterior, la autoridad fiscal emitirá la resolución correspondiente en un plazo que no excederá de tres meses, contados a partir del día siguiente a aquél en que se agotó el referido plazo.",
+     "III. La resolución señalada en la fracción que antecede se notificará de conformidad con las disposiciones fiscales aplicables."
+    ]
+   },
+   {
+    "article": "Artículo 84.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 84.",
+    "from_block": 1,
+    "to_block": 4,
+    "paragraphs": [
+     "Se deroga."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 79.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VIII\",\"from_block\":18,\"to_block\":18,\"paragraphs\":[\"VIII. Organismos que conforme a la Ley agrupen a las sociedades cooperativas, ya sea de productores o de consumidores, así como los organismos cooperativos de integración y representación a que se refiere la Ley General de Sociedades Cooperativas.\"]},{\"article\":\"Artículo 79.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XI\",\"from_block\":21,\"to_block\":21,\"paragraphs\":[\"XI. Sociedades o asociaciones de carácter civil sin fines de lucro y autorizadas para recibir donativos deducibles en los términos de esta Ley, dedicadas a la investigación científica o tecnológica que se encuentren inscritas en el Registro Nacional de Instituciones Científicas y Tecnológicas.\"]},{\"article\":\"Artículo 79.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XVII\",\"from_block\":32,\"to_block\":32,\"paragraphs\":[\"XVII. Asociaciones o sociedades civiles, organizadas sin fines de lucro y autorizadas para recibir donativos deducibles en los términos de esta Ley, que otorguen becas, a que se refiere el artículo 83 de esta Ley.\"]},{\"article\":\"Artículo 79.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XIX\",\"from_block\":34,\"to_block\":34,\"paragraphs\":[\"XIX. Las sociedades o asociaciones civiles, organizadas sin fines de lucro y autorizadas para recibir donativos deducibles en los términos de esta Ley, que se constituyan y funcionen en forma exclusiva para la realización de actividades de investigación o preservación de la flora o fauna silvestre, terrestre o acuática, dentro de las áreas geográficas definidas que señale el Servicio de Administración Tributaria mediante reglas de carácter general, así como aquellas que se constituyan y funcionen en forma exclusiva para promover entre la población la prevención y control de la contaminación del agua, del aire y del suelo, la protección al ambiente y la preservación y restauración del equilibrio ecológico.\"]},{\"article\":\"Artículo 79.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XX\",\"from_block\":35,\"to_block\":35,\"paragraphs\":[\"XX. Las asociaciones y sociedades civiles, sin fines de lucro y autorizadas para recibir donativos deducibles en los términos de esta Ley, que comprueben que se dedican exclusivamente a la reproducción de especies en protección y peligro de extinción y a la conservación de su hábitat, siempre que además de cumplir con las reglas de carácter general que emita el Servicio de Administración Tributaria, se obtenga opinión previa de la Secretaría de Medio Ambiente y Recursos Naturales.\"]},{\"article\":\"Artículo 79.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":53,\"to_block\":53,\"paragraphs\":[\"Las personas morales a que se refieren las fracciones V, VI, VII, IX, X, XI, XIII, XVI, XVII, XVIII, XIX, XX, XXIV y XXV de este artículo, así como las personas morales y fideicomisos autorizados para recibir donativos deducibles de impuestos, y los fondos de inversión a que se refiere este Título, considerarán remanente distribuible, aun cuando no lo hayan entregado en efectivo o en bienes a sus integrantes o socios, el importe de las omisiones de ingresos o las compras no realizadas e indebidamente registradas; las erogaciones que efectúen y no sean deducibles en los términos del Título IV de esta Ley; los préstamos que hagan a sus socios o integrantes, o a los cónyuges, ascendientes o descendientes en línea recta de dichos socios o integrantes salvo en el caso de préstamos a los socios o integrantes de las sociedades cooperativas de ahorro y préstamo a que se refiere la fracción XIII de este artículo. Tratándose de préstamos que en los términos de este párrafo se consideren remanente distribuible, su importe se disminuirá de los remanentes distribuibles que la persona moral distribuya a sus socios o integrantes.\"]},{\"article\":\"Artículo 80.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"octavo\",\"insert_after\":9,\"paragraphs\":[\"En el caso de que las personas a que se refiere el párrafo anterior obtengan ingresos por actividades distintas a los fines para los que fueron autorizados para recibir donativos en un porcentaje mayor al 50% del total de los ingresos del ejercicio fiscal, perderán la autorización correspondiente, lo cual determinará mediante resolución emitida y notificada por la autoridad fiscal. Si dentro de los doce meses siguientes a la pérdida de la autorización para recibir donativos deducibles del impuesto sobre la renta no se obtiene nuevamente dicha autorización, deberán destinar todo su patrimonio a otra donataria autorizada para recibir donativos deducibles.\"]},{\"article\":\"Artículo 82.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":12,\"to_block\":12,\"paragraphs\":[\"IV. Que destinen sus activos exclusivamente a los fines propios de su objeto social, por el cual hayan sido autorizadas para recibir donativos deducibles del impuesto sobre la renta, no pudiendo otorgar beneficios sobre el remanente distribuible a persona física alguna o a sus integrantes personas físicas o morales, salvo que se trate, en este último caso, de alguna de las personas morales o fideicomisos autorizados para recibir donativos deducibles de impuestos o se trate de la remuneración de servicios efectivamente recibidos.\"]},{\"article\":\"Artículo 82.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción V, párrafo segundo\",\"from_block\":14,\"to_block\":14,\"paragraphs\":[\"En los casos de revocación de la autorización o cuando su vigencia haya concluido y no se haya obtenido nuevamente o renovado la misma, dentro de los doce meses siguientes a la fecha en que ocurran dichos eventos, se deberá destinar la totalidad de su patrimonio a otras entidades autorizadas para recibir donativos deducibles del impuesto sobre la renta quienes deberán emitir el comprobante fiscal correspondiente por concepto de donativo, el cual no será deducible para efectos del impuesto sobre la renta.\"]},{\"article\":\"Artículo 82.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción V, párrafo tercero\",\"from_block\":15,\"to_block\":15,\"paragraphs\":[\"Las personas morales a que se refiere el párrafo anterior tributarán en los términos y condiciones establecidos en el Título II de esta Ley. Los recursos que se deban destinar a otras donatarias autorizadas deberán ser transmitidos dentro del plazo de 6 meses contados a partir de que concluyó el plazo para obtener nuevamente la autorización cuando fue revocada o de la conclusión de la vigencia de la autorización.\"]},{\"article\":\"Artículo 82.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"fracción V, párrafo cuarto\",\"insert_after\":15,\"paragraphs\":[\"Lo dispuesto en el párrafo anterior también será aplicable en caso de que a una donataria autorizada se le apruebe su solicitud de cancelación de su autorización, quien deberá destinar todo su patrimonio a otra donataria autorizada para recibir donativos deducibles del impuesto sobre la renta y ésta última deberá emitir el comprobante fiscal correspondiente por concepto de donativo, el cual no será deducible para efectos del impuesto sobre la renta.\"]},{\"article\":\"Artículo 82.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VI\",\"from_block\":17,\"to_block\":18,\"paragraphs\":[\"VI. Mantener a disposición del público en general la información relativa a la autorización para recibir donativos, al uso y destino que se haya dado a los donativos recibidos y su patrimonio, así como al cumplimiento de sus obligaciones fiscales, y en su caso, la información a que se refiere la fracción II de este artículo, por el plazo y en los términos que mediante reglas de carácter general fije el Servicio de Administración Tributaria.\",\"En los casos en que a las personas morales con fines no lucrativos o a los fideicomisos se les haya revocado o no se les haya renovado la autorización para recibir donativos derivado del incumplimiento de la obligación de poner a disposición del público en general la información a que se refiere el párrafo anterior, deberán cumplir con la obligación a que se refiere dicho párrafo dentro del mes siguiente a aquel en que surtió efectos la notificación de la revocación o a aquél en el que se haya publicado la no renovación de la autorización, a través de los medios y formatos establecidos en las disposiciones de carácter general que para tal efecto emita la autoridad fiscal, y solo estarán en posibilidad de obtener una nueva autorización una vez que cumplan con la obligación omitida.\"]},{\"article\":\"Artículo 82-Ter.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 82-Ter.\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"Se deroga.\"]},{\"article\":\"Artículo 82-Quáter.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 82-Quáter.\",\"insert_after\":null,\"paragraphs\":[\"Para los efectos del párrafo cuarto del artículo 82 de esta Ley, se estará a lo siguiente:\",\"A. Son causales de revocación de la autorización para recibir donativos deducibles las cuales darán inicio al procedimiento de revocación:\",\"I. Destinar su activo a fines distintos del objeto social por el que obtuvieron la autorización correspondiente, conforme a la fracción I del artículo 82 de esta Ley.\",\"II. No expedir el comprobante fiscal que ampare los donativos recibidos o expedir comprobantes fiscales de donativos deducibles para amparar cualquier otra operación distinta de la donación.\",\"III. Cuando con motivo del ejercicio de las facultades de comprobación o de los expedientes, documentos o bases de datos del Servicio de Administración Tributaria o aquellas a las que tenga acceso o tenga en su poder dicho órgano administrativo desconcentrado, se conozca la actualización de cualquier hecho que constituya incumplimiento a las obligaciones o requisitos que establezcan las disposiciones fiscales a cargo de las donatarias autorizadas.\",\"IV. Estar incluida en la lista a que se refiere el cuarto párrafo del artículo 69-B del Código Fiscal de la Federación.\",\"V. Si el o los representantes legales, socios o asociados o cualquier integrante del Consejo Directivo o de Administración de una organización civil o fideicomiso que haya sido revocada su autorización por ubicarse en el supuesto referido en la fracción anterior, dentro de los últimos cinco años, forman parte de las organizaciones civiles y fideicomisos autorizados para recibir donativos deducibles durante la vigencia de la misma.\",\"VI. Encontrarse en el supuesto establecido en el último párrafo del artículo 80 de esta Ley.\",\"Las organizaciones civiles y fideicomisos cuya autorización para recibir donativos deducibles para efectos del impuesto sobre la renta haya sido revocada por las causales a que se refieren las fracciones I a V de este apartado, no podrán obtener nuevamente la autorización para recibir donativos deducibles, hasta en tanto no corrijan el motivo por el cual fueron revocadas o en su caso paguen el impuesto sobre la renta correspondiente.\",\"En el caso de que las organizaciones civiles y fideicomisos cuya autorización para recibir donativos deducibles para efectos del impuesto sobre la renta hayan sido revocadas en una ocasión por la causal a que se refiere la fracción VI de este apartado, no podrán obtener nuevamente la autorización y deberán destinar todo su patrimonio a otra donataria autorizada para recibir donativos deducibles del impuesto sobre la renta.\",\"B. El Servicio de Administración Tributaria realizará el procedimiento de revocación de la autorización para recibir donativos deducibles del impuesto sobre la renta conforme a lo siguiente:\",\"I. Emitirá oficio a través del cual dé a conocer a la donataria autorizada la causal de revocación que se configure conforme al apartado anterior, otorgándole un plazo de diez días hábiles siguientes a aquél en el que surta efectos la notificación de dicho oficio, a fin de que manifieste ante la autoridad fiscal lo que a su derecho convenga, aportando la documentación e información que considere pertinente para desvirtuar la misma.\",\"Se admitirá toda clase de pruebas, excepto la testimonial y la confesional a cargo de las autoridades. Las pruebas se valorarán en los términos del artículo 130 del Código Fiscal de la Federación.\",\"II. Agotado el plazo a que se refiere la fracción anterior, la autoridad fiscal emitirá la resolución correspondiente en un plazo que no excederá de tres meses, contados a partir del día siguiente a aquél en que se agotó el referido plazo.\",\"III. La resolución señalada en la fracción que antecede se notificará de conformidad con las disposiciones fiscales aplicables.\"]},{\"article\":\"Artículo 84.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 84.\",\"from_block\":1,\"to_block\":4,\"paragraphs\":[\"Se deroga.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 37953,
+ "total_cost_usd": 0.2373178,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 5599,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 15591,
+   "webSearchRequests": 0,
+   "costUSD": 0.2373178,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 651,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 15591,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

@@ -1,0 +1,164 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 259.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 259",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En el caso de la fracción I de los artículos 236 y 237 de esta Ley, las multas serán de ciento quince a dos mil doscientos noventa y cinco Unidades de Medida y Actualización."
+    ]
+   },
+   {
+    "article": "Artículo 260.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se sancionará con multa de doscientos treinta a dos mil doscientos noventa y cinco Unidades de Medida y Actualización a la autoridad responsable que:"
+    ]
+   },
+   {
+    "article": "Artículo 260.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. No rinda el informe con justificación o lo haga sin remitir, en su caso, copia certificada completa y legible de las constancias necesarias para la solución del juicio constitucional u omita referirse a la representación que aduzca la persona promovente de la demanda en términos del artículo 11 de esta Ley;"
+    ]
+   },
+   {
+    "article": "Artículo 261.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. A la persona quejosa, a su abogada o abogado autorizado o a ambos, si con el propósito de obtener una ventaja procesal indebida, en la demanda afirme hechos falsos u omita los que le consten en relación con el acto reclamado, siempre que no se reclamen actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, y"
+    ]
+   },
+   {
+    "article": "Artículo 261.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. A la persona quejosa o tercera interesada, a su abogada o abogado o a ambos, si en el juicio de amparo presenten testigos o documentos falsos."
+    ]
+   },
+   {
+    "article": "Artículo 262.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se impondrá pena de tres a nueve años de prisión, multa de cincuenta a quinientos días, destitución e inhabilitación de tres a nueve años para desempeñar otro cargo, empleo o comisión públicos, a la persona servidora pública que con el carácter de autoridad responsable en el juicio de amparo o en el incidente de suspensión:"
+    ]
+   },
+   {
+    "article": "Artículo 263.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 263",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las personas juzgadoras de distrito, las autoridades judiciales de los Estados y de la Ciudad de México cuando actúen en auxilio de la justicia federal, las personas titulares de las presidencias de las juntas y de los tribunales de conciliación y arbitraje, las personas magistradas de circuito y las personas ministras de la Suprema Corte de Justicia de la Nación son responsables en los juicios de amparo por los delitos y faltas que cometan en los términos que los definen y castigan el Código Penal Federal y la Ley Orgánica del Poder Judicial de la Federación, así como este Capítulo."
+    ]
+   },
+   {
+    "article": "Artículo 264.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 264",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Al ministro o ministra, magistrado o magistrada o juez o jueza que dolosamente hubiere negado la causa que funda la recusación y ésta se comprueba, se le impondrán pena de dos a seis años de prisión, multa de treinta a trescientos días, destitución e inhabilitación por un lapso de dos a seis años."
+    ]
+   },
+   {
+    "article": "Artículo 265.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se impondrá pena de dos a seis años de prisión, multa de treinta a trescientos días, destitución e inhabilitación de dos a seis años para desempeñar otro cargo, empleo o comisión públicos, al juez o jueza de distrito o la autoridad que conozca de un juicio de amparo o del incidente respectivo, cuando dolosamente:"
+    ]
+   },
+   {
+    "article": "Artículo 266.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se impondrá pena de tres a siete años de prisión, multa de cincuenta a quinientos días, destitución e inhabilitación de tres a siete años para desempeñar otro cargo, empleo o comisión públicos al juez o jueza de distrito o la autoridad que conozca de un juicio de amparo o del incidente respectivo, cuando dolosamente:"
+    ]
+   },
+   {
+    "article": "Artículo 266.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Ponga en libertad a la persona quejosa en contra de lo previsto en las disposiciones aplicables de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 271.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 271",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando al concederse definitivamente el amparo a la persona quejosa aparezca que el acto reclamado además de violar derechos humanos y garantías constituye delito, se pondrá el hecho en conocimiento del Ministerio Público que corresponda."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 259.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 259\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En el caso de la fracción I de los artículos 236 y 237 de esta Ley, las multas serán de ciento quince a dos mil doscientos noventa y cinco Unidades de Medida y Actualización.\"]},{\"article\":\"Artículo 260.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se sancionará con multa de doscientos treinta a dos mil doscientos noventa y cinco Unidades de Medida y Actualización a la autoridad responsable que:\"]},{\"article\":\"Artículo 260.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. No rinda el informe con justificación o lo haga sin remitir, en su caso, copia certificada completa y legible de las constancias necesarias para la solución del juicio constitucional u omita referirse a la representación que aduzca la persona promovente de la demanda en términos del artículo 11 de esta Ley;\"]},{\"article\":\"Artículo 261.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. A la persona quejosa, a su abogada o abogado autorizado o a ambos, si con el propósito de obtener una ventaja procesal indebida, en la demanda afirme hechos falsos u omita los que le consten en relación con el acto reclamado, siempre que no se reclamen actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, y\"]},{\"article\":\"Artículo 261.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. A la persona quejosa o tercera interesada, a su abogada o abogado o a ambos, si en el juicio de amparo presenten testigos o documentos falsos.\"]},{\"article\":\"Artículo 262.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se impondrá pena de tres a nueve años de prisión, multa de cincuenta a quinientos días, destitución e inhabilitación de tres a nueve años para desempeñar otro cargo, empleo o comisión públicos, a la persona servidora pública que con el carácter de autoridad responsable en el juicio de amparo o en el incidente de suspensión:\"]},{\"article\":\"Artículo 263.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 263\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las personas juzgadoras de distrito, las autoridades judiciales de los Estados y de la Ciudad de México cuando actúen en auxilio de la justicia federal, las personas titulares de las presidencias de las juntas y de los tribunales de conciliación y arbitraje, las personas magistradas de circuito y las personas ministras de la Suprema Corte de Justicia de la Nación son responsables en los juicios de amparo por los delitos y faltas que cometan en los términos que los definen y castigan el Código Penal Federal y la Ley Orgánica del Poder Judicial de la Federación, así como este Capítulo.\"]},{\"article\":\"Artículo 264.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 264\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Al ministro o ministra, magistrado o magistrada o juez o jueza que dolosamente hubiere negado la causa que funda la recusación y ésta se comprueba, se le impondrán pena de dos a seis años de prisión, multa de treinta a trescientos días, destitución e inhabilitación por un lapso de dos a seis años.\"]},{\"article\":\"Artículo 265.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se impondrá pena de dos a seis años de prisión, multa de treinta a trescientos días, destitución e inhabilitación de dos a seis años para desempeñar otro cargo, empleo o comisión públicos, al juez o jueza de distrito o la autoridad que conozca de un juicio de amparo o del incidente respectivo, cuando dolosamente:\"]},{\"article\":\"Artículo 266.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se impondrá pena de tres a siete años de prisión, multa de cincuenta a quinientos días, destitución e inhabilitación de tres a siete años para desempeñar otro cargo, empleo o comisión públicos al juez o jueza de distrito o la autoridad que conozca de un juicio de amparo o del incidente respectivo, cuando dolosamente:\"]},{\"article\":\"Artículo 266.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Ponga en libertad a la persona quejosa en contra de lo previsto en las disposiciones aplicables de esta Ley.\"]},{\"article\":\"Artículo 271.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 271\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando al concederse definitivamente el amparo a la persona quejosa aparezca que el acto reclamado además de violar derechos humanos y garantías constituye delito, se pondrá el hecho en conocimiento del Ministerio Público que corresponda.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 16837,
+ "total_cost_usd": 0.11058980000000002,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 2403,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 7740,
+   "webSearchRequests": 0,
+   "costUSD": 0.11058980000000002,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 180,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 7740,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

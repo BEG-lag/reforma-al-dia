@@ -1,0 +1,447 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 44.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 44.",
+    "from_block": 1,
+    "to_block": 20,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "Artículo 45.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 45.",
+    "from_block": 1,
+    "to_block": 4,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "Artículo 46.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primer párrafo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las Asignaciones sólo pueden otorgarse a Empresas Públicas del Estado cuyo objeto contenga la realización de actividades de Exploración y Extracción de Hidrocarburos."
+    ]
+   },
+   {
+    "article": "Artículo 46.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "segundo párrafo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "Artículo 46.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercer párrafo",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Para efectos de lo dispuesto en este Título, los Asignatarios deben llevar contabilidad separada por tipo de área respecto de los ingresos obtenidos por sus actividades."
+    ]
+   },
+   {
+    "article": "Artículo 46.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "cuarto párrafo y sus fracciones I, II y III",
+    "from_block": 4,
+    "to_block": 7,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "Artículo 46.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "quinto párrafo",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "Artículo 46.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "séptimo párrafo",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "Sin perjuicio del derecho contenido en el presente Título, los Asignatarios están obligados a pagar los derechos y aprovechamientos que se establezcan por la administración y supervisión de las Asignaciones o la supervisión y vigilancia de las actividades realizadas al amparo de las mismas, que realicen la Secretaría de Energía y la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos."
+    ]
+   },
+   {
+    "article": "Artículo 47.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Puede solicitar al Asignatario la información que requiera para el cumplimiento de sus facultades contempladas en esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 48.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Como valor de los Hidrocarburos extraídos, la suma del valor del Petróleo, el valor del Gas Natural y el valor de los Condensados, según corresponda, extraídos en el área de que se trate, en el periodo por el que esté obligado al pago del derecho;"
+    ]
+   },
+   {
+    "article": "Artículo 48.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Como valor del Petróleo, la suma del valor de cada tipo de Petróleo extraído en el área de que se trate, en el periodo de que se trate. El valor de cada tipo de Petróleo extraído en el área de que se trate se entiende como el precio del Petróleo por barril del Petróleo extraído en dicha área, en el periodo de que se trate, multiplicado por el volumen de barriles de Petróleo extraído en el área en el mismo periodo por el que esté obligado al pago del derecho;"
+    ]
+   },
+   {
+    "article": "Artículo 48.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Como valor del Gas Natural, el precio del Gas Natural multiplicado por el volumen de Gas Natural extraído en el área de que se trate, en el mismo periodo por el que esté obligado al pago del derecho;"
+    ]
+   },
+   {
+    "article": "Artículo 48.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Como valor de los Condensados, el precio de los Condensados extraídos en el área de que se trate, en el periodo de que se trate, multiplicado por el volumen de barriles de Condensados extraídos en el área en el mismo periodo por el que esté obligado al pago del derecho;"
+    ]
+   },
+   {
+    "article": "Artículo 48.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "VI. Como precio del Gas Natural, el precio promedio que en el periodo que corresponda haya tenido la unidad térmica de Gas Natural extraído por el contribuyente, determinado de conformidad con las reglas de carácter general a las que se refiere el último párrafo de este artículo;"
+    ]
+   },
+   {
+    "article": "Artículo 48.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VII",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "VII. Como precio de los Condensados, el precio promedio de los Condensados que en el periodo que corresponda haya tenido el barril de Condensados extraído por el contribuyente, determinado de conformidad con las reglas de carácter general a las que se refiere el último párrafo de este artículo;"
+    ]
+   },
+   {
+    "article": "Artículo 48.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IX",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "IX. Como Paleocanal de Chicontepec, aquella área de Extracción de Petróleo y/o Gas Natural ubicados en los municipios de Castillo de Teayo, Coatzintla, Coyutla, Chicontepec, Espinal, Ixhuatlán de Madero, Temapache, Papantla, Poza Rica de Hidalgo, Tepetzintla o Tihuatlán, en el Estado de Veracruz de Ignacio de la Llave, o en los municipios de Francisco Z. Mena, Pantepec o Venustiano Carranza, en el Estado de Puebla, y"
+    ]
+   },
+   {
+    "article": "Artículo 48.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "X",
+    "from_block": 11,
+    "to_block": 11,
+    "paragraphs": [
+     "X. Como área, la que corresponda de conformidad con la siguiente clasificación:"
+    ]
+   },
+   {
+    "article": "Artículo 48.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo párrafo",
+    "from_block": 17,
+    "to_block": 17,
+    "paragraphs": [
+     "La Secretaría debe expedir las reglas de carácter general para la determinación del Valor de los Hidrocarburos correspondientes."
+    ]
+   },
+   {
+    "article": "Artículo 49.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primer párrafo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El Asignatario debe presentar ante la Secretaría un reporte anual de las inversiones, costos y gastos que, de conformidad con lo establecido en este Título, se hayan realizado durante el ejercicio fiscal de que se trate."
+    ]
+   },
+   {
+    "article": "Artículo 49.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo párrafo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "En dicho reporte el Asignatario debe incluir las inversiones, costos y gastos que se hayan realizado en el ejercicio de que se trate por cada campo de Extracción de Hidrocarburos, así como proyecciones de éstas para los dos ejercicios siguientes al que se reporte y, en caso de que las inversiones, gastos y costos que se hayan incurrido en el ejercicio fiscal de que se trate hayan presentado más de un 10% de diferencias respecto de los montos proyectados, deberá incluir la justificación correspondiente."
+    ]
+   },
+   {
+    "article": "Artículo 49.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "cuarto párrafo",
+    "insert_after": 6,
+    "paragraphs": [
+     "Adicional a lo anterior, el Asignatario debe presentar ante la Secretaría un reporte trimestral de las inversiones, costos y gastos que se hayan realizado durante el ejercicio de que se trate por cada campo de Extracción de Hidrocarburos, en los meses de abril, julio, octubre y enero del año que corresponda."
+    ]
+   },
+   {
+    "article": "Artículo 49.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "actual cuarto párrafo (pasa a quinto)",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "La Secretaría puede solicitar la información adicional que considere conveniente en relación con los reportes anual y trimestral, así como la información a que se refiere este artículo, y puede emitir las disposiciones de carácter general que sean necesarias para regular su presentación."
+    ]
+   },
+   {
+    "article": "Artículo 49.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "actual quinto párrafo (pasa a sexto)",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "El reporte anual y la información antes referida deben entregarse a más tardar el 31 de marzo del ejercicio fiscal siguiente a aquél que se reporte."
+    ]
+   },
+   {
+    "article": "Artículo 50.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 50.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Para los efectos de este Título, el Asignatario debe contar con sistemas de medición de volúmenes extraídos de Petróleo, Gas Natural y sus Condensados, instalados en cada campo y punto de transferencia de custodia. La Secretaría de Energía debe emitir los lineamientos para la medición de los citados volúmenes."
+    ]
+   },
+   {
+    "article": "Artículo 51.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primer párrafo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Para los efectos del presente Título, cuando el Asignatario enajene Petróleo o Gas Natural a partes relacionadas, está obligado a determinar el valor del Petróleo, Gas Natural y sus Condensados, considerando para esas operaciones, los precios y montos de contraprestaciones que hubiera utilizado con o entre partes independientes en operaciones comparables, para ello debe aplicar el método de precio comparable no controlado establecido en el artículo 180, fracción I de la Ley del Impuesto sobre la Renta."
+    ]
+   },
+   {
+    "article": "Artículo 52.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primer párrafo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El Asignatario debe enterar el derecho a que se refiere el presente Título al Fondo Mexicano del Petróleo."
+    ]
+   },
+   {
+    "article": "Artículo 52.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo párrafo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "El Asignatario debe cumplir ante la autoridad fiscal competente con las demás disposiciones de carácter fiscal relativas al pago de este derecho."
+    ]
+   },
+   {
+    "article": "Artículo 52.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercer párrafo",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Las declaraciones del derecho a que se refiere el presente Título deben presentarse mediante los mecanismos electrónicos que establezca el Servicio de Administración Tributaria, y el entero realizarse mediante transferencia electrónica al Fondo Mexicano del Petróleo."
+    ]
+   },
+   {
+    "article": "Artículo 52.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "cuarto párrafo",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Al presentar las declaraciones sobre el pago del derecho a que se refiere el presente Título a la autoridad fiscal, el Asignatario debe acompañar los comprobantes de pago emitidos por el Fondo Mexicano del Petróleo."
+    ]
+   },
+   {
+    "article": "Artículo 57.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo párrafo de la fracción III",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "Para efectos del párrafo anterior, la Secretaría de Energía, debe proveer a la Secretaría la información necesaria, de acuerdo con las reglas de operación señaladas, y"
+    ]
+   },
+   {
+    "article": "Artículo 58.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 15,
+    "to_block": 15,
+    "paragraphs": [
+     "II. Derivado de lo dispuesto en el Título Tercero, por cada una de las áreas definidas en la fracción X del artículo 48 de esta Ley:"
+    ]
+   },
+   {
+    "article": "Artículo 58.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "c) de la fracción II",
+    "from_block": 18,
+    "to_block": 18,
+    "paragraphs": [
+     "c) Montos recibidos por concepto del derecho;"
+    ]
+   },
+   {
+    "article": "Artículo 58.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "d) de la fracción II",
+    "from_block": 19,
+    "to_block": 19,
+    "paragraphs": [
+     "d) Montos de las inversiones reportadas por el Asignatario, y"
+    ]
+   },
+   {
+    "article": "Artículo 58.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 21,
+    "to_block": 21,
+    "paragraphs": [
+     "III. De manera agregada, el monto del impuesto sobre la renta pagado por los Contratistas, y en su caso, el monto de las devoluciones efectuadas;"
+    ]
+   },
+   {
+    "article": "Artículo 58.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "c) de la fracción VI",
+    "from_block": 27,
+    "to_block": 27,
+    "paragraphs": [
+     "c) Los casos en que se haya ejercido la función a que se refiere el artículo 37, apartado B, fracción X, de esta Ley, así como el reporte obtenido de la Secretaría de Energía;"
+    ]
+   },
+   {
+    "article": "Artículo 58.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo párrafo",
+    "from_block": 30,
+    "to_block": 30,
+    "paragraphs": [
+     "Para dar cumplimiento a lo dispuesto en este artículo, el Fondo Mexicano del Petróleo y la Secretaría deben coordinarse con la Secretaría de Energía y el Servicio de Administración Tributaria."
+    ]
+   },
+   {
+    "article": "Artículo 61.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 61.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La Secretaría debe incluir en la Cuenta de la Hacienda Pública Federal y en los Informes trimestrales sobre la situación económica, las finanzas públicas y la deuda pública, los ingresos obtenidos por el Estado Mexicano que deriven de los Contratos y del derecho a que se refiere la presente Ley."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "Artículo 44.",
+    "reason": "El decreto deroga el Capítulo II del Título Tercero (\"Del Derecho de Extracción de Hidrocarburos\") y lo reproduce seguido de \"Artículo 44.- Derogado\" y otro \"Derogado\" aparte. El esquema no permite derogar encabezados: hay que revisar a mano cómo queda el encabezado del capítulo (p. ej. \"Capítulo II (Se deroga)\") y a qué corresponde el segundo \"Derogado\". El artículo se derogó con el texto \"Derogado\"."
+   },
+   {
+    "article": "Artículo 45.",
+    "reason": "El decreto deroga el Capítulo III del Título Tercero (\"Del Derecho de Exploración de Hidrocarburos\"). El esquema no permite derogar encabezados: hay que revisar a mano cómo queda el encabezado del capítulo. El artículo se derogó con el texto \"Derogado\" (bloques 1 a 4; la nota editorial del bloque 5 no se tocó)."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 44.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 44.\",\"from_block\":1,\"to_block\":20,\"paragraphs\":[\"Derogado\"]},{\"article\":\"Artículo 45.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 45.\",\"from_block\":1,\"to_block\":4,\"paragraphs\":[\"Derogado\"]},{\"article\":\"Artículo 46.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primer párrafo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las Asignaciones sólo pueden otorgarse a Empresas Públicas del Estado cuyo objeto contenga la realización de actividades de Exploración y Extracción de Hidrocarburos.\"]},{\"article\":\"Artículo 46.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"segundo párrafo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Derogado\"]},{\"article\":\"Artículo 46.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercer párrafo\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Para efectos de lo dispuesto en este Título, los Asignatarios deben llevar contabilidad separada por tipo de área respecto de los ingresos obtenidos por sus actividades.\"]},{\"article\":\"Artículo 46.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto párrafo y sus fracciones I, II y III\",\"from_block\":4,\"to_block\":7,\"paragraphs\":[\"Derogado\"]},{\"article\":\"Artículo 46.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"quinto párrafo\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"Derogado\"]},{\"article\":\"Artículo 46.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"séptimo párrafo\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"Sin perjuicio del derecho contenido en el presente Título, los Asignatarios están obligados a pagar los derechos y aprovechamientos que se establezcan por la administración y supervisión de las Asignaciones o la supervisión y vigilancia de las actividades realizadas al amparo de las mismas, que realicen la Secretaría de Energía y la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos.\"]},{\"article\":\"Artículo 47.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Puede solicitar al Asignatario la información que requiera para el cumplimiento de sus facultades contempladas en esta Ley.\"]},{\"article\":\"Artículo 48.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Como valor de los Hidrocarburos extraídos, la suma del valor del Petróleo, el valor del Gas Natural y el valor de los Condensados, según corresponda, extraídos en el área de que se trate, en el periodo por el que esté obligado al pago del derecho;\"]},{\"article\":\"Artículo 48.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Como valor del Petróleo, la suma del valor de cada tipo de Petróleo extraído en el área de que se trate, en el periodo de que se trate. El valor de cada tipo de Petróleo extraído en el área de que se trate se entiende como el precio del Petróleo por barril del Petróleo extraído en dicha área, en el periodo de que se trate, multiplicado por el volumen de barriles de Petróleo extraído en el área en el mismo periodo por el que esté obligado al pago del derecho;\"]},{\"article\":\"Artículo 48.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Como valor del Gas Natural, el precio del Gas Natural multiplicado por el volumen de Gas Natural extraído en el área de que se trate, en el mismo periodo por el que esté obligado al pago del derecho;\"]},{\"article\":\"Artículo 48.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Como valor de los Condensados, el precio de los Condensados extraídos en el área de que se trate, en el periodo de que se trate, multiplicado por el volumen de barriles de Condensados extraídos en el área en el mismo periodo por el que esté obligado al pago del derecho;\"]},{\"article\":\"Artículo 48.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VI\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"VI. Como precio del Gas Natural, el precio promedio que en el periodo que corresponda haya tenido la unidad térmica de Gas Natural extraído por el contribuyente, determinado de conformidad con las reglas de carácter general a las que se refiere el último párrafo de este artículo;\"]},{\"article\":\"Artículo 48.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VII\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"VII. Como precio de los Condensados, el precio promedio de los Condensados que en el periodo que corresponda haya tenido el barril de Condensados extraído por el contribuyente, determinado de conformidad con las reglas de carácter general a las que se refiere el último párrafo de este artículo;\"]},{\"article\":\"Artículo 48.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IX\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"IX. Como Paleocanal de Chicontepec, aquella área de Extracción de Petróleo y/o Gas Natural ubicados en los municipios de Castillo de Teayo, Coatzintla, Coyutla, Chicontepec, Espinal, Ixhuatlán de Madero, Temapache, Papantla, Poza Rica de Hidalgo, Tepetzintla o Tihuatlán, en el Estado de Veracruz de Ignacio de la Llave, o en los municipios de Francisco Z. Mena, Pantepec o Venustiano Carranza, en el Estado de Puebla, y\"]},{\"article\":\"Artículo 48.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"X\",\"from_block\":11,\"to_block\":11,\"paragraphs\":[\"X. Como área, la que corresponda de conformidad con la siguiente clasificación:\"]},{\"article\":\"Artículo 48.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo párrafo\",\"from_block\":17,\"to_block\":17,\"paragraphs\":[\"La Secretaría debe expedir las reglas de carácter general para la determinación del Valor de los Hidrocarburos correspondientes.\"]},{\"article\":\"Artículo 49.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primer párrafo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El Asignatario debe presentar ante la Secretaría un reporte anual de las inversiones, costos y gastos que, de conformidad con lo establecido en este Título, se hayan realizado durante el ejercicio fiscal de que se trate.\"]},{\"article\":\"Artículo 49.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo párrafo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"En dicho reporte el Asignatario debe incluir las inversiones, costos y gastos que se hayan realizado en el ejercicio de que se trate por cada campo de Extracción de Hidrocarburos, así como proyecciones de éstas para los dos ejercicios siguientes al que se reporte y, en caso de que las inversiones, gastos y costos que se hayan incurrido en el ejercicio fiscal de que se trate hayan presentado más de un 10% de diferencias respecto de los montos proyectados, deberá incluir la justificación correspondiente.\"]},{\"article\":\"Artículo 49.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto párrafo\",\"insert_after\":6,\"paragraphs\":[\"Adicional a lo anterior, el Asignatario debe presentar ante la Secretaría un reporte trimestral de las inversiones, costos y gastos que se hayan realizado durante el ejercicio de que se trate por cada campo de Extracción de Hidrocarburos, en los meses de abril, julio, octubre y enero del año que corresponda.\"]},{\"article\":\"Artículo 49.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"actual cuarto párrafo (pasa a quinto)\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"La Secretaría puede solicitar la información adicional que considere conveniente en relación con los reportes anual y trimestral, así como la información a que se refiere este artículo, y puede emitir las disposiciones de carácter general que sean necesarias para regular su presentación.\"]},{\"article\":\"Artículo 49.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"actual quinto párrafo (pasa a sexto)\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"El reporte anual y la información antes referida deben entregarse a más tardar el 31 de marzo del ejercicio fiscal siguiente a aquél que se reporte.\"]},{\"article\":\"Artículo 50.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 50.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Para los efectos de este Título, el Asignatario debe contar con sistemas de medición de volúmenes extraídos de Petróleo, Gas Natural y sus Condensados, instalados en cada campo y punto de transferencia de custodia. La Secretaría de Energía debe emitir los lineamientos para la medición de los citados volúmenes.\"]},{\"article\":\"Artículo 51.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primer párrafo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Para los efectos del presente Título, cuando el Asignatario enajene Petróleo o Gas Natural a partes relacionadas, está obligado a determinar el valor del Petróleo, Gas Natural y sus Condensados, considerando para esas operaciones, los precios y montos de contraprestaciones que hubiera utilizado con o entre partes independientes en operaciones comparables, para ello debe aplicar el método de precio comparable no controlado establecido en el artículo 180, fracción I de la Ley del Impuesto sobre la Renta.\"]},{\"article\":\"Artículo 52.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primer párrafo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El Asignatario debe enterar el derecho a que se refiere el presente Título al Fondo Mexicano del Petróleo.\"]},{\"article\":\"Artículo 52.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo párrafo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"El Asignatario debe cumplir ante la autoridad fiscal competente con las demás disposiciones de carácter fiscal relativas al pago de este derecho.\"]},{\"article\":\"Artículo 52.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercer párrafo\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Las declaraciones del derecho a que se refiere el presente Título deben presentarse mediante los mecanismos electrónicos que establezca el Servicio de Administración Tributaria, y el entero realizarse mediante transferencia electrónica al Fondo Mexicano del Petróleo.\"]},{\"article\":\"Artículo 52.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto párrafo\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Al presentar las declaraciones sobre el pago del derecho a que se refiere el presente Título a la autoridad fiscal, el Asignatario debe acompañar los comprobantes de pago emitidos por el Fondo Mexicano del Petróleo.\"]},{\"article\":\"Artículo 57.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo párrafo de la fracción III\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"Para efectos del párrafo anterior, la Secretaría de Energía, debe proveer a la Secretaría la información necesaria, de acuerdo con las reglas de operación señaladas, y\"]},{\"article\":\"Artículo 58.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":15,\"to_block\":15,\"paragraphs\":[\"II. Derivado de lo dispuesto en el Título Tercero, por cada una de las áreas definidas en la fracción X del artículo 48 de esta Ley:\"]},{\"article\":\"Artículo 58.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"c) de la fracción II\",\"from_block\":18,\"to_block\":18,\"paragraphs\":[\"c) Montos recibidos por concepto del derecho;\"]},{\"article\":\"Artículo 58.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"d) de la fracción II\",\"from_block\":19,\"to_block\":19,\"paragraphs\":[\"d) Montos de las inversiones reportadas por el Asignatario, y\"]},{\"article\":\"Artículo 58.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":21,\"to_block\":21,\"paragraphs\":[\"III. De manera agregada, el monto del impuesto sobre la renta pagado por los Contratistas, y en su caso, el monto de las devoluciones efectuadas;\"]},{\"article\":\"Artículo 58.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"c) de la fracción VI\",\"from_block\":27,\"to_block\":27,\"paragraphs\":[\"c) Los casos en que se haya ejercido la función a que se refiere el artículo 37, apartado B, fracción X, de esta Ley, así como el reporte obtenido de la Secretaría de Energía;\"]},{\"article\":\"Artículo 58.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo párrafo\",\"from_block\":30,\"to_block\":30,\"paragraphs\":[\"Para dar cumplimiento a lo dispuesto en este artículo, el Fondo Mexicano del Petróleo y la Secretaría deben coordinarse con la Secretaría de Energía y el Servicio de Administración Tributaria.\"]},{\"article\":\"Artículo 61.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 61.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La Secretaría debe incluir en la Cuenta de la Hacienda Pública Federal y en los Informes trimestrales sobre la situación económica, las finanzas públicas y la deuda pública, los ingresos obtenidos por el Estado Mexicano que deriven de los Contratos y del derecho a que se refiere la presente Ley.\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"Artículo 44.\",\"reason\":\"El decreto deroga el Capítulo II del Título Tercero (\\\"Del Derecho de Extracción de Hidrocarburos\\\") y lo reproduce seguido de \\\"Artículo 44.- Derogado\\\" y otro \\\"Derogado\\\" aparte. El esquema no permite derogar encabezados: hay que revisar a mano cómo queda el encabezado del capítulo (p. ej. \\\"Capítulo II (Se deroga)\\\") y a qué corresponde el segundo \\\"Derogado\\\". El artículo se derogó con el texto \\\"Derogado\\\".\"},{\"article\":\"Artículo 45.\",\"reason\":\"El decreto deroga el Capítulo III del Título Tercero (\\\"Del Derecho de Exploración de Hidrocarburos\\\"). El esquema no permite derogar encabezados: hay que revisar a mano cómo queda el encabezado del capítulo. El artículo se derogó con el texto \\\"Derogado\\\" (bloques 1 a 4; la nota editorial del bloque 5 no se tocó).\"}]}",
+ "duration_ms": 46422,
+ "total_cost_usd": 0.2575138,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 6702,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 15358,
+   "webSearchRequests": 0,
+   "costUSD": 0.2575138,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 922,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 15358,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

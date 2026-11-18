@@ -1,0 +1,43 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 994.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "III. De 50 a 1500 Unidades de Medida y Actualización al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV, XXII y XXVI Bis;"
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 994.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"III. De 50 a 1500 Unidades de Medida y Actualización al patrón que no cumpla las obligaciones señaladas en el artículo 132, fracciones IV, VII, VIII, IX, X, XII, XIV, XXII y XXVI Bis;\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 2704,
+ "total_cost_usd": 0.0228378,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 253,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 2146,
+   "webSearchRequests": 0,
+   "costUSD": 0.0228378,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 0,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 2146,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

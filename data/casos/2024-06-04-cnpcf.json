@@ -1,0 +1,326 @@
+{
+ "id": "2024-06-04-cnpcf",
+ "source": "backtest",
+ "law": {
+  "slug": "cnpcf",
+  "title": "Código Nacional de Procedimientos Civiles y Familiares",
+  "abbreviation": "CNPCF"
+ },
+ "decree": {
+  "code": 5729545,
+  "title": "Decreto por el que se adicionan los artículos 314 y 1144 del Código Nacional de Procedimientos Civiles y Familiares.",
+  "date": "2024-06-04",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5729545&fecha=04/06/2024",
+  "pdf": null,
+  "instruction": [
+   "Artículo Único.- Se adicionan un tercer párrafo al artículo 314 y un tercer párrafo al artículo 1144 del Código Nacional de Procedimientos Civiles y Familiares, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "7c1d02c19d471075bcd9b459f90a74bf99a1b2ae"
+ },
+ "official": {
+  "commit": "85f113395cd9586dffccf85f3b5215d8980d7987",
+  "date": "2024-06-04",
+  "same_day": true
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "Artículo 314.",
+    "Artículo 1144."
+   ],
+   "key": "6f28896213d0f41ac89f034b7aacb966fa4765878dbcbb3cd4c149c6b43908c6",
+   "cached": true,
+   "duration_ms": 4572,
+   "cost_usd": 0.028109799999999997,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "314": {
+   "label": "Artículo 314.",
+   "headings": [],
+   "lines": [
+    "Artículo 314. ...",
+    "...",
+    "Tratándose de documentos de nacimiento que acrediten la nacionalidad e identidad de personas mexicanas nacidas en el extranjero o migrantes en retorno de nacionalidad mexicana, no se requerirá de la legalización consular o de la apostilla. Bastará con presentar el certificado de nacimiento extranjero y el acta de nacimiento del padre o madre mexicanos para acreditar su identidad y su nacionalidad mexicana con el fin de obtener el registro de su nacimiento ante los Registros Civiles del país, en términos de la normatividad aplicable."
+   ]
+  },
+  "1144": {
+   "label": "Artículo 1144.",
+   "headings": [],
+   "lines": [
+    "Artículo 1144. ...",
+    "...",
+    "Tratándose de documentos de nacimiento que acrediten la nacionalidad e identidad de personas mexicanas nacidas en el extranjero o migrantes en retorno de nacionalidad mexicana, no se requerirá de la legalización consular o de la apostilla. Bastará con presentar el certificado de nacimiento extranjero y el acta de nacimiento del padre o madre mexicanos para acreditar su identidad y su nacionalidad mexicana con el fin de obtener el registro de su nacimiento ante los Registros Civiles del país, en términos de la normatividad aplicable."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "Artículo 314.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "paragraphs": [
+     "Tratándose de documentos de nacimiento que acrediten la nacionalidad e identidad de personas mexicanas nacidas en el extranjero o migrantes en retorno de nacionalidad mexicana, no se requerirá de la legalización consular o de la apostilla. Bastará con presentar el certificado de nacimiento extranjero y el acta de nacimiento del padre o madre mexicanos para acreditar su identidad y su nacionalidad mexicana con el fin de obtener el registro de su nacimiento ante los Registros Civiles del país, en términos de la normatividad aplicable."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 2,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 1144.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "paragraphs": [
+     "Tratándose de documentos de nacimiento que acrediten la nacionalidad e identidad de personas mexicanas nacidas en el extranjero o migrantes en retorno de nacionalidad mexicana, no se requerirá de la legalización consular o de la apostilla. Bastará con presentar el certificado de nacimiento extranjero y el acta de nacimiento del padre o madre mexicanos para acreditar su identidad y su nacionalidad mexicana con el fin de obtener el registro de su nacimiento ante los Registros Civiles del país, en términos de la normatividad aplicable."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 2,
+    "batch": 1
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "needs_review": [],
+ "counts": {
+  "exact": 2,
+  "normalized": 0,
+  "mismatch": 0,
+  "not_applied": 0,
+  "outside_decree": 2,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 0,
+  "notes_match": 2
+ },
+ "transitorios": "mismatch",
+ "body_identical": false,
+ "articles": [
+  {
+   "key": "314",
+   "label": "Artículo 314.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Para que los documentos públicos procedentes del extranjero, hagan fe en los Estados Unidos Mexicanos, deberán presentarse debidamente legalizados por las autoridades diplomáticas o consulares en los términos que establezcan los tratados y convenciones de los que México sea parte, la Ley del Servicio Exterior Mexicano y demás disposiciones aplicables.",
+    "En caso de imposibilidad para obtener la legalización, ésta se sustituirá por cualquier prueba adecuada para garantizar su autenticidad. En todo caso deberá estarse a lo señalado en los instrumentos internacionales en los que el Estado mexicano sea parte."
+   ],
+   "ai": [
+    "Para que los documentos públicos procedentes del extranjero, hagan fe en los Estados Unidos Mexicanos, deberán presentarse debidamente legalizados por las autoridades diplomáticas o consulares en los términos que establezcan los tratados y convenciones de los que México sea parte, la Ley del Servicio Exterior Mexicano y demás disposiciones aplicables.",
+    "En caso de imposibilidad para obtener la legalización, ésta se sustituirá por cualquier prueba adecuada para garantizar su autenticidad. En todo caso deberá estarse a lo señalado en los instrumentos internacionales en los que el Estado mexicano sea parte.",
+    "Tratándose de documentos de nacimiento que acrediten la nacionalidad e identidad de personas mexicanas nacidas en el extranjero o migrantes en retorno de nacionalidad mexicana, no se requerirá de la legalización consular o de la apostilla. Bastará con presentar el certificado de nacimiento extranjero y el acta de nacimiento del padre o madre mexicanos para acreditar su identidad y su nacionalidad mexicana con el fin de obtener el registro de su nacimiento ante los Registros Civiles del país, en términos de la normatividad aplicable.",
+    "Párrafo adicionado DOF 04-06-2024"
+   ],
+   "official": [
+    "Para que los documentos públicos procedentes del extranjero, hagan fe en los Estados Unidos Mexicanos, deberán presentarse debidamente legalizados por las autoridades diplomáticas o consulares en los términos que establezcan los tratados y convenciones de los que México sea parte, la Ley del Servicio Exterior Mexicano y demás disposiciones aplicables.",
+    "En caso de imposibilidad para obtener la legalización, ésta se sustituirá por cualquier prueba adecuada para garantizar su autenticidad. En todo caso deberá estarse a lo señalado en los instrumentos internacionales en los que el Estado mexicano sea parte.",
+    "Tratándose de documentos de nacimiento que acrediten la nacionalidad e identidad de personas mexicanas nacidas en el extranjero o migrantes en retorno de nacionalidad mexicana, no se requerirá de la legalización consular o de la apostilla. Bastará con presentar el certificado de nacimiento extranjero y el acta de nacimiento del padre o madre mexicanos para acreditar su identidad y su nacionalidad mexicana con el fin de obtener el registro de su nacimiento ante los Registros Civiles del país, en términos de la normatividad aplicable.",
+    "Párrafo adicionado DOF 04-06-2024"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "610",
+   "label": "Artículo 610.",
+   "status": "outside_decree",
+   "notes_match": true,
+   "before": [
+    "Sobre la rendición y aprobación de cuentas de las personas tutoras, regirán las siguientes reglas:",
+    "I. Las cuentas se rendirán dentro del mes de enero de cada año, exhibiendo los documentos justificativos, aunque no exista prevención judicial para ello;",
+    "II. La persona tutora, también tiene obligación de rendir cuentas cuando, por causas graves que calificará la autoridad jurisdiccional, lo exijan la persona curadora, el Consejo Local de Tutelas, la Procuraduría de Protección para Niñas, Niños y Adolescentes o el Representante de la Institución análoga de la Entidad Federativa de que se trate o el mismo menor que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa;",
+    "III. Se requiere prevención judicial para que las cuentas se rindan antes de llegar al plazo previsto en la fracción I; a menos que hubiese remoción o separación de la persona tutora, pues en este caso, sin requerimiento judicial, deberán presentarlas dentro de los quince días siguientes de la fecha de la remoción o separación. En igual forma se procederá cuando la tutela o la encomienda lleguen al final del plazo por haber cesado el estado de minoridad;",
+    "IV. Las personas a quienes deben ser rendidas las cuentas son: la misma autoridad jurisdiccional, la persona curadora, el Consejo Local de Tutelas, la misma niña, niño o adolescente que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa, la persona tutora que lo sustituya, el pupilo que dejare de serlo, el Ministerio Público y las demás personas que fija la ley de la materia;",
+    "V. La resolución que desaprobare las cuentas indicará, si fuere posible, los alcances y la que aprobare puede ser apelada por el Ministerio Público, los demás interesados y la persona curadora si hizo observaciones. Del auto de desaprobación pueden apelar en ambos efectos la persona tutora, la curadora o el Ministerio Público de la adscripción, y",
+    "VI. Si se objetaren de falsas algunas partidas, se substanciarán incidentalmente conforme a las disposiciones previstas en el presente Código Nacional, entendiéndose la audiencia sólo con los objetantes, el Ministerio Público de la adscripción y la persona tutora."
+   ],
+   "ai": [
+    "Sobre la rendición y aprobación de cuentas de las personas tutoras, regirán las siguientes reglas:",
+    "I. Las cuentas se rendirán dentro del mes de enero de cada año, exhibiendo los documentos justificativos, aunque no exista prevención judicial para ello;",
+    "II. La persona tutora, también tiene obligación de rendir cuentas cuando, por causas graves que calificará la autoridad jurisdiccional, lo exijan la persona curadora, el Consejo Local de Tutelas, la Procuraduría de Protección para Niñas, Niños y Adolescentes o el Representante de la Institución análoga de la Entidad Federativa de que se trate o el mismo menor que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa;",
+    "III. Se requiere prevención judicial para que las cuentas se rindan antes de llegar al plazo previsto en la fracción I; a menos que hubiese remoción o separación de la persona tutora, pues en este caso, sin requerimiento judicial, deberán presentarlas dentro de los quince días siguientes de la fecha de la remoción o separación. En igual forma se procederá cuando la tutela o la encomienda lleguen al final del plazo por haber cesado el estado de minoridad;",
+    "IV. Las personas a quienes deben ser rendidas las cuentas son: la misma autoridad jurisdiccional, la persona curadora, el Consejo Local de Tutelas, la misma niña, niño o adolescente que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa, la persona tutora que lo sustituya, el pupilo que dejare de serlo, el Ministerio Público y las demás personas que fija la ley de la materia;",
+    "V. La resolución que desaprobare las cuentas indicará, si fuere posible, los alcances y la que aprobare puede ser apelada por el Ministerio Público, los demás interesados y la persona curadora si hizo observaciones. Del auto de desaprobación pueden apelar en ambos efectos la persona tutora, la curadora o el Ministerio Público de la adscripción, y",
+    "VI. Si se objetaren de falsas algunas partidas, se substanciarán incidentalmente conforme a las disposiciones previstas en el presente Código Nacional, entendiéndose la audiencia sólo con los objetantes, el Ministerio Público de la adscripción y la persona tutora."
+   ],
+   "official": [
+    "Sobre la rendición y aprobación de cuentas de las personas tutoras, regirán las siguientes reglas:",
+    "I. Las cuentas se rendirán dentro del mes de enero de cada año, exhibiendo los documentos justificativos, aunque no exista prevención judicial para ello;",
+    "II. La persona tutora, también tiene obligación de rendir cuentas cuando, por causas graves que calificará la autoridad jurisdiccional, lo exijan la persona curadora, el Consejo Local de Tutelas, la Procuraduría de Protección para Niñas, Niños y Adolescentes o el Representante de la Institución análoga de la Entidad Federativa de que se trate o el mismo menor [que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa];",
+    "Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 (En la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”)",
+    "III. Se requiere prevención judicial para que las cuentas se rindan antes de llegar al plazo previsto en la fracción I; a menos que hubiese remoción o separación de la persona tutora, pues en este caso, sin requerimiento judicial, deberán presentarlas dentro de los quince días siguientes de la fecha de la remoción o separación. En igual forma se procederá cuando la tutela o la encomienda lleguen al final del plazo por haber cesado el estado de minoridad;",
+    "IV. Las personas a quienes deben ser rendidas las cuentas son: la misma autoridad jurisdiccional, la persona curadora, el Consejo Local de Tutelas, la misma niña, niño o adolescente [que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa], la persona tutora que lo sustituya, el pupilo que dejare de serlo, el Ministerio Público y las demás personas que fija la ley de la materia;",
+    "Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 (En la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”)",
+    "V. La resolución que desaprobare las cuentas indicará, si fuere posible, los alcances y la que aprobare puede ser apelada por el Ministerio Público, los demás interesados y la persona curadora si hizo observaciones. Del auto de desaprobación pueden apelar en ambos efectos la persona tutora, la curadora o el Ministerio Público de la adscripción, y",
+    "VI. Si se objetaren de falsas algunas partidas, se substanciarán incidentalmente conforme a las disposiciones previstas en el presente Código Nacional, entendiéndose la audiencia sólo con los objetantes, el Ministerio Público de la adscripción y la persona tutora."
+   ],
+   "diff": [
+    [
+     "=",
+     "… de la Entidad Federativa de que se trate o el mismo menor"
+    ],
+    [
+     "-",
+     "que"
+    ],
+    [
+     "+",
+     "[que"
+    ],
+    [
+     "=",
+     "hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad"
+    ],
+    [
+     "-",
+     "Federativa;"
+    ],
+    [
+     "+",
+     "Federativa]; ¶ Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 (En la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”)"
+    ],
+    [
+     "=",
+     "¶ III. Se requiere prevención judicial para que las cuentas se rindan … curadora, el Consejo Local de Tutelas, la misma niña, niño o adolescente"
+    ],
+    [
+     "-",
+     "que"
+    ],
+    [
+     "+",
+     "[que"
+    ],
+    [
+     "=",
+     "hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad"
+    ],
+    [
+     "-",
+     "Federativa,"
+    ],
+    [
+     "+",
+     "Federativa],"
+    ],
+    [
+     "=",
+     "la persona tutora que lo sustituya, el pupilo que dejare de serlo, el Ministerio Público y las demás personas que fija la ley de la materia;"
+    ],
+    [
+     "+",
+     "¶ Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 (En la porción normativa “que hubiere cumplido la edad exigida por la legislación sustantiva de cada Entidad Federativa”)"
+    ],
+    [
+     "=",
+     "¶ V. La resolución que desaprobare las cuentas indicará, si fuere posible, …"
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "638",
+   "label": "Artículo 638.",
+   "status": "outside_decree",
+   "notes_match": true,
+   "before": [
+    "La restitución de una niña, niño o adolescente sólo podrá negarse con base en lo siguiente:",
+    "I. Que existan pruebas suficientes a consideración de la autoridad jurisdiccional, de peligro inminente, o cualquier tipo de violencia, generada por la persona que solicita la restitución o con quien ésta comparta la residencia habitual;",
+    "II. Que quien solicitó la restitución no tenga derecho para solicitarla;",
+    "III. Que hubieren transcurrido más de tres años desde que fue presentada la solicitud de restitución, y",
+    "IV. Que la persona adolescente solicitada hubiere alcanzado la edad de dieciséis años y manifieste su conformidad con el traslado.",
+    "El desarrollo de la audiencia y la resolución que dicte la autoridad jurisdiccional, deberán apegarse de manera estricta al principio de interés superior de las niñas, niños o adolescentes."
+   ],
+   "ai": [
+    "La restitución de una niña, niño o adolescente sólo podrá negarse con base en lo siguiente:",
+    "I. Que existan pruebas suficientes a consideración de la autoridad jurisdiccional, de peligro inminente, o cualquier tipo de violencia, generada por la persona que solicita la restitución o con quien ésta comparta la residencia habitual;",
+    "II. Que quien solicitó la restitución no tenga derecho para solicitarla;",
+    "III. Que hubieren transcurrido más de tres años desde que fue presentada la solicitud de restitución, y",
+    "IV. Que la persona adolescente solicitada hubiere alcanzado la edad de dieciséis años y manifieste su conformidad con el traslado.",
+    "El desarrollo de la audiencia y la resolución que dicte la autoridad jurisdiccional, deberán apegarse de manera estricta al principio de interés superior de las niñas, niños o adolescentes."
+   ],
+   "official": [
+    "La restitución de una niña, niño o adolescente sólo podrá negarse con base en lo siguiente:",
+    "I. Que existan pruebas suficientes a consideración de la autoridad jurisdiccional, de peligro inminente, o cualquier tipo de violencia, generada por la persona que solicita la restitución o con quien ésta comparta la residencia habitual;",
+    "II. Que quien solicitó la restitución no tenga derecho para solicitarla;",
+    "III. [Que hubieren transcurrido más de tres años desde que fue presentada la solicitud de restitución, y]",
+    "Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024",
+    "IV. Que la persona adolescente solicitada hubiere alcanzado la edad de dieciséis años y manifieste su conformidad con el traslado.",
+    "El desarrollo de la audiencia y la resolución que dicte la autoridad jurisdiccional, deberán apegarse de manera estricta al principio de interés superior de las niñas, niños o adolescentes."
+   ],
+   "diff": [
+    [
+     "=",
+     "… Que quien solicitó la restitución no tenga derecho para solicitarla; ¶ III."
+    ],
+    [
+     "-",
+     "Que"
+    ],
+    [
+     "+",
+     "[Que"
+    ],
+    [
+     "=",
+     "hubieren transcurrido más de tres años desde que fue presentada la solicitud de restitución,"
+    ],
+    [
+     "-",
+     "y"
+    ],
+    [
+     "+",
+     "y] ¶ Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024"
+    ],
+    [
+     "=",
+     "¶ IV. Que la persona adolescente solicitada hubiere alcanzado la edad de …"
+    ]
+   ],
+   "cause": null
+  },
+  {
+   "key": "1144",
+   "label": "Artículo 1144.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Los documentos públicos extranjeros serán reconocidos por las autoridades mexicanas cuando se presenten debidamente apostillados o legalizados en términos de la legislación aplicable o conforme a las salvedades que dispongan los instrumentos internacionales o las leyes nacionales en la materia.",
+    "En caso de imposibilidad para obtener la legalización, ésta se substituirá por cualquier prueba adecuada para garantizar su autenticidad."
+   ],
+   "ai": [
+    "Los documentos públicos extranjeros serán reconocidos por las autoridades mexicanas cuando se presenten debidamente apostillados o legalizados en términos de la legislación aplicable o conforme a las salvedades que dispongan los instrumentos internacionales o las leyes nacionales en la materia.",
+    "En caso de imposibilidad para obtener la legalización, ésta se substituirá por cualquier prueba adecuada para garantizar su autenticidad.",
+    "Tratándose de documentos de nacimiento que acrediten la nacionalidad e identidad de personas mexicanas nacidas en el extranjero o migrantes en retorno de nacionalidad mexicana, no se requerirá de la legalización consular o de la apostilla. Bastará con presentar el certificado de nacimiento extranjero y el acta de nacimiento del padre o madre mexicanos para acreditar su identidad y su nacionalidad mexicana con el fin de obtener el registro de su nacimiento ante los Registros Civiles del país, en términos de la normatividad aplicable.",
+    "Párrafo adicionado DOF 04-06-2024"
+   ],
+   "official": [
+    "Los documentos públicos extranjeros serán reconocidos por las autoridades mexicanas cuando se presenten debidamente apostillados o legalizados en términos de la legislación aplicable o conforme a las salvedades que dispongan los instrumentos internacionales o las leyes nacionales en la materia.",
+    "En caso de imposibilidad para obtener la legalización, ésta se substituirá por cualquier prueba adecuada para garantizar su autenticidad.",
+    "Tratándose de documentos de nacimiento que acrediten la nacionalidad e identidad de personas mexicanas nacidas en el extranjero o migrantes en retorno de nacionalidad mexicana, no se requerirá de la legalización consular o de la apostilla. Bastará con presentar el certificado de nacimiento extranjero y el acta de nacimiento del padre o madre mexicanos para acreditar su identidad y su nacionalidad mexicana con el fin de obtener el registro de su nacimiento ante los Registros Civiles del país, en términos de la normatividad aplicable.",
+    "Párrafo adicionado DOF 04-06-2024"
+   ],
+   "diff": [],
+   "cause": null
+  }
+ ]
+}

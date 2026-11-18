@@ -1,0 +1,508 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 164.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 164",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Cuando el acto reclamado consista en la detención de la persona quejosa efectuada por autoridades administrativas distintas del o la Ministerio Público, en relación con la comisión de un delito, se ordenará que sin demora cese la detención, poniéndolo en libertad o a disposición del o la Ministerio Público.",
+     "Cuando en los supuestos del párrafo anterior, la detención de la persona quejosa no tenga relación con la comisión de un delito, la suspensión tendrá por efecto que sea puesta en libertad."
+    ]
+   },
+   {
+    "article": "Artículo 165.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 165",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "Cuando el acto reclamado afecte la libertad personal de la persona quejosa y se encuentre a disposición del o la Ministerio Público por cumplimiento de orden de detención del mismo, salvo el caso de la detención por caso urgente, la suspensión se concederá para el efecto de que dentro del término de cuarenta y ocho horas o en un plazo de noventa y seis, tratándose de delincuencia organizada, contadas a partir del momento de la detención, sea puesto en libertad o a disposición ante el órgano jurisdiccional correspondiente.",
+     "Cuando la persona quejosa se encuentre a disposición del o la Ministerio Público por haber sido detenida en flagrancia o caso urgente, el plazo contará a partir de que sea puesto a disposición.",
+     "En cualquier caso distinto de los anteriores y en la detención por caso urgente, en los que el o la Ministerio Público restrinja la libertad de la persona quejosa, la suspensión se concederá para el efecto de que sea puesto en inmediata libertad o a disposición ante el órgano jurisdiccional correspondiente."
+    ]
+   },
+   {
+    "article": "Artículo 166.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Si se trata de delitos de prisión preventiva oficiosa a que se refiere el artículo 19 constitucional, la suspensión sólo producirá el efecto de que la persona quejosa quede a disposición del órgano jurisdiccional de amparo en el lugar que éste señale únicamente en lo que se refiera a su libertad, quedando a disposición de la autoridad a la que corresponda conocer el procedimiento penal para los efectos de su continuación;"
+    ]
+   },
+   {
+    "article": "Artículo 166.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Si se trata de delitos que no impliquen prisión preventiva oficiosa, la suspensión producirá el efecto de que la persona quejosa no sea detenida, bajo las medidas de aseguramiento que el órgano jurisdiccional de amparo estime necesarias a fin de que no evada la acción de la justicia y se presente al proceso penal para los efectos de su continuación y pueda ser devuelto a la autoridad responsable en caso de que no obtenga la protección de la justicia federal."
+    ]
+   },
+   {
+    "article": "Artículo 166.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Cuando la persona quejosa ya se encuentre materialmente detenida por orden de autoridad competente y el o la Ministerio Público que interviene en el procedimiento penal solicite al juez o jueza la prisión preventiva porque considere que otras medidas cautelares no sean suficientes para garantizar la comparecencia de la persona imputada en el juicio, el desarrollo de la investigación, la protección a la víctima, de las y los testigos o de la comunidad, así como cuando la persona imputada esté siendo procesada o haya sido sentenciada previamente por la comisión de un delito doloso, y el juez o jueza del proceso penal acuerde la prisión preventiva, el efecto de la suspensión sólo será el establecido en la fracción I de este artículo."
+    ]
+   },
+   {
+    "article": "Artículo 166.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Si la persona quejosa incumple las medidas de aseguramiento o las obligaciones derivadas del procedimiento penal, la suspensión será revocada con la sola comunicación de la autoridad responsable."
+    ]
+   },
+   {
+    "article": "Artículo 167.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 167",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La libertad otorgada a la persona quejosa con motivo de una resolución suspensional podrá ser revocada cuando ésta incumpla con cualquiera de las obligaciones establecidas por el órgano jurisdiccional de amparo o derivadas del procedimiento penal respectivo."
+    ]
+   },
+   {
+    "article": "Artículo 168.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Para la procedencia de la suspensión contra actos derivados de un procedimiento penal que afecten la libertad personal, el órgano jurisdiccional de amparo deberá exigir a la persona quejosa que exhiba garantía, sin perjuicio de otras medidas de aseguramiento que estime convenientes."
+    ]
+   },
+   {
+    "article": "Artículo 168.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "II. Las características personales y situación económica de la persona quejosa, y"
+    ]
+   },
+   {
+    "article": "Artículo 169.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 169",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando haya temor fundado de que la autoridad responsable trate de burlar la orden de libertad de la persona quejosa o de ocultarla, el órgano jurisdiccional de amparo podrá hacerlo comparecer ante él a través de los medios que estime pertinente o trasladarse al lugar de su detención para ponerlo en libertad. Para tal efecto las autoridades civiles y militares estarán obligadas a brindar el auxilio necesario al órgano jurisdiccional de amparo."
+    ]
+   },
+   {
+    "article": "Artículo 170.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I, párrafo primero",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Contra sentencias definitivas, laudos y resoluciones que pongan fin al juicio, dictadas por tribunales judiciales, administrativos, agrarios o del trabajo, ya sea que la violación se cometa en ellos, o que cometida durante el procedimiento, afecte las defensas de la persona quejosa trascendiendo al resultado del fallo."
+    ]
+   },
+   {
+    "article": "Artículo 170.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "I, párrafo segundo",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Se entenderá por sentencias definitivas o laudos, los que decidan el juicio en lo principal; por resoluciones que pongan fin al juicio, las que sin decidirlo en lo principal lo den por concluido. En materia penal, las sentencias condenatorias, absolutorias y de sobreseimiento, podrán ser impugnadas por la víctima u persona ofendida del delito."
+    ]
+   },
+   {
+    "article": "Artículo 170.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "I, párrafo quinto",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "Para efectos de esta Ley, el juicio se inicia con la presentación de la demanda. En materia penal el proceso comienza con la audiencia inicial ante el Juez o Jueza de control;"
+    ]
+   },
+   {
+    "article": "Artículo 170.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II, párrafo primero",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "II. Contra sentencias definitivas y resoluciones que pongan fin al juicio dictadas por tribunales de lo contencioso administrativo cuando éstas sean favorables a la persona quejosa, para el único efecto de hacer valer conceptos de violación en contra de las normas generales aplicadas."
+    ]
+   },
+   {
+    "article": "Artículo 171.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 171",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Al reclamarse la sentencia definitiva, laudo o resolución que ponga fin al juicio, deberán hacerse valer las violaciones a las leyes del procedimiento, siempre y cuando la persona quejosa las haya impugnado durante la tramitación del juicio, mediante el recurso o medio de defensa que, en su caso, señale la ley ordinaria respectiva y la violación procesal trascienda al resultado del fallo.",
+     "Este requisito no será exigible en amparos contra actos que afecten derechos de menores de edad o incapaces, al estado civil, o al orden o estabilidad de la familia, ejidatarios o ejidatarias, comuneros o comuneras, trabajadores o trabajadoras, núcleos de población ejidal o comunal, o quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, ni en los de naturaleza penal promovidos por la persona inculpada. Tampoco será exigible el requisito cuando se alegue que, la ley aplicada o que se debió aplicar en el acto procesal, es contrario a la Constitución o a los tratados internacionales de los que el Estado Mexicano sea parte."
+    ]
+   },
+   {
+    "article": "Artículo 172.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En los juicios tramitados ante los tribunales administrativos, civiles, agrarios o del trabajo, se considerarán violadas las leyes del procedimiento y que se afectan las defensas de la persona quejosa, trascendiendo al resultado del fallo, cuando:"
+    ]
+   },
+   {
+    "article": "Artículo 172.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Haya sido falsamente representada en el juicio de que se trate;"
+    ]
+   },
+   {
+    "article": "Artículo 172.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Se declare ilegalmente confesa a la persona quejosa, a su representante o apoderado o apoderada;"
+    ]
+   },
+   {
+    "article": "Artículo 172.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XI",
+    "from_block": 12,
+    "to_block": 12,
+    "paragraphs": [
+     "XI. Se desarrolle cualquier audiencia sin la presencia del juez o jueza o se practiquen diligencias judiciales de forma distinta a la prevenida por la ley, y"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En los juicios del orden penal se considerarán violadas las leyes del procedimiento con trascendencia a las defensas de la persona quejosa, cuando:"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado A, fracción I",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "I. No se le haga saber el motivo del procedimiento o la causa de la acusación y el nombre del acusador o acusadora particular si lo hubiere;"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado A, fracción II",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "II. No se le permita nombrar defensor o defensora, en la forma que determine la ley; cuando no se le haga saber el nombre del o la adscrita al juzgado o tribunal que conozca de la causa, si no tuviere quien la defienda; cuando no se le facilite la manera de hacer saber su nombramiento al defensor o defensora designada; cuando se le impida comunicarse con él o que dicho defensor lo asista en alguna diligencia del proceso, o cuando, habiéndose negado a nombrar defensor o defensora, sin manifestar expresamente que se defenderá por sí misma, no se le nombre de oficio;"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado A, fracción III",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "III. Habiéndolo solicitado no se le caree, en presencia del juez o jueza, en los supuestos y términos que establezca la ley;"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado A, fracción IV",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "IV. El juez o jueza no actúe con secretario o secretaria o con testigos de asistencia, o cuando se practiquen diligencias en forma distinta de la prevenida por la ley;"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado A, fracción VI",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "VI. No se respete a la persona imputada el derecho a declarar o a guardar silencio, la declaración de la persona imputada se obtenga mediante incomunicación, intimidación, tortura o sin presencia de su defensor o defensora o cuando el ejercicio del derecho a guardar silencio se utilice en su perjuicio;"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado A, fracción X",
+    "from_block": 12,
+    "to_block": 12,
+    "paragraphs": [
+     "X. Se celebre la audiencia de derecho sin la asistencia del o la Agente del Ministerio Público a quien corresponda formular la requisitoria, sin la del juez o jueza que deba fallar o la del secretario o secretaria o testigos de asistencia que deban autorizar el acto, así como el defensor o defensora;"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado A, fracción XI",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "XI. La sentencia se funde en la confesión del reo o la rea, si estuvo incomunicada antes de otorgarla, o si se obtuvo su declaración por medio de intimidación, tortura o de cualquiera otra coacción;"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado A, fracción XIII",
+    "from_block": 15,
+    "to_block": 16,
+    "paragraphs": [
+     "XIII. Seguido el proceso por el delito determinado en el auto de formal prisión, la persona quejosa fuere sentenciada por diverso delito;",
+     "No se considerará que el delito es diverso cuando el que se exprese en la sentencia solo difiera en grado del que haya sido materia del proceso, ni cuando se refiera a los mismos hechos materiales que fueron objeto de la averiguación siempre que, en este último caso el o la Ministerio Público haya formulado conclusiones acusatorias cambiando la clasificación del delito hecha en el auto de formal prisión o de sujeción a proceso, y que la persona quejosa hubiese sido oída en defensa sobre la nueva clasificación, durante el juicio propiamente tal, y"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado B, fracción VI",
+    "from_block": 25,
+    "to_block": 25,
+    "paragraphs": [
+     "VI. No se respete a la persona imputada el derecho a declarar o guardar silencio, la declaración de la persona imputada se obtenga mediante incomunicación, intimidación, tortura o sin presencia de su defensor o defensora, o cuando el ejercicio del derecho a guardar silencio se utilice en su perjuicio;"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado B, fracción VIII",
+    "from_block": 27,
+    "to_block": 27,
+    "paragraphs": [
+     "VIII. La persona imputada no sea informada, desde el momento de su detención en su comparecencia ante el o la Ministerio Público o ante el órgano jurisdiccional, de los hechos que se le imputan y los derechos que le asisten;"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado B, fracción IX",
+    "from_block": 28,
+    "to_block": 28,
+    "paragraphs": [
+     "IX. No se le haga saber o se le niegue a la persona imputada extranjera, el derecho a recibir asistencia consular de las embajadas o consulados del país respecto del que sea nacional, salvo que haya declinado fehacientemente a este derecho;"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado B, fracción X",
+    "from_block": 29,
+    "to_block": 29,
+    "paragraphs": [
+     "X. No se reciban a la persona imputada los medios de prueba o pruebas pertinentes que ofrezca o no se reciban con arreglo a derecho, no se le conceda el tiempo para el ofrecimiento de pruebas o no se le auxilie para obtener la comparecencia de las personas de quienes ofrezca su testimonio en los términos señalados por la ley;"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado B, fracción XI",
+    "from_block": 30,
+    "to_block": 30,
+    "paragraphs": [
+     "XI. La persona imputada no sea juzgada en audiencia pública por un juez o jueza o tribunal, salvo cuando se trate de los casos de excepción precisados por las disposiciones aplicables;"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado B, fracción XII",
+    "from_block": 31,
+    "to_block": 31,
+    "paragraphs": [
+     "XII. No se faciliten a la persona imputada todos los datos que solicite para su defensa y que consten en el procedimiento o se restrinja a la persona imputada y a la defensa el acceso a los registros de investigación cuando la primera esté detenida o se pretenda recibirle declaración o entrevistarla;"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado B, fracción XIII",
+    "from_block": 32,
+    "to_block": 32,
+    "paragraphs": [
+     "XIII. No se respete a la persona imputada el derecho de contar con una defensa adecuada por abogado o abogada que elija libremente desde el momento de su detención, o en caso de que no quiera o no pueda hacerlo, el juez o jueza no le nombre un defensor o defensora pública, o cuando se impida, restrinja o intervenga la comunicación con su defensor o defensora; cuando la persona imputada sea indígena no se le proporcione la asistencia de un defensor o defensora que tenga conocimiento de su lengua y cultura, así como cuando el defensor o defensora no comparezca a todos los actos del proceso;"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado B, fracción XIV",
+    "from_block": 33,
+    "to_block": 33,
+    "paragraphs": [
+     "XIV. En caso de que la persona imputada no hable o entienda suficientemente el idioma español o sea sorda o muda y no se le proporcione la asistencia de un o una intérprete que le permita acceder plenamente a la jurisdicción del Estado, o que tratándose de personas indígenas no se les proporcione un o una intérprete que tenga conocimiento de su lengua y cultura;"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado B, fracción XVII",
+    "from_block": 36,
+    "to_block": 36,
+    "paragraphs": [
+     "XVII. No se hayan respetado los derechos de la persona víctima y ofendida en términos de la legislación aplicable;"
+    ]
+   },
+   {
+    "article": "Artículo 173.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "Apartado B, fracción XVIII, párrafo primero",
+    "from_block": 37,
+    "to_block": 37,
+    "paragraphs": [
+     "XVIII. Cuando seguido el proceso por un delito, la persona quejosa haya sido sentenciada por un ilícito diverso a los mismos hechos materiales que fueron objeto de la investigación, sin que hubiese sido oído en defensa sobre la nueva clasificación, en términos de la legislación procedimental aplicable."
+    ]
+   },
+   {
+    "article": "Artículo 174.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En la demanda de amparo principal y en su caso, en la adhesiva la persona quejosa deberá hacer valer todas las violaciones procesales que estime se cometieron; las que no se hagan valer se tendrán por consentidas. Asimismo, precisará la forma en que trascendieron en su perjuicio al resultado del fallo."
+    ]
+   },
+   {
+    "article": "Artículo 175.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. El nombre y domicilio de la persona quejosa y de quien promueve en su nombre;"
+    ]
+   },
+   {
+    "article": "Artículo 175.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. El nombre y domicilio de la o el tercero interesado;"
+    ]
+   },
+   {
+    "article": "Artículo 175.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "V. La fecha en que se haya notificado el acto reclamado a la persona quejosa o aquélla en que hubiese tenido conocimiento del mismo;"
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "Artículo 166.",
+    "reason": "La instrucción menciona el 'párrafo primero', pero el decreto lo deja intacto ('Artículo 166. ...'). Sólo se aplicaron las fracciones I y II y los párrafos segundo y tercero (bloques 4 y 5); el bloque 6 queda sin cambio."
+   },
+   {
+    "article": "Artículo 173.",
+    "reason": "Para el Apartado A, fracción XIII, el decreto reescribe también su párrafo complementario (bloque 16), aunque la instrucción no lo menciona. Se aplicó como parte de la fracción XIII; conviene confirmarlo."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 164.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 164\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Cuando el acto reclamado consista en la detención de la persona quejosa efectuada por autoridades administrativas distintas del o la Ministerio Público, en relación con la comisión de un delito, se ordenará que sin demora cese la detención, poniéndolo en libertad o a disposición del o la Ministerio Público.\",\"Cuando en los supuestos del párrafo anterior, la detención de la persona quejosa no tenga relación con la comisión de un delito, la suspensión tendrá por efecto que sea puesta en libertad.\"]},{\"article\":\"Artículo 165.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 165\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"Cuando el acto reclamado afecte la libertad personal de la persona quejosa y se encuentre a disposición del o la Ministerio Público por cumplimiento de orden de detención del mismo, salvo el caso de la detención por caso urgente, la suspensión se concederá para el efecto de que dentro del término de cuarenta y ocho horas o en un plazo de noventa y seis, tratándose de delincuencia organizada, contadas a partir del momento de la detención, sea puesto en libertad o a disposición ante el órgano jurisdiccional correspondiente.\",\"Cuando la persona quejosa se encuentre a disposición del o la Ministerio Público por haber sido detenida en flagrancia o caso urgente, el plazo contará a partir de que sea puesto a disposición.\",\"En cualquier caso distinto de los anteriores y en la detención por caso urgente, en los que el o la Ministerio Público restrinja la libertad de la persona quejosa, la suspensión se concederá para el efecto de que sea puesto en inmediata libertad o a disposición ante el órgano jurisdiccional correspondiente.\"]},{\"article\":\"Artículo 166.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Si se trata de delitos de prisión preventiva oficiosa a que se refiere el artículo 19 constitucional, la suspensión sólo producirá el efecto de que la persona quejosa quede a disposición del órgano jurisdiccional de amparo en el lugar que éste señale únicamente en lo que se refiera a su libertad, quedando a disposición de la autoridad a la que corresponda conocer el procedimiento penal para los efectos de su continuación;\"]},{\"article\":\"Artículo 166.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Si se trata de delitos que no impliquen prisión preventiva oficiosa, la suspensión producirá el efecto de que la persona quejosa no sea detenida, bajo las medidas de aseguramiento que el órgano jurisdiccional de amparo estime necesarias a fin de que no evada la acción de la justicia y se presente al proceso penal para los efectos de su continuación y pueda ser devuelto a la autoridad responsable en caso de que no obtenga la protección de la justicia federal.\"]},{\"article\":\"Artículo 166.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Cuando la persona quejosa ya se encuentre materialmente detenida por orden de autoridad competente y el o la Ministerio Público que interviene en el procedimiento penal solicite al juez o jueza la prisión preventiva porque considere que otras medidas cautelares no sean suficientes para garantizar la comparecencia de la persona imputada en el juicio, el desarrollo de la investigación, la protección a la víctima, de las y los testigos o de la comunidad, así como cuando la persona imputada esté siendo procesada o haya sido sentenciada previamente por la comisión de un delito doloso, y el juez o jueza del proceso penal acuerde la prisión preventiva, el efecto de la suspensión sólo será el establecido en la fracción I de este artículo.\"]},{\"article\":\"Artículo 166.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Si la persona quejosa incumple las medidas de aseguramiento o las obligaciones derivadas del procedimiento penal, la suspensión será revocada con la sola comunicación de la autoridad responsable.\"]},{\"article\":\"Artículo 167.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 167\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La libertad otorgada a la persona quejosa con motivo de una resolución suspensional podrá ser revocada cuando ésta incumpla con cualquiera de las obligaciones establecidas por el órgano jurisdiccional de amparo o derivadas del procedimiento penal respectivo.\"]},{\"article\":\"Artículo 168.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Para la procedencia de la suspensión contra actos derivados de un procedimiento penal que afecten la libertad personal, el órgano jurisdiccional de amparo deberá exigir a la persona quejosa que exhiba garantía, sin perjuicio de otras medidas de aseguramiento que estime convenientes.\"]},{\"article\":\"Artículo 168.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"II. Las características personales y situación económica de la persona quejosa, y\"]},{\"article\":\"Artículo 169.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 169\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando haya temor fundado de que la autoridad responsable trate de burlar la orden de libertad de la persona quejosa o de ocultarla, el órgano jurisdiccional de amparo podrá hacerlo comparecer ante él a través de los medios que estime pertinente o trasladarse al lugar de su detención para ponerlo en libertad. Para tal efecto las autoridades civiles y militares estarán obligadas a brindar el auxilio necesario al órgano jurisdiccional de amparo.\"]},{\"article\":\"Artículo 170.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I, párrafo primero\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Contra sentencias definitivas, laudos y resoluciones que pongan fin al juicio, dictadas por tribunales judiciales, administrativos, agrarios o del trabajo, ya sea que la violación se cometa en ellos, o que cometida durante el procedimiento, afecte las defensas de la persona quejosa trascendiendo al resultado del fallo.\"]},{\"article\":\"Artículo 170.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"I, párrafo segundo\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Se entenderá por sentencias definitivas o laudos, los que decidan el juicio en lo principal; por resoluciones que pongan fin al juicio, las que sin decidirlo en lo principal lo den por concluido. En materia penal, las sentencias condenatorias, absolutorias y de sobreseimiento, podrán ser impugnadas por la víctima u persona ofendida del delito.\"]},{\"article\":\"Artículo 170.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"I, párrafo quinto\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"Para efectos de esta Ley, el juicio se inicia con la presentación de la demanda. En materia penal el proceso comienza con la audiencia inicial ante el Juez o Jueza de control;\"]},{\"article\":\"Artículo 170.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II, párrafo primero\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"II. Contra sentencias definitivas y resoluciones que pongan fin al juicio dictadas por tribunales de lo contencioso administrativo cuando éstas sean favorables a la persona quejosa, para el único efecto de hacer valer conceptos de violación en contra de las normas generales aplicadas.\"]},{\"article\":\"Artículo 171.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 171\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Al reclamarse la sentencia definitiva, laudo o resolución que ponga fin al juicio, deberán hacerse valer las violaciones a las leyes del procedimiento, siempre y cuando la persona quejosa las haya impugnado durante la tramitación del juicio, mediante el recurso o medio de defensa que, en su caso, señale la ley ordinaria respectiva y la violación procesal trascienda al resultado del fallo.\",\"Este requisito no será exigible en amparos contra actos que afecten derechos de menores de edad o incapaces, al estado civil, o al orden o estabilidad de la familia, ejidatarios o ejidatarias, comuneros o comuneras, trabajadores o trabajadoras, núcleos de población ejidal o comunal, o quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, ni en los de naturaleza penal promovidos por la persona inculpada. Tampoco será exigible el requisito cuando se alegue que, la ley aplicada o que se debió aplicar en el acto procesal, es contrario a la Constitución o a los tratados internacionales de los que el Estado Mexicano sea parte.\"]},{\"article\":\"Artículo 172.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En los juicios tramitados ante los tribunales administrativos, civiles, agrarios o del trabajo, se considerarán violadas las leyes del procedimiento y que se afectan las defensas de la persona quejosa, trascendiendo al resultado del fallo, cuando:\"]},{\"article\":\"Artículo 172.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Haya sido falsamente representada en el juicio de que se trate;\"]},{\"article\":\"Artículo 172.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Se declare ilegalmente confesa a la persona quejosa, a su representante o apoderado o apoderada;\"]},{\"article\":\"Artículo 172.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XI\",\"from_block\":12,\"to_block\":12,\"paragraphs\":[\"XI. Se desarrolle cualquier audiencia sin la presencia del juez o jueza o se practiquen diligencias judiciales de forma distinta a la prevenida por la ley, y\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En los juicios del orden penal se considerarán violadas las leyes del procedimiento con trascendencia a las defensas de la persona quejosa, cuando:\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado A, fracción I\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"I. No se le haga saber el motivo del procedimiento o la causa de la acusación y el nombre del acusador o acusadora particular si lo hubiere;\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado A, fracción II\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"II. No se le permita nombrar defensor o defensora, en la forma que determine la ley; cuando no se le haga saber el nombre del o la adscrita al juzgado o tribunal que conozca de la causa, si no tuviere quien la defienda; cuando no se le facilite la manera de hacer saber su nombramiento al defensor o defensora designada; cuando se le impida comunicarse con él o que dicho defensor lo asista en alguna diligencia del proceso, o cuando, habiéndose negado a nombrar defensor o defensora, sin manifestar expresamente que se defenderá por sí misma, no se le nombre de oficio;\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado A, fracción III\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"III. Habiéndolo solicitado no se le caree, en presencia del juez o jueza, en los supuestos y términos que establezca la ley;\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado A, fracción IV\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"IV. El juez o jueza no actúe con secretario o secretaria o con testigos de asistencia, o cuando se practiquen diligencias en forma distinta de la prevenida por la ley;\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado A, fracción VI\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"VI. No se respete a la persona imputada el derecho a declarar o a guardar silencio, la declaración de la persona imputada se obtenga mediante incomunicación, intimidación, tortura o sin presencia de su defensor o defensora o cuando el ejercicio del derecho a guardar silencio se utilice en su perjuicio;\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado A, fracción X\",\"from_block\":12,\"to_block\":12,\"paragraphs\":[\"X. Se celebre la audiencia de derecho sin la asistencia del o la Agente del Ministerio Público a quien corresponda formular la requisitoria, sin la del juez o jueza que deba fallar o la del secretario o secretaria o testigos de asistencia que deban autorizar el acto, así como el defensor o defensora;\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado A, fracción XI\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"XI. La sentencia se funde en la confesión del reo o la rea, si estuvo incomunicada antes de otorgarla, o si se obtuvo su declaración por medio de intimidación, tortura o de cualquiera otra coacción;\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado A, fracción XIII\",\"from_block\":15,\"to_block\":16,\"paragraphs\":[\"XIII. Seguido el proceso por el delito determinado en el auto de formal prisión, la persona quejosa fuere sentenciada por diverso delito;\",\"No se considerará que el delito es diverso cuando el que se exprese en la sentencia solo difiera en grado del que haya sido materia del proceso, ni cuando se refiera a los mismos hechos materiales que fueron objeto de la averiguación siempre que, en este último caso el o la Ministerio Público haya formulado conclusiones acusatorias cambiando la clasificación del delito hecha en el auto de formal prisión o de sujeción a proceso, y que la persona quejosa hubiese sido oída en defensa sobre la nueva clasificación, durante el juicio propiamente tal, y\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado B, fracción VI\",\"from_block\":25,\"to_block\":25,\"paragraphs\":[\"VI. No se respete a la persona imputada el derecho a declarar o guardar silencio, la declaración de la persona imputada se obtenga mediante incomunicación, intimidación, tortura o sin presencia de su defensor o defensora, o cuando el ejercicio del derecho a guardar silencio se utilice en su perjuicio;\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado B, fracción VIII\",\"from_block\":27,\"to_block\":27,\"paragraphs\":[\"VIII. La persona imputada no sea informada, desde el momento de su detención en su comparecencia ante el o la Ministerio Público o ante el órgano jurisdiccional, de los hechos que se le imputan y los derechos que le asisten;\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado B, fracción IX\",\"from_block\":28,\"to_block\":28,\"paragraphs\":[\"IX. No se le haga saber o se le niegue a la persona imputada extranjera, el derecho a recibir asistencia consular de las embajadas o consulados del país respecto del que sea nacional, salvo que haya declinado fehacientemente a este derecho;\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado B, fracción X\",\"from_block\":29,\"to_block\":29,\"paragraphs\":[\"X. No se reciban a la persona imputada los medios de prueba o pruebas pertinentes que ofrezca o no se reciban con arreglo a derecho, no se le conceda el tiempo para el ofrecimiento de pruebas o no se le auxilie para obtener la comparecencia de las personas de quienes ofrezca su testimonio en los términos señalados por la ley;\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado B, fracción XI\",\"from_block\":30,\"to_block\":30,\"paragraphs\":[\"XI. La persona imputada no sea juzgada en audiencia pública por un juez o jueza o tribunal, salvo cuando se trate de los casos de excepción precisados por las disposiciones aplicables;\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado B, fracción XII\",\"from_block\":31,\"to_block\":31,\"paragraphs\":[\"XII. No se faciliten a la persona imputada todos los datos que solicite para su defensa y que consten en el procedimiento o se restrinja a la persona imputada y a la defensa el acceso a los registros de investigación cuando la primera esté detenida o se pretenda recibirle declaración o entrevistarla;\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado B, fracción XIII\",\"from_block\":32,\"to_block\":32,\"paragraphs\":[\"XIII. No se respete a la persona imputada el derecho de contar con una defensa adecuada por abogado o abogada que elija libremente desde el momento de su detención, o en caso de que no quiera o no pueda hacerlo, el juez o jueza no le nombre un defensor o defensora pública, o cuando se impida, restrinja o intervenga la comunicación con su defensor o defensora; cuando la persona imputada sea indígena no se le proporcione la asistencia de un defensor o defensora que tenga conocimiento de su lengua y cultura, así como cuando el defensor o defensora no comparezca a todos los actos del proceso;\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado B, fracción XIV\",\"from_block\":33,\"to_block\":33,\"paragraphs\":[\"XIV. En caso de que la persona imputada no hable o entienda suficientemente el idioma español o sea sorda o muda y no se le proporcione la asistencia de un o una intérprete que le permita acceder plenamente a la jurisdicción del Estado, o que tratándose de personas indígenas no se les proporcione un o una intérprete que tenga conocimiento de su lengua y cultura;\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado B, fracción XVII\",\"from_block\":36,\"to_block\":36,\"paragraphs\":[\"XVII. No se hayan respetado los derechos de la persona víctima y ofendida en términos de la legislación aplicable;\"]},{\"article\":\"Artículo 173.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"Apartado B, fracción XVIII, párrafo primero\",\"from_block\":37,\"to_block\":37,\"paragraphs\":[\"XVIII. Cuando seguido el proceso por un delito, la persona quejosa haya sido sentenciada por un ilícito diverso a los mismos hechos materiales que fueron objeto de la investigación, sin que hubiese sido oído en defensa sobre la nueva clasificación, en términos de la legislación procedimental aplicable.\"]},{\"article\":\"Artículo 174.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En la demanda de amparo principal y en su caso, en la adhesiva la persona quejosa deberá hacer valer todas las violaciones procesales que estime se cometieron; las que no se hagan valer se tendrán por consentidas. Asimismo, precisará la forma en que trascendieron en su perjuicio al resultado del fallo.\"]},{\"article\":\"Artículo 175.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. El nombre y domicilio de la persona quejosa y de quien promueve en su nombre;\"]},{\"article\":\"Artículo 175.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. El nombre y domicilio de la o el tercero interesado;\"]},{\"article\":\"Artículo 175.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"V. La fecha en que se haya notificado el acto reclamado a la persona quejosa o aquélla en que hubiese tenido conocimiento del mismo;\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"Artículo 166.\",\"reason\":\"La instrucción menciona el 'párrafo primero', pero el decreto lo deja intacto ('Artículo 166. ...'). Sólo se aplicaron las fracciones I y II y los párrafos segundo y tercero (bloques 4 y 5); el bloque 6 queda sin cambio.\"},{\"article\":\"Artículo 173.\",\"reason\":\"Para el Apartado A, fracción XIII, el decreto reescribe también su párrafo complementario (bloque 16), aunque la instrucción no lo menciona. Se aplicó como parte de la fracción XIII; conviene confirmarlo.\"}]}",
+ "duration_ms": 59617,
+ "total_cost_usd": 0.31769780000000003,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 8938,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 17291,
+   "webSearchRequests": 0,
+   "costUSD": 0.31769780000000003,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 869,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 17291,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

@@ -1,0 +1,54 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 99.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "III. Las impugnaciones de actos y resoluciones de la autoridad electoral federal, distintas a las señaladas en las dos fracciones anteriores, que violen normas constitucionales o legales, así como en materia de revocación de mandato;"
+    ]
+   },
+   {
+    "article": "Artículo 116.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I (párrafo primero)",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "I. Los gobernadores de los Estados no podrán durar en su encargo más de seis años y su mandato podrá ser revocado. Las Constituciones de los Estados establecerán las normas relativas a los procesos de revocación de mandato del gobernador de la entidad."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 99.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"III. Las impugnaciones de actos y resoluciones de la autoridad electoral federal, distintas a las señaladas en las dos fracciones anteriores, que violen normas constitucionales o legales, así como en materia de revocación de mandato;\"]},{\"article\":\"Artículo 116.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I (párrafo primero)\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"I. Los gobernadores de los Estados no podrán durar en su encargo más de seis años y su mandato podrá ser revocado. Las Constituciones de los Estados establecerán las normas relativas a los procesos de revocación de mandato del gobernador de la entidad.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 5533,
+ "total_cost_usd": 0.1138258,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 650,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 12527,
+   "webSearchRequests": 0,
+   "costUSD": 0.1138258,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 114,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 12527,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

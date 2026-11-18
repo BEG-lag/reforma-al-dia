@@ -1,0 +1,334 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 78.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Si se declara la inconstitucionalidad de la norma general impugnada, los efectos se extenderán a todas aquellas normas y actos cuya validez dependa de la propia norma invalidada. Dichos efectos se traducirán en la inaplicación únicamente respecto de la persona quejosa."
+    ]
+   },
+   {
+    "article": "Artículo 78.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "El órgano jurisdiccional de amparo podrá especificar qué medidas adicionales a la inaplicación deberán adoptarse para restablecer a la persona quejosa en el pleno goce del derecho violado."
+    ]
+   },
+   {
+    "article": "Artículo 79.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "fracción II",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "II. En favor de las personas menores de edad o incapaces, o en aquellos casos en que se afecte el orden y desarrollo de la familia;"
+    ]
+   },
+   {
+    "article": "Artículo 79.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción III, inciso a)",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "a) En favor de la persona inculpada o sentenciada, y"
+    ]
+   },
+   {
+    "article": "Artículo 79.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción III, inciso b)",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "b) En favor de la persona ofendida o víctima en los casos en que tenga el carácter de persona quejosa o adherente;"
+    ]
+   },
+   {
+    "article": "Artículo 79.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción IV, inciso b)",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "b) En favor de las personas ejidatarias y comuneras en particular, cuando el acto reclamado afecte sus bienes o derechos agrarios."
+    ]
+   },
+   {
+    "article": "Artículo 79.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "fracción V",
+    "from_block": 12,
+    "to_block": 12,
+    "paragraphs": [
+     "V. En materia laboral, en favor de la persona trabajadora, con independencia de que la relación entre la persona empleadora y empleada esté regulada por el derecho laboral o por el derecho administrativo;"
+    ]
+   },
+   {
+    "article": "Artículo 79.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "fracción VI",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "VI. En otras materias, cuando se advierta que ha habido en contra de la persona quejosa o del o la particular recurrente una violación evidente de la ley que la haya dejado sin defensa por afectar los derechos previstos en el artículo 1o. de esta Ley. En este caso la suplencia sólo operará en lo que se refiere a la controversia en el amparo, sin poder afectar situaciones procesales resueltas en el procedimiento en el que se dictó la resolución reclamada, y"
+    ]
+   },
+   {
+    "article": "Artículo 83.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "El Pleno de la Suprema Corte de Justicia de la Nación, mediante acuerdos generales, remitirá a los tribunales colegiados de circuito los asuntos que, conforme a los referidos acuerdos, la propia Corte determine."
+    ]
+   },
+   {
+    "article": "Artículo 88.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Si el recurso se interpone en contra de una resolución dictada en amparo directo, el o la recurrente deberá transcribir textualmente la parte de la sentencia que contenga un pronunciamiento sobre constitucionalidad de normas generales o establezca la interpretación directa de un precepto de la Constitución Política de los Estados Unidos Mexicanos, o la parte del concepto de violación respectivo cuyo análisis se hubiese omitido en la sentencia."
+    ]
+   },
+   {
+    "article": "Artículo 88.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "En caso de que el escrito de expresión de agravios se presente en forma impresa, el o la recurrente deberá exhibir una copia del mismo para el expediente y una para cada una de las partes. Esta exigencia no será necesaria en los casos que el recurso se presente en forma electrónica."
+    ]
+   },
+   {
+    "article": "Artículo 88.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Cuando no se haga la transcripción a que se refiere el párrafo primero o no se exhiban las copias a que se refiere el párrafo anterior, se requerirá al recurrente para que en el plazo de tres días lo haga; si no lo hiciere se tendrá por no interpuesto el recurso, salvo que se afecte al o la recurrente por actos restrictivos de la libertad, se trate de menores de edad o de incapaces, o se afecten derechos agrarios de núcleos de población ejidal o comunal o de personas ejidatarias o comuneras en lo individual, o quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, en los que el órgano jurisdiccional expedirá las copias correspondientes."
+    ]
+   },
+   {
+    "article": "Artículo 91.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La persona titular de la presidencia del órgano jurisdiccional, según corresponda, dentro de los tres siguientes días a su recepción calificará la procedencia del recurso y lo admitirá o desechará."
+    ]
+   },
+   {
+    "article": "Artículo 92.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Notificadas las partes del auto de admisión, transcurrido el plazo para adherirse a la revisión y, en su caso, tramitada ésta, se turnará de inmediato el expediente al ministro, ministra, magistrado o magistrada que corresponda. La resolución deberá dictarse dentro del plazo máximo de noventa días."
+    ]
+   },
+   {
+    "article": "Artículo 93.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción I, párrafo primero",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Si quien recurre es la persona quejosa, examinará, en primer término, los agravios hechos valer en contra del sobreseimiento decretado en la resolución recurrida."
+    ]
+   },
+   {
+    "article": "Artículo 93.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "fracción II",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "II. Si quien recurre es la autoridad responsable o la persona tercera interesada, examinará, en primer término, los agravios en contra de la omisión o negativa a decretar el sobreseimiento; si son fundados se revocará la resolución recurrida;"
+    ]
+   },
+   {
+    "article": "Artículo 93.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "fracción III",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "III. Para los efectos de las fracciones I y II, podrá examinar de oficio y, en su caso, decretar la actualización de las causales de improcedencia desestimadas por el juzgador o la juzgadora de origen, siempre que los motivos sean diversos a los considerados por el órgano de primera instancia;"
+    ]
+   },
+   {
+    "article": "Artículo 93.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "fracción V",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "V. Si quien recurre es la persona quejosa, examinará los demás agravios; si estima que son fundados, revocará la sentencia recurrida y dictará la que corresponda;"
+    ]
+   },
+   {
+    "article": "Artículo 93.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "fracción VI",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "VI. Si quien recurre es la autoridad responsable o la persona tercera interesada, examinará los agravios de fondo, si estima que son fundados, analizará los conceptos de violación no estudiados y concederá o negará el amparo, y"
+    ]
+   },
+   {
+    "article": "Artículo 97.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción I, inciso d)",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "d) Las que reconozcan o nieguen el carácter de persona tercera interesada;"
+    ]
+   },
+   {
+    "article": "Artículo 97.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción I, inciso g)",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "g) Las que resuelvan el incidente por exceso o defecto en la ejecución del acuerdo en que se haya concedido a la persona quejosa la suspensión provisional o definitiva del acto reclamado, y"
+    ]
+   },
+   {
+    "article": "Artículo 97.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción II, inciso d)",
+    "from_block": 15,
+    "to_block": 15,
+    "paragraphs": [
+     "d) Cuando niegue a la persona quejosa su libertad caucional o cuando las resoluciones que dicte sobre la misma materia causen daños o perjuicios a alguna de las personas interesadas."
+    ]
+   },
+   {
+    "article": "Artículo 100.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "En caso de que el escrito de expresión de agravios se presente en forma impresa, el o la recurrente deberá exhibir una copia del mismo para el expediente y una para cada una de las partes, señalando las constancias que en copia certificada deberán remitirse al órgano jurisdiccional que deba resolver el recurso. Esta exigencia no será necesaria en los casos que el recurso se presente en forma electrónica."
+    ]
+   },
+   {
+    "article": "Artículo 100.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Cuando no se exhiban las copias a que se refiere el párrafo anterior se requerirá al o la recurrente para que en el plazo de tres días lo haga; si no lo hiciere, se tendrá por no interpuesto el recurso, salvo que se trate de actos restrictivos de la libertad o que afecten intereses de menores de edad o incapaces o de personas trabajadoras o derechos agrarios de núcleos de población ejidal o comunal o de personas ejidatarias o comuneras en lo individual, o quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, en los que el órgano jurisdiccional expedirá las copias correspondientes."
+    ]
+   },
+   {
+    "article": "Artículo 102.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En los casos de resoluciones dictadas durante la tramitación del amparo indirecto que por su naturaleza trascendental y grave puedan causar un perjuicio no reparable a alguna de las partes, con la interposición de la queja la jueza o el juez de distrito o tribunal colegiado de apelación está facultado para suspender el procedimiento, hecha la excepción del incidente de suspensión, siempre que a su juicio estime que la resolución que se dicte en ella pueda influir en la sentencia, o cuando de resolverse en lo principal, se hagan nugatorios los derechos que pudiera hacer valer el o la recurrente en el acto de la audiencia."
+    ]
+   },
+   {
+    "article": "Artículo 104.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El recurso de reclamación es procedente contra los acuerdos de trámite dictados por la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación o por las personas titulares de la presidencia de los tribunales colegiados de circuito."
+    ]
+   },
+   {
+    "article": "Artículo 105.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El órgano jurisdiccional que deba conocer del asunto resolverá en un plazo máximo de diez días; la persona ponente será un ministro o ministra o magistrado o magistrada distinta a la persona titular de su presidencia."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "Artículo 79.",
+    "reason": "La instrucción menciona la fracción IV, «párrafo primero», pero el decreto deja sin cambios el encabezado de la fracción IV («IV. ...») y su párrafo final («...»). Sólo se reformó el inciso b); conviene que un abogado confirme que no cambia ningún otro párrafo de la fracción IV."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 78.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Si se declara la inconstitucionalidad de la norma general impugnada, los efectos se extenderán a todas aquellas normas y actos cuya validez dependa de la propia norma invalidada. Dichos efectos se traducirán en la inaplicación únicamente respecto de la persona quejosa.\"]},{\"article\":\"Artículo 78.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"El órgano jurisdiccional de amparo podrá especificar qué medidas adicionales a la inaplicación deberán adoptarse para restablecer a la persona quejosa en el pleno goce del derecho violado.\"]},{\"article\":\"Artículo 79.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"fracción II\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"II. En favor de las personas menores de edad o incapaces, o en aquellos casos en que se afecte el orden y desarrollo de la familia;\"]},{\"article\":\"Artículo 79.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción III, inciso a)\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"a) En favor de la persona inculpada o sentenciada, y\"]},{\"article\":\"Artículo 79.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción III, inciso b)\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"b) En favor de la persona ofendida o víctima en los casos en que tenga el carácter de persona quejosa o adherente;\"]},{\"article\":\"Artículo 79.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción IV, inciso b)\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"b) En favor de las personas ejidatarias y comuneras en particular, cuando el acto reclamado afecte sus bienes o derechos agrarios.\"]},{\"article\":\"Artículo 79.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"fracción V\",\"from_block\":12,\"to_block\":12,\"paragraphs\":[\"V. En materia laboral, en favor de la persona trabajadora, con independencia de que la relación entre la persona empleadora y empleada esté regulada por el derecho laboral o por el derecho administrativo;\"]},{\"article\":\"Artículo 79.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"fracción VI\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"VI. En otras materias, cuando se advierta que ha habido en contra de la persona quejosa o del o la particular recurrente una violación evidente de la ley que la haya dejado sin defensa por afectar los derechos previstos en el artículo 1o. de esta Ley. En este caso la suplencia sólo operará en lo que se refiere a la controversia en el amparo, sin poder afectar situaciones procesales resueltas en el procedimiento en el que se dictó la resolución reclamada, y\"]},{\"article\":\"Artículo 83.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"El Pleno de la Suprema Corte de Justicia de la Nación, mediante acuerdos generales, remitirá a los tribunales colegiados de circuito los asuntos que, conforme a los referidos acuerdos, la propia Corte determine.\"]},{\"article\":\"Artículo 88.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Si el recurso se interpone en contra de una resolución dictada en amparo directo, el o la recurrente deberá transcribir textualmente la parte de la sentencia que contenga un pronunciamiento sobre constitucionalidad de normas generales o establezca la interpretación directa de un precepto de la Constitución Política de los Estados Unidos Mexicanos, o la parte del concepto de violación respectivo cuyo análisis se hubiese omitido en la sentencia.\"]},{\"article\":\"Artículo 88.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"En caso de que el escrito de expresión de agravios se presente en forma impresa, el o la recurrente deberá exhibir una copia del mismo para el expediente y una para cada una de las partes. Esta exigencia no será necesaria en los casos que el recurso se presente en forma electrónica.\"]},{\"article\":\"Artículo 88.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Cuando no se haga la transcripción a que se refiere el párrafo primero o no se exhiban las copias a que se refiere el párrafo anterior, se requerirá al recurrente para que en el plazo de tres días lo haga; si no lo hiciere se tendrá por no interpuesto el recurso, salvo que se afecte al o la recurrente por actos restrictivos de la libertad, se trate de menores de edad o de incapaces, o se afecten derechos agrarios de núcleos de población ejidal o comunal o de personas ejidatarias o comuneras en lo individual, o quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, en los que el órgano jurisdiccional expedirá las copias correspondientes.\"]},{\"article\":\"Artículo 91.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La persona titular de la presidencia del órgano jurisdiccional, según corresponda, dentro de los tres siguientes días a su recepción calificará la procedencia del recurso y lo admitirá o desechará.\"]},{\"article\":\"Artículo 92.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Notificadas las partes del auto de admisión, transcurrido el plazo para adherirse a la revisión y, en su caso, tramitada ésta, se turnará de inmediato el expediente al ministro, ministra, magistrado o magistrada que corresponda. La resolución deberá dictarse dentro del plazo máximo de noventa días.\"]},{\"article\":\"Artículo 93.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción I, párrafo primero\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Si quien recurre es la persona quejosa, examinará, en primer término, los agravios hechos valer en contra del sobreseimiento decretado en la resolución recurrida.\"]},{\"article\":\"Artículo 93.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"fracción II\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"II. Si quien recurre es la autoridad responsable o la persona tercera interesada, examinará, en primer término, los agravios en contra de la omisión o negativa a decretar el sobreseimiento; si son fundados se revocará la resolución recurrida;\"]},{\"article\":\"Artículo 93.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"fracción III\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"III. Para los efectos de las fracciones I y II, podrá examinar de oficio y, en su caso, decretar la actualización de las causales de improcedencia desestimadas por el juzgador o la juzgadora de origen, siempre que los motivos sean diversos a los considerados por el órgano de primera instancia;\"]},{\"article\":\"Artículo 93.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"fracción V\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"V. Si quien recurre es la persona quejosa, examinará los demás agravios; si estima que son fundados, revocará la sentencia recurrida y dictará la que corresponda;\"]},{\"article\":\"Artículo 93.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"fracción VI\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"VI. Si quien recurre es la autoridad responsable o la persona tercera interesada, examinará los agravios de fondo, si estima que son fundados, analizará los conceptos de violación no estudiados y concederá o negará el amparo, y\"]},{\"article\":\"Artículo 97.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción I, inciso d)\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"d) Las que reconozcan o nieguen el carácter de persona tercera interesada;\"]},{\"article\":\"Artículo 97.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción I, inciso g)\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"g) Las que resuelvan el incidente por exceso o defecto en la ejecución del acuerdo en que se haya concedido a la persona quejosa la suspensión provisional o definitiva del acto reclamado, y\"]},{\"article\":\"Artículo 97.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción II, inciso d)\",\"from_block\":15,\"to_block\":15,\"paragraphs\":[\"d) Cuando niegue a la persona quejosa su libertad caucional o cuando las resoluciones que dicte sobre la misma materia causen daños o perjuicios a alguna de las personas interesadas.\"]},{\"article\":\"Artículo 100.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"En caso de que el escrito de expresión de agravios se presente en forma impresa, el o la recurrente deberá exhibir una copia del mismo para el expediente y una para cada una de las partes, señalando las constancias que en copia certificada deberán remitirse al órgano jurisdiccional que deba resolver el recurso. Esta exigencia no será necesaria en los casos que el recurso se presente en forma electrónica.\"]},{\"article\":\"Artículo 100.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Cuando no se exhiban las copias a que se refiere el párrafo anterior se requerirá al o la recurrente para que en el plazo de tres días lo haga; si no lo hiciere, se tendrá por no interpuesto el recurso, salvo que se trate de actos restrictivos de la libertad o que afecten intereses de menores de edad o incapaces o de personas trabajadoras o derechos agrarios de núcleos de población ejidal o comunal o de personas ejidatarias o comuneras en lo individual, o quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, en los que el órgano jurisdiccional expedirá las copias correspondientes.\"]},{\"article\":\"Artículo 102.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En los casos de resoluciones dictadas durante la tramitación del amparo indirecto que por su naturaleza trascendental y grave puedan causar un perjuicio no reparable a alguna de las partes, con la interposición de la queja la jueza o el juez de distrito o tribunal colegiado de apelación está facultado para suspender el procedimiento, hecha la excepción del incidente de suspensión, siempre que a su juicio estime que la resolución que se dicte en ella pueda influir en la sentencia, o cuando de resolverse en lo principal, se hagan nugatorios los derechos que pudiera hacer valer el o la recurrente en el acto de la audiencia.\"]},{\"article\":\"Artículo 104.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El recurso de reclamación es procedente contra los acuerdos de trámite dictados por la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación o por las personas titulares de la presidencia de los tribunales colegiados de circuito.\"]},{\"article\":\"Artículo 105.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El órgano jurisdiccional que deba conocer del asunto resolverá en un plazo máximo de diez días; la persona ponente será un ministro o ministra o magistrado o magistrada distinta a la persona titular de su presidencia.\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"Artículo 79.\",\"reason\":\"La instrucción menciona la fracción IV, «párrafo primero», pero el decreto deja sin cambios el encabezado de la fracción IV («IV. ...») y su párrafo final («...»). Sólo se reformó el inciso b); conviene que un abogado confirme que no cambia ningún otro párrafo de la fracción IV.\"}]}",
+ "duration_ms": 33069,
+ "total_cost_usd": 0.1957298,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 4996,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 11900,
+   "webSearchRequests": 0,
+   "costUSD": 0.1957298,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 295,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 11900,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

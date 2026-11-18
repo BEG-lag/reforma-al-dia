@@ -1,0 +1,394 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 93.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 93.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "VII",
+    "from_block": 12,
+    "to_block": 12,
+    "paragraphs": [
+     "VII. Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 93 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 93 Bis.",
+    "insert_after": null,
+    "paragraphs": [
+     "El procedimiento para comprobar el cumplimiento de la obligación de no llevar a cabo una concentración que exceda los umbrales monetarios establecidos en el artículo 86 de esta Ley sin haber obtenido previamente la autorización de la Comisión y, en su caso, determinar si algún fedatario público intervino en actos relativos a una concentración cuando no hubiera sido autorizada, se tramitará de oficio conforme a lo siguiente:",
+     "I. Cuando la Comisión tenga conocimiento de elementos objetivos que hagan suponer una probable violación conforme al párrafo primero de este artículo, seguirá el procedimiento previsto en el artículo 133 de esta Ley, o",
+     "II. Cuando la Comisión tenga conocimiento de cualquier indicio que haga suponer una probable violación conforme al párrafo primero de este artículo, emitirá un acuerdo de apertura de expediente de verificación.",
+     "En el supuesto previsto en esta fracción, la Comisión tendrá un plazo de ciento veinte días contados a partir del acuerdo de apertura de expediente de verificación para realizar requerimientos o practicar las diligencias que estime necesarias.",
+     "Concluido el plazo al que hace referencia el párrafo anterior, la Comisión emitirá un acuerdo de terminación y, dentro de los diez días siguientes, emitirá un acuerdo en el que ordene el cierre del expediente de verificación, o bien, inicie el procedimiento en términos de la fracción I de este artículo.",
+     "El plazo previsto en el artículo 65 de esta Ley se suspenderá con el inicio del procedimiento incidental previsto en la fracción I de este artículo, o con la emisión del acuerdo de apertura al que hace referencia la fracción II de este artículo."
+    ]
+   },
+   {
+    "article": "Artículo 94.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III, párrafo primero",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Concluida la investigación y si existen elementos para determinar que no existen condiciones de competencia efectiva en el mercado investigado, la Autoridad Investigadora emitirá, dentro de los cuarenta días siguientes a la conclusión de la investigación, un dictamen preliminar; en caso contrario, propondrá al Pleno el cierre del expediente. En este último caso, el Pleno emitirá la resolución de cierre dentro del plazo de quince días contados a partir de que se haya presentado la propuesta correspondiente."
+    ]
+   },
+   {
+    "article": "Artículo 94.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción VII, párrafo cuarto",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "Una vez integrado el expediente, el Pleno emitirá la resolución que corresponda en un plazo no mayor a cuarenta días."
+    ]
+   },
+   {
+    "article": "Artículo 94.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "séptimo",
+    "insert_after": 24,
+    "paragraphs": [
+     "El Reglamento establecerá los requisitos que deben cumplir las solicitudes relativas a este artículo."
+    ]
+   },
+   {
+    "article": "Artículo 94.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "octavo",
+    "insert_after": 24,
+    "paragraphs": [
+     "Cuando la solicitud no reúna los requisitos a que se refiere este artículo, dentro de los diez días siguientes al de la presentación del escrito, la Comisión debe prevenir al solicitante para que, en un término que no exceda de quince días prorrogables, presente la información faltante."
+    ]
+   },
+   {
+    "article": "Artículo 94.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "noveno",
+    "insert_after": 24,
+    "paragraphs": [
+     "Una vez desahogada la prevención que, en su caso, se realice, las solicitudes presentadas por la Secretaría que no cumplan con los requisitos previstos en el Reglamento se tendrán por presentadas únicamente para efectos de que, en un plazo no mayor a treinta días, la Autoridad Investigadora determine si, allegándose de información adicional, existen elementos suficientes para iniciar una investigación de oficio."
+    ]
+   },
+   {
+    "article": "Artículo 94.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "décimo",
+    "insert_after": 24,
+    "paragraphs": [
+     "Dentro de los diez días siguientes a aquél en que concluya el plazo de análisis referido en el párrafo anterior, si la Autoridad Investigadora considera que existen elementos para iniciar una investigación, dictará el acuerdo de inicio correspondiente y se mandará publicar el extracto del mismo en el Diario Oficial de la Federación. En caso contrario, deberá notificar a la Secretaría las razones por las cuales se considera que no existen elementos suficientes para iniciar una investigación."
+    ]
+   },
+   {
+    "article": "Artículo 95.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 95.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 95.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 95.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "quinto",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 100.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El Agente Económico sujeto a una investigación por práctica monopólica relativa o concentración ilícita podrá, por una sola ocasión, manifestar por escrito su voluntad de acogerse al beneficio de dispensa o reducción del importe de las multas establecidas en esta Ley, siempre y cuando solicite acogerse a este beneficio y presente a la Comisión:"
+    ]
+   },
+   {
+    "article": "Artículo 100.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Los medios propuestos para suspender, suprimir o corregir la práctica monopólica relativa o concentración ilícita objeto de la investigación, que deben ser jurídica y económicamente viables e idóneos para tal efecto, señalando los plazos y términos para su comprobación."
+    ]
+   },
+   {
+    "article": "Artículo 100.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "insert_after": 3,
+    "paragraphs": [
+     "El Agente Económico que presente la solicitud a la que hace referencia este artículo antes de que la Autoridad Investigadora amplíe por tercera ocasión el periodo de investigación previsto en el artículo 71 de esta Ley, podrá obtener la totalidad del beneficio por lo que podrá cerrar el expediente sin imputar responsabilidad alguna."
+    ]
+   },
+   {
+    "article": "Artículo 100.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "insert_after": 3,
+    "paragraphs": [
+     "Transcurrido el plazo establecido en el párrafo anterior, el Agente Económico correspondiente solo podrá presentar su solicitud durante el procedimiento seguido en forma de juicio y hasta antes de la integración del expediente. En caso de que se acepten los compromisos en esta etapa, la Comisión podrá imputar responsabilidad y el Agente Económico se hará acreedor a una reducción de hasta el cincuenta por ciento de la multa que, en su caso, le hubiera correspondido."
+    ]
+   },
+   {
+    "article": "Artículo 100.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "insert_after": 3,
+    "paragraphs": [
+     "En el supuesto previsto en el párrafo anterior, el Agente Económico deberá incluir en su solicitud, además de lo señalado en esta Ley, el Reglamento y las Disposiciones Regulatorias, el reconocimiento de la práctica monopólica o la concentración ilícita que le haya sido imputada en el dictamen de probable responsabilidad correspondiente."
+    ]
+   },
+   {
+    "article": "Artículo 100.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "quinto",
+    "insert_after": 3,
+    "paragraphs": [
+     "El Reglamento establecerá el procedimiento conforme al cual se desahogará el procedimiento para el otorgamiento del beneficio a que hace referencia este artículo."
+    ]
+   },
+   {
+    "article": "Artículo 101.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 101.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 102.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. El otorgamiento del beneficio de la dispensa o reducción del pago de las multas, según corresponda, en términos del artículo 100 de esta Ley, y"
+    ]
+   },
+   {
+    "article": "Artículo 102.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "insert_after": 3,
+    "paragraphs": [
+     "El Pleno podrá modificar los términos y condiciones planteados en el escrito por el que se solicite el beneficio a que hace referencia el artículo 100 de esta Ley, para asegurarse de que se restaure el proceso de competencia y libre concurrencia."
+    ]
+   },
+   {
+    "article": "Artículo 102.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo (actual)",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Los Agentes Económicos deberán aceptar de conformidad expresamente y por escrito la resolución definitiva, dentro de un plazo de diez días contados a partir de la fecha en que sea notificado."
+    ]
+   },
+   {
+    "article": "Artículo 102.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "quinto (actual)",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "La resolución a la que se refiere este artículo, será sin perjuicio de las acciones que pudieran ejercer terceros afectados que reclamen daños y perjuicios derivados de la responsabilidad civil por la realización de la práctica monopólica relativa o concentración ilícita revelada a la Comisión."
+    ]
+   },
+   {
+    "article": "Artículo 103.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 103.",
+    "from_block": 1,
+    "to_block": 9,
+    "paragraphs": [
+     "Cualquier Agente Económico que haya incurrido o esté incurriendo en una práctica monopólica absoluta; haya participado directamente en prácticas monopólicas absolutas en representación o por cuenta y orden de personas morales; y el Agente Económico o individuo que haya coadyuvado, propiciado, inducido o participado en la comisión de prácticas monopólicas absolutas, podrá reconocerla ante la Comisión y acogerse al beneficio de la reducción de las sanciones establecidas en esta Ley, siempre y cuando:",
+     "I. Sea el primero entre los Agentes Económicos o individuos involucrados en la conducta, antes de que se haya iniciado una investigación en el mercado correspondiente, en aportar elementos de convicción suficientes que obren en su poder y de los que pueda disponer y que a juicio de la Comisión permitan presumir la existencia de la práctica monopólica absoluta;",
+     "II. Coopere en forma plena y continua en la sustanciación de la investigación y, en su caso, en el procedimiento seguido en forma de juicio. La Comisión emitirá Disposiciones Regulatorias que detallen el requisito establecido en esta fracción, y",
+     "III. Realice las acciones necesarias para terminar su participación en la práctica violatoria de la ley, salvo que la Autoridad Investigadora expresamente le solicite lo contrario de manera temporal.",
+     "Cumplidos los requisitos establecidos en las fracciones I a III anteriores, la Comisión dictará la resolución a que haya lugar e impondrá una multa mínima.",
+     "Los Agentes Económicos o individuos que únicamente cumplan con lo establecido en las fracciones II y III anteriores, podrán obtener una reducción de la multa de hasta el 50, 30 o 20 por ciento del máximo permitido, cuando aporten elementos de convicción adicionales a los que ya tenga la Autoridad Investigadora que permitan presumir la existencia de una práctica monopólica absoluta y cumplan con los demás requisitos previstos en este artículo. Para determinar el monto de la reducción la Comisión tomará en consideración el orden cronológico de presentación de la solicitud y de los elementos de convicción presentados.",
+     "La Comisión podrá revocar el beneficio previsto en el presente artículo cuando el Agente Económico o individuo incumpla los requisitos establecidos en las fracciones II o III de este artículo, en cuyo caso podrá utilizar la información y elementos de convicción presentados por el mismo. Las Disposiciones Regulatorias que al efecto se emitan detallarán las obligaciones de cooperación previstas en este artículo, y el Reglamento establecerá el procedimiento conforme al cual deberán tramitarse y resolverse las solicitudes presentadas de conformidad con este artículo, así como para su revocación.",
+     "Las personas que hayan participado directamente en prácticas monopólicas absolutas, en representación o por cuenta y orden de los Agentes Económicos que reciban los beneficios de la reducción de sanciones, podrán verse beneficiados con la misma reducción en la sanción que a éstos correspondiere siempre y cuando cumplan con los requisitos ya señalados.",
+     "La Comisión mantendrá con carácter confidencial la identidad de quienes pretendan acogerse a los beneficios de este artículo.",
+     "El beneficio previsto en este artículo únicamente podrá solicitarse hasta antes de la publicación del acuerdo que amplíe por tercera ocasión el periodo de investigación previsto en el artículo 71 de esta Ley.",
+     "Los Agentes Económicos e individuos que reciban cualquiera de los beneficios establecidos en este artículo no serán inhabilitados en términos del artículo 127 de esta Ley y no serán objeto del ejercicio de acciones colectivas promovidas por la Comisión. Lo anterior, sin perjuicio de las acciones que pudieran ejercer terceros."
+    ]
+   },
+   {
+    "article": "Artículo 110 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 110 Bis.",
+    "insert_after": null,
+    "paragraphs": [
+     "En cualquier momento, la persona titular del Ejecutivo Federal, a través de la Secretaría, podrá dar aviso a la Comisión respecto de cuestiones relevantes para el interés nacional en materia de libre concurrencia y competencia económica.",
+     "En estos casos, la Comisión emitirá un acuerdo pronunciándose respecto de la cuestión planteada en un plazo no mayor a diez días hábiles."
+    ]
+   },
+   {
+    "article": "Artículo 114.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando los plazos fijados por esta Ley, por su Reglamento o por las Disposiciones Regulatorias sean en días, éstos se entenderán como hábiles. Respecto de los establecidos en meses o años, el cómputo se hará de fecha a fecha, considerando incluso los días inhábiles."
+    ]
+   },
+   {
+    "article": "Artículo 115.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Se entienden horas hábiles para notificar y realizar diligencias las que median desde las siete hasta las diecinueve horas. En los procedimientos o trámites sustanciados por medios electrónicos, así como para las promociones presentadas por correo electrónico, y para la emisión de actuaciones con firma electrónica se entenderán hábiles las veinticuatro horas del día."
+    ]
+   },
+   {
+    "article": "Artículo 117.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Quien comparezca a la Comisión, en el primer escrito o en la primera diligencia en que intervenga, deberá designar domicilio para oír y recibir notificaciones en la Ciudad de México o, en su caso, en el domicilio de la oficina de representación de la Comisión que corresponda, si en ella se tramita alguno de los procedimientos de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 117.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Las notificaciones se realizarán en términos del Reglamento y de las Disposiciones Regulatorias."
+    ]
+   },
+   {
+    "article": "Artículo 117.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "insert_after": 3,
+    "paragraphs": [
+     "Todas las notificaciones surtirán sus efectos al día siguiente a aquel en que se practiquen."
+    ]
+   }
+  ],
+  "divisions": [
+   {
+    "operation": "add",
+    "kind": "capitulo",
+    "label": "Capítulo VI",
+    "name": "Del Procedimiento de Aviso del Ejecutivo Federal",
+    "before_article": "Artículo 110 Bis."
+   }
+  ],
+  "needs_review": [
+   {
+    "article": "Artículo 103.",
+    "reason": "La instrucción sólo reforma las fracciones I a III y los párrafos segundo y tercero, y adiciona los párrafos cuarto a octavo. Pero el decreto reproduce el artículo completo, sin marcadores, y no menciona qué pasa con los párrafos vigentes cuarto, quinto y sexto (bloques 7 a 9). El texto nuevo de 'Las personas que hayan participado…' y de 'La Comisión mantendrá…' parece sustituirlos, y el párrafo de Disposiciones Regulatorias (bloque 9) desaparece. Se aplicó como reforma del artículo completo; conviene verificar que el texto oficial compilado no conserve los párrafos anteriores."
+   },
+   {
+    "article": "Artículo 94.",
+    "reason": "Los párrafos séptimo a décimo se adicionaron al final del artículo, después del bloque 24. Para cuadrar con los seis marcadores '...' del decreto, se contaron sólo los párrafos que siguen a la fracción VII sin contar los incisos (bloques 14, 20, 21, 22, 23 y 24). Conviene confirmar la ubicación."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 93.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Se deroga\"]},{\"article\":\"Artículo 93.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"VII\",\"from_block\":12,\"to_block\":12,\"paragraphs\":[\"VII. Se deroga\"]},{\"article\":\"Artículo 93 Bis.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 93 Bis.\",\"insert_after\":null,\"paragraphs\":[\"El procedimiento para comprobar el cumplimiento de la obligación de no llevar a cabo una concentración que exceda los umbrales monetarios establecidos en el artículo 86 de esta Ley sin haber obtenido previamente la autorización de la Comisión y, en su caso, determinar si algún fedatario público intervino en actos relativos a una concentración cuando no hubiera sido autorizada, se tramitará de oficio conforme a lo siguiente:\",\"I. Cuando la Comisión tenga conocimiento de elementos objetivos que hagan suponer una probable violación conforme al párrafo primero de este artículo, seguirá el procedimiento previsto en el artículo 133 de esta Ley, o\",\"II. Cuando la Comisión tenga conocimiento de cualquier indicio que haga suponer una probable violación conforme al párrafo primero de este artículo, emitirá un acuerdo de apertura de expediente de verificación.\",\"En el supuesto previsto en esta fracción, la Comisión tendrá un plazo de ciento veinte días contados a partir del acuerdo de apertura de expediente de verificación para realizar requerimientos o practicar las diligencias que estime necesarias.\",\"Concluido el plazo al que hace referencia el párrafo anterior, la Comisión emitirá un acuerdo de terminación y, dentro de los diez días siguientes, emitirá un acuerdo en el que ordene el cierre del expediente de verificación, o bien, inicie el procedimiento en términos de la fracción I de este artículo.\",\"El plazo previsto en el artículo 65 de esta Ley se suspenderá con el inicio del procedimiento incidental previsto en la fracción I de este artículo, o con la emisión del acuerdo de apertura al que hace referencia la fracción II de este artículo.\"]},{\"article\":\"Artículo 94.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III, párrafo primero\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Concluida la investigación y si existen elementos para determinar que no existen condiciones de competencia efectiva en el mercado investigado, la Autoridad Investigadora emitirá, dentro de los cuarenta días siguientes a la conclusión de la investigación, un dictamen preliminar; en caso contrario, propondrá al Pleno el cierre del expediente. En este último caso, el Pleno emitirá la resolución de cierre dentro del plazo de quince días contados a partir de que se haya presentado la propuesta correspondiente.\"]},{\"article\":\"Artículo 94.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción VII, párrafo cuarto\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"Una vez integrado el expediente, el Pleno emitirá la resolución que corresponda en un plazo no mayor a cuarenta días.\"]},{\"article\":\"Artículo 94.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"séptimo\",\"insert_after\":24,\"paragraphs\":[\"El Reglamento establecerá los requisitos que deben cumplir las solicitudes relativas a este artículo.\"]},{\"article\":\"Artículo 94.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"octavo\",\"insert_after\":24,\"paragraphs\":[\"Cuando la solicitud no reúna los requisitos a que se refiere este artículo, dentro de los diez días siguientes al de la presentación del escrito, la Comisión debe prevenir al solicitante para que, en un término que no exceda de quince días prorrogables, presente la información faltante.\"]},{\"article\":\"Artículo 94.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"noveno\",\"insert_after\":24,\"paragraphs\":[\"Una vez desahogada la prevención que, en su caso, se realice, las solicitudes presentadas por la Secretaría que no cumplan con los requisitos previstos en el Reglamento se tendrán por presentadas únicamente para efectos de que, en un plazo no mayor a treinta días, la Autoridad Investigadora determine si, allegándose de información adicional, existen elementos suficientes para iniciar una investigación de oficio.\"]},{\"article\":\"Artículo 94.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"décimo\",\"insert_after\":24,\"paragraphs\":[\"Dentro de los diez días siguientes a aquél en que concluya el plazo de análisis referido en el párrafo anterior, si la Autoridad Investigadora considera que existen elementos para iniciar una investigación, dictará el acuerdo de inicio correspondiente y se mandará publicar el extracto del mismo en el Diario Oficial de la Federación. En caso contrario, deberá notificar a la Secretaría las razones por las cuales se considera que no existen elementos suficientes para iniciar una investigación.\"]},{\"article\":\"Artículo 95.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 95.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 95.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 95.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"quinto\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 100.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El Agente Económico sujeto a una investigación por práctica monopólica relativa o concentración ilícita podrá, por una sola ocasión, manifestar por escrito su voluntad de acogerse al beneficio de dispensa o reducción del importe de las multas establecidas en esta Ley, siempre y cuando solicite acogerse a este beneficio y presente a la Comisión:\"]},{\"article\":\"Artículo 100.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Los medios propuestos para suspender, suprimir o corregir la práctica monopólica relativa o concentración ilícita objeto de la investigación, que deben ser jurídica y económicamente viables e idóneos para tal efecto, señalando los plazos y términos para su comprobación.\"]},{\"article\":\"Artículo 100.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"insert_after\":3,\"paragraphs\":[\"El Agente Económico que presente la solicitud a la que hace referencia este artículo antes de que la Autoridad Investigadora amplíe por tercera ocasión el periodo de investigación previsto en el artículo 71 de esta Ley, podrá obtener la totalidad del beneficio por lo que podrá cerrar el expediente sin imputar responsabilidad alguna.\"]},{\"article\":\"Artículo 100.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"insert_after\":3,\"paragraphs\":[\"Transcurrido el plazo establecido en el párrafo anterior, el Agente Económico correspondiente solo podrá presentar su solicitud durante el procedimiento seguido en forma de juicio y hasta antes de la integración del expediente. En caso de que se acepten los compromisos en esta etapa, la Comisión podrá imputar responsabilidad y el Agente Económico se hará acreedor a una reducción de hasta el cincuenta por ciento de la multa que, en su caso, le hubiera correspondido.\"]},{\"article\":\"Artículo 100.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"insert_after\":3,\"paragraphs\":[\"En el supuesto previsto en el párrafo anterior, el Agente Económico deberá incluir en su solicitud, además de lo señalado en esta Ley, el Reglamento y las Disposiciones Regulatorias, el reconocimiento de la práctica monopólica o la concentración ilícita que le haya sido imputada en el dictamen de probable responsabilidad correspondiente.\"]},{\"article\":\"Artículo 100.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"quinto\",\"insert_after\":3,\"paragraphs\":[\"El Reglamento establecerá el procedimiento conforme al cual se desahogará el procedimiento para el otorgamiento del beneficio a que hace referencia este artículo.\"]},{\"article\":\"Artículo 101.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 101.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 102.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. El otorgamiento del beneficio de la dispensa o reducción del pago de las multas, según corresponda, en términos del artículo 100 de esta Ley, y\"]},{\"article\":\"Artículo 102.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"insert_after\":3,\"paragraphs\":[\"El Pleno podrá modificar los términos y condiciones planteados en el escrito por el que se solicite el beneficio a que hace referencia el artículo 100 de esta Ley, para asegurarse de que se restaure el proceso de competencia y libre concurrencia.\"]},{\"article\":\"Artículo 102.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo (actual)\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Los Agentes Económicos deberán aceptar de conformidad expresamente y por escrito la resolución definitiva, dentro de un plazo de diez días contados a partir de la fecha en que sea notificado.\"]},{\"article\":\"Artículo 102.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"quinto (actual)\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"La resolución a la que se refiere este artículo, será sin perjuicio de las acciones que pudieran ejercer terceros afectados que reclamen daños y perjuicios derivados de la responsabilidad civil por la realización de la práctica monopólica relativa o concentración ilícita revelada a la Comisión.\"]},{\"article\":\"Artículo 103.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 103.\",\"from_block\":1,\"to_block\":9,\"paragraphs\":[\"Cualquier Agente Económico que haya incurrido o esté incurriendo en una práctica monopólica absoluta; haya participado directamente en prácticas monopólicas absolutas en representación o por cuenta y orden de personas morales; y el Agente Económico o individuo que haya coadyuvado, propiciado, inducido o participado en la comisión de prácticas monopólicas absolutas, podrá reconocerla ante la Comisión y acogerse al beneficio de la reducción de las sanciones establecidas en esta Ley, siempre y cuando:\",\"I. Sea el primero entre los Agentes Económicos o individuos involucrados en la conducta, antes de que se haya iniciado una investigación en el mercado correspondiente, en aportar elementos de convicción suficientes que obren en su poder y de los que pueda disponer y que a juicio de la Comisión permitan presumir la existencia de la práctica monopólica absoluta;\",\"II. Coopere en forma plena y continua en la sustanciación de la investigación y, en su caso, en el procedimiento seguido en forma de juicio. La Comisión emitirá Disposiciones Regulatorias que detallen el requisito establecido en esta fracción, y\",\"III. Realice las acciones necesarias para terminar su participación en la práctica violatoria de la ley, salvo que la Autoridad Investigadora expresamente le solicite lo contrario de manera temporal.\",\"Cumplidos los requisitos establecidos en las fracciones I a III anteriores, la Comisión dictará la resolución a que haya lugar e impondrá una multa mínima.\",\"Los Agentes Económicos o individuos que únicamente cumplan con lo establecido en las fracciones II y III anteriores, podrán obtener una reducción de la multa de hasta el 50, 30 o 20 por ciento del máximo permitido, cuando aporten elementos de convicción adicionales a los que ya tenga la Autoridad Investigadora que permitan presumir la existencia de una práctica monopólica absoluta y cumplan con los demás requisitos previstos en este artículo. Para determinar el monto de la reducción la Comisión tomará en consideración el orden cronológico de presentación de la solicitud y de los elementos de convicción presentados.\",\"La Comisión podrá revocar el beneficio previsto en el presente artículo cuando el Agente Económico o individuo incumpla los requisitos establecidos en las fracciones II o III de este artículo, en cuyo caso podrá utilizar la información y elementos de convicción presentados por el mismo. Las Disposiciones Regulatorias que al efecto se emitan detallarán las obligaciones de cooperación previstas en este artículo, y el Reglamento establecerá el procedimiento conforme al cual deberán tramitarse y resolverse las solicitudes presentadas de conformidad con este artículo, así como para su revocación.\",\"Las personas que hayan participado directamente en prácticas monopólicas absolutas, en representación o por cuenta y orden de los Agentes Económicos que reciban los beneficios de la reducción de sanciones, podrán verse beneficiados con la misma reducción en la sanción que a éstos correspondiere siempre y cuando cumplan con los requisitos ya señalados.\",\"La Comisión mantendrá con carácter confidencial la identidad de quienes pretendan acogerse a los beneficios de este artículo.\",\"El beneficio previsto en este artículo únicamente podrá solicitarse hasta antes de la publicación del acuerdo que amplíe por tercera ocasión el periodo de investigación previsto en el artículo 71 de esta Ley.\",\"Los Agentes Económicos e individuos que reciban cualquiera de los beneficios establecidos en este artículo no serán inhabilitados en términos del artículo 127 de esta Ley y no serán objeto del ejercicio de acciones colectivas promovidas por la Comisión. Lo anterior, sin perjuicio de las acciones que pudieran ejercer terceros.\"]},{\"article\":\"Artículo 110 Bis.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 110 Bis.\",\"insert_after\":null,\"paragraphs\":[\"En cualquier momento, la persona titular del Ejecutivo Federal, a través de la Secretaría, podrá dar aviso a la Comisión respecto de cuestiones relevantes para el interés nacional en materia de libre concurrencia y competencia económica.\",\"En estos casos, la Comisión emitirá un acuerdo pronunciándose respecto de la cuestión planteada en un plazo no mayor a diez días hábiles.\"]},{\"article\":\"Artículo 114.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando los plazos fijados por esta Ley, por su Reglamento o por las Disposiciones Regulatorias sean en días, éstos se entenderán como hábiles. Respecto de los establecidos en meses o años, el cómputo se hará de fecha a fecha, considerando incluso los días inhábiles.\"]},{\"article\":\"Artículo 115.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Se entienden horas hábiles para notificar y realizar diligencias las que median desde las siete hasta las diecinueve horas. En los procedimientos o trámites sustanciados por medios electrónicos, así como para las promociones presentadas por correo electrónico, y para la emisión de actuaciones con firma electrónica se entenderán hábiles las veinticuatro horas del día.\"]},{\"article\":\"Artículo 117.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Quien comparezca a la Comisión, en el primer escrito o en la primera diligencia en que intervenga, deberá designar domicilio para oír y recibir notificaciones en la Ciudad de México o, en su caso, en el domicilio de la oficina de representación de la Comisión que corresponda, si en ella se tramita alguno de los procedimientos de esta Ley.\"]},{\"article\":\"Artículo 117.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Las notificaciones se realizarán en términos del Reglamento y de las Disposiciones Regulatorias.\"]},{\"article\":\"Artículo 117.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"insert_after\":3,\"paragraphs\":[\"Todas las notificaciones surtirán sus efectos al día siguiente a aquel en que se practiquen.\"]}],\"divisions\":[{\"operation\":\"add\",\"kind\":\"capitulo\",\"label\":\"Capítulo VI\",\"name\":\"Del Procedimiento de Aviso del Ejecutivo Federal\",\"before_article\":\"Artículo 110 Bis.\"}],\"needs_review\":[{\"article\":\"Artículo 103.\",\"reason\":\"La instrucción sólo reforma las fracciones I a III y los párrafos segundo y tercero, y adiciona los párrafos cuarto a octavo. Pero el decreto reproduce el artículo completo, sin marcadores, y no menciona qué pasa con los párrafos vigentes cuarto, quinto y sexto (bloques 7 a 9). El texto nuevo de 'Las personas que hayan participado…' y de 'La Comisión mantendrá…' parece sustituirlos, y el párrafo de Disposiciones Regulatorias (bloque 9) desaparece. Se aplicó como reforma del artículo completo; conviene verificar que el texto oficial compilado no conserve los párrafos anteriores.\"},{\"article\":\"Artículo 94.\",\"reason\":\"Los párrafos séptimo a décimo se adicionaron al final del artículo, después del bloque 24. Para cuadrar con los seis marcadores '...' del decreto, se contaron sólo los párrafos que siguen a la fracción VII sin contar los incisos (bloques 14, 20, 21, 22, 23 y 24). Conviene confirmar la ubicación.\"}]}",
+ "duration_ms": 63141,
+ "total_cost_usd": 0.30662180000000006,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 8661,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 16599,
+   "webSearchRequests": 0,
+   "costUSD": 0.30662180000000006,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 1879,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 16599,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

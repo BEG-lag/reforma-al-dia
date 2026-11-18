@@ -1,0 +1,384 @@
+{
+ "id": "2024-12-16-cnpp",
+ "source": "backtest",
+ "law": {
+  "slug": "cnpp",
+  "title": "Código Nacional de Procedimientos Penales",
+  "abbreviation": "CNPP"
+ },
+ "decree": {
+  "code": 5745426,
+  "title": "Decreto por el que se reforman y adicionan diversas disposiciones del Código Nacional de Procedimientos Penales y de la Ley General del Sistema Nacional de Seguridad Pública, en materia de medidas de protección y derecho de las mujeres a una vida libre de violencia.",
+  "date": "2024-12-16",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5745426&fecha=16/12/2024",
+  "pdf": null,
+  "instruction": [
+   "Artículo Primero.- Se reforman el epígrafe y la fracción XIII del artículo 132; el epígrafe y el último párrafo del artículo 137; el epígrafe del artículo 139; y se adiciona un tercer párrafo al artículo 139 del Código Nacional de Procedimientos Penales, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "507152d3de18533f5c4e65d13424069c3b198234"
+ },
+ "official": {
+  "commit": "95e4e3bc26931027bdcc6f304c4c78778a24e40f",
+  "date": "2024-12-16",
+  "same_day": true
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "Artículo 132.",
+    "Artículo 137.",
+    "Artículo 139."
+   ],
+   "key": "7e909be1ccc4f24acc8b706f719f2f27b61adc0bfa744dc6d305194f2af51cf2",
+   "cached": true,
+   "duration_ms": 9884,
+   "cost_usd": 0.0605778,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "132": {
+   "label": "Artículo 132.",
+   "headings": [],
+   "lines": [
+    "Artículo 132. Obligaciones de las y los Policías",
+    "...",
+    "...",
+    "I. a XII Bis. ...",
+    "XIII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos, tratándose del cumplimiento de las medidas u órdenes de protección deberán estar a lo previsto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;",
+    "XIV. y XV. ..."
+   ]
+  },
+  "137": {
+   "label": "Artículo 137.",
+   "headings": [],
+   "lines": [
+    "Artículo 137. Medidas u Órdenes de Protección",
+    "...",
+    "I. a X. ...",
+    "...",
+    "...",
+    "Tratándose de delitos relacionados con las violencias de género contra las mujeres se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia."
+   ]
+  },
+  "139": {
+   "label": "Artículo 139.",
+   "headings": [],
+   "lines": [
+    "Artículo 139. Duración de las medidas u órdenes de protección y providencias precautorias",
+    "...",
+    "...",
+    "Tratándose de delitos relacionados con las violencias de género contra las mujeres, adolescentes y niñas, se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "Artículo 132.",
+    "operation": "reform",
+    "unit_type": "epigrafe",
+    "unit": "epígrafe",
+    "paragraphs": [
+     "Obligaciones de las y los Policías"
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 132.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIII",
+    "paragraphs": [
+     "XIII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos, tratándose del cumplimiento de las medidas u órdenes de protección deberán estar a lo previsto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;"
+    ],
+    "from_block": 27,
+    "to_block": 27,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 137.",
+    "operation": "reform",
+    "unit_type": "epigrafe",
+    "unit": "epígrafe",
+    "paragraphs": [
+     "Medidas u Órdenes de Protección"
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 137.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "último párrafo",
+    "paragraphs": [
+     "Tratándose de delitos relacionados con las violencias de género contra las mujeres se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia."
+    ],
+    "from_block": 15,
+    "to_block": 15,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 139.",
+    "operation": "reform",
+    "unit_type": "epigrafe",
+    "unit": "epígrafe",
+    "paragraphs": [
+     "Duración de las medidas u órdenes de protección y providencias precautorias"
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 139.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "paragraphs": [
+     "Tratándose de delitos relacionados con las violencias de género contra las mujeres, adolescentes y niñas, se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 3,
+    "batch": 1
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "needs_review": [],
+ "counts": {
+  "exact": 3,
+  "normalized": 0,
+  "mismatch": 0,
+  "not_applied": 0,
+  "outside_decree": 0,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 0,
+  "notes_match": 3
+ },
+ "transitorios": "normalized",
+ "body_identical": true,
+ "articles": [
+  {
+   "key": "132",
+   "label": "Artículo 132.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Obligaciones del Policía",
+    "El Policía actuará bajo la conducción y mando del Ministerio Público en la investigación de los delitos en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución.",
+    "Párrafo reformado DOF 25-04-2023",
+    "Para los efectos del presente Código, el Policía tendrá las siguientes obligaciones:",
+    "I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delito e informar al Ministerio Público por cualquier medio y de forma inmediata de las diligencias practicadas;",
+    "II. Recibir denuncias anónimas e inmediatamente hacerlo del conocimiento del Ministerio Público a efecto de que éste coordine la investigación;",
+    "III. Realizar detenciones en los casos que autoriza la Constitución, haciendo saber a la persona detenida los derechos que ésta le otorga;",
+    "IV. Impedir que se consumen los delitos o que los hechos produzcan consecuencias ulteriores. Especialmente estará obligada a realizar todos los actos necesarios para evitar una agresión real, actual o inminente y sin derecho en protección de bienes jurídicos de los gobernados a quienes tiene la obligación de proteger;",
+    "V. Actuar bajo el mando del Ministerio Público en el aseguramiento de bienes relacionados con la investigación de los delitos;",
+    "VI. Informar sin dilación por cualquier medio al Ministerio Público sobre la detención de cualquier persona, e inscribir inmediatamente las detenciones en el registro que al efecto establezcan las disposiciones aplicables;",
+    "VII. Practicar las inspecciones y otros actos de investigación, así como reportar sus resultados al Ministerio Público. En aquellos que se requiera autorización judicial, deberá solicitarla a través del Ministerio Público;",
+    "VIII. Preservar el lugar de los hechos o del hallazgo y en general, realizar todos los actos necesarios para garantizar la integridad de los indicios. En su caso deberá dar aviso a la Policía con capacidades para procesar la escena del hecho y al Ministerio Público conforme a las disposiciones previstas en este Código y en la legislación aplicable;",
+    "IX. Recolectar y resguardar objetos relacionados con la investigación de los delitos, en los términos de la fracción anterior;",
+    "X. Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación;",
+    "XI. Requerir a las autoridades competentes y solicitar a las personas físicas o morales, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente;",
+    "XII. Proporcionar atención a víctimas u ofendidos o testigos del delito. Para tal efecto, deberá:",
+    "a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones aplicables;",
+    "b) Informar a la víctima u ofendido sobre los derechos que en su favor se establecen;",
+    "c) Procurar que reciban atención médica y psicológica cuando sea necesaria;",
+    "Inciso reformado DOF 25-04-2023",
+    "d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica, y",
+    "Inciso reformado DOF 25-04-2023",
+    "e) Tratándose de delitos por razón de género, deberá actuar con perspectiva de género.",
+    "Inciso adicionado DOF 25-04-2023",
+    "XII Bis. Cuando se trate de delitos por motivo de género se deberán aplicar los protocolos previstos para tales efectos;",
+    "Fracción adicionada DOF 25-04-2023",
+    "XIII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos;",
+    "XIV. Emitir el informe policial y demás documentos, de conformidad con las disposiciones aplicables. Para tal efecto se podrá apoyar en los conocimientos que resulten necesarios, sin que ello tenga el carácter de informes periciales, y",
+    "XV. Las demás que le confieran este Código y otras disposiciones aplicables."
+   ],
+   "ai": [
+    "Obligaciones de las y los Policías",
+    "Epígrafe reformado DOF 16-12-2024",
+    "El Policía actuará bajo la conducción y mando del Ministerio Público en la investigación de los delitos en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución.",
+    "Párrafo reformado DOF 25-04-2023",
+    "Para los efectos del presente Código, el Policía tendrá las siguientes obligaciones:",
+    "I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delito e informar al Ministerio Público por cualquier medio y de forma inmediata de las diligencias practicadas;",
+    "II. Recibir denuncias anónimas e inmediatamente hacerlo del conocimiento del Ministerio Público a efecto de que éste coordine la investigación;",
+    "III. Realizar detenciones en los casos que autoriza la Constitución, haciendo saber a la persona detenida los derechos que ésta le otorga;",
+    "IV. Impedir que se consumen los delitos o que los hechos produzcan consecuencias ulteriores. Especialmente estará obligada a realizar todos los actos necesarios para evitar una agresión real, actual o inminente y sin derecho en protección de bienes jurídicos de los gobernados a quienes tiene la obligación de proteger;",
+    "V. Actuar bajo el mando del Ministerio Público en el aseguramiento de bienes relacionados con la investigación de los delitos;",
+    "VI. Informar sin dilación por cualquier medio al Ministerio Público sobre la detención de cualquier persona, e inscribir inmediatamente las detenciones en el registro que al efecto establezcan las disposiciones aplicables;",
+    "VII. Practicar las inspecciones y otros actos de investigación, así como reportar sus resultados al Ministerio Público. En aquellos que se requiera autorización judicial, deberá solicitarla a través del Ministerio Público;",
+    "VIII. Preservar el lugar de los hechos o del hallazgo y en general, realizar todos los actos necesarios para garantizar la integridad de los indicios. En su caso deberá dar aviso a la Policía con capacidades para procesar la escena del hecho y al Ministerio Público conforme a las disposiciones previstas en este Código y en la legislación aplicable;",
+    "IX. Recolectar y resguardar objetos relacionados con la investigación de los delitos, en los términos de la fracción anterior;",
+    "X. Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación;",
+    "XI. Requerir a las autoridades competentes y solicitar a las personas físicas o morales, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente;",
+    "XII. Proporcionar atención a víctimas u ofendidos o testigos del delito. Para tal efecto, deberá:",
+    "a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones aplicables;",
+    "b) Informar a la víctima u ofendido sobre los derechos que en su favor se establecen;",
+    "c) Procurar que reciban atención médica y psicológica cuando sea necesaria;",
+    "Inciso reformado DOF 25-04-2023",
+    "d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica, y",
+    "Inciso reformado DOF 25-04-2023",
+    "e) Tratándose de delitos por razón de género, deberá actuar con perspectiva de género.",
+    "Inciso adicionado DOF 25-04-2023",
+    "XII Bis. Cuando se trate de delitos por motivo de género se deberán aplicar los protocolos previstos para tales efectos;",
+    "Fracción adicionada DOF 25-04-2023",
+    "XIII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos, tratándose del cumplimiento de las medidas u órdenes de protección deberán estar a lo previsto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;",
+    "Fracción reformada DOF 16-12-2024",
+    "XIV. Emitir el informe policial y demás documentos, de conformidad con las disposiciones aplicables. Para tal efecto se podrá apoyar en los conocimientos que resulten necesarios, sin que ello tenga el carácter de informes periciales, y",
+    "XV. Las demás que le confieran este Código y otras disposiciones aplicables."
+   ],
+   "official": [
+    "Obligaciones de las y los Policías",
+    "Epígrafe reformado DOF 16-12-2024",
+    "El Policía actuará bajo la conducción y mando del Ministerio Público en la investigación de los delitos en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución.",
+    "Párrafo reformado DOF 25-04-2023",
+    "Para los efectos del presente Código, el Policía tendrá las siguientes obligaciones:",
+    "I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delito e informar al Ministerio Público por cualquier medio y de forma inmediata de las diligencias practicadas;",
+    "II. Recibir denuncias anónimas e inmediatamente hacerlo del conocimiento del Ministerio Público a efecto de que éste coordine la investigación;",
+    "III. Realizar detenciones en los casos que autoriza la Constitución, haciendo saber a la persona detenida los derechos que ésta le otorga;",
+    "IV. Impedir que se consumen los delitos o que los hechos produzcan consecuencias ulteriores. Especialmente estará obligada a realizar todos los actos necesarios para evitar una agresión real, actual o inminente y sin derecho en protección de bienes jurídicos de los gobernados a quienes tiene la obligación de proteger;",
+    "V. Actuar bajo el mando del Ministerio Público en el aseguramiento de bienes relacionados con la investigación de los delitos;",
+    "VI. Informar sin dilación por cualquier medio al Ministerio Público sobre la detención de cualquier persona, e inscribir inmediatamente las detenciones en el registro que al efecto establezcan las disposiciones aplicables;",
+    "VII. Practicar las inspecciones y otros actos de investigación, así como reportar sus resultados al Ministerio Público. En aquellos que se requiera autorización judicial, deberá solicitarla a través del Ministerio Público;",
+    "VIII. Preservar el lugar de los hechos o del hallazgo y en general, realizar todos los actos necesarios para garantizar la integridad de los indicios. En su caso deberá dar aviso a la Policía con capacidades para procesar la escena del hecho y al Ministerio Público conforme a las disposiciones previstas en este Código y en la legislación aplicable;",
+    "IX. Recolectar y resguardar objetos relacionados con la investigación de los delitos, en los términos de la fracción anterior;",
+    "X. Entrevistar a las personas que pudieran aportar algún dato o elemento para la investigación;",
+    "XI. Requerir a las autoridades competentes y solicitar a las personas físicas o morales, informes y documentos para fines de la investigación. En caso de negativa, informará al Ministerio Público para que determine lo conducente;",
+    "XII. Proporcionar atención a víctimas u ofendidos o testigos del delito. Para tal efecto, deberá:",
+    "a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones aplicables;",
+    "b) Informar a la víctima u ofendido sobre los derechos que en su favor se establecen;",
+    "c) Procurar que reciban atención médica y psicológica cuando sea necesaria;",
+    "Inciso reformado DOF 25-04-2023",
+    "d) Adoptar las medidas que se consideren necesarias, en el ámbito de su competencia, tendientes a evitar que se ponga en peligro su integridad física y psicológica, y",
+    "Inciso reformado DOF 25-04-2023",
+    "e) Tratándose de delitos por razón de género, deberá actuar con perspectiva de género.",
+    "Inciso adicionado DOF 25-04-2023",
+    "XII Bis. Cuando se trate de delitos por motivo de género se deberán aplicar los protocolos previstos para tales efectos;",
+    "Fracción adicionada DOF 25-04-2023",
+    "XIII. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos, tratándose del cumplimiento de las medidas u órdenes de protección deberán estar a lo previsto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;",
+    "Fracción reformada DOF 16-12-2024",
+    "XIV. Emitir el informe policial y demás documentos, de conformidad con las disposiciones aplicables. Para tal efecto se podrá apoyar en los conocimientos que resulten necesarios, sin que ello tenga el carácter de informes periciales, y",
+    "XV. Las demás que le confieran este Código y otras disposiciones aplicables."
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "137",
+   "label": "Artículo 137.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Medidas de protección",
+    "El Ministerio Público, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de protección idóneas cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido. Son medidas de protección las siguientes:",
+    "I. Prohibición de acercarse o comunicarse con la víctima u ofendido;",
+    "II. Limitación para asistir o acercarse al domicilio de la víctima u ofendido o al lugar donde se encuentre;",
+    "III. Separación inmediata del domicilio;",
+    "IV. La entrega inmediata de objetos de uso personal y documentos de identidad de la víctima que tuviera en su posesión el probable responsable;",
+    "V. La prohibición de realizar conductas de intimidación o molestia a la víctima u ofendido o a personas relacionados con ellos;",
+    "VI. Vigilancia en el domicilio de la víctima u ofendido;",
+    "VII. Protección policial de la víctima u ofendido;",
+    "VIII. Auxilio inmediato por integrantes de instituciones policiales, al domicilio en donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo;",
+    "IX. Traslado de la víctima u ofendido a refugios o albergues temporales, así como de sus descendientes, y",
+    "X. El reingreso de la víctima u ofendido a su domicilio, una vez que se salvaguarde su seguridad.",
+    "Dentro de los cinco días siguientes a la imposición de las medidas de protección previstas en las fracciones I, II y III deberá celebrarse audiencia en la que el juez podrá cancelarlas, o bien, ratificarlas o modificarlas mediante la imposición de las medidas cautelares correspondientes.",
+    "En caso de incumplimiento de las medidas de protección, el Ministerio Público podrá imponer alguna de las medidas de apremio previstas en este Código.",
+    "En la aplicación de estas medidas tratándose de delitos por razón de género, se aplicarán de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia."
+   ],
+   "ai": [
+    "Medidas u Órdenes de Protección",
+    "Epígrafe reformado DOF 16-12-2024",
+    "El Ministerio Público, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de protección idóneas cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido. Son medidas de protección las siguientes:",
+    "I. Prohibición de acercarse o comunicarse con la víctima u ofendido;",
+    "II. Limitación para asistir o acercarse al domicilio de la víctima u ofendido o al lugar donde se encuentre;",
+    "III. Separación inmediata del domicilio;",
+    "IV. La entrega inmediata de objetos de uso personal y documentos de identidad de la víctima que tuviera en su posesión el probable responsable;",
+    "V. La prohibición de realizar conductas de intimidación o molestia a la víctima u ofendido o a personas relacionados con ellos;",
+    "VI. Vigilancia en el domicilio de la víctima u ofendido;",
+    "VII. Protección policial de la víctima u ofendido;",
+    "VIII. Auxilio inmediato por integrantes de instituciones policiales, al domicilio en donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo;",
+    "IX. Traslado de la víctima u ofendido a refugios o albergues temporales, así como de sus descendientes, y",
+    "X. El reingreso de la víctima u ofendido a su domicilio, una vez que se salvaguarde su seguridad.",
+    "Dentro de los cinco días siguientes a la imposición de las medidas de protección previstas en las fracciones I, II y III deberá celebrarse audiencia en la que el juez podrá cancelarlas, o bien, ratificarlas o modificarlas mediante la imposición de las medidas cautelares correspondientes.",
+    "En caso de incumplimiento de las medidas de protección, el Ministerio Público podrá imponer alguna de las medidas de apremio previstas en este Código.",
+    "Tratándose de delitos relacionados con las violencias de género contra las mujeres se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+    "Párrafo reformado DOF 16-12-2024"
+   ],
+   "official": [
+    "Medidas u Órdenes de Protección",
+    "Epígrafe reformado DOF 16-12-2024",
+    "El Ministerio Público, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de protección idóneas cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido. Son medidas de protección las siguientes:",
+    "I. Prohibición de acercarse o comunicarse con la víctima u ofendido;",
+    "II. Limitación para asistir o acercarse al domicilio de la víctima u ofendido o al lugar donde se encuentre;",
+    "III. Separación inmediata del domicilio;",
+    "IV. La entrega inmediata de objetos de uso personal y documentos de identidad de la víctima que tuviera en su posesión el probable responsable;",
+    "V. La prohibición de realizar conductas de intimidación o molestia a la víctima u ofendido o a personas relacionados con ellos;",
+    "VI. Vigilancia en el domicilio de la víctima u ofendido;",
+    "VII. Protección policial de la víctima u ofendido;",
+    "VIII. Auxilio inmediato por integrantes de instituciones policiales, al domicilio en donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo;",
+    "IX. Traslado de la víctima u ofendido a refugios o albergues temporales, así como de sus descendientes, y",
+    "X. El reingreso de la víctima u ofendido a su domicilio, una vez que se salvaguarde su seguridad.",
+    "Dentro de los cinco días siguientes a la imposición de las medidas de protección previstas en las fracciones I, II y III deberá celebrarse audiencia en la que el juez podrá cancelarlas, o bien, ratificarlas o modificarlas mediante la imposición de las medidas cautelares correspondientes.",
+    "En caso de incumplimiento de las medidas de protección, el Ministerio Público podrá imponer alguna de las medidas de apremio previstas en este Código.",
+    "Tratándose de delitos relacionados con las violencias de género contra las mujeres se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+    "Párrafo reformado DOF 16-12-2024"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "139",
+   "label": "Artículo 139.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Duración de las medidas de protección y providencias precautorias",
+    "La imposición de las medidas de protección y de las providencias precautorias tendrá una duración máxima de sesenta días naturales, prorrogables hasta por treinta días.",
+    "Cuando hubiere desaparecido la causa que dio origen a la medida decretada, el imputado, su Defensor o en su caso el Ministerio Público, podrán solicitar al Juez de control que la deje sin efectos."
+   ],
+   "ai": [
+    "Duración de las medidas u órdenes de protección y providencias precautorias",
+    "Epígrafe reformado DOF 16-12-2024",
+    "La imposición de las medidas de protección y de las providencias precautorias tendrá una duración máxima de sesenta días naturales, prorrogables hasta por treinta días.",
+    "Cuando hubiere desaparecido la causa que dio origen a la medida decretada, el imputado, su Defensor o en su caso el Ministerio Público, podrán solicitar al Juez de control que la deje sin efectos.",
+    "Tratándose de delitos relacionados con las violencias de género contra las mujeres, adolescentes y niñas, se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+    "Párrafo adicionado DOF 16-12-2024"
+   ],
+   "official": [
+    "Duración de las medidas u órdenes de protección y providencias precautorias",
+    "Epígrafe reformado DOF 16-12-2024",
+    "La imposición de las medidas de protección y de las providencias precautorias tendrá una duración máxima de sesenta días naturales, prorrogables hasta por treinta días.",
+    "Cuando hubiere desaparecido la causa que dio origen a la medida decretada, el imputado, su Defensor o en su caso el Ministerio Público, podrán solicitar al Juez de control que la deje sin efectos.",
+    "Tratándose de delitos relacionados con las violencias de género contra las mujeres, adolescentes y niñas, se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+    "Párrafo adicionado DOF 16-12-2024"
+   ],
+   "diff": [],
+   "cause": null
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 70.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 70",
+    "from_block": 1,
+    "to_block": 23,
+    "paragraphs": [
+     "Derogado."
+    ]
+   },
+   {
+    "article": "Artículo 71.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 71",
+    "from_block": 1,
+    "to_block": 7,
+    "paragraphs": [
+     "Derogado."
+    ]
+   },
+   {
+    "article": "Artículo 74.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "Artículo 77.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "párrafo tercero, fracción II",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "II. El importe de las partidas no deducibles para efectos del impuesto sobre la renta, excepto las señaladas en el artículo 28, fracciones VIII y IX de esta Ley y la participación de los trabajadores en las utilidades de las empresas a que se refiere el artículo 9, fracción I, de este ordenamiento, así como aquellas que no cumplan con los requisitos fiscales previstos en las disposiciones aplicables."
+    ]
+   },
+   {
+    "article": "Artículo 77.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo quinto",
+    "from_block": 17,
+    "to_block": 17,
+    "paragraphs": [
+     "Cuando la suma del impuesto sobre la renta pagado en los términos del artículo 9 de esta Ley, las partidas no deducibles para efectos del impuesto sobre la renta, excepto las señaladas en las fracciones VIII y IX del artículo 28 de esta Ley, la participación de los trabajadores en las utilidades de las empresas a que se refiere la fracción I del artículo 9 de este ordenamiento, y el monto que se determine conforme al párrafo anterior; así como aquellas que no cumplan con los requisitos fiscales previstos en las disposiciones aplicables, sea mayor al resultado fiscal del ejercicio, la diferencia se disminuirá del saldo de la cuenta de utilidad fiscal neta que se tenga al final del ejercicio o, en su caso, de la utilidad fiscal neta que se determine en los siguientes ejercicios, hasta agotarlo. En este último caso, el monto que se disminuya se actualizará desde el último mes del ejercicio en el que se determinó y hasta el último mes del ejercicio en el que se disminuya."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 70.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 70\",\"from_block\":1,\"to_block\":23,\"paragraphs\":[\"Derogado.\"]},{\"article\":\"Artículo 71.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 71\",\"from_block\":1,\"to_block\":7,\"paragraphs\":[\"Derogado.\"]},{\"article\":\"Artículo 74.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"Derogado\"]},{\"article\":\"Artículo 77.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"párrafo tercero, fracción II\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"II. El importe de las partidas no deducibles para efectos del impuesto sobre la renta, excepto las señaladas en el artículo 28, fracciones VIII y IX de esta Ley y la participación de los trabajadores en las utilidades de las empresas a que se refiere el artículo 9, fracción I, de este ordenamiento, así como aquellas que no cumplan con los requisitos fiscales previstos en las disposiciones aplicables.\"]},{\"article\":\"Artículo 77.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo quinto\",\"from_block\":17,\"to_block\":17,\"paragraphs\":[\"Cuando la suma del impuesto sobre la renta pagado en los términos del artículo 9 de esta Ley, las partidas no deducibles para efectos del impuesto sobre la renta, excepto las señaladas en las fracciones VIII y IX del artículo 28 de esta Ley, la participación de los trabajadores en las utilidades de las empresas a que se refiere la fracción I del artículo 9 de este ordenamiento, y el monto que se determine conforme al párrafo anterior; así como aquellas que no cumplan con los requisitos fiscales previstos en las disposiciones aplicables, sea mayor al resultado fiscal del ejercicio, la diferencia se disminuirá del saldo de la cuenta de utilidad fiscal neta que se tenga al final del ejercicio o, en su caso, de la utilidad fiscal neta que se determine en los siguientes ejercicios, hasta agotarlo. En este último caso, el monto que se disminuya se actualizará desde el último mes del ejercicio en el que se determinó y hasta el último mes del ejercicio en el que se disminuya.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 11710,
+ "total_cost_usd": 0.1274658,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 1450,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 12232,
+   "webSearchRequests": 0,
+   "costUSD": 0.1274658,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 475,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 12232,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

@@ -1,0 +1,265 @@
+{
+ "id": "2024-01-17-ccf",
+ "source": "backtest",
+ "law": {
+  "slug": "ccf",
+  "title": "Código Civil Federal",
+  "abbreviation": "CCF"
+ },
+ "decree": {
+  "code": 5714605,
+  "title": "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, del Código Civil Federal y del Código Penal Federal, en materia de violencia a través de interpósita persona.",
+  "date": "2024-01-17",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5714605&fecha=17/01/2024",
+  "pdf": null,
+  "instruction": [
+   "Artículo Segundo.- Se reforma el párrafo tercero del artículo 323 ter; y los artículos 444 bis y 494, y se adiciona un párrafo cuarto al artículo 323 ter, y el 323 quáter, del Código Civil Federal, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "f87d2ee659b245489c9d884d45344b8c79b781cc"
+ },
+ "official": {
+  "commit": "f81d1d0b354b076e21409fab093b7b645867ca14",
+  "date": "2024-01-17",
+  "same_day": true
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "Artículo 323 ter.",
+    "Artículo 323 quáter.",
+    "Artículo 444 bis.",
+    "Artículo 494."
+   ],
+   "key": "be7e5f14db5fa3a2323691e2bcf48c3b60d029f792cc5ccb981958c77458c01d",
+   "cached": true,
+   "duration_ms": 10243,
+   "cost_usd": 0.066459,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "323 ter": {
+   "label": "Artículo 323 ter.",
+   "headings": [],
+   "lines": [
+    "Artículo 323 ter.- ...",
+    "...",
+    "La violencia familiar es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, patrimonial, económica o sexual a cualquier integrante de la familia dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones; así como, el incumplimiento de las obligaciones alimentarias por parte de la persona que de conformidad con lo dispuesto en este Código tiene obligación de cubrirlas.",
+    "Para efectos de este artículo, se entiende por integrante de la familia a la persona que se encuentre unida a otra por una relación de matrimonio, concubinato, cohabitación o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente sin limitación de grado, colateral o afín hasta el cuarto grado."
+   ]
+  },
+  "323 quater": {
+   "label": "Artículo 323 quáter.",
+   "headings": [],
+   "lines": [
+    "Artículo 323 quáter.- Queda prohibido el ejercicio de la violencia a través de interpósita persona en términos de lo establecido en la fracción VI del artículo 6 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia."
+   ]
+  },
+  "444 bis": {
+   "label": "Artículo 444 bis.",
+   "headings": [],
+   "lines": [
+    "Artículo 444 bis.- La patria potestad podrá ser limitada cuando la persona que la ejerce incurra en conductas de violencia familiar y de violencia a través de interpósita persona previstas en los artículos 323 ter y 323 quáter de este Código, en contra de las personas sobre las cuales la ejerza."
+   ]
+  },
+  "494": {
+   "label": "Artículo 494.",
+   "headings": [],
+   "lines": [
+    "Artículo 494.- Las personas responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban personas menores de edad que hayan sido objeto de la violencia familiar y/o utilizados para ejercer violencia a través de interpósita persona a que se refieren los artículos 323 ter y 323 quáter de este ordenamiento, tendrán la custodia de éstas en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar y/o de violencia a través de interpósita persona."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "Artículo 323 ter.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "paragraphs": [
+     "La violencia familiar es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, patrimonial, económica o sexual a cualquier integrante de la familia dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones; así como, el incumplimiento de las obligaciones alimentarias por parte de la persona que de conformidad con lo dispuesto en este Código tiene obligación de cubrirlas."
+    ],
+    "from_block": 4,
+    "to_block": 4,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 323 ter.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "paragraphs": [
+     "Para efectos de este artículo, se entiende por integrante de la familia a la persona que se encuentre unida a otra por una relación de matrimonio, concubinato, cohabitación o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente sin limitación de grado, colateral o afín hasta el cuarto grado."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 5,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 323 quáter.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 323 quáter.",
+    "paragraphs": [
+     "Queda prohibido el ejercicio de la violencia a través de interpósita persona en términos de lo establecido en la fracción VI del artículo 6 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 444 bis.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 444 bis.",
+    "paragraphs": [
+     "La patria potestad podrá ser limitada cuando la persona que la ejerce incurra en conductas de violencia familiar y de violencia a través de interpósita persona previstas en los artículos 323 ter y 323 quáter de este Código, en contra de las personas sobre las cuales la ejerza."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 494.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 494.",
+    "paragraphs": [
+     "Las personas responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban personas menores de edad que hayan sido objeto de la violencia familiar y/o utilizados para ejercer violencia a través de interpósita persona a que se refieren los artículos 323 ter y 323 quáter de este ordenamiento, tendrán la custodia de éstas en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar y/o de violencia a través de interpósita persona."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "needs_review": [],
+ "counts": {
+  "exact": 4,
+  "normalized": 0,
+  "mismatch": 0,
+  "not_applied": 0,
+  "outside_decree": 0,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 0,
+  "notes_match": 4
+ },
+ "transitorios": "exact",
+ "body_identical": true,
+ "articles": [
+  {
+   "key": "323 ter",
+   "label": "Artículo 323 ter.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.",
+    "Queda prohibido que la madre, padre o cualquier persona en la familia, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños o adolescentes. Se define el castigo corporal y humillante según lo dispuesto por la fracción VIII del artículo 47 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+    "Párrafo adicionado DOF 11-01-2021",
+    "Por violencia familiar se considera el uso intencional de la fuerza física, moral o de cualquier acto que tenga como objetivo provocar dolor, molestia o humillación, incluyendo el castigo corporal y humillante contra niñas, niños y adolescentes, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica y emocional independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.",
+    "Párrafo reformado DOF 11-01-2021",
+    "Artículo adicionado DOF 30-12-1997"
+   ],
+   "ai": [
+    "Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.",
+    "Queda prohibido que la madre, padre o cualquier persona en la familia, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños o adolescentes. Se define el castigo corporal y humillante según lo dispuesto por la fracción VIII del artículo 47 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+    "Párrafo adicionado DOF 11-01-2021",
+    "La violencia familiar es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, patrimonial, económica o sexual a cualquier integrante de la familia dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones; así como, el incumplimiento de las obligaciones alimentarias por parte de la persona que de conformidad con lo dispuesto en este Código tiene obligación de cubrirlas.",
+    "Párrafo reformado DOF 11-01-2021, 17-01-2024",
+    "Para efectos de este artículo, se entiende por integrante de la familia a la persona que se encuentre unida a otra por una relación de matrimonio, concubinato, cohabitación o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente sin limitación de grado, colateral o afín hasta el cuarto grado.",
+    "Párrafo adicionado DOF 17-01-2024",
+    "Artículo adicionado DOF 30-12-1997"
+   ],
+   "official": [
+    "Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.",
+    "Queda prohibido que la madre, padre o cualquier persona en la familia, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina de niñas, niños o adolescentes. Se define el castigo corporal y humillante según lo dispuesto por la fracción VIII del artículo 47 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.",
+    "Párrafo adicionado DOF 11-01-2021",
+    "La violencia familiar es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, patrimonial, económica o sexual a cualquier integrante de la familia dentro o fuera del domicilio familiar, independientemente de que pueda producir o no lesiones; así como, el incumplimiento de las obligaciones alimentarias por parte de la persona que de conformidad con lo dispuesto en este Código tiene obligación de cubrirlas.",
+    "Párrafo reformado DOF 11-01-2021, 17-01-2024",
+    "Para efectos de este artículo, se entiende por integrante de la familia a la persona que se encuentre unida a otra por una relación de matrimonio, concubinato, cohabitación o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente sin limitación de grado, colateral o afín hasta el cuarto grado.",
+    "Párrafo adicionado DOF 17-01-2024",
+    "Artículo adicionado DOF 30-12-1997"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "323 quater",
+   "label": "Artículo 323 quáter.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [],
+   "ai": [
+    "Queda prohibido el ejercicio de la violencia a través de interpósita persona en términos de lo establecido en la fracción VI del artículo 6 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+    "Artículo adicionado DOF 17-01-2024"
+   ],
+   "official": [
+    "Queda prohibido el ejercicio de la violencia a través de interpósita persona en términos de lo establecido en la fracción VI del artículo 6 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.",
+    "Artículo adicionado DOF 17-01-2024"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "444 bis",
+   "label": "Artículo 444 bis.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas en el artículo 323 ter de este Código, en contra de las personas sobre las cuales la ejerza.",
+    "Artículo adicionado DOF 30-12-1997"
+   ],
+   "ai": [
+    "La patria potestad podrá ser limitada cuando la persona que la ejerce incurra en conductas de violencia familiar y de violencia a través de interpósita persona previstas en los artículos 323 ter y 323 quáter de este Código, en contra de las personas sobre las cuales la ejerza.",
+    "Artículo adicionado DOF 30-12-1997. Reformado DOF 17-01-2024"
+   ],
+   "official": [
+    "La patria potestad podrá ser limitada cuando la persona que la ejerce incurra en conductas de violencia familiar y de violencia a través de interpósita persona previstas en los artículos 323 ter y 323 quáter de este Código, en contra de las personas sobre las cuales la ejerza.",
+    "Artículo adicionado DOF 30-12-1997. Reformado DOF 17-01-2024"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "494",
+   "label": "Artículo 494.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban menores que hayan sido objeto de la violencia familiar a que se refiere el artículo 323 ter de este ordenamiento, tendrán la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.",
+    "Artículo reformado DOF 30-12-1997"
+   ],
+   "ai": [
+    "Las personas responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban personas menores de edad que hayan sido objeto de la violencia familiar y/o utilizados para ejercer violencia a través de interpósita persona a que se refieren los artículos 323 ter y 323 quáter de este ordenamiento, tendrán la custodia de éstas en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar y/o de violencia a través de interpósita persona.",
+    "Artículo reformado DOF 30-12-1997, 17-01-2024"
+   ],
+   "official": [
+    "Las personas responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban personas menores de edad que hayan sido objeto de la violencia familiar y/o utilizados para ejercer violencia a través de interpósita persona a que se refieren los artículos 323 ter y 323 quáter de este ordenamiento, tendrán la custodia de éstas en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar y/o de violencia a través de interpósita persona.",
+    "Artículo reformado DOF 30-12-1997, 17-01-2024"
+   ],
+   "diff": [],
+   "cause": null
+  }
+ ]
+}

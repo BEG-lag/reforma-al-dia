@@ -1,0 +1,80 @@
+{
+ "structured_output": {
+  "edits": [],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "Artículo 16.",
+    "reason": "El texto del decreto corresponde al artículo 16 de la Ley Federal de Austeridad Republicana (Artículo Primero del decreto), no a la LGRA; el Artículo Segundo sólo modifica los artículos 7, 49, 53, 59, 60 Bis, 63 Bis y 64 Bis de la LGRA. No se aplica ningún cambio."
+   },
+   {
+    "article": "Artículo 17.",
+    "reason": "El texto del decreto corresponde al artículo 17 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 17 de la LGRA no es objeto de reforma. No se aplica ningún cambio."
+   },
+   {
+    "article": "Artículo 18.",
+    "reason": "El texto del decreto corresponde al artículo 18 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 18 de la LGRA no es objeto de reforma. No se aplica ningún cambio."
+   },
+   {
+    "article": "Artículo 19.",
+    "reason": "El texto del decreto corresponde al artículo 19 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 19 de la LGRA no es objeto de reforma. No se aplica ningún cambio."
+   },
+   {
+    "article": "Artículo 20.",
+    "reason": "El texto del decreto (y los encabezados Título Tercero/Capítulo Único) corresponden a la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 20 de la LGRA no es objeto de reforma. No se aplica ningún cambio."
+   },
+   {
+    "article": "Artículo 21.",
+    "reason": "El texto del decreto corresponde al artículo 21 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 21 de la LGRA no es objeto de reforma. No se aplica ningún cambio."
+   },
+   {
+    "article": "Artículo 22.",
+    "reason": "El texto del decreto corresponde al artículo 22 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 22 de la LGRA no es objeto de reforma. No se aplica ningún cambio."
+   },
+   {
+    "article": "Artículo 23.",
+    "reason": "El texto del decreto corresponde al artículo 23 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 23 de la LGRA no es objeto de reforma. No se aplica ningún cambio."
+   },
+   {
+    "article": "Artículo 24.",
+    "reason": "El texto del decreto corresponde al artículo 24 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 24 de la LGRA no es objeto de reforma. No se aplica ningún cambio."
+   },
+   {
+    "article": "Artículo 25.",
+    "reason": "El texto del decreto corresponde al artículo 25 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 25 de la LGRA no es objeto de reforma. No se aplica ningún cambio."
+   },
+   {
+    "article": "Artículo 26.",
+    "reason": "El texto del decreto corresponde al artículo 26 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 26 de la LGRA no es objeto de reforma. No se aplica ningún cambio."
+   },
+   {
+    "article": "Artículo 27.",
+    "reason": "El texto del decreto (y los encabezados Título Cuarto/Capítulo Primero) corresponden a la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 27 de la LGRA no es objeto de reforma. No se aplica ningún cambio."
+   }
+  ]
+ },
+ "result": "{\"edits\":[],\"divisions\":[],\"needs_review\":[{\"article\":\"Artículo 16.\",\"reason\":\"El texto del decreto corresponde al artículo 16 de la Ley Federal de Austeridad Republicana (Artículo Primero del decreto), no a la LGRA; el Artículo Segundo sólo modifica los artículos 7, 49, 53, 59, 60 Bis, 63 Bis y 64 Bis de la LGRA. No se aplica ningún cambio.\"},{\"article\":\"Artículo 17.\",\"reason\":\"El texto del decreto corresponde al artículo 17 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 17 de la LGRA no es objeto de reforma. No se aplica ningún cambio.\"},{\"article\":\"Artículo 18.\",\"reason\":\"El texto del decreto corresponde al artículo 18 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 18 de la LGRA no es objeto de reforma. No se aplica ningún cambio.\"},{\"article\":\"Artículo 19.\",\"reason\":\"El texto del decreto corresponde al artículo 19 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 19 de la LGRA no es objeto de reforma. No se aplica ningún cambio.\"},{\"article\":\"Artículo 20.\",\"reason\":\"El texto del decreto (y los encabezados Título Tercero/Capítulo Único) corresponden a la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 20 de la LGRA no es objeto de reforma. No se aplica ningún cambio.\"},{\"article\":\"Artículo 21.\",\"reason\":\"El texto del decreto corresponde al artículo 21 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 21 de la LGRA no es objeto de reforma. No se aplica ningún cambio.\"},{\"article\":\"Artículo 22.\",\"reason\":\"El texto del decreto corresponde al artículo 22 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 22 de la LGRA no es objeto de reforma. No se aplica ningún cambio.\"},{\"article\":\"Artículo 23.\",\"reason\":\"El texto del decreto corresponde al artículo 23 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 23 de la LGRA no es objeto de reforma. No se aplica ningún cambio.\"},{\"article\":\"Artículo 24.\",\"reason\":\"El texto del decreto corresponde al artículo 24 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 24 de la LGRA no es objeto de reforma. No se aplica ningún cambio.\"},{\"article\":\"Artículo 25.\",\"reason\":\"El texto del decreto corresponde al artículo 25 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 25 de la LGRA no es objeto de reforma. No se aplica ningún cambio.\"},{\"article\":\"Artículo 26.\",\"reason\":\"El texto del decreto corresponde al artículo 26 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 26 de la LGRA no es objeto de reforma. No se aplica ningún cambio.\"},{\"article\":\"Artículo 27.\",\"reason\":\"El texto del decreto (y los encabezados Título Cuarto/Capítulo Primero) corresponden a la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 27 de la LGRA no es objeto de reforma. No se aplica ningún cambio.\"}]}",
+ "duration_ms": 13266,
+ "total_cost_usd": 0.1197658,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 1785,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 10432,
+   "webSearchRequests": 0,
+   "costUSD": 0.1197658,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 98,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 10432,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

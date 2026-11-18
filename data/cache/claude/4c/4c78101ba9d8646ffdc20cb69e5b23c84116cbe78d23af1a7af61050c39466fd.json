@@ -1,0 +1,65 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 122.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero de la fracción IV del Apartado A",
+    "from_block": 19,
+    "to_block": 19,
+    "paragraphs": [
+     "IV. El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia, el Tribunal de Disciplina Judicial local, el órgano de administración judicial y los juzgados y tribunales que establezca la Constitución Política de la Ciudad de México, la que garantizará la independencia de los magistrados y jueces en el ejercicio de sus funciones. Las leyes locales establecerán las condiciones para su elección por voto libre, directo y secreto de la ciudadanía conforme a las bases, procedimientos, términos, modalidades y requisitos que señala esta Constitución para el Poder Judicial de la Federación en lo que resulte aplicable y los demás que establezca la Constitución Política de la Ciudad de México y las leyes correspondientes, estableciendo mediante mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes profesionales y académicos en el ejercicio de la actividad jurídica. Las leyes también establecerán las condiciones para el funcionamiento de órganos de administración y disciplina con independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en esta Constitución para el Poder Judicial de la Federación; así como del ingreso, formación, permanencia y especialización de quienes integren el poder Judicial."
+    ]
+   },
+   {
+    "article": "Artículo 122.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero de la fracción IV del Apartado A",
+    "from_block": 21,
+    "to_block": 21,
+    "paragraphs": [
+     "Las y los magistrados y las y los jueces durarán en el ejercicio de su encargo nueve años; podrán ser reelectas y reelectos y, si lo fueren, sólo podrán ser privados de sus puestos en los términos que establecen esta Constitución, así como la Constitución y las leyes de la Ciudad de México. Las magistradas y los magistrados y las juezas y jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente y no será disminuida durante su encargo. En el ámbito del Poder Judicial, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley."
+    ]
+   },
+   {
+    "article": "Artículo 122.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto de la fracción VIII del Apartado A",
+    "from_block": 44,
+    "to_block": 44,
+    "paragraphs": [
+     "La investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Tribunal Superior de Justicia, corresponderá al Tribunal de Disciplina Judicial local, sin perjuicio de las atribuciones de la entidad de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 122.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero de la fracción IV del Apartado A\",\"from_block\":19,\"to_block\":19,\"paragraphs\":[\"IV. El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia, el Tribunal de Disciplina Judicial local, el órgano de administración judicial y los juzgados y tribunales que establezca la Constitución Política de la Ciudad de México, la que garantizará la independencia de los magistrados y jueces en el ejercicio de sus funciones. Las leyes locales establecerán las condiciones para su elección por voto libre, directo y secreto de la ciudadanía conforme a las bases, procedimientos, términos, modalidades y requisitos que señala esta Constitución para el Poder Judicial de la Federación en lo que resulte aplicable y los demás que establezca la Constitución Política de la Ciudad de México y las leyes correspondientes, estableciendo mediante mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes profesionales y académicos en el ejercicio de la actividad jurídica. Las leyes también establecerán las condiciones para el funcionamiento de órganos de administración y disciplina con independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en esta Constitución para el Poder Judicial de la Federación; así como del ingreso, formación, permanencia y especialización de quienes integren el poder Judicial.\"]},{\"article\":\"Artículo 122.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero de la fracción IV del Apartado A\",\"from_block\":21,\"to_block\":21,\"paragraphs\":[\"Las y los magistrados y las y los jueces durarán en el ejercicio de su encargo nueve años; podrán ser reelectas y reelectos y, si lo fueren, sólo podrán ser privados de sus puestos en los términos que establecen esta Constitución, así como la Constitución y las leyes de la Ciudad de México. Las magistradas y los magistrados y las juezas y jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente y no será disminuida durante su encargo. En el ámbito del Poder Judicial, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.\"]},{\"article\":\"Artículo 122.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto de la fracción VIII del Apartado A\",\"from_block\":44,\"to_block\":44,\"paragraphs\":[\"La investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Tribunal Superior de Justicia, corresponderá al Tribunal de Disciplina Judicial local, sin perjuicio de las atribuciones de la entidad de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 10199,
+ "total_cost_usd": 0.1112098,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 1436,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 10235,
+   "webSearchRequests": 0,
+   "costUSD": 0.1112098,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 159,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 10235,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

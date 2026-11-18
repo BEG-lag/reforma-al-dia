@@ -1,0 +1,214 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 121.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "A fin de que las partes puedan rendir sus pruebas, las personas servidoras públicas tienen la obligación de expedir con toda oportunidad, las copias o documentos que aquellas les hubieren solicitado. Si no lo hacen, la parte interesada una vez que acredite haber hecho la petición, solicitará al órgano jurisdiccional que requiera a las omisas y difiera la audiencia, lo que se acordará siempre que la solicitud se hubiere hecho cinco días hábiles antes del señalado para su celebración, sin contar el de la solicitud ni el señalado para la propia audiencia. El órgano jurisdiccional hará el requerimiento de que se le envíen directamente los documentos o copias dentro de un plazo que no exceda de diez días."
+    ]
+   },
+   {
+    "article": "Artículo 121.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Si a pesar del requerimiento no se le envían oportunamente los documentos o copias, el órgano jurisdiccional, a petición de parte, podrá diferir la audiencia hasta en tanto se envíen; hará uso de los medios de apremio y agotados éstos, si persiste el incumplimiento denunciará los hechos al o la Ministerio Público de la Federación."
+    ]
+   },
+   {
+    "article": "Artículo 124.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "La persona quejosa podrá alegar verbalmente cuando se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, asentándose en autos extracto de sus alegaciones, si lo solicitare."
+    ]
+   },
+   {
+    "article": "Artículo 125.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 125",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La suspensión del acto reclamado se decretará de oficio o a petición de la persona quejosa."
+    ]
+   },
+   {
+    "article": "Artículo 127.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Siempre que se trate de algún acto que, si llegare a consumarse, haría físicamente imposible restituir a la persona quejosa en el goce del derecho reclamado."
+    ]
+   },
+   {
+    "article": "Artículo 128.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "I. Que la solicite la persona quejosa, y"
+    ]
+   },
+   {
+    "article": "Artículo 129.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VIII",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "VIII. Se afecten intereses de menores de edad o incapaces o se les pueda causar trastorno emocional o psíquico;"
+    ]
+   },
+   {
+    "article": "Artículo 129.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XII",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "XII. Se impida la continuación del procedimiento de extinción de dominio previsto en el párrafo segundo del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos. En caso de que la persona quejosa sea una tercera ajena al procedimiento, procederá la suspensión;"
+    ]
+   },
+   {
+    "article": "Artículo 131.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 131",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Cuando la persona quejosa que solicita la suspensión aduzca un interés legítimo, el órgano jurisdiccional la concederá cuando la persona quejosa acredite el daño inminente e irreparable a su pretensión en caso de que se niegue, y el interés social que justifique su otorgamiento.",
+     "En ningún caso, el otorgamiento de la medida cautelar podrá tener por efecto modificar o restringir derechos ni constituir aquéllos que no haya tenido la persona quejosa antes de la presentación de la demanda."
+    ]
+   },
+   {
+    "article": "Artículo 132.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En los casos en que sea procedente la suspensión pero pueda ocasionar daño o perjuicio a tercero y la misma se conceda, la persona quejosa deberá otorgar garantía bastante para reparar el daño e indemnizar los perjuicios que con aquélla se causaren si no obtuviere sentencia favorable en el juicio de amparo."
+    ]
+   },
+   {
+    "article": "Artículo 132.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Cuando con la suspensión puedan afectarse derechos de la persona tercera interesada que no sean estimables en dinero, el órgano jurisdiccional fijará discrecionalmente el importe de la garantía."
+    ]
+   },
+   {
+    "article": "Artículo 133.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La suspensión, en su caso, quedará sin efecto si la o el tercero otorga contragarantía para restituir las cosas al estado que guardaban antes de la violación reclamada y pagar los daños y perjuicios que sobrevengan a la persona quejosa, en el caso de que se le conceda el amparo."
+    ]
+   },
+   {
+    "article": "Artículo 134.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La contragarantía que ofrezca la o el tercero conforme al artículo anterior deberá también cubrir el costo de la garantía que hubiese otorgado la persona quejosa, que comprenderá:"
+    ]
+   },
+   {
+    "article": "Artículo 134.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Los gastos legales de la escritura respectiva y su registro, así como los de la cancelación y su registro, cuando la persona quejosa hubiere otorgado garantía hipotecaria, y"
+    ]
+   },
+   {
+    "article": "Artículo 135.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "II. Si el monto de los créditos excediere la capacidad económica de la persona quejosa, y"
+    ]
+   },
+   {
+    "article": "Artículo 136.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Los efectos de la suspensión dejarán de surtirse, en su caso, si dentro del plazo de cinco días siguientes al en que surta efectos la notificación del acuerdo de suspensión, la persona quejosa no otorga la garantía fijada y así lo determina el órgano jurisdiccional. Al vencimiento del plazo, dicho órgano, de oficio o a instancia de parte, lo notificará a las autoridades responsables, las que podrán ejecutar el acto reclamado. No obstante lo anterior, mientras no se ejecute, la persona quejosa podrá exhibir la garantía, con lo cual, de inmediato, vuelve a surtir efectos la medida suspensional."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "Artículo 128.",
+    "reason": "La instrucción menciona 'párrafo primero, fracción I', pero el decreto imprime el párrafo primero sólo como marcador ('Artículo 128. ...'). Por eso únicamente se reformó la fracción I y el párrafo primero se dejó sin cambios. Conviene confirmar que el párrafo primero no tiene un texto nuevo."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 121.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"A fin de que las partes puedan rendir sus pruebas, las personas servidoras públicas tienen la obligación de expedir con toda oportunidad, las copias o documentos que aquellas les hubieren solicitado. Si no lo hacen, la parte interesada una vez que acredite haber hecho la petición, solicitará al órgano jurisdiccional que requiera a las omisas y difiera la audiencia, lo que se acordará siempre que la solicitud se hubiere hecho cinco días hábiles antes del señalado para su celebración, sin contar el de la solicitud ni el señalado para la propia audiencia. El órgano jurisdiccional hará el requerimiento de que se le envíen directamente los documentos o copias dentro de un plazo que no exceda de diez días.\"]},{\"article\":\"Artículo 121.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Si a pesar del requerimiento no se le envían oportunamente los documentos o copias, el órgano jurisdiccional, a petición de parte, podrá diferir la audiencia hasta en tanto se envíen; hará uso de los medios de apremio y agotados éstos, si persiste el incumplimiento denunciará los hechos al o la Ministerio Público de la Federación.\"]},{\"article\":\"Artículo 124.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"La persona quejosa podrá alegar verbalmente cuando se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, asentándose en autos extracto de sus alegaciones, si lo solicitare.\"]},{\"article\":\"Artículo 125.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 125\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La suspensión del acto reclamado se decretará de oficio o a petición de la persona quejosa.\"]},{\"article\":\"Artículo 127.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Siempre que se trate de algún acto que, si llegare a consumarse, haría físicamente imposible restituir a la persona quejosa en el goce del derecho reclamado.\"]},{\"article\":\"Artículo 128.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"I. Que la solicite la persona quejosa, y\"]},{\"article\":\"Artículo 129.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VIII\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"VIII. Se afecten intereses de menores de edad o incapaces o se les pueda causar trastorno emocional o psíquico;\"]},{\"article\":\"Artículo 129.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XII\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"XII. Se impida la continuación del procedimiento de extinción de dominio previsto en el párrafo segundo del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos. En caso de que la persona quejosa sea una tercera ajena al procedimiento, procederá la suspensión;\"]},{\"article\":\"Artículo 131.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 131\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Cuando la persona quejosa que solicita la suspensión aduzca un interés legítimo, el órgano jurisdiccional la concederá cuando la persona quejosa acredite el daño inminente e irreparable a su pretensión en caso de que se niegue, y el interés social que justifique su otorgamiento.\",\"En ningún caso, el otorgamiento de la medida cautelar podrá tener por efecto modificar o restringir derechos ni constituir aquéllos que no haya tenido la persona quejosa antes de la presentación de la demanda.\"]},{\"article\":\"Artículo 132.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En los casos en que sea procedente la suspensión pero pueda ocasionar daño o perjuicio a tercero y la misma se conceda, la persona quejosa deberá otorgar garantía bastante para reparar el daño e indemnizar los perjuicios que con aquélla se causaren si no obtuviere sentencia favorable en el juicio de amparo.\"]},{\"article\":\"Artículo 132.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Cuando con la suspensión puedan afectarse derechos de la persona tercera interesada que no sean estimables en dinero, el órgano jurisdiccional fijará discrecionalmente el importe de la garantía.\"]},{\"article\":\"Artículo 133.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La suspensión, en su caso, quedará sin efecto si la o el tercero otorga contragarantía para restituir las cosas al estado que guardaban antes de la violación reclamada y pagar los daños y perjuicios que sobrevengan a la persona quejosa, en el caso de que se le conceda el amparo.\"]},{\"article\":\"Artículo 134.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La contragarantía que ofrezca la o el tercero conforme al artículo anterior deberá también cubrir el costo de la garantía que hubiese otorgado la persona quejosa, que comprenderá:\"]},{\"article\":\"Artículo 134.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Los gastos legales de la escritura respectiva y su registro, así como los de la cancelación y su registro, cuando la persona quejosa hubiere otorgado garantía hipotecaria, y\"]},{\"article\":\"Artículo 135.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"II. Si el monto de los créditos excediere la capacidad económica de la persona quejosa, y\"]},{\"article\":\"Artículo 136.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Los efectos de la suspensión dejarán de surtirse, en su caso, si dentro del plazo de cinco días siguientes al en que surta efectos la notificación del acuerdo de suspensión, la persona quejosa no otorga la garantía fijada y así lo determina el órgano jurisdiccional. Al vencimiento del plazo, dicho órgano, de oficio o a instancia de parte, lo notificará a las autoridades responsables, las que podrán ejecutar el acto reclamado. No obstante lo anterior, mientras no se ejecute, la persona quejosa podrá exhibir la garantía, con lo cual, de inmediato, vuelve a surtir efectos la medida suspensional.\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"Artículo 128.\",\"reason\":\"La instrucción menciona 'párrafo primero, fracción I', pero el decreto imprime el párrafo primero sólo como marcador ('Artículo 128. ...'). Por eso únicamente se reformó la fracción I y el párrafo primero se dejó sin cambios. Conviene confirmar que el párrafo primero no tiene un texto nuevo.\"}]}",
+ "duration_ms": 22244,
+ "total_cost_usd": 0.1489938,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 3254,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 10413,
+   "webSearchRequests": 0,
+   "costUSD": 0.1489938,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 255,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 10413,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

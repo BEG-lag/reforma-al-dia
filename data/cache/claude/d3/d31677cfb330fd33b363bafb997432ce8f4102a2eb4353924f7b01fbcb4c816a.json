@@ -1,0 +1,291 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "ARTÍCULO 37.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 37",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 37 BIS.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 37 BIS",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "\"La Comisión\" establecerá un fondo de reserva de aguas nacionales, el cual se conformará de los volúmenes siguientes:",
+     "I. Los provenientes de la extinción de títulos de concesión o asignación para la explotación, uso o aprovechamiento de aguas nacionales, en términos de lo previsto en el Artículo 29 BIS 3 de la presente Ley;",
+     "II. Los que deriven de la cesión de volúmenes en favor de \"la Autoridad del Agua\", en términos de lo previsto en el Artículo 29 BIS 3, fracción VI, numeral 4 de este ordenamiento, y",
+     "III. Los vinculados a la preferencia de derechos en los casos previstos en el Artículo 37 BIS 1 de esta Ley.",
+     "Los volúmenes ingresados al fondo de reserva de aguas nacionales no podrán considerarse en el cálculo de la disponibilidad.",
+     "La operación, funcionamiento e integración del fondo de reserva de aguas nacionales se determinará en el reglamento de esta Ley."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 37 BIS 1.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 37 BIS 1",
+    "insert_after": null,
+    "paragraphs": [
+     "\"La Autoridad del Agua\" resolverá mediante procedimientos expeditos, en un plazo que no exceda de 20 días hábiles, la reasignación de volúmenes, en los siguientes supuestos:",
+     "I. Cuando se transmita el dominio de una propiedad asociada a un título de concesión;",
+     "II. En los casos de fusión y escisión de sociedades civiles o mercantiles, y",
+     "III. En caso de que se acrediten derechos sucesorios.",
+     "En la reasignación de volúmenes a que se refieren las fracciones anteriores \"la Autoridad del Agua\" emitirá un nuevo título de concesión en favor de la persona que acredite los derechos de propiedad, de representación o de sucesión, según sea el caso, el cual conservará el mismo volumen y uso, así como el plazo remanente del título objeto de reasignación."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 37 BIS 2.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 37 BIS 2",
+    "insert_after": null,
+    "paragraphs": [
+     "En la reasignación de volúmenes a que se refieren las fracciones I y II del Artículo 37 BIS de esta Ley, \"la Autoridad del Agua\" privilegiará aquellos usos que beneficien al derecho humano al agua, la seguridad alimentaria y al desarrollo nacional.",
+     "La reasignación de los volúmenes a que se refiere el presente artículo deberá someterse por parte de \"la Autoridad del Agua\" al análisis y autorización del Comité del fondo de reserva de aguas nacionales, el cual estará integrado por la representación de las Secretarías de Medio Ambiente y Recursos Naturales, Bienestar, Economía, Hacienda y Crédito Público, Agricultura y Desarrollo Rural y será presidido por la persona titular de la Comisión Nacional del Agua."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 38.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Adicionalmente, el Ejecutivo Federal podrá declarar como zonas de desastre, a aquellas cuencas hidrológicas o regiones hidrológicas que por sus circunstancias naturales o por causas antropogénicas, presenten o puedan presentar riesgos irreversibles a algún ecosistema."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 39.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En el decreto que establezca la zona reglamentada a que se refiere el Artículo anterior, el Ejecutivo Federal fijará los volúmenes de extracción, uso y descarga que se podrán autorizar, las modalidades o límites a los derechos de las personas concesionarias y asignatarias, así como las demás disposiciones especiales que se requieran por causa de interés público."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 39 BIS.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. No sea posible mantener o incrementar las extracciones de agua superficial o del subsuelo, a partir de un determinado volumen anual fijado por \"la Autoridad del Agua\", sin afectar la sustentabilidad del recurso y sin el riesgo de inducir efectos perjudiciales, económicos o ambientales, en las fuentes de agua de la zona en cuestión o en las personas usuarias del recurso, o"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 40.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "El Organismo de Cuenca que corresponda, promoverá la organización de las personas usuarias de la zona de veda respectiva, para que participen en su instrumentación."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 42.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Las concesiones o asignaciones se sujetarán a los requisitos que establecen los artículos 21 y 21 BIS de esta Ley y se otorgarán de acuerdo con los estudios de disponibilidad respectivos, teniendo en cuenta el volumen de agua usada o aprovechada como promedio en el último año inmediato anterior al decreto respectivo, y que se hubieran inscrito en el Registro Público Nacional del Agua."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 44.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La explotación, uso o aprovechamiento de aguas nacionales superficiales o del subsuelo por parte de los sistemas de la Ciudad de México, estatales o municipales de agua potable y alcantarillado, se efectuarán mediante asignación que otorgue \"la Autoridad del Agua\", en los términos dispuestos por el Título Cuarto de esta Ley."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 44.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Las asignaciones de aguas nacionales a centros de población que se hubieran otorgado a los ayuntamientos, a los estados, o a la Ciudad de México, que administren los respectivos sistemas de agua potable y alcantarillado, subsistirán aun cuando estos sistemas sean administrados por entidades paraestatales o paramunicipales, o se concesionen a particulares por la autoridad competente."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 44.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Corresponde al municipio, a la Ciudad de México y, en términos de Ley, al estado, así como a los organismos o empresas que presten el servicio de agua potable y alcantarillado, el tratamiento de las aguas residuales de uso público urbano, previa a su descarga a cuerpos receptores de propiedad nacional, conforme a las Normas Oficiales Mexicanas respectivas o a las condiciones particulares de descarga que les determine \"la Autoridad del Agua\"."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 44.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "En los títulos de asignación que se otorguen, se establecerá expresamente el volumen asignado para la prestación del servicio público conforme a los datos que proporcionen los municipios, los estados y la Ciudad de México, en su caso."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 44.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo quinto",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Los títulos de asignación que otorgue \"la Autoridad del Agua\" a los municipios, a los estados, a la Ciudad de México, en su caso para la prestación del servicio de agua potable, tendrán por lo menos los mismos datos que la solicitud y señalarán las causas de caducidad de los derechos derivados de los mismos."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 44.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo séptimo",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "Los municipios, los estados y, en su caso, la Ciudad de México, podrán convenir con los Organismos de Cuenca con el concurso de \"la Comisión\", el establecimiento de sistemas regionales de tratamiento de las descargas de aguas residuales que se hayan vertido a un cuerpo receptor de propiedad nacional y su reúso, conforme a los estudios que al efecto se realicen y en los cuales se prevea la parte de los costos que deberá cubrir cada uno de los municipios, de los estados y, en su caso, la Ciudad de México."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 45.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "En el reúso de aguas residuales, se deberán respetar los derechos de terceras personas relativos a los volúmenes de éstas que estén inscritos en el Registro Público Nacional del Agua."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 46.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "\"La Autoridad del Agua\" podrá realizar en forma parcial o total, previa celebración del acuerdo o convenio con los gobiernos de los estados o de la Ciudad de México y, a través de éstos, con los gobiernos de los municipios correspondientes, las obras de captación o almacenamiento, conducción y, en su caso, tratamiento o potabilización para el abastecimiento de agua, con los fondos pertenecientes al erario federal o con fondos obtenidos con aval o mediante cualquier otra forma de garantía otorgada por la Federación, siempre y cuando se cumplan los siguientes requisitos:"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 46.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Que las obras se localicen en más de una entidad federativa, o que tengan usos múltiples de agua, o que sean solicitadas expresamente por las personas interesadas;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 46.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Que los gobiernos de los estados, de la Ciudad de México y de los municipios respectivos participen, en su caso, con fondos e inversiones en la obra a construir, y que se obtenga el financiamiento necesario;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 46.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Que se garantice la recuperación de la inversión, de conformidad con la legislación fiscal aplicable, y que la persona usuaria o sistema de personas usuarias se comprometa a hacer una administración eficiente de los sistemas de agua y a cuidar la calidad de la misma; en relación con esta fracción, la Autoridad en la materia adoptará las medidas necesarias para atender las necesidades de infraestructura de las zonas y sectores menos favorecidos económica y socialmente;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 46.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Que en su caso los estados, la Ciudad de México y municipios respectivos, y sus entidades paraestatales o paramunicipales, o personas morales que al efecto contraten, asuman el compromiso de operar, conservar, mantener y rehabilitar la infraestructura hidráulica, y"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 46.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "V. Que, en el caso de comunidades rurales, las personas beneficiarias se integren a los procesos de planeación, ejecución, operación, administración y mantenimiento de los sistemas de agua potable y saneamiento."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "ARTÍCULO 37.",
+    "reason": "El decreto imprime \"ARTÍCULO 37. Derogado\" (no \"Se deroga.\"); se usó el texto literal \"Derogado\". Verificar la fórmula que usa el texto vigente de la Cámara."
+   },
+   {
+    "article": "ARTÍCULO 37 BIS 2.",
+    "reason": "El decreto remite a las \"fracciones I y II del Artículo 37 BIS\", pero los supuestos de reasignación están en las fracciones I y II del 37 BIS 1. Probable error del decreto; se copió tal cual."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"ARTÍCULO 37.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 37\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Derogado\"]},{\"article\":\"ARTÍCULO 37 BIS.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 37 BIS\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"\\\"La Comisión\\\" establecerá un fondo de reserva de aguas nacionales, el cual se conformará de los volúmenes siguientes:\",\"I. Los provenientes de la extinción de títulos de concesión o asignación para la explotación, uso o aprovechamiento de aguas nacionales, en términos de lo previsto en el Artículo 29 BIS 3 de la presente Ley;\",\"II. Los que deriven de la cesión de volúmenes en favor de \\\"la Autoridad del Agua\\\", en términos de lo previsto en el Artículo 29 BIS 3, fracción VI, numeral 4 de este ordenamiento, y\",\"III. Los vinculados a la preferencia de derechos en los casos previstos en el Artículo 37 BIS 1 de esta Ley.\",\"Los volúmenes ingresados al fondo de reserva de aguas nacionales no podrán considerarse en el cálculo de la disponibilidad.\",\"La operación, funcionamiento e integración del fondo de reserva de aguas nacionales se determinará en el reglamento de esta Ley.\"]},{\"article\":\"ARTÍCULO 37 BIS 1.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 37 BIS 1\",\"insert_after\":null,\"paragraphs\":[\"\\\"La Autoridad del Agua\\\" resolverá mediante procedimientos expeditos, en un plazo que no exceda de 20 días hábiles, la reasignación de volúmenes, en los siguientes supuestos:\",\"I. Cuando se transmita el dominio de una propiedad asociada a un título de concesión;\",\"II. En los casos de fusión y escisión de sociedades civiles o mercantiles, y\",\"III. En caso de que se acrediten derechos sucesorios.\",\"En la reasignación de volúmenes a que se refieren las fracciones anteriores \\\"la Autoridad del Agua\\\" emitirá un nuevo título de concesión en favor de la persona que acredite los derechos de propiedad, de representación o de sucesión, según sea el caso, el cual conservará el mismo volumen y uso, así como el plazo remanente del título objeto de reasignación.\"]},{\"article\":\"ARTÍCULO 37 BIS 2.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 37 BIS 2\",\"insert_after\":null,\"paragraphs\":[\"En la reasignación de volúmenes a que se refieren las fracciones I y II del Artículo 37 BIS de esta Ley, \\\"la Autoridad del Agua\\\" privilegiará aquellos usos que beneficien al derecho humano al agua, la seguridad alimentaria y al desarrollo nacional.\",\"La reasignación de los volúmenes a que se refiere el presente artículo deberá someterse por parte de \\\"la Autoridad del Agua\\\" al análisis y autorización del Comité del fondo de reserva de aguas nacionales, el cual estará integrado por la representación de las Secretarías de Medio Ambiente y Recursos Naturales, Bienestar, Economía, Hacienda y Crédito Público, Agricultura y Desarrollo Rural y será presidido por la persona titular de la Comisión Nacional del Agua.\"]},{\"article\":\"ARTÍCULO 38.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Adicionalmente, el Ejecutivo Federal podrá declarar como zonas de desastre, a aquellas cuencas hidrológicas o regiones hidrológicas que por sus circunstancias naturales o por causas antropogénicas, presenten o puedan presentar riesgos irreversibles a algún ecosistema.\"]},{\"article\":\"ARTÍCULO 39.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En el decreto que establezca la zona reglamentada a que se refiere el Artículo anterior, el Ejecutivo Federal fijará los volúmenes de extracción, uso y descarga que se podrán autorizar, las modalidades o límites a los derechos de las personas concesionarias y asignatarias, así como las demás disposiciones especiales que se requieran por causa de interés público.\"]},{\"article\":\"ARTÍCULO 39 BIS.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. No sea posible mantener o incrementar las extracciones de agua superficial o del subsuelo, a partir de un determinado volumen anual fijado por \\\"la Autoridad del Agua\\\", sin afectar la sustentabilidad del recurso y sin el riesgo de inducir efectos perjudiciales, económicos o ambientales, en las fuentes de agua de la zona en cuestión o en las personas usuarias del recurso, o\"]},{\"article\":\"ARTÍCULO 40.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"El Organismo de Cuenca que corresponda, promoverá la organización de las personas usuarias de la zona de veda respectiva, para que participen en su instrumentación.\"]},{\"article\":\"ARTÍCULO 42.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Las concesiones o asignaciones se sujetarán a los requisitos que establecen los artículos 21 y 21 BIS de esta Ley y se otorgarán de acuerdo con los estudios de disponibilidad respectivos, teniendo en cuenta el volumen de agua usada o aprovechada como promedio en el último año inmediato anterior al decreto respectivo, y que se hubieran inscrito en el Registro Público Nacional del Agua.\"]},{\"article\":\"ARTÍCULO 44.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La explotación, uso o aprovechamiento de aguas nacionales superficiales o del subsuelo por parte de los sistemas de la Ciudad de México, estatales o municipales de agua potable y alcantarillado, se efectuarán mediante asignación que otorgue \\\"la Autoridad del Agua\\\", en los términos dispuestos por el Título Cuarto de esta Ley.\"]},{\"article\":\"ARTÍCULO 44.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Las asignaciones de aguas nacionales a centros de población que se hubieran otorgado a los ayuntamientos, a los estados, o a la Ciudad de México, que administren los respectivos sistemas de agua potable y alcantarillado, subsistirán aun cuando estos sistemas sean administrados por entidades paraestatales o paramunicipales, o se concesionen a particulares por la autoridad competente.\"]},{\"article\":\"ARTÍCULO 44.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Corresponde al municipio, a la Ciudad de México y, en términos de Ley, al estado, así como a los organismos o empresas que presten el servicio de agua potable y alcantarillado, el tratamiento de las aguas residuales de uso público urbano, previa a su descarga a cuerpos receptores de propiedad nacional, conforme a las Normas Oficiales Mexicanas respectivas o a las condiciones particulares de descarga que les determine \\\"la Autoridad del Agua\\\".\"]},{\"article\":\"ARTÍCULO 44.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"En los títulos de asignación que se otorguen, se establecerá expresamente el volumen asignado para la prestación del servicio público conforme a los datos que proporcionen los municipios, los estados y la Ciudad de México, en su caso.\"]},{\"article\":\"ARTÍCULO 44.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo quinto\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Los títulos de asignación que otorgue \\\"la Autoridad del Agua\\\" a los municipios, a los estados, a la Ciudad de México, en su caso para la prestación del servicio de agua potable, tendrán por lo menos los mismos datos que la solicitud y señalarán las causas de caducidad de los derechos derivados de los mismos.\"]},{\"article\":\"ARTÍCULO 44.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo séptimo\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"Los municipios, los estados y, en su caso, la Ciudad de México, podrán convenir con los Organismos de Cuenca con el concurso de \\\"la Comisión\\\", el establecimiento de sistemas regionales de tratamiento de las descargas de aguas residuales que se hayan vertido a un cuerpo receptor de propiedad nacional y su reúso, conforme a los estudios que al efecto se realicen y en los cuales se prevea la parte de los costos que deberá cubrir cada uno de los municipios, de los estados y, en su caso, la Ciudad de México.\"]},{\"article\":\"ARTÍCULO 45.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"En el reúso de aguas residuales, se deberán respetar los derechos de terceras personas relativos a los volúmenes de éstas que estén inscritos en el Registro Público Nacional del Agua.\"]},{\"article\":\"ARTÍCULO 46.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"\\\"La Autoridad del Agua\\\" podrá realizar en forma parcial o total, previa celebración del acuerdo o convenio con los gobiernos de los estados o de la Ciudad de México y, a través de éstos, con los gobiernos de los municipios correspondientes, las obras de captación o almacenamiento, conducción y, en su caso, tratamiento o potabilización para el abastecimiento de agua, con los fondos pertenecientes al erario federal o con fondos obtenidos con aval o mediante cualquier otra forma de garantía otorgada por la Federación, siempre y cuando se cumplan los siguientes requisitos:\"]},{\"article\":\"ARTÍCULO 46.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Que las obras se localicen en más de una entidad federativa, o que tengan usos múltiples de agua, o que sean solicitadas expresamente por las personas interesadas;\"]},{\"article\":\"ARTÍCULO 46.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Que los gobiernos de los estados, de la Ciudad de México y de los municipios respectivos participen, en su caso, con fondos e inversiones en la obra a construir, y que se obtenga el financiamiento necesario;\"]},{\"article\":\"ARTÍCULO 46.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Que se garantice la recuperación de la inversión, de conformidad con la legislación fiscal aplicable, y que la persona usuaria o sistema de personas usuarias se comprometa a hacer una administración eficiente de los sistemas de agua y a cuidar la calidad de la misma; en relación con esta fracción, la Autoridad en la materia adoptará las medidas necesarias para atender las necesidades de infraestructura de las zonas y sectores menos favorecidos económica y socialmente;\"]},{\"article\":\"ARTÍCULO 46.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Que en su caso los estados, la Ciudad de México y municipios respectivos, y sus entidades paraestatales o paramunicipales, o personas morales que al efecto contraten, asuman el compromiso de operar, conservar, mantener y rehabilitar la infraestructura hidráulica, y\"]},{\"article\":\"ARTÍCULO 46.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"V. Que, en el caso de comunidades rurales, las personas beneficiarias se integren a los procesos de planeación, ejecución, operación, administración y mantenimiento de los sistemas de agua potable y saneamiento.\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"ARTÍCULO 37.\",\"reason\":\"El decreto imprime \\\"ARTÍCULO 37. Derogado\\\" (no \\\"Se deroga.\\\"); se usó el texto literal \\\"Derogado\\\". Verificar la fórmula que usa el texto vigente de la Cámara.\"},{\"article\":\"ARTÍCULO 37 BIS 2.\",\"reason\":\"El decreto remite a las \\\"fracciones I y II del Artículo 37 BIS\\\", pero los supuestos de reasignación están en las fracciones I y II del 37 BIS 1. Probable error del decreto; se copió tal cual.\"}]}",
+ "duration_ms": 36485,
+ "total_cost_usd": 0.21540179999999998,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 5432,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 13269,
+   "webSearchRequests": 0,
+   "costUSD": 0.21540179999999998,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 476,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 13269,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

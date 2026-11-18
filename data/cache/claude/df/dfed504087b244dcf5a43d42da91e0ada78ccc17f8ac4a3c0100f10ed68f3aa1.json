@@ -1,0 +1,73 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 7.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de austeridad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados;"
+    ]
+   },
+   {
+    "article": "Artículo 52.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "insert_after": 1,
+    "paragraphs": [
+     "También incurrirá en cohecho, el servidor público que se abstenga de devolver el pago en demasía de su legítima remuneración de acuerdo a los tabuladores que al efecto resulten aplicables, dentro de los 30 días naturales siguientes a su recepción."
+    ]
+   },
+   {
+    "article": "Artículo 54.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "insert_after": 1,
+    "paragraphs": [
+     "Se considerará desvío de recursos públicos, el otorgamiento o autorización, para sí o para otros, del pago de una remuneración en contravención con los tabuladores que al efecto resulten aplicables, así como el otorgamiento o autorización, para sí o para otros, de pagos de jubilaciones, pensiones o haberes de retiro, liquidaciones por servicios prestados, préstamos o créditos que no estén previstos en ley, decreto legislativo, contrato colectivo, contrato ley o condiciones generales de trabajo."
+    ]
+   },
+   {
+    "article": "Artículo 80 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 80 Bis.",
+    "insert_after": null,
+    "paragraphs": [
+     "Si el beneficio indebidamente obtenido u otorgado a que hacen referencia los artículos 52, segundo párrafo, y 54, segundo párrafo, de esta Ley, no excede el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, y además se ha devuelto la cantidad entregada o depositada en demasía conforme al tabulador aplicable, la falta administrativa será considerada no grave."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 7.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VI\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de austeridad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados;\"]},{\"article\":\"Artículo 52.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"insert_after\":1,\"paragraphs\":[\"También incurrirá en cohecho, el servidor público que se abstenga de devolver el pago en demasía de su legítima remuneración de acuerdo a los tabuladores que al efecto resulten aplicables, dentro de los 30 días naturales siguientes a su recepción.\"]},{\"article\":\"Artículo 54.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"insert_after\":1,\"paragraphs\":[\"Se considerará desvío de recursos públicos, el otorgamiento o autorización, para sí o para otros, del pago de una remuneración en contravención con los tabuladores que al efecto resulten aplicables, así como el otorgamiento o autorización, para sí o para otros, de pagos de jubilaciones, pensiones o haberes de retiro, liquidaciones por servicios prestados, préstamos o créditos que no estén previstos en ley, decreto legislativo, contrato colectivo, contrato ley o condiciones generales de trabajo.\"]},{\"article\":\"Artículo 80 Bis.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 80 Bis.\",\"insert_after\":null,\"paragraphs\":[\"Si el beneficio indebidamente obtenido u otorgado a que hacen referencia los artículos 52, segundo párrafo, y 54, segundo párrafo, de esta Ley, no excede el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, y además se ha devuelto la cantidad entregada o depositada en demasía conforme al tabulador aplicable, la falta administrativa será considerada no grave.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 6202,
+ "total_cost_usd": 0.0435058,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 852,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 3232,
+   "webSearchRequests": 0,
+   "costUSD": 0.0435058,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 0,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 3232,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

@@ -1,0 +1,257 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "ARTÍCULO 81.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las personas interesadas en realizar trabajos de exploración con fines geotérmicos, deberán solicitar a \"la Comisión\" permiso de obra para el o los pozos exploratorios, en términos de lo dispuesto por la Ley de Geotermia y su Reglamento."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 81.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Como parte de los requisitos que establece la Ley de Geotermia y su Reglamento para el otorgamiento de concesiones de agua, la persona interesada deberá presentar a la dependencia a que alude el párrafo anterior, los estudios del yacimiento geotérmico hidrotermal que determinen su localización, extensión, características y conexión o independencia con los acuíferos adyacentes o sobreyacentes."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 81.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo quinto",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Los estudios y exploraciones realizados por las personas interesadas deberán determinar la ubicación del yacimiento geotérmico hidrotermal con respecto a los acuíferos, la probable posición y configuración del límite inferior de éstos, las características de las formaciones geológicas comprendidas entre el yacimiento y los acuíferos, entre otros aspectos."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 81.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo séptimo",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "\"La Comisión\" otorgará a la persona solicitante, a través de la dependencia a que la alude la fracción XIV del artículo 2 de la Ley de Geotermia, la concesión de agua correspondiente sobre el volumen de agua solicitado por la interesada y establecerá un programa de monitoreo a fin de identificar afectaciones negativas a la calidad del agua subterránea, a las captaciones de la misma o a la infraestructura existente derivadas de la explotación del yacimiento."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 81 BIS 1.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las personas concesionarias de aguas nacionales para uso industrial en la minería, además de las establecidas en el artículo 29 de la presente Ley, tienen la obligación de medir el volumen de agua explotada, usada o aprovechada que se extraiga de las cuencas y acuíferos, así como las aguas provenientes de laboreo de las minas para uso industrial o de servicios, conforme a lo dispuesto en la presente Ley."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 82.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "\"La Comisión\", en coordinación con la Secretaría de Agricultura y Desarrollo Rural, otorgará facilidades para el desarrollo de la acuacultura y el otorgamiento de las concesiones de agua necesarias; asimismo apoyará, a solicitud de las personas interesadas, el aprovechamiento acuícola en la infraestructura hidráulica federal, que sea compatible con su explotación, uso o aprovechamiento. Para la realización de lo anterior, \"la Comisión\" se apoyará en los Organismos de Cuenca."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 82 BIS.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "insert_after": null,
+    "paragraphs": [
+     "\"La Autoridad del Agua\" promoverá la implementación de sistemas de captación de agua pluvial para uso personal, doméstico y agropecuario familiar, mismos que se sujetarán a los términos previstos en la Ley General de Aguas y las disposiciones aplicables.",
+     "Los sistemas y obras de captación de agua pluvial que tengan un uso distinto al mencionado en el párrafo anterior, requerirán la autorización de \"la Autoridad del Agua\"."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 84 BIS 3.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "insert_after": null,
+    "paragraphs": [
+     "\"La Autoridad del Agua\" fomentará el reúso de las aguas residuales tratadas y no tratadas en los términos establecidos en esta Ley, bajo los principios de sustentabilidad, sostenibilidad, protección al ambiente y responsabilidad hídrica."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 84 BIS 4.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "insert_after": null,
+    "paragraphs": [
+     "El tratamiento de las aguas residuales y su reúso deberán cumplir con las disposiciones contenidas en las Normas Oficiales Mexicanas, las normas ambientales que correspondan, las condiciones particulares de descarga y las mejores prácticas internacionales en la materia."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 84 BIS 5.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "insert_after": null,
+    "paragraphs": [
+     "\"La Autoridad del Agua\" propondrá las condiciones en las que se llevará a cabo el reúso de aguas residuales tratadas y no tratadas, en la normatividad que se expida para tales efectos."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 85.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En concordancia con las Fracciones VI y VII del Artículo 7 de la presente Ley, es fundamental que la Federación, los estados, la Ciudad de México y los municipios, a través de las instancias correspondientes, las personas usuarias del agua y las organizaciones de la sociedad, preserven las condiciones ecológicas del régimen hidrológico, a través de la promoción y ejecución de las medidas y acciones necesarias para proteger y conservar la calidad del agua, en los términos de Ley."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 85.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "El Gobierno Federal podrá coordinarse con los gobiernos de los estados y de la Ciudad de México, para que estos últimos ejecuten determinados actos administrativos relacionados con la prevención y control de la contaminación de las aguas y responsabilidad por el daño ambiental, en los términos de lo que establece esta Ley y otros instrumentos jurídicos aplicables, para contribuir a la descentralización de la gestión de los recursos hídricos."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 86.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Establecer y vigilar el cumplimiento de las condiciones particulares de descarga que deben satisfacer las aguas residuales, de los distintos usos y las personas usuarias, que se generen en:"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 88 BIS 1.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "En localidades que carezcan de sistemas de alcantarillado y saneamiento, las personas físicas o morales que en su proceso o actividad productiva no utilicen como materia prima substancias que generen en sus descargas de aguas residuales metales pesados, cianuros o tóxicos y su volumen de descarga no exceda de 300 metros cúbicos mensuales, y sean abastecidas de agua potable por sistemas municipales, estatales o de la Ciudad de México, podrán llevar a cabo sus descargas de aguas residuales con sujeción a las Normas Oficiales Mexicanas que al efecto se expidan y mediante un aviso por escrito a \"la Autoridad del Agua\"."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 88 BIS 1.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "El control de las descargas de aguas residuales a los sistemas de drenaje o alcantarillado urbano o municipal de los centros de población, que se viertan a cuerpos receptores, corresponde a los municipios, a los estados y a la Ciudad de México."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 88 BIS 1.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo quinto",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Cuando se efectúen en forma fortuita una o varias descargas de aguas residuales sobre cuerpos receptores que sean bienes nacionales, las personas responsables deberán avisar inmediatamente a \"la Autoridad del Agua\", especificando volumen y características de las descargas, para que se promuevan o adopten las medidas conducentes por parte de las personas responsables o las que, con cargo a éstas, realizará \"la Comisión\" y demás autoridades competentes."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 88 BIS 1.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo sexto",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "Las personas responsables de las descargas mencionadas en el párrafo anterior, deberán realizar las labores de remoción y limpieza del contaminante de los cuerpos receptores afectados por la descarga. En caso de que la persona responsable no dé aviso, o habiéndolo formulado, \"la Comisión\" u otras autoridades competentes deban realizar tales labores, su costo será cubierto por dichas personas responsables dentro de los treinta días siguientes a su notificación y tendrán el carácter de crédito fiscal. Los daños que se ocasionen, serán determinados y cuantificados por \"la Autoridad del Agua\", y su monto al igual que el costo de las labores a que se refieren, se notificarán a las personas físicas o morales responsables, para su pago."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 89.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "\"La Autoridad del Agua\" deberá contestar la solicitud de permiso de descarga presentada en los términos de los reglamentos de esta Ley, dentro de los sesenta días hábiles siguientes a su admisión. En caso de que la autoridad omita dar a conocer al solicitante la resolución recaída a su petición, se considerará que la misma ha resuelto negar el permiso solicitado. En tal supuesto, la persona promovente podrá solicitar la información pertinente en relación con su trámite y los motivos de la resolución negativa. La falta de resolución a la solicitud podrá implicar responsabilidades a las personas servidoras públicas a quienes competa tal actuación, conforme a lo dispuesto en las leyes aplicables. \"La Autoridad del Agua\" expedirá el permiso de descarga al que se deberá sujetar el permisionario y en su caso, fijará condiciones particulares de descarga y requisitos distintos a los contenidos en la solicitud."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 90.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Cuando las descargas de aguas residuales se originen por el uso o aprovechamiento de aguas nacionales, los permisos de descarga tendrán, por lo menos, la misma duración que el título de concesión o asignación correspondiente. El otorgamiento de la prórroga se sujetará a las mismas reglas de temporalidad o terminación de aquéllas y \"la Autoridad del Agua\" deberá actualizar las condiciones particulares de descarga."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 90.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "En caso de reasignación de volúmenes de agua en los términos del Capítulo V del Título Cuarto de la presente Ley, \"la Autoridad del Agua\" debe emitir un nuevo permiso en el que se establezcan las características particulares de descarga."
+    ]
+   }
+  ],
+  "divisions": [
+   {
+    "operation": "add",
+    "kind": "capitulo",
+    "label": "Capítulo VI",
+    "name": "Fomento al Reúso de Aguas Residuales",
+    "before_article": "ARTÍCULO 84 BIS 3."
+   }
+  ],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"ARTÍCULO 81.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las personas interesadas en realizar trabajos de exploración con fines geotérmicos, deberán solicitar a \\\"la Comisión\\\" permiso de obra para el o los pozos exploratorios, en términos de lo dispuesto por la Ley de Geotermia y su Reglamento.\"]},{\"article\":\"ARTÍCULO 81.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Como parte de los requisitos que establece la Ley de Geotermia y su Reglamento para el otorgamiento de concesiones de agua, la persona interesada deberá presentar a la dependencia a que alude el párrafo anterior, los estudios del yacimiento geotérmico hidrotermal que determinen su localización, extensión, características y conexión o independencia con los acuíferos adyacentes o sobreyacentes.\"]},{\"article\":\"ARTÍCULO 81.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo quinto\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Los estudios y exploraciones realizados por las personas interesadas deberán determinar la ubicación del yacimiento geotérmico hidrotermal con respecto a los acuíferos, la probable posición y configuración del límite inferior de éstos, las características de las formaciones geológicas comprendidas entre el yacimiento y los acuíferos, entre otros aspectos.\"]},{\"article\":\"ARTÍCULO 81.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo séptimo\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"\\\"La Comisión\\\" otorgará a la persona solicitante, a través de la dependencia a que la alude la fracción XIV del artículo 2 de la Ley de Geotermia, la concesión de agua correspondiente sobre el volumen de agua solicitado por la interesada y establecerá un programa de monitoreo a fin de identificar afectaciones negativas a la calidad del agua subterránea, a las captaciones de la misma o a la infraestructura existente derivadas de la explotación del yacimiento.\"]},{\"article\":\"ARTÍCULO 81 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las personas concesionarias de aguas nacionales para uso industrial en la minería, además de las establecidas en el artículo 29 de la presente Ley, tienen la obligación de medir el volumen de agua explotada, usada o aprovechada que se extraiga de las cuencas y acuíferos, así como las aguas provenientes de laboreo de las minas para uso industrial o de servicios, conforme a lo dispuesto en la presente Ley.\"]},{\"article\":\"ARTÍCULO 82.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"\\\"La Comisión\\\", en coordinación con la Secretaría de Agricultura y Desarrollo Rural, otorgará facilidades para el desarrollo de la acuacultura y el otorgamiento de las concesiones de agua necesarias; asimismo apoyará, a solicitud de las personas interesadas, el aprovechamiento acuícola en la infraestructura hidráulica federal, que sea compatible con su explotación, uso o aprovechamiento. Para la realización de lo anterior, \\\"la Comisión\\\" se apoyará en los Organismos de Cuenca.\"]},{\"article\":\"ARTÍCULO 82 BIS.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"insert_after\":null,\"paragraphs\":[\"\\\"La Autoridad del Agua\\\" promoverá la implementación de sistemas de captación de agua pluvial para uso personal, doméstico y agropecuario familiar, mismos que se sujetarán a los términos previstos en la Ley General de Aguas y las disposiciones aplicables.\",\"Los sistemas y obras de captación de agua pluvial que tengan un uso distinto al mencionado en el párrafo anterior, requerirán la autorización de \\\"la Autoridad del Agua\\\".\"]},{\"article\":\"ARTÍCULO 84 BIS 3.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"insert_after\":null,\"paragraphs\":[\"\\\"La Autoridad del Agua\\\" fomentará el reúso de las aguas residuales tratadas y no tratadas en los términos establecidos en esta Ley, bajo los principios de sustentabilidad, sostenibilidad, protección al ambiente y responsabilidad hídrica.\"]},{\"article\":\"ARTÍCULO 84 BIS 4.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"insert_after\":null,\"paragraphs\":[\"El tratamiento de las aguas residuales y su reúso deberán cumplir con las disposiciones contenidas en las Normas Oficiales Mexicanas, las normas ambientales que correspondan, las condiciones particulares de descarga y las mejores prácticas internacionales en la materia.\"]},{\"article\":\"ARTÍCULO 84 BIS 5.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"insert_after\":null,\"paragraphs\":[\"\\\"La Autoridad del Agua\\\" propondrá las condiciones en las que se llevará a cabo el reúso de aguas residuales tratadas y no tratadas, en la normatividad que se expida para tales efectos.\"]},{\"article\":\"ARTÍCULO 85.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En concordancia con las Fracciones VI y VII del Artículo 7 de la presente Ley, es fundamental que la Federación, los estados, la Ciudad de México y los municipios, a través de las instancias correspondientes, las personas usuarias del agua y las organizaciones de la sociedad, preserven las condiciones ecológicas del régimen hidrológico, a través de la promoción y ejecución de las medidas y acciones necesarias para proteger y conservar la calidad del agua, en los términos de Ley.\"]},{\"article\":\"ARTÍCULO 85.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"El Gobierno Federal podrá coordinarse con los gobiernos de los estados y de la Ciudad de México, para que estos últimos ejecuten determinados actos administrativos relacionados con la prevención y control de la contaminación de las aguas y responsabilidad por el daño ambiental, en los términos de lo que establece esta Ley y otros instrumentos jurídicos aplicables, para contribuir a la descentralización de la gestión de los recursos hídricos.\"]},{\"article\":\"ARTÍCULO 86.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Establecer y vigilar el cumplimiento de las condiciones particulares de descarga que deben satisfacer las aguas residuales, de los distintos usos y las personas usuarias, que se generen en:\"]},{\"article\":\"ARTÍCULO 88 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"En localidades que carezcan de sistemas de alcantarillado y saneamiento, las personas físicas o morales que en su proceso o actividad productiva no utilicen como materia prima substancias que generen en sus descargas de aguas residuales metales pesados, cianuros o tóxicos y su volumen de descarga no exceda de 300 metros cúbicos mensuales, y sean abastecidas de agua potable por sistemas municipales, estatales o de la Ciudad de México, podrán llevar a cabo sus descargas de aguas residuales con sujeción a las Normas Oficiales Mexicanas que al efecto se expidan y mediante un aviso por escrito a \\\"la Autoridad del Agua\\\".\"]},{\"article\":\"ARTÍCULO 88 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"El control de las descargas de aguas residuales a los sistemas de drenaje o alcantarillado urbano o municipal de los centros de población, que se viertan a cuerpos receptores, corresponde a los municipios, a los estados y a la Ciudad de México.\"]},{\"article\":\"ARTÍCULO 88 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo quinto\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Cuando se efectúen en forma fortuita una o varias descargas de aguas residuales sobre cuerpos receptores que sean bienes nacionales, las personas responsables deberán avisar inmediatamente a \\\"la Autoridad del Agua\\\", especificando volumen y características de las descargas, para que se promuevan o adopten las medidas conducentes por parte de las personas responsables o las que, con cargo a éstas, realizará \\\"la Comisión\\\" y demás autoridades competentes.\"]},{\"article\":\"ARTÍCULO 88 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo sexto\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"Las personas responsables de las descargas mencionadas en el párrafo anterior, deberán realizar las labores de remoción y limpieza del contaminante de los cuerpos receptores afectados por la descarga. En caso de que la persona responsable no dé aviso, o habiéndolo formulado, \\\"la Comisión\\\" u otras autoridades competentes deban realizar tales labores, su costo será cubierto por dichas personas responsables dentro de los treinta días siguientes a su notificación y tendrán el carácter de crédito fiscal. Los daños que se ocasionen, serán determinados y cuantificados por \\\"la Autoridad del Agua\\\", y su monto al igual que el costo de las labores a que se refieren, se notificarán a las personas físicas o morales responsables, para su pago.\"]},{\"article\":\"ARTÍCULO 89.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"\\\"La Autoridad del Agua\\\" deberá contestar la solicitud de permiso de descarga presentada en los términos de los reglamentos de esta Ley, dentro de los sesenta días hábiles siguientes a su admisión. En caso de que la autoridad omita dar a conocer al solicitante la resolución recaída a su petición, se considerará que la misma ha resuelto negar el permiso solicitado. En tal supuesto, la persona promovente podrá solicitar la información pertinente en relación con su trámite y los motivos de la resolución negativa. La falta de resolución a la solicitud podrá implicar responsabilidades a las personas servidoras públicas a quienes competa tal actuación, conforme a lo dispuesto en las leyes aplicables. \\\"La Autoridad del Agua\\\" expedirá el permiso de descarga al que se deberá sujetar el permisionario y en su caso, fijará condiciones particulares de descarga y requisitos distintos a los contenidos en la solicitud.\"]},{\"article\":\"ARTÍCULO 90.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Cuando las descargas de aguas residuales se originen por el uso o aprovechamiento de aguas nacionales, los permisos de descarga tendrán, por lo menos, la misma duración que el título de concesión o asignación correspondiente. El otorgamiento de la prórroga se sujetará a las mismas reglas de temporalidad o terminación de aquéllas y \\\"la Autoridad del Agua\\\" deberá actualizar las condiciones particulares de descarga.\"]},{\"article\":\"ARTÍCULO 90.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"En caso de reasignación de volúmenes de agua en los términos del Capítulo V del Título Cuarto de la presente Ley, \\\"la Autoridad del Agua\\\" debe emitir un nuevo permiso en el que se establezcan las características particulares de descarga.\"]}],\"divisions\":[{\"operation\":\"add\",\"kind\":\"capitulo\",\"label\":\"Capítulo VI\",\"name\":\"Fomento al Reúso de Aguas Residuales\",\"before_article\":\"ARTÍCULO 84 BIS 3.\"}],\"needs_review\":[]}",
+ "duration_ms": 33528,
+ "total_cost_usd": 0.2179258,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 5101,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 14412,
+   "webSearchRequests": 0,
+   "costUSD": 0.2179258,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 486,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 14412,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

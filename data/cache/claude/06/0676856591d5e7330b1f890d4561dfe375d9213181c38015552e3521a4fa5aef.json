@@ -1,0 +1,380 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 64.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Tenga o pueda tener por objeto o efecto establecer barreras a la entrada, impedir a terceros el acceso al mercado relevante, a mercados relacionados o a insumos esenciales, o desplazar a otros Agentes Económicos;"
+    ]
+   },
+   {
+    "article": "Artículo 64.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Tenga o pueda tener por objeto o efecto facilitar sustancialmente a los participantes en dicha concentración el ejercicio de conductas prohibidas por esta Ley, y particularmente, de las prácticas monopólicas, o"
+    ]
+   },
+   {
+    "article": "Artículo 64.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "insert_after": 4,
+    "paragraphs": [
+     "IV. Tenga o pueda tener por objeto o efecto afectar sustancialmente las condiciones de competencia y libre concurrencia en el mercado relevante o mercados relacionados."
+    ]
+   },
+   {
+    "article": "Artículo 65.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Tampoco podrán ser investigadas las concentraciones que no requieran ser previamente notificadas a la Comisión, una vez transcurridos tres años a partir de su realización."
+    ]
+   },
+   {
+    "article": "Artículo 69.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "insert_after": 6,
+    "paragraphs": [
+     "Una vez desahogada la prevención que, en su caso, se realice, las solicitudes presentadas por la Secretaría que no cumplan con los requisitos previstos en el artículo 68 de esta Ley, se tendrán por presentadas únicamente para efectos de que, en un plazo no mayor a treinta días, la Autoridad Investigadora determine si, allegándose de información adicional, existen elementos suficientes para iniciar una investigación de oficio por prácticas monopólicas o concentraciones ilícitas."
+    ]
+   },
+   {
+    "article": "Artículo 69.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "quinto",
+    "insert_after": 6,
+    "paragraphs": [
+     "Dentro de los diez días siguientes a aquél en que concluya el plazo de análisis referido en el párrafo anterior, si la Autoridad Investigadora considera que existe una causa objetiva en términos del artículo 71 de esta Ley, dictará el acuerdo de inicio correspondiente y se mandará publicar el extracto del mismo en el Diario Oficial de la Federación. En caso contrario, deberá notificar a la Secretaría las razones por las cuales se considera que no existen elementos suficientes para iniciar una investigación."
+    ]
+   },
+   {
+    "article": "Artículo 71.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Este periodo podrá ser ampliado hasta en tres ocasiones, por periodos de hasta ciento veinte días, cuando existan causas debidamente justificadas para ello a juicio de la Autoridad Investigadora."
+    ]
+   },
+   {
+    "article": "Artículo 73.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La Autoridad Investigadora podrá requerir de cualquier persona, los informes y documentos que estime necesarios para realizar sus investigaciones, debiendo señalar el carácter del requerido como denunciado o tercero coadyuvante; citar a declarar a quienes tengan relación con los hechos de que se trate; ordenar y practicar visitas de verificación en donde se presuma que existen elementos para la debida integración de la investigación, realizar diligencias de inspección o recolectar datos a través de cualquier herramienta, con el fin de allegarse de información para sus investigaciones."
+    ]
+   },
+   {
+    "article": "Artículo 73.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "insert_after": 2,
+    "paragraphs": [
+     "En ningún caso lo dispuesto por este artículo implica la obligación de la Comisión de revelar las líneas de investigación o cualquier otra información relacionada con la investigación. El carácter de la persona requerida o compareciente, no prejuzga sobre el carácter que tendrá con posterioridad en la investigación o el procedimiento seguido en forma de juicio."
+    ]
+   },
+   {
+    "article": "Artículo 77.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "insert_after": 3,
+    "paragraphs": [
+     "Una vez que se emita el dictamen de probable responsabilidad, se considera que la Autoridad Investigadora tiene conocimiento de las probables conductas violatorias y de quienes probablemente las cometieron, para efectos de lo establecido en el artículo 107 del Código Penal Federal."
+    ]
+   },
+   {
+    "article": "Artículo 77.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "insert_after": 3,
+    "paragraphs": [
+     "La Comisión deberá emitir Disposiciones Regulatorias que detallen los criterios y supuestos en los que se presentará querella por el delito previsto en el artículo 254 Bis del Código Penal Federal ante la Fiscalía General de la República."
+    ]
+   },
+   {
+    "article": "Artículo 77 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 77 Bis.",
+    "insert_after": null,
+    "paragraphs": [
+     "Los Agentes Económicos podrán solicitar a la Comisión que se excluya del procedimiento correspondiente, la información y documentos que hubieran proporcionado o que la Comisión haya obtenido en donde consten comunicaciones con sus personas abogadas que tienen como finalidad la obtención de asesoría legal.",
+     "El procedimiento se tramitará conforme al procedimiento previsto en esta Ley y su Reglamento, y se suspenderá la investigación o el procedimiento correspondiente hasta que se resuelva la solicitud a la que hace referencia el párrafo anterior.",
+     "La Comisión establecerá en su estatuto orgánico las características de los comités calificadores encargados de dar trámite y resolver la solicitud que realicen los Agentes Económicos.",
+     "La Comisión únicamente considerará como información objeto de la protección que establece este artículo, aquella que sea intercambiada con una persona abogada con la que el Agente Económico solicitante no cuente con una relación laboral.",
+     "Una vez resuelta la solicitud, si la Comisión determina que fue presentada con el único fin de dilatar el procedimiento correspondiente, podrá imponer las sanciones previstas en el artículo 127, fracción III, de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 77 Bis 1.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 77 Bis 1.",
+    "insert_after": null,
+    "paragraphs": [
+     "El procedimiento de calificación se tramitará conforme a lo siguiente:",
+     "I. Una vez recibida la solicitud, se remitirá a la Autoridad Investigadora o al Órgano encargado de la instrucción, según corresponda, para que emita un acuerdo en el que remita al comité calificador correspondiente.",
+     "II. El Comité Calificador analizará la solicitud dentro de los quince días siguientes a aquél en que se le notifique el acuerdo a que hace referencia la fracción anterior y deberá dictar un acuerdo que:",
+     "a) Admita la solicitud, o",
+     "b) Prevenga por única ocasión al solicitante, cuando el escrito de solicitud omita alguno de los requisitos previstos en el Reglamento.",
+     "Transcurrido el plazo para responder la prevención sin que se desahogue o se cumpla con los requisitos establecidos en el Reglamento, la solicitud se tendrá por no presentada, sin perjuicio de que pueda presentarse nuevamente por única ocasión dentro de los diez días siguientes contados a partir del día siguiente a aquél en que surta efectos la notificación del acuerdo de no presentación.",
+     "III. Una vez que surta efectos la notificación del acuerdo de admisión, el Comité Calificador deliberará en forma colegiada y decidirá por mayoría de votos si la información analizada es sujeta de exclusión en términos del artículo 77 Bis de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 78.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Concluida la investigación, la Autoridad Investigadora, en un plazo no mayor de treinta días, presentará al Pleno un dictamen que proponga:"
+    ]
+   },
+   {
+    "article": "Artículo 78.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "En el supuesto previsto en la fracción I, dentro del plazo de diez días siguientes a la fecha en que la Autoridad Investigadora haya presentado el dictamen correspondiente, el Pleno ordenará el inicio del procedimiento seguido en forma de juicio mediante el emplazamiento a los probables responsables."
+    ]
+   },
+   {
+    "article": "Artículo 78.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "En el caso de la fracción II, el Pleno decretará el cierre del expediente dentro del plazo de diez días siguientes a la fecha en la que la Autoridad Investigadora haya presentado el dictamen respectivo."
+    ]
+   },
+   {
+    "article": "Artículo 83.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "II. Con las manifestaciones del probable responsable, se dará vista a la Autoridad Investigadora para que, en caso de considerarlo necesario, se pronuncie respecto de los argumentos y pruebas ofrecidas en un plazo máximo de diez días hábiles;"
+    ]
+   },
+   {
+    "article": "Artículo 83.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción III, párrafo segundo",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "Son admisibles todos los medios de prueba, excepto la confesional y la testimonial a cargo de autoridades. Se desecharán aquéllos que no sean ofrecidos conforme a derecho, no tengan relación con los hechos materia del procedimiento, así como aquéllas que sean innecesarias, ilícitas o respecto de los cuales no se haya expresado con claridad el hecho o hechos que se trata de demostrar con cada uno de ellos;"
+    ]
+   },
+   {
+    "article": "Artículo 83.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "V. Concluido el desahogo de pruebas, la Comisión citará a las partes a la audiencia oral final, para que, en su caso, realicen las manifestaciones que estimen pertinentes y formulen los alegatos que correspondan ante el Pleno, y"
+    ]
+   },
+   {
+    "article": "Artículo 83.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI, párrafo primero",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "VI. El expediente se entenderá integrado al día siguiente en que se celebre la audiencia oral final referida en la fracción anterior. Una vez integrado el expediente, se turnará por acuerdo de la Persona Comisionada Presidente a la Persona Comisionada ponente, de manera rotatoria, siguiendo rigurosamente el orden de designación de las Personas Comisionadas, así como el orden cronológico en que se integró el expediente, quien tendrá la obligación de presentar el proyecto de resolución al Pleno para su aprobación o modificación."
+    ]
+   },
+   {
+    "article": "Artículo 83.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "fracción VI, párrafo tercero",
+    "from_block": 11,
+    "to_block": 11,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 83.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción VI, párrafo cuarto",
+    "from_block": 12,
+    "to_block": 12,
+    "paragraphs": [
+     "La Comisión dictará resolución en un plazo que no excederá de treinta días."
+    ]
+   },
+   {
+    "article": "Artículo 86.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Cuando el acto o sucesión de actos que les den origen, independientemente del lugar de su celebración, importen en el territorio nacional, directa o indirectamente, un monto superior al equivalente a dieciséis millones de veces el valor diario de la Unidad de Medida y Actualización vigente;"
+    ]
+   },
+   {
+    "article": "Artículo 86.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Cuando el acto o sucesión de actos que les den origen, impliquen la acumulación del treinta por ciento o más de los activos o acciones de un Agente Económico, cuyas ventas anuales originadas en el territorio nacional o activos en el territorio nacional importen más del equivalente a dieciséis millones de veces el valor diario de la Unidad de Medida y Actualización vigente, o"
+    ]
+   },
+   {
+    "article": "Artículo 86.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Cuando el acto o sucesión de actos que les den origen impliquen una acumulación en el territorio nacional de activos o capital social superior al equivalente a siete millones cuatrocientas mil veces el valor diario de la Unidad de Medida y Actualización vigente y en la concentración participen dos o más Agentes Económicos cuyas ventas anuales originadas en el territorio nacional o activos en el territorio nacional conjunta o separadamente, importen más de cuarenta millones de veces el valor diario de la Unidad de Medida y Actualización vigente."
+    ]
+   },
+   {
+    "article": "Artículo 90.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V, párrafo primero",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "V. Para emitir su resolución, la Comisión tendrá un plazo de treinta días, contado a partir de la recepción de la notificación o, en su caso, de la documentación adicional solicitada. Concluido el plazo sin que se emita resolución, se entenderá que la Comisión no tiene objeción en la concentración notificada."
+    ]
+   },
+   {
+    "article": "Artículo 90.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "fracción V, párrafo cuarto",
+    "insert_after": 11,
+    "paragraphs": [
+     "Tratándose de una sucesión de actos, la Comisión realizará el análisis de toda la sucesión de los actos que originan la concentración y, en caso de objetarse, podrá ordenar las medidas necesarias para garantizar la protección de la libre competencia y concurrencia económica, incluyendo la restitución de las cosas al estado en que se encontraban antes de la realización de la sucesión de actos."
+    ]
+   },
+   {
+    "article": "Artículo 90.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "from_block": 12,
+    "to_block": 12,
+    "paragraphs": [
+     "VI. En casos excepcionalmente complejos, la Comisión podrá ampliar los plazos a que se refieren las fracciones III y V del presente artículo, hasta por veinte días adicionales."
+    ]
+   },
+   {
+    "article": "Artículo 90.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "fracción VI, párrafo segundo",
+    "insert_after": 12,
+    "paragraphs": [
+     "Sin perjuicio de lo anterior, el plazo previsto en la fracción V de este artículo no podrá ser ampliado en aquellos casos en los que el Ejecutivo Federal haya previamente hecho del conocimiento de la Comisión una cuestión relevante para el interés nacional y exista un pronunciamiento conforme al artículo 110 Bis de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 90.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "from_block": 19,
+    "to_block": 19,
+    "paragraphs": [
+     "En caso de que las propuestas de condiciones no sean presentadas con el escrito de notificación, el plazo para resolver quedará interrumpido el día en que los notificantes presenten su propuesta de condiciones o cualquier modificación a las mismas y volverá a contar desde su inicio. Los notificantes pueden realizar modificaciones o adiciones a su propuesta inicial de condiciones hasta un día después de que se liste el asunto para sesión del Pleno."
+    ]
+   },
+   {
+    "article": "Artículo 90.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "quinto",
+    "insert_after": 19,
+    "paragraphs": [
+     "Los Agentes Económicos notificantes pueden desistirse del procedimiento hasta antes de que inicie el plazo establecido en la fracción V de este artículo. Emitida la resolución que autorice la concentración notificada o sujete la autorización al cumplimiento de condiciones, puede renunciar al derecho derivado de la misma. En ambos casos, se requerirá ratificación ante la Comisión por el representante común o quien tenga las facultades legales para hacerlo."
+    ]
+   }
+  ],
+  "divisions": [
+   {
+    "operation": "add",
+    "kind": "seccion",
+    "label": "Sección II Bis",
+    "name": "Del Procedimiento de Calificación",
+    "before_article": "Artículo 77 Bis."
+   }
+  ],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 64.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Tenga o pueda tener por objeto o efecto establecer barreras a la entrada, impedir a terceros el acceso al mercado relevante, a mercados relacionados o a insumos esenciales, o desplazar a otros Agentes Económicos;\"]},{\"article\":\"Artículo 64.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Tenga o pueda tener por objeto o efecto facilitar sustancialmente a los participantes en dicha concentración el ejercicio de conductas prohibidas por esta Ley, y particularmente, de las prácticas monopólicas, o\"]},{\"article\":\"Artículo 64.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"insert_after\":4,\"paragraphs\":[\"IV. Tenga o pueda tener por objeto o efecto afectar sustancialmente las condiciones de competencia y libre concurrencia en el mercado relevante o mercados relacionados.\"]},{\"article\":\"Artículo 65.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Tampoco podrán ser investigadas las concentraciones que no requieran ser previamente notificadas a la Comisión, una vez transcurridos tres años a partir de su realización.\"]},{\"article\":\"Artículo 69.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"insert_after\":6,\"paragraphs\":[\"Una vez desahogada la prevención que, en su caso, se realice, las solicitudes presentadas por la Secretaría que no cumplan con los requisitos previstos en el artículo 68 de esta Ley, se tendrán por presentadas únicamente para efectos de que, en un plazo no mayor a treinta días, la Autoridad Investigadora determine si, allegándose de información adicional, existen elementos suficientes para iniciar una investigación de oficio por prácticas monopólicas o concentraciones ilícitas.\"]},{\"article\":\"Artículo 69.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"quinto\",\"insert_after\":6,\"paragraphs\":[\"Dentro de los diez días siguientes a aquél en que concluya el plazo de análisis referido en el párrafo anterior, si la Autoridad Investigadora considera que existe una causa objetiva en términos del artículo 71 de esta Ley, dictará el acuerdo de inicio correspondiente y se mandará publicar el extracto del mismo en el Diario Oficial de la Federación. En caso contrario, deberá notificar a la Secretaría las razones por las cuales se considera que no existen elementos suficientes para iniciar una investigación.\"]},{\"article\":\"Artículo 71.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Este periodo podrá ser ampliado hasta en tres ocasiones, por periodos de hasta ciento veinte días, cuando existan causas debidamente justificadas para ello a juicio de la Autoridad Investigadora.\"]},{\"article\":\"Artículo 73.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La Autoridad Investigadora podrá requerir de cualquier persona, los informes y documentos que estime necesarios para realizar sus investigaciones, debiendo señalar el carácter del requerido como denunciado o tercero coadyuvante; citar a declarar a quienes tengan relación con los hechos de que se trate; ordenar y practicar visitas de verificación en donde se presuma que existen elementos para la debida integración de la investigación, realizar diligencias de inspección o recolectar datos a través de cualquier herramienta, con el fin de allegarse de información para sus investigaciones.\"]},{\"article\":\"Artículo 73.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"insert_after\":2,\"paragraphs\":[\"En ningún caso lo dispuesto por este artículo implica la obligación de la Comisión de revelar las líneas de investigación o cualquier otra información relacionada con la investigación. El carácter de la persona requerida o compareciente, no prejuzga sobre el carácter que tendrá con posterioridad en la investigación o el procedimiento seguido en forma de juicio.\"]},{\"article\":\"Artículo 77.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"insert_after\":3,\"paragraphs\":[\"Una vez que se emita el dictamen de probable responsabilidad, se considera que la Autoridad Investigadora tiene conocimiento de las probables conductas violatorias y de quienes probablemente las cometieron, para efectos de lo establecido en el artículo 107 del Código Penal Federal.\"]},{\"article\":\"Artículo 77.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"insert_after\":3,\"paragraphs\":[\"La Comisión deberá emitir Disposiciones Regulatorias que detallen los criterios y supuestos en los que se presentará querella por el delito previsto en el artículo 254 Bis del Código Penal Federal ante la Fiscalía General de la República.\"]},{\"article\":\"Artículo 77 Bis.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 77 Bis.\",\"insert_after\":null,\"paragraphs\":[\"Los Agentes Económicos podrán solicitar a la Comisión que se excluya del procedimiento correspondiente, la información y documentos que hubieran proporcionado o que la Comisión haya obtenido en donde consten comunicaciones con sus personas abogadas que tienen como finalidad la obtención de asesoría legal.\",\"El procedimiento se tramitará conforme al procedimiento previsto en esta Ley y su Reglamento, y se suspenderá la investigación o el procedimiento correspondiente hasta que se resuelva la solicitud a la que hace referencia el párrafo anterior.\",\"La Comisión establecerá en su estatuto orgánico las características de los comités calificadores encargados de dar trámite y resolver la solicitud que realicen los Agentes Económicos.\",\"La Comisión únicamente considerará como información objeto de la protección que establece este artículo, aquella que sea intercambiada con una persona abogada con la que el Agente Económico solicitante no cuente con una relación laboral.\",\"Una vez resuelta la solicitud, si la Comisión determina que fue presentada con el único fin de dilatar el procedimiento correspondiente, podrá imponer las sanciones previstas en el artículo 127, fracción III, de esta Ley.\"]},{\"article\":\"Artículo 77 Bis 1.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 77 Bis 1.\",\"insert_after\":null,\"paragraphs\":[\"El procedimiento de calificación se tramitará conforme a lo siguiente:\",\"I. Una vez recibida la solicitud, se remitirá a la Autoridad Investigadora o al Órgano encargado de la instrucción, según corresponda, para que emita un acuerdo en el que remita al comité calificador correspondiente.\",\"II. El Comité Calificador analizará la solicitud dentro de los quince días siguientes a aquél en que se le notifique el acuerdo a que hace referencia la fracción anterior y deberá dictar un acuerdo que:\",\"a) Admita la solicitud, o\",\"b) Prevenga por única ocasión al solicitante, cuando el escrito de solicitud omita alguno de los requisitos previstos en el Reglamento.\",\"Transcurrido el plazo para responder la prevención sin que se desahogue o se cumpla con los requisitos establecidos en el Reglamento, la solicitud se tendrá por no presentada, sin perjuicio de que pueda presentarse nuevamente por única ocasión dentro de los diez días siguientes contados a partir del día siguiente a aquél en que surta efectos la notificación del acuerdo de no presentación.\",\"III. Una vez que surta efectos la notificación del acuerdo de admisión, el Comité Calificador deliberará en forma colegiada y decidirá por mayoría de votos si la información analizada es sujeta de exclusión en términos del artículo 77 Bis de esta Ley.\"]},{\"article\":\"Artículo 78.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Concluida la investigación, la Autoridad Investigadora, en un plazo no mayor de treinta días, presentará al Pleno un dictamen que proponga:\"]},{\"article\":\"Artículo 78.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"En el supuesto previsto en la fracción I, dentro del plazo de diez días siguientes a la fecha en que la Autoridad Investigadora haya presentado el dictamen correspondiente, el Pleno ordenará el inicio del procedimiento seguido en forma de juicio mediante el emplazamiento a los probables responsables.\"]},{\"article\":\"Artículo 78.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"En el caso de la fracción II, el Pleno decretará el cierre del expediente dentro del plazo de diez días siguientes a la fecha en la que la Autoridad Investigadora haya presentado el dictamen respectivo.\"]},{\"article\":\"Artículo 83.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"II. Con las manifestaciones del probable responsable, se dará vista a la Autoridad Investigadora para que, en caso de considerarlo necesario, se pronuncie respecto de los argumentos y pruebas ofrecidas en un plazo máximo de diez días hábiles;\"]},{\"article\":\"Artículo 83.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción III, párrafo segundo\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"Son admisibles todos los medios de prueba, excepto la confesional y la testimonial a cargo de autoridades. Se desecharán aquéllos que no sean ofrecidos conforme a derecho, no tengan relación con los hechos materia del procedimiento, así como aquéllas que sean innecesarias, ilícitas o respecto de los cuales no se haya expresado con claridad el hecho o hechos que se trata de demostrar con cada uno de ellos;\"]},{\"article\":\"Artículo 83.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"V. Concluido el desahogo de pruebas, la Comisión citará a las partes a la audiencia oral final, para que, en su caso, realicen las manifestaciones que estimen pertinentes y formulen los alegatos que correspondan ante el Pleno, y\"]},{\"article\":\"Artículo 83.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VI, párrafo primero\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"VI. El expediente se entenderá integrado al día siguiente en que se celebre la audiencia oral final referida en la fracción anterior. Una vez integrado el expediente, se turnará por acuerdo de la Persona Comisionada Presidente a la Persona Comisionada ponente, de manera rotatoria, siguiendo rigurosamente el orden de designación de las Personas Comisionadas, así como el orden cronológico en que se integró el expediente, quien tendrá la obligación de presentar el proyecto de resolución al Pleno para su aprobación o modificación.\"]},{\"article\":\"Artículo 83.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"fracción VI, párrafo tercero\",\"from_block\":11,\"to_block\":11,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 83.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción VI, párrafo cuarto\",\"from_block\":12,\"to_block\":12,\"paragraphs\":[\"La Comisión dictará resolución en un plazo que no excederá de treinta días.\"]},{\"article\":\"Artículo 86.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Cuando el acto o sucesión de actos que les den origen, independientemente del lugar de su celebración, importen en el territorio nacional, directa o indirectamente, un monto superior al equivalente a dieciséis millones de veces el valor diario de la Unidad de Medida y Actualización vigente;\"]},{\"article\":\"Artículo 86.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Cuando el acto o sucesión de actos que les den origen, impliquen la acumulación del treinta por ciento o más de los activos o acciones de un Agente Económico, cuyas ventas anuales originadas en el territorio nacional o activos en el territorio nacional importen más del equivalente a dieciséis millones de veces el valor diario de la Unidad de Medida y Actualización vigente, o\"]},{\"article\":\"Artículo 86.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Cuando el acto o sucesión de actos que les den origen impliquen una acumulación en el territorio nacional de activos o capital social superior al equivalente a siete millones cuatrocientas mil veces el valor diario de la Unidad de Medida y Actualización vigente y en la concentración participen dos o más Agentes Económicos cuyas ventas anuales originadas en el territorio nacional o activos en el territorio nacional conjunta o separadamente, importen más de cuarenta millones de veces el valor diario de la Unidad de Medida y Actualización vigente.\"]},{\"article\":\"Artículo 90.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V, párrafo primero\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"V. Para emitir su resolución, la Comisión tendrá un plazo de treinta días, contado a partir de la recepción de la notificación o, en su caso, de la documentación adicional solicitada. Concluido el plazo sin que se emita resolución, se entenderá que la Comisión no tiene objeción en la concentración notificada.\"]},{\"article\":\"Artículo 90.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"fracción V, párrafo cuarto\",\"insert_after\":11,\"paragraphs\":[\"Tratándose de una sucesión de actos, la Comisión realizará el análisis de toda la sucesión de los actos que originan la concentración y, en caso de objetarse, podrá ordenar las medidas necesarias para garantizar la protección de la libre competencia y concurrencia económica, incluyendo la restitución de las cosas al estado en que se encontraban antes de la realización de la sucesión de actos.\"]},{\"article\":\"Artículo 90.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VI\",\"from_block\":12,\"to_block\":12,\"paragraphs\":[\"VI. En casos excepcionalmente complejos, la Comisión podrá ampliar los plazos a que se refieren las fracciones III y V del presente artículo, hasta por veinte días adicionales.\"]},{\"article\":\"Artículo 90.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"fracción VI, párrafo segundo\",\"insert_after\":12,\"paragraphs\":[\"Sin perjuicio de lo anterior, el plazo previsto en la fracción V de este artículo no podrá ser ampliado en aquellos casos en los que el Ejecutivo Federal haya previamente hecho del conocimiento de la Comisión una cuestión relevante para el interés nacional y exista un pronunciamiento conforme al artículo 110 Bis de esta Ley.\"]},{\"article\":\"Artículo 90.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"from_block\":19,\"to_block\":19,\"paragraphs\":[\"En caso de que las propuestas de condiciones no sean presentadas con el escrito de notificación, el plazo para resolver quedará interrumpido el día en que los notificantes presenten su propuesta de condiciones o cualquier modificación a las mismas y volverá a contar desde su inicio. Los notificantes pueden realizar modificaciones o adiciones a su propuesta inicial de condiciones hasta un día después de que se liste el asunto para sesión del Pleno.\"]},{\"article\":\"Artículo 90.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"quinto\",\"insert_after\":19,\"paragraphs\":[\"Los Agentes Económicos notificantes pueden desistirse del procedimiento hasta antes de que inicie el plazo establecido en la fracción V de este artículo. Emitida la resolución que autorice la concentración notificada o sujete la autorización al cumplimiento de condiciones, puede renunciar al derecho derivado de la misma. En ambos casos, se requerirá ratificación ante la Comisión por el representante común o quien tenga las facultades legales para hacerlo.\"]}],\"divisions\":[{\"operation\":\"add\",\"kind\":\"seccion\",\"label\":\"Sección II Bis\",\"name\":\"Del Procedimiento de Calificación\",\"before_article\":\"Artículo 77 Bis.\"}],\"needs_review\":[]}",
+ "duration_ms": 50065,
+ "total_cost_usd": 0.2660698,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 7419,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 14635,
+   "webSearchRequests": 0,
+   "costUSD": 0.2660698,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 1180,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 14635,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

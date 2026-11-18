@@ -1,0 +1,1391 @@
+{
+ "id": "2025-11-14-ccf",
+ "source": "backtest",
+ "law": {
+  "slug": "ccf",
+  "title": "Código Civil Federal",
+  "abbreviation": "CCF"
+ },
+ "decree": {
+  "code": 5773097,
+  "title": "Decreto por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.",
+  "date": "2025-11-14",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5773097&fecha=14/11/2025",
+  "pdf": null,
+  "instruction": [
+   "Artículo Primero.- Se reforman los artículos 51; 89; 137; 206; 272, cuarto párrafo; 282, fracción II; 283, segundo párrafo; 399; 416, primer párrafo; 462; 513; 1549 Bis, fracción VI; 1712; 1725; 1750; 1752; 1934 Bis; 2118; 2323; 2325; 2416; 2545; 2882; 2916, primer párrafo; 2965; 2972; 3039, segundo párrafo; 3047, primer párrafo y, 3048, segundo párrafo, del Código Civil Federal, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "f81d1d0b354b076e21409fab093b7b645867ca14"
+ },
+ "official": {
+  "commit": "f00c9ca7f82e231350fd47ed0a2b1ae2a69234b0",
+  "date": "2025-11-14",
+  "same_day": true
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "Artículo 51.",
+    "Artículo 89.",
+    "Artículo 137.",
+    "Artículo 206.",
+    "Artículo 272.",
+    "Artículo 282.",
+    "Artículo 283.",
+    "Artículo 399.",
+    "Artículo 416.",
+    "Artículo 462.",
+    "Artículo 513.",
+    "Artículo 1549 Bis."
+   ],
+   "key": "71ac37e862352b9d192ba63f32b7fb187db283b44c7efd2f42cc18eb18596f1d",
+   "cached": true,
+   "duration_ms": 15821,
+   "cost_usd": 0.1024538,
+   "model": "claude-opus-5-5",
+   "error": null
+  },
+  {
+   "batch": 2,
+   "articles": [
+    "Artículo 1712.",
+    "Artículo 1725.",
+    "Artículo 1750.",
+    "Artículo 1752.",
+    "Artículo 1934 Bis.",
+    "Artículo 2118.",
+    "Artículo 2323.",
+    "Artículo 2325.",
+    "Artículo 2416.",
+    "Artículo 2545.",
+    "Artículo 2882.",
+    "Artículo 2916."
+   ],
+   "key": "a54fb79f4e105e757bc889d2eb6eec56143333499a0d17703265a9e71a219735",
+   "cached": true,
+   "duration_ms": 14460,
+   "cost_usd": 0.07790180000000001,
+   "model": "claude-opus-5-5",
+   "error": null
+  },
+  {
+   "batch": 3,
+   "articles": [
+    "Artículo 2965.",
+    "Artículo 2972.",
+    "Artículo 3039.",
+    "Artículo 3047.",
+    "Artículo 3048."
+   ],
+   "key": "8aba43c00b04662b8938bf4f97a8edef7e6f8cda75a92a35c6976b730bb9e4d7",
+   "cached": true,
+   "duration_ms": 8338,
+   "cost_usd": 0.052621799999999996,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "51": {
+   "label": "Artículo 51.",
+   "headings": [],
+   "lines": [
+    "Artículo 51.- Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en el Código Nacional de Procedimientos Civiles y Familiares, y siempre que se registren en la Oficina que corresponda de la Ciudad de México o de los Estados."
+   ]
+  },
+  "89": {
+   "label": "Artículo 89.",
+   "headings": [],
+   "lines": [
+    "Artículo 89.- Pronunciado el auto de discernimiento de la tutela y publicado en los términos que previene el Código Nacional de Procedimientos Civiles y Familiares, el Juez de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil para que levante el acta respectiva. El Curador cuidará del cumplimiento de este artículo."
+   ]
+  },
+  "137": {
+   "label": "Artículo 137.",
+   "headings": [],
+   "lines": [
+    "Artículo 137.- El juicio de rectificación de acta se seguirá en la forma que establezca en el Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "206": {
+   "label": "Artículo 206.",
+   "headings": [],
+   "lines": [
+    "Artículo 206.- Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "272": {
+   "label": "Artículo 272.",
+   "headings": [],
+   "lines": [
+    "Artículo 272.- ...",
+    "...",
+    "...",
+    "Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "282": {
+   "label": "Artículo 282.",
+   "headings": [],
+   "lines": [
+    "Artículo 282.- ...",
+    "I. ...",
+    "II. Proceder a la separación de los cónyuges de conformidad con el Código Nacional de Procedimientos Civiles y Familiares;",
+    "III. a VII. ..."
+   ]
+  },
+  "283": {
+   "label": "Artículo 283.",
+   "headings": [],
+   "lines": [
+    "Artículo 283.- ...",
+    "La protección para los menores incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 178 del Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "399": {
+   "label": "Artículo 399.",
+   "headings": [],
+   "lines": [
+    "Artículo 399.- El procedimiento para hacer la adopción será fijado en el Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "416": {
+   "label": "Artículo 416.",
+   "headings": [],
+   "lines": [
+    "Artículo 416.- En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el Juez de lo Familiar resolverá lo conducente oyendo al Ministerio Público, sin perjuicio de lo previsto en el Código Nacional de Procedimientos Civiles y Familiares.",
+    "..."
+   ]
+  },
+  "462": {
+   "label": "Artículo 462.",
+   "headings": [],
+   "lines": [
+    "Artículo 462.- Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares, el estado de incapacidad de la persona que va a quedar sujeta a ella."
+   ]
+  },
+  "513": {
+   "label": "Artículo 513.",
+   "headings": [],
+   "lines": [
+    "Artículo 513.- El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código Nacional de Procedimientos Civiles y Familiares, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa."
+   ]
+  },
+  "1549 bis": {
+   "label": "Artículo 1549 Bis.",
+   "headings": [],
+   "lines": [
+    "Artículo 1549 Bis.- ...",
+    "I.- a V.- ...",
+    "VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 810 del Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "1712": {
+   "label": "Artículo 1712.",
+   "headings": [],
+   "lines": [
+    "Artículo 1712.- El albacea debe formar el inventario dentro del término señalado por el Código Nacional de Procedimientos Civiles y Familiares. Si no lo hace, será removido."
+   ]
+  },
+  "1725": {
+   "label": "Artículo 1725.",
+   "headings": [],
+   "lines": [
+    "Artículo 1725.- La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "1750": {
+   "label": "Artículo 1750.",
+   "headings": [],
+   "lines": [
+    "Artículo 1750.- El albacea definitivo, dentro del término que fije el Código Nacional de Procedimientos Civiles y Familiares, promoverá la formación del inventario."
+   ]
+  },
+  "1752": {
+   "label": "Artículo 1752.",
+   "headings": [],
+   "lines": [
+    "Artículo 1752.- El inventario se formará según lo disponga el Código Nacional de Procedimientos Civiles y Familiares. Si el albacea no lo presenta dentro del término legal, será removido."
+   ]
+  },
+  "1934 bis": {
+   "label": "Artículo 1934 Bis.",
+   "headings": [],
+   "lines": [
+    "Artículo 1934 Bis.- El que cause un daño de los previstos en este Capítulo a una colectividad o grupo de personas, estará obligado a indemnizar en términos de lo dispuesto en el Libro Sexto del Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "2118": {
+   "label": "Artículo 2118.",
+   "headings": [],
+   "lines": [
+    "Artículo 2118.- El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "2323": {
+   "label": "Artículo 2323.",
+   "headings": [],
+   "lines": [
+    "Artículo 2323.- Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuanto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuanto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "2325": {
+   "label": "Artículo 2325.",
+   "headings": [],
+   "lines": [
+    "Artículo 2325.- Por regla general las ventas judiciales se harán en moneda efectiva y al contado, y cuando la cosa fuere inmueble pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el juez mandará hacer la cancelación o cancelaciones respectivas, en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "2416": {
+   "label": "Artículo 2416.",
+   "headings": [],
+   "lines": [
+    "Artículo 2416.- Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al juez para que estreche al arrendador al cumplimiento de su obligación, mediante el procedimiento rápido que se establezca en el Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "2545": {
+   "label": "Artículo 2545.",
+   "headings": [],
+   "lines": [
+    "Artículo 2545.- El secuestro judicial se rige por las disposiciones del Código Nacional de Procedimientos Civiles y Familiares y, en su defecto, por las mismas del secuestro convencional."
+   ]
+  },
+  "2882": {
+   "label": "Artículo 2882.",
+   "headings": [],
+   "lines": [
+    "Artículo 2882.- La cosa se adjudicará al acreedor en las dos terceras partes de la postura legal, si no pudiere venderse en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "2916": {
+   "label": "Artículo 2916.",
+   "headings": [],
+   "lines": [
+    "Artículo 2916.- El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial; o por adjudicación, en los casos en que no se presente otro postor, de acuerdo con lo que establezca el Código Nacional de Procedimientos Civiles y Familiares.",
+    "..."
+   ]
+  },
+  "2965": {
+   "label": "Artículo 2965.",
+   "headings": [],
+   "lines": [
+    "Artículo 2965.- Procede el concurso de acreedores siempre que el deudor suspenda el pago de sus deudas civiles, líquidas y exigibles. La declaración de concurso será hecha por el juez competente, mediante los trámites fijados en el Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "2972": {
+   "label": "Artículo 2972.",
+   "headings": [],
+   "lines": [
+    "Artículo 2972.- Aprobado el convenio por el juez, será obligatorio para el fallido y para todos los acreedores cuyos créditos daten de época anterior a la declaración, si hubieren sido citados en forma legal, o si habiéndoles notificado la aprobación del convenio no hubieren reclamado contra éste en los términos prevenidos en el Código Nacional de Procedimientos Civiles y Familiares, aunque esos acreedores no estén comprendidos en la lista correspondiente, ni hayan sido parte en el procedimiento."
+   ]
+  },
+  "3039": {
+   "label": "Artículo 3039.",
+   "headings": [],
+   "lines": [
+    "Artículo 3039.- ...",
+    "Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código Nacional de Procedimientos Civiles y Familiares."
+   ]
+  },
+  "3047": {
+   "label": "Artículo 3047.",
+   "headings": [],
+   "lines": [
+    "Artículo 3047.- En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos establecidas en el Libro Segundo, Título Séptimo, Capítulo II del Código Civil, y no tenga título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante el juez competente para acreditar la prescripción rindiendo la información respectiva, en los términos de las disposiciones aplicables del Código Nacional de Procedimientos Civiles y Familiares.",
+    "..."
+   ]
+  },
+  "3048": {
+   "label": "Artículo 3048.",
+   "headings": [],
+   "lines": [
+    "Artículo 3048.- ...",
+    "Para lo anterior, se deberá seguir el procedimiento que establece el Código Nacional de Procedimientos Civiles y Familiares para las informaciones a que se refiere el artículo 3047.",
+    "...",
+    "..."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "Artículo 51.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "paragraphs": [
+     "Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en el Código Nacional de Procedimientos Civiles y Familiares, y siempre que se registren en la Oficina que corresponda de la Ciudad de México o de los Estados."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 89.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "paragraphs": [
+     "Pronunciado el auto de discernimiento de la tutela y publicado en los términos que previene el Código Nacional de Procedimientos Civiles y Familiares, el Juez de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil para que levante el acta respectiva. El Curador cuidará del cumplimiento de este artículo."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 137.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "paragraphs": [
+     "El juicio de rectificación de acta se seguirá en la forma que establezca en el Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 206.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "paragraphs": [
+     "Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 272.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "cuarto párrafo",
+    "paragraphs": [
+     "Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 6,
+    "to_block": 6,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 282.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "paragraphs": [
+     "II. Proceder a la separación de los cónyuges de conformidad con el Código Nacional de Procedimientos Civiles y Familiares;"
+    ],
+    "from_block": 5,
+    "to_block": 5,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 283.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo párrafo",
+    "paragraphs": [
+     "La protección para los menores incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 178 del Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 2,
+    "to_block": 2,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 399.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "paragraphs": [
+     "El procedimiento para hacer la adopción será fijado en el Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 416.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primer párrafo",
+    "paragraphs": [
+     "En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el Juez de lo Familiar resolverá lo conducente oyendo al Ministerio Público, sin perjuicio de lo previsto en el Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 462.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "paragraphs": [
+     "Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares, el estado de incapacidad de la persona que va a quedar sujeta a ella."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 513.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "paragraphs": [
+     "El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código Nacional de Procedimientos Civiles y Familiares, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 1549 Bis.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "paragraphs": [
+     "VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 810 del Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 7,
+    "to_block": 7,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 1712.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 1712.",
+    "paragraphs": [
+     "El albacea debe formar el inventario dentro del término señalado por el Código Nacional de Procedimientos Civiles y Familiares. Si no lo hace, será removido."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 2
+   },
+   {
+    "article": "Artículo 1725.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 1725.",
+    "paragraphs": [
+     "La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 2
+   },
+   {
+    "article": "Artículo 1750.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 1750.",
+    "paragraphs": [
+     "El albacea definitivo, dentro del término que fije el Código Nacional de Procedimientos Civiles y Familiares, promoverá la formación del inventario."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 2
+   },
+   {
+    "article": "Artículo 1752.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 1752.",
+    "paragraphs": [
+     "El inventario se formará según lo disponga el Código Nacional de Procedimientos Civiles y Familiares. Si el albacea no lo presenta dentro del término legal, será removido."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 2
+   },
+   {
+    "article": "Artículo 1934 Bis.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 1934 Bis.",
+    "paragraphs": [
+     "El que cause un daño de los previstos en este Capítulo a una colectividad o grupo de personas, estará obligado a indemnizar en términos de lo dispuesto en el Libro Sexto del Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 2
+   },
+   {
+    "article": "Artículo 2118.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 2118.",
+    "paragraphs": [
+     "El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 2
+   },
+   {
+    "article": "Artículo 2323.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 2323.",
+    "paragraphs": [
+     "Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuanto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuanto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 2
+   },
+   {
+    "article": "Artículo 2325.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 2325.",
+    "paragraphs": [
+     "Por regla general las ventas judiciales se harán en moneda efectiva y al contado, y cuando la cosa fuere inmueble pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el juez mandará hacer la cancelación o cancelaciones respectivas, en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 2
+   },
+   {
+    "article": "Artículo 2416.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 2416.",
+    "paragraphs": [
+     "Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al juez para que estreche al arrendador al cumplimiento de su obligación, mediante el procedimiento rápido que se establezca en el Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 2
+   },
+   {
+    "article": "Artículo 2545.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 2545.",
+    "paragraphs": [
+     "El secuestro judicial se rige por las disposiciones del Código Nacional de Procedimientos Civiles y Familiares y, en su defecto, por las mismas del secuestro convencional."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 2
+   },
+   {
+    "article": "Artículo 2882.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 2882.",
+    "paragraphs": [
+     "La cosa se adjudicará al acreedor en las dos terceras partes de la postura legal, si no pudiere venderse en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 2
+   },
+   {
+    "article": "Artículo 2916.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "paragraphs": [
+     "El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial; o por adjudicación, en los casos en que no se presente otro postor, de acuerdo con lo que establezca el Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 2
+   },
+   {
+    "article": "Artículo 2965.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 2965.",
+    "paragraphs": [
+     "Procede el concurso de acreedores siempre que el deudor suspenda el pago de sus deudas civiles, líquidas y exigibles. La declaración de concurso será hecha por el juez competente, mediante los trámites fijados en el Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 3
+   },
+   {
+    "article": "Artículo 2972.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 2972.",
+    "paragraphs": [
+     "Aprobado el convenio por el juez, será obligatorio para el fallido y para todos los acreedores cuyos créditos daten de época anterior a la declaración, si hubieren sido citados en forma legal, o si habiéndoles notificado la aprobación del convenio no hubieren reclamado contra éste en los términos prevenidos en el Código Nacional de Procedimientos Civiles y Familiares, aunque esos acreedores no estén comprendidos en la lista correspondiente, ni hayan sido parte en el procedimiento."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 3
+   },
+   {
+    "article": "Artículo 3039.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "paragraphs": [
+     "Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 2,
+    "to_block": 2,
+    "insert_after": null,
+    "batch": 3
+   },
+   {
+    "article": "Artículo 3047.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "paragraphs": [
+     "En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos establecidas en el Libro Segundo, Título Séptimo, Capítulo II del Código Civil, y no tenga título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante el juez competente para acreditar la prescripción rindiendo la información respectiva, en los términos de las disposiciones aplicables del Código Nacional de Procedimientos Civiles y Familiares."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 3
+   },
+   {
+    "article": "Artículo 3048.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "paragraphs": [
+     "Para lo anterior, se deberá seguir el procedimiento que establece el Código Nacional de Procedimientos Civiles y Familiares para las informaciones a que se refiere el artículo 3047."
+    ],
+    "from_block": 2,
+    "to_block": 2,
+    "insert_after": null,
+    "batch": 3
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "needs_review": [],
+ "counts": {
+  "exact": 29,
+  "normalized": 0,
+  "mismatch": 0,
+  "not_applied": 0,
+  "outside_decree": 0,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 0,
+  "notes_match": 29
+ },
+ "transitorios": "normalized",
+ "body_identical": true,
+ "articles": [
+  {
+   "key": "51",
+   "label": "Artículo 51.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en el Código Federal de Procedimientos Civiles, y siempre que se registren en la Oficina que corresponda del Distrito Federal o de los Estados.",
+    "Artículo reformado DOF 23-12-1974, 03-01-1979"
+   ],
+   "ai": [
+    "Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en el Código Nacional de Procedimientos Civiles y Familiares, y siempre que se registren en la Oficina que corresponda de la Ciudad de México o de los Estados.",
+    "Artículo reformado DOF 23-12-1974, 03-01-1979, 14-11-2025"
+   ],
+   "official": [
+    "Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en el Código Nacional de Procedimientos Civiles y Familiares, y siempre que se registren en la Oficina que corresponda de la Ciudad de México o de los Estados.",
+    "Artículo reformado DOF 23-12-1974, 03-01-1979, 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "89",
+   "label": "Artículo 89.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Pronunciado el auto de discernimiento de la tutela y publicado en los términos que previene el Código de Procedimientos Civiles, el Juez de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil para que levante el acta respectiva. El Curador cuidará del cumplimiento de este artículo.",
+    "Artículo reformado DOF 14-03-1973, 03-01-1979"
+   ],
+   "ai": [
+    "Pronunciado el auto de discernimiento de la tutela y publicado en los términos que previene el Código Nacional de Procedimientos Civiles y Familiares, el Juez de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil para que levante el acta respectiva. El Curador cuidará del cumplimiento de este artículo.",
+    "Artículo reformado DOF 14-03-1973, 03-01-1979, 14-11-2025"
+   ],
+   "official": [
+    "Pronunciado el auto de discernimiento de la tutela y publicado en los términos que previene el Código Nacional de Procedimientos Civiles y Familiares, el Juez de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil para que levante el acta respectiva. El Curador cuidará del cumplimiento de este artículo.",
+    "Artículo reformado DOF 14-03-1973, 03-01-1979, 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "137",
+   "label": "Artículo 137.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "El juicio de rectificación de acta se seguirá en la forma que establezca en el Código de Procedimientos Civiles."
+   ],
+   "ai": [
+    "El juicio de rectificación de acta se seguirá en la forma que establezca en el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "El juicio de rectificación de acta se seguirá en la forma que establezca en el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "206",
+   "label": "Artículo 206.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código de Procedimientos Civiles."
+   ],
+   "ai": [
+    "Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "272",
+   "label": "Artículo 272.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Cuando ambos consortes convengan en divorciarse, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Juez del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y manifestarán de una manera terminante y explícita su voluntad de divorciarse.",
+    "Párrafo reformado DOF 03-06-2019",
+    "El Juez del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Juez del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.",
+    "El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos y no han liquidado su sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.",
+    "Párrafo reformado DOF 03-06-2019",
+    "Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.",
+    "Artículo reformado DOF 14-03-1973"
+   ],
+   "ai": [
+    "Cuando ambos consortes convengan en divorciarse, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Juez del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y manifestarán de una manera terminante y explícita su voluntad de divorciarse.",
+    "Párrafo reformado DOF 03-06-2019",
+    "El Juez del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Juez del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.",
+    "El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos y no han liquidado su sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.",
+    "Párrafo reformado DOF 03-06-2019",
+    "Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Párrafo reformado DOF 14-11-2025",
+    "Artículo reformado DOF 14-03-1973"
+   ],
+   "official": [
+    "Cuando ambos consortes convengan en divorciarse, no tengan hijos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Juez del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y manifestarán de una manera terminante y explícita su voluntad de divorciarse.",
+    "Párrafo reformado DOF 03-06-2019",
+    "El Juez del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Juez del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.",
+    "El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos y no han liquidado su sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.",
+    "Párrafo reformado DOF 03-06-2019",
+    "Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Párrafo reformado DOF 14-11-2025",
+    "Artículo reformado DOF 14-03-1973"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "282",
+   "label": "Artículo 282.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Al admitirse la demanda de divorcio, o antes si hubiere urgencia y sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes, conforme a las disposiciones siguientes:",
+    "Párrafo reformado DOF 09-01-1954, 31-12-1974, 27-12-1983, 30-12-1997",
+    "I. (Se deroga).",
+    "Fracción derogada DOF 31-12-1974",
+    "II. Proceder a la separación de los cónyuges de conformidad con el Código de Procedimientos Civiles;",
+    "Fracción reformada DOF 09-01-1954, 31-12-1974",
+    "III. Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;",
+    "IV. Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;",
+    "Fracción reformada DOF 31-12-1974",
+    "V. Dictar en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;",
+    "VI. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el código respectivo resolverá lo conducente.",
+    "Salvo peligro grave para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre.",
+    "Fracción reformada DOF 27-12-1983",
+    "VII.- La prohibición de ir a un domicilio o lugar determinado para alguno de los cónyuges, así como las medidas necesarias para evitar actos de violencia familiar.",
+    "Fracción adicionada DOF 30-12-1997"
+   ],
+   "ai": [
+    "Al admitirse la demanda de divorcio, o antes si hubiere urgencia y sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes, conforme a las disposiciones siguientes:",
+    "Párrafo reformado DOF 09-01-1954, 31-12-1974, 27-12-1983, 30-12-1997",
+    "I. (Se deroga).",
+    "Fracción derogada DOF 31-12-1974",
+    "II. Proceder a la separación de los cónyuges de conformidad con el Código Nacional de Procedimientos Civiles y Familiares;",
+    "Fracción reformada DOF 09-01-1954, 31-12-1974, 14-11-2025",
+    "III. Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;",
+    "IV. Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;",
+    "Fracción reformada DOF 31-12-1974",
+    "V. Dictar en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;",
+    "VI. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el código respectivo resolverá lo conducente.",
+    "Salvo peligro grave para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre.",
+    "Fracción reformada DOF 27-12-1983",
+    "VII.- La prohibición de ir a un domicilio o lugar determinado para alguno de los cónyuges, así como las medidas necesarias para evitar actos de violencia familiar.",
+    "Fracción adicionada DOF 30-12-1997"
+   ],
+   "official": [
+    "Al admitirse la demanda de divorcio, o antes si hubiere urgencia y sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes, conforme a las disposiciones siguientes:",
+    "Párrafo reformado DOF 09-01-1954, 31-12-1974, 27-12-1983, 30-12-1997",
+    "I. (Se deroga).",
+    "Fracción derogada DOF 31-12-1974",
+    "II. Proceder a la separación de los cónyuges de conformidad con el Código Nacional de Procedimientos Civiles y Familiares;",
+    "Fracción reformada DOF 09-01-1954, 31-12-1974, 14-11-2025",
+    "III. Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;",
+    "IV. Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;",
+    "Fracción reformada DOF 31-12-1974",
+    "V. Dictar en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;",
+    "VI. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el código respectivo resolverá lo conducente.",
+    "Salvo peligro grave para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre.",
+    "Fracción reformada DOF 27-12-1983",
+    "VII.- La prohibición de ir a un domicilio o lugar determinado para alguno de los cónyuges, así como las medidas necesarias para evitar actos de violencia familiar.",
+    "Fracción adicionada DOF 30-12-1997"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "283",
+   "label": "Artículo 283.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez deberá resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos. De oficio o a petición de parte interesada durante el procedimiento, se allegará de los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores, para evitar conductas de violencia familiar o cualquier otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de estos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para el menor.",
+    "La protección para los menores incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 94 del Código de Procedimientos Civiles para el Distrito Federal.",
+    "Artículo reformado DOF 27-12-1983, 30-12-1997"
+   ],
+   "ai": [
+    "La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez deberá resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos. De oficio o a petición de parte interesada durante el procedimiento, se allegará de los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores, para evitar conductas de violencia familiar o cualquier otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de estos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para el menor.",
+    "La protección para los menores incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 178 del Código Nacional de Procedimientos Civiles y Familiares.",
+    "Párrafo reformado DOF 14-11-2025",
+    "Artículo reformado DOF 27-12-1983, 30-12-1997"
+   ],
+   "official": [
+    "La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez deberá resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos. De oficio o a petición de parte interesada durante el procedimiento, se allegará de los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores, para evitar conductas de violencia familiar o cualquier otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de estos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para el menor.",
+    "La protección para los menores incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 178 del Código Nacional de Procedimientos Civiles y Familiares.",
+    "Párrafo reformado DOF 14-11-2025",
+    "Artículo reformado DOF 27-12-1983, 30-12-1997"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "399",
+   "label": "Artículo 399.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "El procedimiento para hacer la adopción será fijado en el Código de Procedimientos Civiles."
+   ],
+   "ai": [
+    "El procedimiento para hacer la adopción será fijado en el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "El procedimiento para hacer la adopción será fijado en el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "416",
+   "label": "Artículo 416.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el juez de lo familiar resolverá lo conducente oyendo al Ministerio Público, sin perjuicio de lo previsto en el artículo 94 del Código de Procedimientos Civiles para el Distrito Federal.",
+    "En este supuesto, con base en el interés superior del menor, éste quedará bajo los cuidados y atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.",
+    "Artículo reformado DOF 30-12-1997"
+   ],
+   "ai": [
+    "En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el Juez de lo Familiar resolverá lo conducente oyendo al Ministerio Público, sin perjuicio de lo previsto en el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Párrafo reformado DOF 14-11-2025",
+    "En este supuesto, con base en el interés superior del menor, éste quedará bajo los cuidados y atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.",
+    "Artículo reformado DOF 30-12-1997"
+   ],
+   "official": [
+    "En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el Juez de lo Familiar resolverá lo conducente oyendo al Ministerio Público, sin perjuicio de lo previsto en el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Párrafo reformado DOF 14-11-2025",
+    "En este supuesto, con base en el interés superior del menor, éste quedará bajo los cuidados y atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.",
+    "Artículo reformado DOF 30-12-1997"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "462",
+   "label": "Artículo 462.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella."
+   ],
+   "ai": [
+    "Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares, el estado de incapacidad de la persona que va a quedar sujeta a ella.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares, el estado de incapacidad de la persona que va a quedar sujeta a ella.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "513",
+   "label": "Artículo 513.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código de Procedimientos Civiles, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa."
+   ],
+   "ai": [
+    "El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código Nacional de Procedimientos Civiles y Familiares, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código Nacional de Procedimientos Civiles y Familiares, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "1549 bis",
+   "label": "Artículo 1549 Bis.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Distrito Federal o cualquier dependencia o entidad de la Administración Pública Federal, o en acto posterior, de conformidad con lo siguiente:",
+    "I.- Que el precio del inmueble o su valor de avalúo no exceda del equivalente a 25 veces el salario mínimo general vigente en el Distrito Federal elevado al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;",
+    "II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente cuenta de los incapaces;",
+    "III.- Si hubiere pluralidad de adquirentes del inmueble cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1296 de este Código;",
+    "IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;",
+    "V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos 1713, 1770 y demás relativos de este Código; y",
+    "VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 876-Bis del Código de Procedimientos Civiles para el Distrito Federal.",
+    "Artículo adicionado DOF 06-01-1994"
+   ],
+   "ai": [
+    "Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Distrito Federal o cualquier dependencia o entidad de la Administración Pública Federal, o en acto posterior, de conformidad con lo siguiente:",
+    "I.- Que el precio del inmueble o su valor de avalúo no exceda del equivalente a 25 veces el salario mínimo general vigente en el Distrito Federal elevado al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;",
+    "II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente cuenta de los incapaces;",
+    "III.- Si hubiere pluralidad de adquirentes del inmueble cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1296 de este Código;",
+    "IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;",
+    "V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos 1713, 1770 y demás relativos de este Código; y",
+    "VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 810 del Código Nacional de Procedimientos Civiles y Familiares.",
+    "Fracción reformada DOF 14-11-2025",
+    "Artículo adicionado DOF 06-01-1994"
+   ],
+   "official": [
+    "Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Distrito Federal o cualquier dependencia o entidad de la Administración Pública Federal, o en acto posterior, de conformidad con lo siguiente:",
+    "I.- Que el precio del inmueble o su valor de avalúo no exceda del equivalente a 25 veces el salario mínimo general vigente en el Distrito Federal elevado al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;",
+    "II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente cuenta de los incapaces;",
+    "III.- Si hubiere pluralidad de adquirentes del inmueble cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1296 de este Código;",
+    "IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;",
+    "V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos 1713, 1770 y demás relativos de este Código; y",
+    "VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 810 del Código Nacional de Procedimientos Civiles y Familiares.",
+    "Fracción reformada DOF 14-11-2025",
+    "Artículo adicionado DOF 06-01-1994"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "1712",
+   "label": "Artículo 1712.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "El albacea debe formar el inventario dentro del término señalado por el Código de Procedimientos Civiles. Si no lo hace, será removido."
+   ],
+   "ai": [
+    "El albacea debe formar el inventario dentro del término señalado por el Código Nacional de Procedimientos Civiles y Familiares. Si no lo hace, será removido.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "El albacea debe formar el inventario dentro del término señalado por el Código Nacional de Procedimientos Civiles y Familiares. Si no lo hace, será removido.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "1725",
+   "label": "Artículo 1725.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código de Procedimientos Civiles."
+   ],
+   "ai": [
+    "La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "1750",
+   "label": "Artículo 1750.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "El albacea definitivo, dentro del término que fije el Código de Procedimientos Civiles, promoverá la formación del inventario."
+   ],
+   "ai": [
+    "El albacea definitivo, dentro del término que fije el Código Nacional de Procedimientos Civiles y Familiares, promoverá la formación del inventario.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "El albacea definitivo, dentro del término que fije el Código Nacional de Procedimientos Civiles y Familiares, promoverá la formación del inventario.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "1752",
+   "label": "Artículo 1752.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "El inventario se formará según lo disponga el Código de Procedimiento Civiles. Si el albacea no lo presenta dentro del término legal, será removido."
+   ],
+   "ai": [
+    "El inventario se formará según lo disponga el Código Nacional de Procedimientos Civiles y Familiares. Si el albacea no lo presenta dentro del término legal, será removido.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "El inventario se formará según lo disponga el Código Nacional de Procedimientos Civiles y Familiares. Si el albacea no lo presenta dentro del término legal, será removido.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "1934 bis",
+   "label": "Artículo 1934 Bis.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "El que cause un daño de los previstos en este Capítulo a una colectividad o grupo de personas, estará obligado a indemnizar en términos de lo dispuesto en el Libro Quinto del Código Federal de Procedimientos Civiles.",
+    "Artículo adicionado DOF 30-08-2011"
+   ],
+   "ai": [
+    "El que cause un daño de los previstos en este Capítulo a una colectividad o grupo de personas, estará obligado a indemnizar en términos de lo dispuesto en el Libro Sexto del Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo adicionado DOF 30-08-2011. Reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "El que cause un daño de los previstos en este Capítulo a una colectividad o grupo de personas, estará obligado a indemnizar en términos de lo dispuesto en el Libro Sexto del Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo adicionado DOF 30-08-2011. Reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "2118",
+   "label": "Artículo 2118.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código de Procedimientos Civiles."
+   ],
+   "ai": [
+    "El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "2323",
+   "label": "Artículo 2323.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuanto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuanto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código de Procedimientos Civiles."
+   ],
+   "ai": [
+    "Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuanto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuanto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "Las ventas judiciales en almoneda, subasta o remate públicos, se regirán por las disposiciones de este Título, en cuanto a la substancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresan en este Capítulo. En cuanto a los términos y condiciones en que hayan de verificarse, se regirán por lo que disponga el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "2325",
+   "label": "Artículo 2325.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Por regla general las ventas judiciales se harán en moneda efectiva y al contado, y cuando la cosa fuere inmueble pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el juez mandará hacer la cancelación o cancelaciones respectivas, en los términos que disponga el Código de Procedimientos Civiles."
+   ],
+   "ai": [
+    "Por regla general las ventas judiciales se harán en moneda efectiva y al contado, y cuando la cosa fuere inmueble pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el juez mandará hacer la cancelación o cancelaciones respectivas, en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "Por regla general las ventas judiciales se harán en moneda efectiva y al contado, y cuando la cosa fuere inmueble pasará al comprador libre de todo gravamen, a menos de estipulación expresa en contrario, a cuyo efecto el juez mandará hacer la cancelación o cancelaciones respectivas, en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "2416",
+   "label": "Artículo 2416.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al juez para que estreche al arrendador al cumplimiento de su obligación, mediante el procedimiento rápido que se establezca en el Código de Procedimientos Civiles."
+   ],
+   "ai": [
+    "Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al juez para que estreche al arrendador al cumplimiento de su obligación, mediante el procedimiento rápido que se establezca en el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "Si el arrendador no cumpliere con hacer las reparaciones necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el arrendamiento u ocurrir al juez para que estreche al arrendador al cumplimiento de su obligación, mediante el procedimiento rápido que se establezca en el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "2545",
+   "label": "Artículo 2545.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "El secuestro judicial se rige por las disposiciones del Código de Procedimientos Civiles y, en su defecto, por las mismas del secuestro convencional."
+   ],
+   "ai": [
+    "El secuestro judicial se rige por las disposiciones del Código Nacional de Procedimientos Civiles y Familiares y, en su defecto, por las mismas del secuestro convencional.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "El secuestro judicial se rige por las disposiciones del Código Nacional de Procedimientos Civiles y Familiares y, en su defecto, por las mismas del secuestro convencional.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "2882",
+   "label": "Artículo 2882.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "La cosa se adjudicará al acreedor en las dos terceras partes de la postura legal, si no pudiere venderse en los términos que establezca el Código de Procedimientos Civiles."
+   ],
+   "ai": [
+    "La cosa se adjudicará al acreedor en las dos terceras partes de la postura legal, si no pudiere venderse en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "La cosa se adjudicará al acreedor en las dos terceras partes de la postura legal, si no pudiere venderse en los términos que establezca el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "2916",
+   "label": "Artículo 2916.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial; o por adjudicación, en los casos en que no se presente otro postor, de acuerdo con lo que establezca el Código de Procedimientos Civiles.",
+    "Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero."
+   ],
+   "ai": [
+    "El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial; o por adjudicación, en los casos en que no se presente otro postor, de acuerdo con lo que establezca el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Párrafo reformado DOF 14-11-2025",
+    "Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero."
+   ],
+   "official": [
+    "El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial; o por adjudicación, en los casos en que no se presente otro postor, de acuerdo con lo que establezca el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Párrafo reformado DOF 14-11-2025",
+    "Puede también convenir con el deudor en que se le adjudique en el precio que se fije al exigirse la deuda, pero no al constituirse la hipoteca. Este convenio no puede perjudicar los derechos de tercero."
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "2965",
+   "label": "Artículo 2965.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Procede el concurso de acreedores siempre que el deudor suspenda el pago de sus deudas civiles, líquidas y exigibles. La declaración de concurso será hecha por el juez competente, mediante los trámites fijados en el Código de Procedimientos Civiles."
+   ],
+   "ai": [
+    "Procede el concurso de acreedores siempre que el deudor suspenda el pago de sus deudas civiles, líquidas y exigibles. La declaración de concurso será hecha por el juez competente, mediante los trámites fijados en el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "Procede el concurso de acreedores siempre que el deudor suspenda el pago de sus deudas civiles, líquidas y exigibles. La declaración de concurso será hecha por el juez competente, mediante los trámites fijados en el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "2972",
+   "label": "Artículo 2972.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Aprobado el convenio por el juez, será obligatorio para el fallido y para todos los acreedores cuyos créditos daten de época anterior a la declaración, si hubieren sido citados en forma legal, o si habiéndoles notificado la aprobación del convenio no hubieren reclamado contra éste en los términos prevenidos en el Código de Procedimientos Civiles, aunque esos acreedores no estén comprendidos en la lista correspondiente, ni hayan sido parte en el procedimiento."
+   ],
+   "ai": [
+    "Aprobado el convenio por el juez, será obligatorio para el fallido y para todos los acreedores cuyos créditos daten de época anterior a la declaración, si hubieren sido citados en forma legal, o si habiéndoles notificado la aprobación del convenio no hubieren reclamado contra éste en los términos prevenidos en el Código Nacional de Procedimientos Civiles y Familiares, aunque esos acreedores no estén comprendidos en la lista correspondiente, ni hayan sido parte en el procedimiento.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "official": [
+    "Aprobado el convenio por el juez, será obligatorio para el fallido y para todos los acreedores cuyos créditos daten de época anterior a la declaración, si hubieren sido citados en forma legal, o si habiéndoles notificado la aprobación del convenio no hubieren reclamado contra éste en los términos prevenidos en el Código Nacional de Procedimientos Civiles y Familiares, aunque esos acreedores no estén comprendidos en la lista correspondiente, ni hayan sido parte en el procedimiento.",
+    "Artículo reformado DOF 14-11-2025"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "3039",
+   "label": "Artículo 3039.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial, estar recogida y en poder del deudor la emisión de títulos debidamente inutilizados.",
+    "Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.",
+    "Artículo reformado DOF 18-01-1952, 03-01-1979"
+   ],
+   "ai": [
+    "Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial, estar recogida y en poder del deudor la emisión de títulos debidamente inutilizados.",
+    "Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Párrafo reformado DOF 14-11-2025",
+    "Artículo reformado DOF 18-01-1952, 03-01-1979"
+   ],
+   "official": [
+    "Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial, estar recogida y en poder del deudor la emisión de títulos debidamente inutilizados.",
+    "Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código Nacional de Procedimientos Civiles y Familiares.",
+    "Párrafo reformado DOF 14-11-2025",
+    "Artículo reformado DOF 18-01-1952, 03-01-1979"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "3047",
+   "label": "Artículo 3047.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos establecidas en el Libro Segundo, Título Séptimo, Capítulo II del Código Civil, y no tenga título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante el juez competente para acreditar la prescripción rindiendo la información respectiva, en los términos de las disposiciones aplicables del Código de Procedimientos Civiles.",
+    "Comprobados debidamente los requisitos de la prescripción, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público de la Propiedad.",
+    "Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979, 07-01-1988"
+   ],
+   "ai": [
+    "En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos establecidas en el Libro Segundo, Título Séptimo, Capítulo II del Código Civil, y no tenga título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante el juez competente para acreditar la prescripción rindiendo la información respectiva, en los términos de las disposiciones aplicables del Código Nacional de Procedimientos Civiles y Familiares.",
+    "Párrafo reformado DOF 14-11-2025",
+    "Comprobados debidamente los requisitos de la prescripción, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público de la Propiedad.",
+    "Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979, 07-01-1988"
+   ],
+   "official": [
+    "En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos establecidas en el Libro Segundo, Título Séptimo, Capítulo II del Código Civil, y no tenga título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante el juez competente para acreditar la prescripción rindiendo la información respectiva, en los términos de las disposiciones aplicables del Código Nacional de Procedimientos Civiles y Familiares.",
+    "Párrafo reformado DOF 14-11-2025",
+    "Comprobados debidamente los requisitos de la prescripción, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público de la Propiedad.",
+    "Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979, 07-01-1988"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "3048",
+   "label": "Artículo 3048.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "En el caso de información posesoria, a que se refiere el inciso b) de la fracción I del artículo 3046, el que tenga una posesión de buena fe apta para prescribir, de bienes inmuebles no inscritos en el Registro Público de la Propiedad en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente.",
+    "Para lo anterior, se deberá seguir el procedimiento que establece el Código de Procedimientos Civiles para las informaciones a que se refiere el artículo 3047.",
+    "El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción, al concluir el plazo de cinco años, contados desde la fecha de la inscripción.",
+    "Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones previstas en el Reglamento del Registro Público.",
+    "Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979, 07-01-1988"
+   ],
+   "ai": [
+    "En el caso de información posesoria, a que se refiere el inciso b) de la fracción I del artículo 3046, el que tenga una posesión de buena fe apta para prescribir, de bienes inmuebles no inscritos en el Registro Público de la Propiedad en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente.",
+    "Para lo anterior, se deberá seguir el procedimiento que establece el Código Nacional de Procedimientos Civiles y Familiares para las informaciones a que se refiere el artículo 3047.",
+    "Párrafo reformado DOF 14-11-2025",
+    "El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción, al concluir el plazo de cinco años, contados desde la fecha de la inscripción.",
+    "Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones previstas en el Reglamento del Registro Público.",
+    "Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979, 07-01-1988"
+   ],
+   "official": [
+    "En el caso de información posesoria, a que se refiere el inciso b) de la fracción I del artículo 3046, el que tenga una posesión de buena fe apta para prescribir, de bienes inmuebles no inscritos en el Registro Público de la Propiedad en favor de persona alguna, aún antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el Juez competente.",
+    "Para lo anterior, se deberá seguir el procedimiento que establece el Código Nacional de Procedimientos Civiles y Familiares para las informaciones a que se refiere el artículo 3047.",
+    "Párrafo reformado DOF 14-11-2025",
+    "El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción, al concluir el plazo de cinco años, contados desde la fecha de la inscripción.",
+    "Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones previstas en el Reglamento del Registro Público.",
+    "Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979, 07-01-1988"
+   ],
+   "diff": [],
+   "cause": null
+  }
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 54.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Derogada."
+    ]
+   },
+   {
+    "article": "Artículo 54.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "III a)",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "a) De una de sus magistradas o magistrados;"
+    ]
+   },
+   {
+    "article": "Artículo 54.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "III b)",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "b) De dos o más magistradas o magistrados de otro tribunal colegiado de circuito;"
+    ]
+   },
+   {
+    "article": "Artículo 55.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las ministras y los ministros de la Suprema Corte de Justicia de la Nación manifestarán estar impedidos ante el tribunal pleno."
+    ]
+   },
+   {
+    "article": "Artículo 56.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando una de las ministras o ministros se manifieste impedido en asuntos del conocimiento del Pleno, las ministras y ministros restantes calificarán la excusa. Si la admiten, éstos continuarán en el conocimiento del asunto; en caso de empate, quien presida tendrá voto de calidad."
+    ]
+   },
+   {
+    "article": "Artículo 56.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Derogado."
+    ]
+   },
+   {
+    "article": "Artículo 57.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando uno o una de los integrantes de un tribunal colegiado de circuito o de un tribunal colegiado de apelación, se excuse o sea recusado, los y las restantes resolverán lo conducente."
+    ]
+   },
+   {
+    "article": "Artículo 57.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Cuando la excusa o recusación se refiera a más de un magistrado o magistrada, la resolución se hará en términos del párrafo anterior."
+    ]
+   },
+   {
+    "article": "Artículo 57.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "Si sólo es fundada la excusa o recusación de uno de los magistrados, el asunto se devolverá al tribunal de origen para que resuelva. Si fueren dos o más las magistradas o magistrados que resulten impedidos, el propio tribunal que así lo decidió resolverá el asunto principal."
+    ]
+   },
+   {
+    "article": "Artículo 60.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La recusación se presentará ante la persona servidora pública a quien se estime impedido, la que lo comunicará al órgano que deba calificarla. Éste, en su caso, la admitirá y solicitará informe a la persona servidora pública requerida, la que deberá rendirlo dentro de las veinticuatro horas siguientes a su notificación."
+    ]
+   },
+   {
+    "article": "Artículo 60.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Si la persona servidora pública admite la causa de recusación, se declarará fundada; si la negare, se señalará día y hora para que dentro de los tres días siguientes se celebre la audiencia en la que se ofrecerán, admitirán y desahogarán las pruebas de las partes y se dictará resolución."
+    ]
+   },
+   {
+    "article": "Artículo 60.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "En caso de no rendirse el informe a que se refiere el párrafo primero, se declarará fundada la causa de recusación, en cuyo caso se devolverá a la persona promovente la garantía exhibida."
+    ]
+   },
+   {
+    "article": "Artículo 60.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Si se declara infundada la recusación la persona servidora pública seguirá conociendo del asunto."
+    ]
+   },
+   {
+    "article": "Artículo 61.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Contra actos del Órgano de Administración Judicial y del Tribunal de Disciplina Judicial;"
+    ]
+   },
+   {
+    "article": "Artículo 61.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "X",
+    "from_block": 11,
+    "to_block": 11,
+    "paragraphs": [
+     "X. Contra normas generales o actos que sean materia de otro juicio de amparo pendiente de resolución promovido por la misma persona quejosa, contra las mismas autoridades y por el propio acto reclamado, aunque las violaciones constitucionales sean diversas, salvo que se trate de normas generales impugnadas con motivo de actos de aplicación distintos. En este último caso, solamente se actualizará esta causal cuando se dicte sentencia firme en alguno de los juicios en la que se analice la constitucionalidad de las normas generales; si se declara la constitucionalidad de la norma general, esta causal no se actualiza respecto de los actos de aplicación, si fueron impugnados por vicios propios;"
+    ]
+   },
+   {
+    "article": "Artículo 61.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XII",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "XII. Contra actos que no afecten los intereses jurídicos o legítimos de la persona quejosa, en los términos establecidos en la fracción I del artículo 5o. de la presente Ley, y contra normas generales que requieran de un acto de aplicación posterior al inicio de su vigencia;"
+    ]
+   },
+   {
+    "article": "Artículo 61.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "XIV párrafo segundo",
+    "from_block": 16,
+    "to_block": 16,
+    "paragraphs": [
+     "No se entenderá consentida una norma general, a pesar de que siendo impugnable en amparo desde el momento de la iniciación de su vigencia no se haya reclamado, sino sólo en el caso de que tampoco se haya promovido amparo contra el primer acto de su aplicación en perjuicio de la persona quejosa."
+    ]
+   },
+   {
+    "article": "Artículo 61.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "XIV párrafo tercero",
+    "from_block": 17,
+    "to_block": 17,
+    "paragraphs": [
+     "Cuando contra el primer acto de aplicación proceda algún recurso o medio de defensa legal por virtud del cual pueda ser modificado, revocado o nulificado, será optativo para la persona interesada hacerlo valer o impugnar desde luego la norma general en juicio de amparo. En el primer caso, sólo se entenderá consentida la norma general si no se promueve contra ella el amparo dentro del plazo legal contado a partir del día siguiente de aquél al en que surta sus efectos la notificación de la resolución recaída al recurso o medio de defensa, si no existieran medios de defensa ordinarios en contra de dicha resolución, o de la última resolución recaída al medio de defensa ordinario previsto en ley contra la resolución del recurso, aún cuando para fundarlo se hayan aducido exclusivamente motivos de ilegalidad."
+    ]
+   },
+   {
+    "article": "Artículo 61.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "XVII párrafo segundo",
+    "from_block": 22,
+    "to_block": 22,
+    "paragraphs": [
+     "Cuando en amparo indirecto se reclamen violaciones a los artículos 19 ó 20 de la Constitución Política de los Estados Unidos Mexicanos, solamente la sentencia de primera instancia hará que se consideren irreparablemente consumadas las violaciones para los efectos de la improcedencia prevista en este precepto. La autoridad judicial que conozca del proceso penal, suspenderá en estos casos el procedimiento en lo que corresponda a la persona quejosa, una vez concluida la etapa intermedia y hasta que sea notificada de la resolución que recaiga en el juicio de amparo pendiente;"
+    ]
+   },
+   {
+    "article": "Artículo 61.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "XVIII b)",
+    "from_block": 26,
+    "to_block": 26,
+    "paragraphs": [
+     "b) Cuando el acto reclamado consista en órdenes de aprehensión o reaprehensión, autos que establezcan providencias precautorias o impongan medidas cautelares restrictivas de la libertad, resolución que niegue la libertad bajo caución o que establezca los requisitos para su disfrute, resolución que decida sobre el incidente de desvanecimiento de datos, orden de arresto o cualquier otro que afecte la libertad personal de la persona quejosa, siempre que no se trate de sentencia definitiva en el proceso penal;"
+    ]
+   },
+   {
+    "article": "Artículo 61.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "XVIII párrafo tercero",
+    "from_block": 31,
+    "to_block": 31,
+    "paragraphs": [
+     "Cuando la procedencia del recurso o medio de defensa se sujete a interpretación adicional o su fundamento legal sea insuficiente para determinarla, la persona quejosa quedará en libertad de interponer dicho recurso o acudir al juicio de amparo;"
+    ]
+   },
+   {
+    "article": "Artículo 61.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIX",
+    "from_block": 32,
+    "to_block": 32,
+    "paragraphs": [
+     "XIX. Cuando se esté tramitando ante los tribunales ordinarios algún recurso o medio de defensa legal propuesto por la persona quejosa que pueda tener por efecto modificar, revocar o nulificar el acto reclamado;"
+    ]
+   },
+   {
+    "article": "Artículo 61.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XX párrafo primero",
+    "from_block": 33,
+    "to_block": 33,
+    "paragraphs": [
+     "XX. Contra actos de autoridades distintas de los tribunales judiciales, administrativos o del trabajo, que deban ser revisados de oficio, conforme a las leyes que los rijan, o proceda contra ellos algún juicio, recurso o medio de defensa legal por virtud del cual puedan ser modificados, revocados o nulificados, siempre que conforme a las mismas leyes se suspendan los efectos de dichos actos de oficio o mediante la interposición del juicio, recurso o medio de defensa legal que haga valer la persona quejosa, con los mismos alcances que los que prevé esta Ley y sin exigir mayores requisitos que los que la misma consigna para conceder la suspensión definitiva, ni plazo mayor que el que establece para el otorgamiento de la suspensión provisional, independientemente de que el acto en sí mismo considerado sea o no susceptible de ser suspendido de acuerdo con esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 63.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I párrafo primero",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. La persona quejosa desista de la demanda o no la ratifique en los casos en que la ley establezca requerimiento. En caso de desistimiento se notificará personalmente a la persona quejosa para que ratifique su escrito en un plazo de tres días, apercibido que de no hacerlo, se le tendrá por no desistida y se continuará el juicio."
+    ]
+   },
+   {
+    "article": "Artículo 63.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "II. La persona quejosa no acredite sin causa razonable a juicio del órgano jurisdiccional de amparo haber entregado los edictos para su publicación en términos del artículo 27 de esta Ley una vez que se compruebe que se hizo el requerimiento al órgano que los decretó;"
+    ]
+   },
+   {
+    "article": "Artículo 63.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "III. La persona quejosa muera durante el juicio, si el acto reclamado sólo afecta a su persona;"
+    ]
+   },
+   {
+    "article": "Artículo 64.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Cuando un órgano jurisdiccional de amparo advierta de oficio una causal de improcedencia no alegada por alguna de las partes ni analizada por un órgano jurisdiccional inferior, dará vista a la persona quejosa para que en el plazo de tres días, manifieste lo que a su derecho convenga."
+    ]
+   },
+   {
+    "article": "Artículo 71.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "La persona juzgadora está facultada para investigar de oficio la existencia de las piezas de autos desaparecidas, valiéndose para ello de todos los medios de prueba admisibles en el juicio de amparo y ley supletoria."
+    ]
+   },
+   {
+    "article": "Artículo 73.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las sentencias que se pronuncien en los juicios de amparo sólo se ocuparán de las o los individuos particulares o de las personas morales, privadas u oficiales que lo hubieren solicitado, limitándose a ampararlas y protegerlas, si procediere, en el caso especial sobre el que verse la demanda. Tratándose de juicios de amparo que resuelvan la inconstitucionalidad de normas generales, en ningún caso las sentencias que se dicten fijarán efectos generales."
+    ]
+   },
+   {
+    "article": "Artículo 73.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "El Pleno de la Suprema Corte de Justicia de la Nación, así como los tribunales colegiados de circuito, tratándose de resoluciones sobre la constitucionalidad o convencionalidad de una norma general y amparos colectivos, deberán hacer públicos los proyectos de sentencias que serán discutidos en las sesiones correspondientes, cuando menos con tres días de anticipación a la publicación de las listas de los asuntos que se resolverán."
+    ]
+   },
+   {
+    "article": "Artículo 73.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "La Suprema Corte de Justicia de la Nación y el Órgano de Administración Judicial reglamentarán mediante acuerdos generales la publicidad que deba darse a los proyectos de sentencia a que se refiere el párrafo anterior."
+    ]
+   },
+   {
+    "article": "Artículo 75.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "No obstante lo dispuesto en el párrafo anterior, en el amparo indirecto la persona quejosa podrá ofrecer pruebas cuando no hubiere tenido oportunidad de hacerlo ante la autoridad responsable. Adicionalmente, en materia penal, el juez o jueza de distrito deberá cerciorarse de que este ofrecimiento en el amparo no implique una violación a la oralidad o a los principios que rigen en el proceso penal acusatorio."
+    ]
+   },
+   {
+    "article": "Artículo 75.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "Además, cuando se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas, pastos y montes a los ejidos o a los núcleos de población que de hecho o por derecho guarden el estado comunal, o a las personas ejidatarias o comuneras, deberán recabarse de oficio todas aquellas pruebas que puedan beneficiar a las entidades o individuos mencionados y acordarse las diligencias que se estimen necesarias para precisar sus derechos agrarios, así como la naturaleza y efectos de los actos reclamados."
+    ]
+   },
+   {
+    "article": "Artículo 77.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Cuando el acto reclamado sea de carácter positivo se restituirá a la persona quejosa en el pleno goce del derecho violado, restableciendo las cosas al estado que guardaban antes de la violación, y"
+    ]
+   },
+   {
+    "article": "Artículo 77.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "En el último considerando de la sentencia que conceda el amparo, la persona juzgadora deberá determinar con precisión los efectos del mismo, especificando las medidas que las autoridades o particulares deban adoptar para asegurar su estricto cumplimiento y la restitución de la persona quejosa en el goce del derecho."
+    ]
+   },
+   {
+    "article": "Artículo 77.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "En asuntos del orden penal en que se reclame una orden de aprehensión o autos que establezcan providencias precautorias o impongan medidas cautelares restrictivas de la libertad con motivo de delitos que la ley no considere como graves o respecto de los cuales no proceda la prisión preventiva oficiosa conforme la legislación procedimental aplicable, la sentencia que conceda el amparo surtirá efectos inmediatos, sin perjuicio de que pueda ser revocada mediante el recurso de revisión; salvo que se reclame el auto por el que se resuelva la situación jurídica de la persona quejosa en el sentido de sujetarlo a proceso penal, en términos de la legislación procesal aplicable, y el amparo se conceda por vicios formales."
+    ]
+   },
+   {
+    "article": "Artículo 77.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "En caso de que el efecto de la sentencia sea la libertad de la persona quejosa, ésta se decretará bajo las medidas de aseguramiento que el órgano jurisdiccional estime necesarias, a fin de que la persona quejosa no evada la acción de la justicia."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 54.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Derogada.\"]},{\"article\":\"Artículo 54.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"III a)\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"a) De una de sus magistradas o magistrados;\"]},{\"article\":\"Artículo 54.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"III b)\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"b) De dos o más magistradas o magistrados de otro tribunal colegiado de circuito;\"]},{\"article\":\"Artículo 55.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las ministras y los ministros de la Suprema Corte de Justicia de la Nación manifestarán estar impedidos ante el tribunal pleno.\"]},{\"article\":\"Artículo 56.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando una de las ministras o ministros se manifieste impedido en asuntos del conocimiento del Pleno, las ministras y ministros restantes calificarán la excusa. Si la admiten, éstos continuarán en el conocimiento del asunto; en caso de empate, quien presida tendrá voto de calidad.\"]},{\"article\":\"Artículo 56.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Derogado.\"]},{\"article\":\"Artículo 57.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando uno o una de los integrantes de un tribunal colegiado de circuito o de un tribunal colegiado de apelación, se excuse o sea recusado, los y las restantes resolverán lo conducente.\"]},{\"article\":\"Artículo 57.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Cuando la excusa o recusación se refiera a más de un magistrado o magistrada, la resolución se hará en términos del párrafo anterior.\"]},{\"article\":\"Artículo 57.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"Si sólo es fundada la excusa o recusación de uno de los magistrados, el asunto se devolverá al tribunal de origen para que resuelva. Si fueren dos o más las magistradas o magistrados que resulten impedidos, el propio tribunal que así lo decidió resolverá el asunto principal.\"]},{\"article\":\"Artículo 60.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La recusación se presentará ante la persona servidora pública a quien se estime impedido, la que lo comunicará al órgano que deba calificarla. Éste, en su caso, la admitirá y solicitará informe a la persona servidora pública requerida, la que deberá rendirlo dentro de las veinticuatro horas siguientes a su notificación.\"]},{\"article\":\"Artículo 60.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Si la persona servidora pública admite la causa de recusación, se declarará fundada; si la negare, se señalará día y hora para que dentro de los tres días siguientes se celebre la audiencia en la que se ofrecerán, admitirán y desahogarán las pruebas de las partes y se dictará resolución.\"]},{\"article\":\"Artículo 60.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"En caso de no rendirse el informe a que se refiere el párrafo primero, se declarará fundada la causa de recusación, en cuyo caso se devolverá a la persona promovente la garantía exhibida.\"]},{\"article\":\"Artículo 60.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Si se declara infundada la recusación la persona servidora pública seguirá conociendo del asunto.\"]},{\"article\":\"Artículo 61.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Contra actos del Órgano de Administración Judicial y del Tribunal de Disciplina Judicial;\"]},{\"article\":\"Artículo 61.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"X\",\"from_block\":11,\"to_block\":11,\"paragraphs\":[\"X. Contra normas generales o actos que sean materia de otro juicio de amparo pendiente de resolución promovido por la misma persona quejosa, contra las mismas autoridades y por el propio acto reclamado, aunque las violaciones constitucionales sean diversas, salvo que se trate de normas generales impugnadas con motivo de actos de aplicación distintos. En este último caso, solamente se actualizará esta causal cuando se dicte sentencia firme en alguno de los juicios en la que se analice la constitucionalidad de las normas generales; si se declara la constitucionalidad de la norma general, esta causal no se actualiza respecto de los actos de aplicación, si fueron impugnados por vicios propios;\"]},{\"article\":\"Artículo 61.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XII\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"XII. Contra actos que no afecten los intereses jurídicos o legítimos de la persona quejosa, en los términos establecidos en la fracción I del artículo 5o. de la presente Ley, y contra normas generales que requieran de un acto de aplicación posterior al inicio de su vigencia;\"]},{\"article\":\"Artículo 61.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"XIV párrafo segundo\",\"from_block\":16,\"to_block\":16,\"paragraphs\":[\"No se entenderá consentida una norma general, a pesar de que siendo impugnable en amparo desde el momento de la iniciación de su vigencia no se haya reclamado, sino sólo en el caso de que tampoco se haya promovido amparo contra el primer acto de su aplicación en perjuicio de la persona quejosa.\"]},{\"article\":\"Artículo 61.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"XIV párrafo tercero\",\"from_block\":17,\"to_block\":17,\"paragraphs\":[\"Cuando contra el primer acto de aplicación proceda algún recurso o medio de defensa legal por virtud del cual pueda ser modificado, revocado o nulificado, será optativo para la persona interesada hacerlo valer o impugnar desde luego la norma general en juicio de amparo. En el primer caso, sólo se entenderá consentida la norma general si no se promueve contra ella el amparo dentro del plazo legal contado a partir del día siguiente de aquél al en que surta sus efectos la notificación de la resolución recaída al recurso o medio de defensa, si no existieran medios de defensa ordinarios en contra de dicha resolución, o de la última resolución recaída al medio de defensa ordinario previsto en ley contra la resolución del recurso, aún cuando para fundarlo se hayan aducido exclusivamente motivos de ilegalidad.\"]},{\"article\":\"Artículo 61.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"XVII párrafo segundo\",\"from_block\":22,\"to_block\":22,\"paragraphs\":[\"Cuando en amparo indirecto se reclamen violaciones a los artículos 19 ó 20 de la Constitución Política de los Estados Unidos Mexicanos, solamente la sentencia de primera instancia hará que se consideren irreparablemente consumadas las violaciones para los efectos de la improcedencia prevista en este precepto. La autoridad judicial que conozca del proceso penal, suspenderá en estos casos el procedimiento en lo que corresponda a la persona quejosa, una vez concluida la etapa intermedia y hasta que sea notificada de la resolución que recaiga en el juicio de amparo pendiente;\"]},{\"article\":\"Artículo 61.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"XVIII b)\",\"from_block\":26,\"to_block\":26,\"paragraphs\":[\"b) Cuando el acto reclamado consista en órdenes de aprehensión o reaprehensión, autos que establezcan providencias precautorias o impongan medidas cautelares restrictivas de la libertad, resolución que niegue la libertad bajo caución o que establezca los requisitos para su disfrute, resolución que decida sobre el incidente de desvanecimiento de datos, orden de arresto o cualquier otro que afecte la libertad personal de la persona quejosa, siempre que no se trate de sentencia definitiva en el proceso penal;\"]},{\"article\":\"Artículo 61.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"XVIII párrafo tercero\",\"from_block\":31,\"to_block\":31,\"paragraphs\":[\"Cuando la procedencia del recurso o medio de defensa se sujete a interpretación adicional o su fundamento legal sea insuficiente para determinarla, la persona quejosa quedará en libertad de interponer dicho recurso o acudir al juicio de amparo;\"]},{\"article\":\"Artículo 61.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XIX\",\"from_block\":32,\"to_block\":32,\"paragraphs\":[\"XIX. Cuando se esté tramitando ante los tribunales ordinarios algún recurso o medio de defensa legal propuesto por la persona quejosa que pueda tener por efecto modificar, revocar o nulificar el acto reclamado;\"]},{\"article\":\"Artículo 61.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XX párrafo primero\",\"from_block\":33,\"to_block\":33,\"paragraphs\":[\"XX. Contra actos de autoridades distintas de los tribunales judiciales, administrativos o del trabajo, que deban ser revisados de oficio, conforme a las leyes que los rijan, o proceda contra ellos algún juicio, recurso o medio de defensa legal por virtud del cual puedan ser modificados, revocados o nulificados, siempre que conforme a las mismas leyes se suspendan los efectos de dichos actos de oficio o mediante la interposición del juicio, recurso o medio de defensa legal que haga valer la persona quejosa, con los mismos alcances que los que prevé esta Ley y sin exigir mayores requisitos que los que la misma consigna para conceder la suspensión definitiva, ni plazo mayor que el que establece para el otorgamiento de la suspensión provisional, independientemente de que el acto en sí mismo considerado sea o no susceptible de ser suspendido de acuerdo con esta Ley.\"]},{\"article\":\"Artículo 63.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I párrafo primero\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. La persona quejosa desista de la demanda o no la ratifique en los casos en que la ley establezca requerimiento. En caso de desistimiento se notificará personalmente a la persona quejosa para que ratifique su escrito en un plazo de tres días, apercibido que de no hacerlo, se le tendrá por no desistida y se continuará el juicio.\"]},{\"article\":\"Artículo 63.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"II. La persona quejosa no acredite sin causa razonable a juicio del órgano jurisdiccional de amparo haber entregado los edictos para su publicación en términos del artículo 27 de esta Ley una vez que se compruebe que se hizo el requerimiento al órgano que los decretó;\"]},{\"article\":\"Artículo 63.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"III. La persona quejosa muera durante el juicio, si el acto reclamado sólo afecta a su persona;\"]},{\"article\":\"Artículo 64.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Cuando un órgano jurisdiccional de amparo advierta de oficio una causal de improcedencia no alegada por alguna de las partes ni analizada por un órgano jurisdiccional inferior, dará vista a la persona quejosa para que en el plazo de tres días, manifieste lo que a su derecho convenga.\"]},{\"article\":\"Artículo 71.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"La persona juzgadora está facultada para investigar de oficio la existencia de las piezas de autos desaparecidas, valiéndose para ello de todos los medios de prueba admisibles en el juicio de amparo y ley supletoria.\"]},{\"article\":\"Artículo 73.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las sentencias que se pronuncien en los juicios de amparo sólo se ocuparán de las o los individuos particulares o de las personas morales, privadas u oficiales que lo hubieren solicitado, limitándose a ampararlas y protegerlas, si procediere, en el caso especial sobre el que verse la demanda. Tratándose de juicios de amparo que resuelvan la inconstitucionalidad de normas generales, en ningún caso las sentencias que se dicten fijarán efectos generales.\"]},{\"article\":\"Artículo 73.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"El Pleno de la Suprema Corte de Justicia de la Nación, así como los tribunales colegiados de circuito, tratándose de resoluciones sobre la constitucionalidad o convencionalidad de una norma general y amparos colectivos, deberán hacer públicos los proyectos de sentencias que serán discutidos en las sesiones correspondientes, cuando menos con tres días de anticipación a la publicación de las listas de los asuntos que se resolverán.\"]},{\"article\":\"Artículo 73.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"La Suprema Corte de Justicia de la Nación y el Órgano de Administración Judicial reglamentarán mediante acuerdos generales la publicidad que deba darse a los proyectos de sentencia a que se refiere el párrafo anterior.\"]},{\"article\":\"Artículo 75.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"No obstante lo dispuesto en el párrafo anterior, en el amparo indirecto la persona quejosa podrá ofrecer pruebas cuando no hubiere tenido oportunidad de hacerlo ante la autoridad responsable. Adicionalmente, en materia penal, el juez o jueza de distrito deberá cerciorarse de que este ofrecimiento en el amparo no implique una violación a la oralidad o a los principios que rigen en el proceso penal acusatorio.\"]},{\"article\":\"Artículo 75.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"Además, cuando se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas, pastos y montes a los ejidos o a los núcleos de población que de hecho o por derecho guarden el estado comunal, o a las personas ejidatarias o comuneras, deberán recabarse de oficio todas aquellas pruebas que puedan beneficiar a las entidades o individuos mencionados y acordarse las diligencias que se estimen necesarias para precisar sus derechos agrarios, así como la naturaleza y efectos de los actos reclamados.\"]},{\"article\":\"Artículo 77.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Cuando el acto reclamado sea de carácter positivo se restituirá a la persona quejosa en el pleno goce del derecho violado, restableciendo las cosas al estado que guardaban antes de la violación, y\"]},{\"article\":\"Artículo 77.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"En el último considerando de la sentencia que conceda el amparo, la persona juzgadora deberá determinar con precisión los efectos del mismo, especificando las medidas que las autoridades o particulares deban adoptar para asegurar su estricto cumplimiento y la restitución de la persona quejosa en el goce del derecho.\"]},{\"article\":\"Artículo 77.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"En asuntos del orden penal en que se reclame una orden de aprehensión o autos que establezcan providencias precautorias o impongan medidas cautelares restrictivas de la libertad con motivo de delitos que la ley no considere como graves o respecto de los cuales no proceda la prisión preventiva oficiosa conforme la legislación procedimental aplicable, la sentencia que conceda el amparo surtirá efectos inmediatos, sin perjuicio de que pueda ser revocada mediante el recurso de revisión; salvo que se reclame el auto por el que se resuelva la situación jurídica de la persona quejosa en el sentido de sujetarlo a proceso penal, en términos de la legislación procesal aplicable, y el amparo se conceda por vicios formales.\"]},{\"article\":\"Artículo 77.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"En caso de que el efecto de la sentencia sea la libertad de la persona quejosa, ésta se decretará bajo las medidas de aseguramiento que el órgano jurisdiccional estime necesarias, a fin de que la persona quejosa no evada la acción de la justicia.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 48701,
+ "total_cost_usd": 0.28189780000000003,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 7330,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 16836,
+   "webSearchRequests": 0,
+   "costUSD": 0.28189780000000003,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 524,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 16836,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

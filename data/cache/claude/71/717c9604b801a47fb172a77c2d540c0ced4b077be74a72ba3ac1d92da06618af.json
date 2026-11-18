@@ -1,0 +1,367 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 1o.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Por normas generales, actos u omisiones de la autoridad federal que vulneren o restrinjan la soberanía de los Estados o la esfera de competencias de la Ciudad de México, siempre y cuando se violen los derechos humanos reconocidos y las garantías otorgadas para su protección por la Constitución Política de los Estados Unidos Mexicanos, y"
+    ]
+   },
+   {
+    "article": "Artículo 1o.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Por normas generales, actos u omisiones de las autoridades de los Estados o de la Ciudad de México, que invadan la esfera de competencia de la autoridad federal, siempre y cuando se violen los derechos humanos reconocidos y las garantías otorgadas por la Constitución Política de los Estados Unidos Mexicanos."
+    ]
+   },
+   {
+    "article": "Artículo 2o.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "A falta de disposición expresa se aplicará en forma supletoria el Código Nacional de Procedimientos Civiles y Familiares, y en su defecto, los principios generales del derecho."
+    ]
+   },
+   {
+    "article": "Artículo 3o.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Podrán ser orales las que se hagan en las audiencias, notificaciones y comparecencias autorizadas por la ley, dejándose constancia de lo esencial. Es optativo para la persona promovente presentar su escrito en forma impresa o electrónicamente."
+    ]
+   },
+   {
+    "article": "Artículo 3o.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Los escritos en forma electrónica se presentarán mediante el empleo de las tecnologías de la información, utilizando la Firma Electrónica conforme la regulación que para tal efecto emita el Órgano de Administración Judicial."
+    ]
+   },
+   {
+    "article": "Artículo 3o.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "séptimo",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "El Órgano de Administración Judicial, mediante reglas y acuerdos generales, determinará la forma en que se deberá integrar, en su caso, el expediente impreso."
+    ]
+   },
+   {
+    "article": "Artículo 3o.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "octavo",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "Las personas titulares de los órganos jurisdiccionales serán las responsables de vigilar la digitalización de todas las promociones y documentos que presenten las partes, así como los acuerdos, resoluciones o sentencias y toda información relacionada con los expedientes en el sistema, o en el caso de que éstas se presenten en forma electrónica, se procederá a su impresión para ser incorporada al expediente impreso. Los secretarios y las secretarias de acuerdos de los órganos jurisdiccionales darán fe de que, tanto en el expediente electrónico como en el impreso, sea incorporada cada promoción, documento, auto y resolución, a fin de que coincidan en su totalidad. El Órgano de Administración Judicial, en ejercicio de las facultades que le confiere la Ley Orgánica del Poder Judicial de la Federación, emitirá los acuerdos generales que considere necesarios a efecto de establecer las bases y el correcto funcionamiento de la Firma Electrónica."
+    ]
+   },
+   {
+    "article": "Artículo 4o.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "De manera excepcional, y sólo cuando exista urgencia atendiendo al interés social o al orden público, las Cámaras del Congreso de la Unión, a través de las personas que ocupen sus presidencias, o el Ejecutivo Federal, por conducto de la persona titular de la Consejería Jurídica, podrán solicitar a la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación que un juicio de amparo, incluidos los recursos o procedimientos derivados de éste, se substancien y resuelvan de manera prioritaria, sin modificar de ningún modo los plazos previstos en la ley."
+    ]
+   },
+   {
+    "article": "Artículo 4o.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "I. Se trate de amparos promovidos para la defensa de grupos en situación de vulnerabilidad en los términos de la ley."
+    ]
+   },
+   {
+    "article": "Artículo 4o.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "Recibida la solicitud, la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación la someterá a consideración del Pleno, que resolverá de forma definitiva por mayoría simple. La resolución incluirá las providencias que resulten necesarias, las que se notificarán, cuando proceda, al Órgano de Administración Judicial."
+    ]
+   },
+   {
+    "article": "Artículo 5o.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I, párrafo primero",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. La persona quejosa, teniendo tal carácter quien aduce ser titular de un derecho subjetivo o de un interés legítimo individual o colectivo, siempre que alegue que la norma, acto u omisión reclamados violan los derechos previstos en el artículo 1o. de la presente Ley y con ello se produzca una afectación real y actual a su esfera jurídica, ya sea de manera directa o en virtud de su especial situación frente al orden jurídico."
+    ]
+   },
+   {
+    "article": "Artículo 5o.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción I, párrafo tercero",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "El juicio de amparo podrá promoverse conjuntamente por dos o más personas quejosas cuando resientan una afectación común en sus derechos o intereses, aun en el supuesto de que dicha afectación derive de actos distintos, si éstos les causan un perjuicio análogo y provienen de las mismas autoridades."
+    ]
+   },
+   {
+    "article": "Artículo 5o.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción I, párrafo cuarto",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Tratándose de actos o resoluciones provenientes de tribunales judiciales, administrativos, agrarios o del trabajo, la persona quejosa deberá aducir ser titular de un derecho subjetivo que se afecte de manera personal y directa."
+    ]
+   },
+   {
+    "article": "Artículo 5o.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción I, párrafo quinto",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "La persona víctima u ofendida del delito podrán tener el carácter de persona quejosa en los términos de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 5o.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción II, párrafo segundo",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "Para los efectos de esta Ley, las y los particulares tendrán la calidad de autoridad responsable cuando realicen actos equivalentes a los de autoridad, que afecten derechos en los términos de esta fracción, y cuyas funciones estén determinadas por una norma general."
+    ]
+   },
+   {
+    "article": "Artículo 5o.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III, párrafo primero",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "III. La persona tercera interesada, pudiendo tener tal carácter:"
+    ]
+   },
+   {
+    "article": "Artículo 5o.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción III, inciso b)",
+    "from_block": 11,
+    "to_block": 11,
+    "paragraphs": [
+     "b) La contraparte de la persona quejosa cuando el acto reclamado emane de un juicio o controversia del orden judicial, administrativo, agrario o del trabajo; o tratándose de persona extraña al procedimiento, la que tenga interés contrario al de la persona quejosa;"
+    ]
+   },
+   {
+    "article": "Artículo 5o.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción III, inciso c)",
+    "from_block": 12,
+    "to_block": 12,
+    "paragraphs": [
+     "c) La persona víctima del delito u ofendida, o quien tenga derecho a la reparación del daño o a reclamar la responsabilidad civil, cuando el acto reclamado emane de un juicio del orden penal y afecte de manera directa esa reparación o responsabilidad;"
+    ]
+   },
+   {
+    "article": "Artículo 5o.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción III, inciso d)",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "d) La persona indiciada o procesada cuando el acto reclamado sea el no ejercicio o el desistimiento de la acción penal por la o el Ministerio Público;"
+    ]
+   },
+   {
+    "article": "Artículo 5o.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción III, inciso e)",
+    "from_block": 14,
+    "to_block": 14,
+    "paragraphs": [
+     "e) La o el Ministerio Público que haya intervenido en el procedimiento penal del cual derive el acto reclamado, siempre y cuando no tenga el carácter de autoridad responsable."
+    ]
+   },
+   {
+    "article": "Artículo 5o.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 15,
+    "to_block": 15,
+    "paragraphs": [
+     "IV. La o el Ministerio Público Federal en todos los juicios, donde podrá interponer los recursos que señala esta Ley, y los existentes en amparos penales cuando se reclamen resoluciones de tribunales locales, independientemente de las obligaciones que la misma ley le precisa para procurar la pronta y expedita administración de justicia."
+    ]
+   },
+   {
+    "article": "Artículo 5o.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "último",
+    "from_block": 16,
+    "to_block": 16,
+    "paragraphs": [
+     "Sin embargo, en amparos indirectos en materias civil y mercantil, y con exclusión de la materia familiar, donde sólo se afecten intereses particulares, la o el Ministerio Público Federal podrá interponer los recursos que esta Ley señala, sólo cuando las personas quejosas hubieren impugnado la constitucionalidad de normas generales y este aspecto se aborde en la sentencia."
+    ]
+   },
+   {
+    "article": "Artículo 6o.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 6o.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "El juicio de amparo puede promoverse por la persona física o moral a quien afecte la norma general o el acto reclamado en términos de la fracción I del artículo 5o. de esta Ley. La persona quejosa podrá hacerlo por sí, por su representante legal o por su apoderado o apoderada, o por cualquier persona en los casos previstos en esta Ley.",
+     "Cuando el acto reclamado derive de un procedimiento penal, podrá promoverlo, además, por conducto de su defensor o defensora o de cualquier persona en los casos en que esta Ley lo permita."
+    ]
+   },
+   {
+    "article": "Artículo 7o.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 7o.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "La Federación, los Estados, la Ciudad de México, los municipios o cualquier persona moral pública podrán solicitar amparo por conducto de las personas servidoras públicas o representantes que señalen las disposiciones aplicables, cuando la norma general, un acto u omisión los afecten en su patrimonio respecto de relaciones jurídicas en las que se encuentren en un plano de igualdad con los particulares.",
+     "Las personas morales oficiales estarán exentas de prestar las garantías que en esta Ley se exige a las partes."
+    ]
+   },
+   {
+    "article": "Artículo 8o.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 8o.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "La persona menor de edad, persona con discapacidad o mayor sujeta a interdicción podrá pedir amparo por sí o por cualquier persona en su nombre sin la intervención de su legítimo o legítima representante cuando ésta se halle ausente, se ignore quién sea, esté impedida o se negare a promoverlo. El órgano jurisdiccional, sin perjuicio de dictar las providencias que sean urgentes, le nombrará un o una representante especial para que intervenga en el juicio, debiendo preferir a una persona familiar cercana, salvo cuando haya conflicto de intereses o motivo que justifiquen la designación de persona diversa.",
+     "Si la persona menor de edad hubiere cumplido catorce años, podrá hacer la designación de representante en el escrito de demanda."
+    ]
+   },
+   {
+    "article": "Artículo 9o.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 9o.",
+    "from_block": 1,
+    "to_block": 6,
+    "paragraphs": [
+     "Las autoridades responsables podrán ser representadas o sustituidas para todos los trámites en el juicio de amparo en los términos de las disposiciones legales y reglamentarias aplicables. En todo caso podrán por medio de oficio acreditar personas delegadas que concurran a las audiencias para el efecto de que en ellas rindan pruebas, aleguen, hagan promociones e interpongan recursos.",
+     "La persona titular de la Presidencia de la República será representada en los términos que se señalen en el acuerdo general que expida y se publique en el Diario Oficial de la Federación. Dicha representación podrá recaer en la propia Consejera o Consejero Jurídico o en las secretarias o los secretarios de estado a quienes en cada caso corresponda el asunto, en términos de las leyes orgánicas y reglamentos aplicables. Los reglamentos interiores correspondientes señalarán las unidades administrativas en las que recaerá la citada representación. En el citado acuerdo general se señalará el mecanismo necesario para determinar la representación en los casos no previstos por los mismos.",
+     "Los órganos legislativos federales, de los Estados y de la Ciudad de México, así como las gobernadoras y los gobernadores y jefa o jefe de gobierno de éstos, instituciones de carácter federal o local con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos o de las Constituciones de los Estados, titulares de las dependencias de la administración pública federal, estatales o municipales, podrán ser sustituidos por las personas servidoras públicas a quienes las leyes y los reglamentos que las rigen otorguen esa atribución, o bien por conducto de las personas titulares de sus respectivas oficinas de asuntos jurídicos.",
+     "Cuando la responsable sea una o varias personas particulares, en los términos establecidos en la presente Ley, podrán comparecer por sí mismas, por conducto de un o una representante legal o por conducto de un apoderado o apoderada."
+    ]
+   },
+   {
+    "article": "Artículo 10.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 10.",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "La representación de la persona quejosa y de la persona tercera interesada se acreditará en juicio en los términos previstos en esta Ley.",
+     "En los casos no previstos, la personalidad en el juicio se justificará en la misma forma que determine la ley que rija la materia de la que emane el acto reclamado y cuando ésta no lo prevenga, se estará a lo dispuesto por el Código Nacional de Procedimientos Civiles y Familiares.",
+     "Cuando se trate de la o el Ministerio Público o cualquier otra autoridad, se aplicarán las reglas del artículo anterior."
+    ]
+   },
+   {
+    "article": "Artículo 11.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 11.",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "Cuando quien comparezca en el juicio de amparo indirecto en nombre de la persona quejosa o de la persona tercera interesada afirme tener reconocida su representación ante la autoridad responsable, le será admitida siempre que lo acredite con las constancias respectivas, salvo en materia penal en la que bastará la afirmación en ese sentido.",
+     "En el amparo directo podrá justificarse con la acreditación que tenga en el juicio del que emane la resolución reclamada.",
+     "La autoridad responsable que reciba la demanda expresará en el informe justificado si el o la promovente tiene el carácter con que se ostenta."
+    ]
+   },
+   {
+    "article": "Artículo 12.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 12.",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "La persona quejosa y la tercera interesada podrán autorizar para oír notificaciones en su nombre, a cualquier persona con capacidad legal, quien quedará facultada para interponer los recursos que procedan, ofrecer y rendir pruebas, alegar en las audiencias, solicitar su suspensión o diferimiento y realizar cualquier acto que resulte ser necesario para la defensa de los derechos de la persona autorizante, pero no podrá substituir o delegar dichas facultades en una o un tercero.",
+     "En las materias civil, mercantil, laboral, tratándose del patrón, administrativa y penal, la persona autorizada, deberá acreditar encontrarse legalmente autorizada para ejercer la profesión de licenciado o licenciada en derecho o abogado o abogada, y deberán proporcionarse los datos correspondientes en el escrito en que se otorgue dicha autorización. Sin embargo, las partes podrán designar personas solamente para oír notificaciones e imponerse de los autos, a cualquier persona con capacidad legal, quien no gozará de las demás facultades a que se refiere el párrafo anterior."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "Artículo 1o.",
+    "reason": "La instrucción señala que se reforma el párrafo primero, pero el decreto sólo imprime \"Artículo 1o. ...\" (párrafo sin cambios); no se generó edición para el párrafo primero. Verificar si existe texto nuevo para ese párrafo."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 1o.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Por normas generales, actos u omisiones de la autoridad federal que vulneren o restrinjan la soberanía de los Estados o la esfera de competencias de la Ciudad de México, siempre y cuando se violen los derechos humanos reconocidos y las garantías otorgadas para su protección por la Constitución Política de los Estados Unidos Mexicanos, y\"]},{\"article\":\"Artículo 1o.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Por normas generales, actos u omisiones de las autoridades de los Estados o de la Ciudad de México, que invadan la esfera de competencia de la autoridad federal, siempre y cuando se violen los derechos humanos reconocidos y las garantías otorgadas por la Constitución Política de los Estados Unidos Mexicanos.\"]},{\"article\":\"Artículo 2o.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"A falta de disposición expresa se aplicará en forma supletoria el Código Nacional de Procedimientos Civiles y Familiares, y en su defecto, los principios generales del derecho.\"]},{\"article\":\"Artículo 3o.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Podrán ser orales las que se hagan en las audiencias, notificaciones y comparecencias autorizadas por la ley, dejándose constancia de lo esencial. Es optativo para la persona promovente presentar su escrito en forma impresa o electrónicamente.\"]},{\"article\":\"Artículo 3o.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Los escritos en forma electrónica se presentarán mediante el empleo de las tecnologías de la información, utilizando la Firma Electrónica conforme la regulación que para tal efecto emita el Órgano de Administración Judicial.\"]},{\"article\":\"Artículo 3o.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"séptimo\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"El Órgano de Administración Judicial, mediante reglas y acuerdos generales, determinará la forma en que se deberá integrar, en su caso, el expediente impreso.\"]},{\"article\":\"Artículo 3o.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"octavo\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"Las personas titulares de los órganos jurisdiccionales serán las responsables de vigilar la digitalización de todas las promociones y documentos que presenten las partes, así como los acuerdos, resoluciones o sentencias y toda información relacionada con los expedientes en el sistema, o en el caso de que éstas se presenten en forma electrónica, se procederá a su impresión para ser incorporada al expediente impreso. Los secretarios y las secretarias de acuerdos de los órganos jurisdiccionales darán fe de que, tanto en el expediente electrónico como en el impreso, sea incorporada cada promoción, documento, auto y resolución, a fin de que coincidan en su totalidad. El Órgano de Administración Judicial, en ejercicio de las facultades que le confiere la Ley Orgánica del Poder Judicial de la Federación, emitirá los acuerdos generales que considere necesarios a efecto de establecer las bases y el correcto funcionamiento de la Firma Electrónica.\"]},{\"article\":\"Artículo 4o.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"De manera excepcional, y sólo cuando exista urgencia atendiendo al interés social o al orden público, las Cámaras del Congreso de la Unión, a través de las personas que ocupen sus presidencias, o el Ejecutivo Federal, por conducto de la persona titular de la Consejería Jurídica, podrán solicitar a la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación que un juicio de amparo, incluidos los recursos o procedimientos derivados de éste, se substancien y resuelvan de manera prioritaria, sin modificar de ningún modo los plazos previstos en la ley.\"]},{\"article\":\"Artículo 4o.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"I. Se trate de amparos promovidos para la defensa de grupos en situación de vulnerabilidad en los términos de la ley.\"]},{\"article\":\"Artículo 4o.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"Recibida la solicitud, la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación la someterá a consideración del Pleno, que resolverá de forma definitiva por mayoría simple. La resolución incluirá las providencias que resulten necesarias, las que se notificarán, cuando proceda, al Órgano de Administración Judicial.\"]},{\"article\":\"Artículo 5o.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I, párrafo primero\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. La persona quejosa, teniendo tal carácter quien aduce ser titular de un derecho subjetivo o de un interés legítimo individual o colectivo, siempre que alegue que la norma, acto u omisión reclamados violan los derechos previstos en el artículo 1o. de la presente Ley y con ello se produzca una afectación real y actual a su esfera jurídica, ya sea de manera directa o en virtud de su especial situación frente al orden jurídico.\"]},{\"article\":\"Artículo 5o.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción I, párrafo tercero\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"El juicio de amparo podrá promoverse conjuntamente por dos o más personas quejosas cuando resientan una afectación común en sus derechos o intereses, aun en el supuesto de que dicha afectación derive de actos distintos, si éstos les causan un perjuicio análogo y provienen de las mismas autoridades.\"]},{\"article\":\"Artículo 5o.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción I, párrafo cuarto\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Tratándose de actos o resoluciones provenientes de tribunales judiciales, administrativos, agrarios o del trabajo, la persona quejosa deberá aducir ser titular de un derecho subjetivo que se afecte de manera personal y directa.\"]},{\"article\":\"Artículo 5o.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción I, párrafo quinto\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"La persona víctima u ofendida del delito podrán tener el carácter de persona quejosa en los términos de esta Ley.\"]},{\"article\":\"Artículo 5o.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción II, párrafo segundo\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"Para los efectos de esta Ley, las y los particulares tendrán la calidad de autoridad responsable cuando realicen actos equivalentes a los de autoridad, que afecten derechos en los términos de esta fracción, y cuyas funciones estén determinadas por una norma general.\"]},{\"article\":\"Artículo 5o.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III, párrafo primero\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"III. La persona tercera interesada, pudiendo tener tal carácter:\"]},{\"article\":\"Artículo 5o.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción III, inciso b)\",\"from_block\":11,\"to_block\":11,\"paragraphs\":[\"b) La contraparte de la persona quejosa cuando el acto reclamado emane de un juicio o controversia del orden judicial, administrativo, agrario o del trabajo; o tratándose de persona extraña al procedimiento, la que tenga interés contrario al de la persona quejosa;\"]},{\"article\":\"Artículo 5o.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción III, inciso c)\",\"from_block\":12,\"to_block\":12,\"paragraphs\":[\"c) La persona víctima del delito u ofendida, o quien tenga derecho a la reparación del daño o a reclamar la responsabilidad civil, cuando el acto reclamado emane de un juicio del orden penal y afecte de manera directa esa reparación o responsabilidad;\"]},{\"article\":\"Artículo 5o.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción III, inciso d)\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"d) La persona indiciada o procesada cuando el acto reclamado sea el no ejercicio o el desistimiento de la acción penal por la o el Ministerio Público;\"]},{\"article\":\"Artículo 5o.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción III, inciso e)\",\"from_block\":14,\"to_block\":14,\"paragraphs\":[\"e) La o el Ministerio Público que haya intervenido en el procedimiento penal del cual derive el acto reclamado, siempre y cuando no tenga el carácter de autoridad responsable.\"]},{\"article\":\"Artículo 5o.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":15,\"to_block\":15,\"paragraphs\":[\"IV. La o el Ministerio Público Federal en todos los juicios, donde podrá interponer los recursos que señala esta Ley, y los existentes en amparos penales cuando se reclamen resoluciones de tribunales locales, independientemente de las obligaciones que la misma ley le precisa para procurar la pronta y expedita administración de justicia.\"]},{\"article\":\"Artículo 5o.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"último\",\"from_block\":16,\"to_block\":16,\"paragraphs\":[\"Sin embargo, en amparos indirectos en materias civil y mercantil, y con exclusión de la materia familiar, donde sólo se afecten intereses particulares, la o el Ministerio Público Federal podrá interponer los recursos que esta Ley señala, sólo cuando las personas quejosas hubieren impugnado la constitucionalidad de normas generales y este aspecto se aborde en la sentencia.\"]},{\"article\":\"Artículo 6o.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 6o.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"El juicio de amparo puede promoverse por la persona física o moral a quien afecte la norma general o el acto reclamado en términos de la fracción I del artículo 5o. de esta Ley. La persona quejosa podrá hacerlo por sí, por su representante legal o por su apoderado o apoderada, o por cualquier persona en los casos previstos en esta Ley.\",\"Cuando el acto reclamado derive de un procedimiento penal, podrá promoverlo, además, por conducto de su defensor o defensora o de cualquier persona en los casos en que esta Ley lo permita.\"]},{\"article\":\"Artículo 7o.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 7o.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"La Federación, los Estados, la Ciudad de México, los municipios o cualquier persona moral pública podrán solicitar amparo por conducto de las personas servidoras públicas o representantes que señalen las disposiciones aplicables, cuando la norma general, un acto u omisión los afecten en su patrimonio respecto de relaciones jurídicas en las que se encuentren en un plano de igualdad con los particulares.\",\"Las personas morales oficiales estarán exentas de prestar las garantías que en esta Ley se exige a las partes.\"]},{\"article\":\"Artículo 8o.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 8o.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"La persona menor de edad, persona con discapacidad o mayor sujeta a interdicción podrá pedir amparo por sí o por cualquier persona en su nombre sin la intervención de su legítimo o legítima representante cuando ésta se halle ausente, se ignore quién sea, esté impedida o se negare a promoverlo. El órgano jurisdiccional, sin perjuicio de dictar las providencias que sean urgentes, le nombrará un o una representante especial para que intervenga en el juicio, debiendo preferir a una persona familiar cercana, salvo cuando haya conflicto de intereses o motivo que justifiquen la designación de persona diversa.\",\"Si la persona menor de edad hubiere cumplido catorce años, podrá hacer la designación de representante en el escrito de demanda.\"]},{\"article\":\"Artículo 9o.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 9o.\",\"from_block\":1,\"to_block\":6,\"paragraphs\":[\"Las autoridades responsables podrán ser representadas o sustituidas para todos los trámites en el juicio de amparo en los términos de las disposiciones legales y reglamentarias aplicables. En todo caso podrán por medio de oficio acreditar personas delegadas que concurran a las audiencias para el efecto de que en ellas rindan pruebas, aleguen, hagan promociones e interpongan recursos.\",\"La persona titular de la Presidencia de la República será representada en los términos que se señalen en el acuerdo general que expida y se publique en el Diario Oficial de la Federación. Dicha representación podrá recaer en la propia Consejera o Consejero Jurídico o en las secretarias o los secretarios de estado a quienes en cada caso corresponda el asunto, en términos de las leyes orgánicas y reglamentos aplicables. Los reglamentos interiores correspondientes señalarán las unidades administrativas en las que recaerá la citada representación. En el citado acuerdo general se señalará el mecanismo necesario para determinar la representación en los casos no previstos por los mismos.\",\"Los órganos legislativos federales, de los Estados y de la Ciudad de México, así como las gobernadoras y los gobernadores y jefa o jefe de gobierno de éstos, instituciones de carácter federal o local con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos o de las Constituciones de los Estados, titulares de las dependencias de la administración pública federal, estatales o municipales, podrán ser sustituidos por las personas servidoras públicas a quienes las leyes y los reglamentos que las rigen otorguen esa atribución, o bien por conducto de las personas titulares de sus respectivas oficinas de asuntos jurídicos.\",\"Cuando la responsable sea una o varias personas particulares, en los términos establecidos en la presente Ley, podrán comparecer por sí mismas, por conducto de un o una representante legal o por conducto de un apoderado o apoderada.\"]},{\"article\":\"Artículo 10.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 10.\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"La representación de la persona quejosa y de la persona tercera interesada se acreditará en juicio en los términos previstos en esta Ley.\",\"En los casos no previstos, la personalidad en el juicio se justificará en la misma forma que determine la ley que rija la materia de la que emane el acto reclamado y cuando ésta no lo prevenga, se estará a lo dispuesto por el Código Nacional de Procedimientos Civiles y Familiares.\",\"Cuando se trate de la o el Ministerio Público o cualquier otra autoridad, se aplicarán las reglas del artículo anterior.\"]},{\"article\":\"Artículo 11.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 11.\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"Cuando quien comparezca en el juicio de amparo indirecto en nombre de la persona quejosa o de la persona tercera interesada afirme tener reconocida su representación ante la autoridad responsable, le será admitida siempre que lo acredite con las constancias respectivas, salvo en materia penal en la que bastará la afirmación en ese sentido.\",\"En el amparo directo podrá justificarse con la acreditación que tenga en el juicio del que emane la resolución reclamada.\",\"La autoridad responsable que reciba la demanda expresará en el informe justificado si el o la promovente tiene el carácter con que se ostenta.\"]},{\"article\":\"Artículo 12.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 12.\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"La persona quejosa y la tercera interesada podrán autorizar para oír notificaciones en su nombre, a cualquier persona con capacidad legal, quien quedará facultada para interponer los recursos que procedan, ofrecer y rendir pruebas, alegar en las audiencias, solicitar su suspensión o diferimiento y realizar cualquier acto que resulte ser necesario para la defensa de los derechos de la persona autorizante, pero no podrá substituir o delegar dichas facultades en una o un tercero.\",\"En las materias civil, mercantil, laboral, tratándose del patrón, administrativa y penal, la persona autorizada, deberá acreditar encontrarse legalmente autorizada para ejercer la profesión de licenciado o licenciada en derecho o abogado o abogada, y deberán proporcionarse los datos correspondientes en el escrito en que se otorgue dicha autorización. Sin embargo, las partes podrán designar personas solamente para oír notificaciones e imponerse de los autos, a cualquier persona con capacidad legal, quien no gozará de las demás facultades a que se refiere el párrafo anterior.\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"Artículo 1o.\",\"reason\":\"La instrucción señala que se reforma el párrafo primero, pero el decreto sólo imprime \\\"Artículo 1o. ...\\\" (párrafo sin cambios); no se generó edición para el párrafo primero. Verificar si existe texto nuevo para ese párrafo.\"}]}",
+ "duration_ms": 51222,
+ "total_cost_usd": 0.2666138,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 7507,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 14483,
+   "webSearchRequests": 0,
+   "costUSD": 0.2666138,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 655,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 14483,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

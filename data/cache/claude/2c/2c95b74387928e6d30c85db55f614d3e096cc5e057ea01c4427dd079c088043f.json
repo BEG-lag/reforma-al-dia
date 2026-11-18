@@ -1,0 +1,338 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 43.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 44.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 45.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 46.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 47.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La Comisión se sujetará a lo dispuesto por el artículo 5, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás disposiciones legales y administrativas aplicables."
+    ]
+   },
+   {
+    "article": "Artículo 47.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 47.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 47.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 47.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 47.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "V. Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 47.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "VI. Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 47.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 51.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Comisión, estará sujeto al régimen de responsabilidades del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y será sujeto a las sanciones establecidas en la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables en la materia."
+    ]
+   },
+   {
+    "article": "Artículo 53.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se consideran ilícitas las prácticas monopólicas absolutas, consistentes en los contratos, convenios, arreglos, combinaciones o intercambios de información entre Agentes Económicos que sean competidores actuales o potenciales entre sí, cuyo objeto o efecto sea cualquiera de las siguientes:"
+    ]
+   },
+   {
+    "article": "Artículo 53.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "V. Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 54.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Tenga o pueda tener como objeto o efecto, en el mercado relevante o en algún mercado relacionado: a) desplazar indebidamente a otros Agentes Económicos; b) impedir sustancialmente el acceso de otros Agentes Económicos; c) establecer ventajas exclusivas en favor de uno o varios Agentes Económicos, o d) limitar indebidamente la capacidad de otros Agentes Económicos para competir en los mercados."
+    ]
+   },
+   {
+    "article": "Artículo 59.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Para determinar si uno o varios Agentes Económicos tienen poder sustancial o poder sustancial conjunto en el mercado relevante, o bien, para resolver sobre condiciones de competencia, competencia efectiva, existencia de poder sustancial en el mercado relevante u otras cuestiones relativas al proceso de competencia o libre concurrencia a que hacen referencia ésta u otras leyes, reglamentos o disposiciones administrativas, deberán considerarse los siguientes elementos:"
+    ]
+   },
+   {
+    "article": "Artículo 59.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "VI. Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 59.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "VII",
+    "insert_after": 8,
+    "paragraphs": [
+     "VII. El grado de posicionamiento de los bienes o servicios en el mercado relevante;"
+    ]
+   },
+   {
+    "article": "Artículo 59.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "VIII",
+    "insert_after": 8,
+    "paragraphs": [
+     "VIII. La falta de acceso a importaciones o la existencia de costos elevados de internación, y"
+    ]
+   },
+   {
+    "article": "Artículo 59.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "IX",
+    "insert_after": 8,
+    "paragraphs": [
+     "IX. La existencia de diferenciales elevados en costos que pudieran enfrentar los consumidores al acudir a otros proveedores."
+    ]
+   },
+   {
+    "article": "Artículo 59 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "insert_after": null,
+    "paragraphs": [
+     "Para determinar si dos o más Agentes Económicos independientes entre sí tienen poder sustancial conjunto, la Comisión debe considerar, adicionalmente a lo señalado en el artículo anterior, lo siguiente:",
+     "I. Si los Agentes Económicos de que se trate se distinguen del resto de los Agentes Económicos que participan en el mercado relevante, tomando en cuenta los factores que propicien incentivos comunes o comportamiento estratégico interdependiente, o",
+     "II. Que dichos Agentes Económicos muestren un comportamiento similar."
+    ]
+   },
+   {
+    "article": "Artículo 60.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Si el insumo es controlado por uno, o varios Agentes Económicos con poder sustancial o que hayan sido determinados como Preponderantes;"
+    ]
+   },
+   {
+    "article": "Artículo 63.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "V. Los elementos que aporten los Agentes Económicos para acreditar la mayor eficiencia del mercado que se lograría derivada de la concentración y que incidirá favorablemente en el proceso de competencia y libre concurrencia."
+    ]
+   },
+   {
+    "article": "Artículo 63.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "fracción V, párrafo segundo",
+    "insert_after": 6,
+    "paragraphs": [
+     "Para dichos efectos, en términos de las Disposiciones Regulatorias que al efecto se emitan, el Agente Económico deberá demostrar que las ganancias en eficiencia del mercado que se derivarán específicamente de la concentración superarán de forma continuada sus posibles efectos anticompetitivos en dicho mercado y resultarán en una mejora al bienestar del consumidor, y"
+    ]
+   }
+  ],
+  "divisions": [
+   {
+    "operation": "rename",
+    "kind": "titulo",
+    "label": "TÍTULO V",
+    "name": "DE LA ADMINISTRACIÓN DE LA COMISIÓN NACIONAL ANTIMONOPOLIO",
+    "current_heading": null,
+    "before_article": "Artículo 47."
+   },
+   {
+    "operation": "rename",
+    "kind": "seccion",
+    "label": "Sección II",
+    "name": "De la Determinación del Poder Sustancial o Poder Sustancial Conjunto",
+    "current_heading": null,
+    "before_article": "Artículo 59."
+   }
+  ],
+  "needs_review": [
+   {
+    "article": "Artículo 44.",
+    "reason": "El decreto imprime antes de este artículo el encabezado 'Capítulo IV / Se deroga' (Título IV del Libro Primero derogado). No se muestra el texto vigente del encabezado; verificar cómo debe quedar la denominación del Capítulo IV en el texto consolidado."
+   },
+   {
+    "article": "Artículo 46.",
+    "reason": "El decreto imprime antes de este artículo el encabezado 'Capítulo V / Se deroga' (Título IV del Libro Primero derogado). No se muestra el texto vigente del encabezado; verificar cómo debe quedar la denominación del Capítulo V."
+   },
+   {
+    "article": "Artículo 47.",
+    "reason": "Se renombró la denominación del Título V del Libro Primero sin conocer el texto vigente del encabezado (current_heading). Verificar que corresponde al encabezado anterior al artículo 47."
+   },
+   {
+    "article": "Artículo 59.",
+    "reason": "Se renombró la denominación de la Sección II del Capítulo V del Título Único del Libro Segundo sin conocer el texto vigente del encabezado (current_heading). Verificar."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 43.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 44.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 45.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 46.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 47.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La Comisión se sujetará a lo dispuesto por el artículo 5, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás disposiciones legales y administrativas aplicables.\"]},{\"article\":\"Artículo 47.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Se deroga\"]},{\"article\":\"Artículo 47.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Se deroga\"]},{\"article\":\"Artículo 47.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Se deroga\"]},{\"article\":\"Artículo 47.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Se deroga\"]},{\"article\":\"Artículo 47.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"V. Se deroga\"]},{\"article\":\"Artículo 47.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"VI\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"VI. Se deroga\"]},{\"article\":\"Artículo 47.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 51.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Comisión, estará sujeto al régimen de responsabilidades del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y será sujeto a las sanciones establecidas en la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables en la materia.\"]},{\"article\":\"Artículo 53.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se consideran ilícitas las prácticas monopólicas absolutas, consistentes en los contratos, convenios, arreglos, combinaciones o intercambios de información entre Agentes Económicos que sean competidores actuales o potenciales entre sí, cuyo objeto o efecto sea cualquiera de las siguientes:\"]},{\"article\":\"Artículo 53.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"V. Se deroga\"]},{\"article\":\"Artículo 54.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Tenga o pueda tener como objeto o efecto, en el mercado relevante o en algún mercado relacionado: a) desplazar indebidamente a otros Agentes Económicos; b) impedir sustancialmente el acceso de otros Agentes Económicos; c) establecer ventajas exclusivas en favor de uno o varios Agentes Económicos, o d) limitar indebidamente la capacidad de otros Agentes Económicos para competir en los mercados.\"]},{\"article\":\"Artículo 59.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Para determinar si uno o varios Agentes Económicos tienen poder sustancial o poder sustancial conjunto en el mercado relevante, o bien, para resolver sobre condiciones de competencia, competencia efectiva, existencia de poder sustancial en el mercado relevante u otras cuestiones relativas al proceso de competencia o libre concurrencia a que hacen referencia ésta u otras leyes, reglamentos o disposiciones administrativas, deberán considerarse los siguientes elementos:\"]},{\"article\":\"Artículo 59.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"VI\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"VI. Se deroga\"]},{\"article\":\"Artículo 59.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"VII\",\"insert_after\":8,\"paragraphs\":[\"VII. El grado de posicionamiento de los bienes o servicios en el mercado relevante;\"]},{\"article\":\"Artículo 59.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"VIII\",\"insert_after\":8,\"paragraphs\":[\"VIII. La falta de acceso a importaciones o la existencia de costos elevados de internación, y\"]},{\"article\":\"Artículo 59.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"IX\",\"insert_after\":8,\"paragraphs\":[\"IX. La existencia de diferenciales elevados en costos que pudieran enfrentar los consumidores al acudir a otros proveedores.\"]},{\"article\":\"Artículo 59 Bis.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"insert_after\":null,\"paragraphs\":[\"Para determinar si dos o más Agentes Económicos independientes entre sí tienen poder sustancial conjunto, la Comisión debe considerar, adicionalmente a lo señalado en el artículo anterior, lo siguiente:\",\"I. Si los Agentes Económicos de que se trate se distinguen del resto de los Agentes Económicos que participan en el mercado relevante, tomando en cuenta los factores que propicien incentivos comunes o comportamiento estratégico interdependiente, o\",\"II. Que dichos Agentes Económicos muestren un comportamiento similar.\"]},{\"article\":\"Artículo 60.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Si el insumo es controlado por uno, o varios Agentes Económicos con poder sustancial o que hayan sido determinados como Preponderantes;\"]},{\"article\":\"Artículo 63.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"V. Los elementos que aporten los Agentes Económicos para acreditar la mayor eficiencia del mercado que se lograría derivada de la concentración y que incidirá favorablemente en el proceso de competencia y libre concurrencia.\"]},{\"article\":\"Artículo 63.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"fracción V, párrafo segundo\",\"insert_after\":6,\"paragraphs\":[\"Para dichos efectos, en términos de las Disposiciones Regulatorias que al efecto se emitan, el Agente Económico deberá demostrar que las ganancias en eficiencia del mercado que se derivarán específicamente de la concentración superarán de forma continuada sus posibles efectos anticompetitivos en dicho mercado y resultarán en una mejora al bienestar del consumidor, y\"]}],\"divisions\":[{\"operation\":\"rename\",\"kind\":\"titulo\",\"label\":\"TÍTULO V\",\"name\":\"DE LA ADMINISTRACIÓN DE LA COMISIÓN NACIONAL ANTIMONOPOLIO\",\"current_heading\":null,\"before_article\":\"Artículo 47.\"},{\"operation\":\"rename\",\"kind\":\"seccion\",\"label\":\"Sección II\",\"name\":\"De la Determinación del Poder Sustancial o Poder Sustancial Conjunto\",\"current_heading\":null,\"before_article\":\"Artículo 59.\"}],\"needs_review\":[{\"article\":\"Artículo 44.\",\"reason\":\"El decreto imprime antes de este artículo el encabezado 'Capítulo IV / Se deroga' (Título IV del Libro Primero derogado). No se muestra el texto vigente del encabezado; verificar cómo debe quedar la denominación del Capítulo IV en el texto consolidado.\"},{\"article\":\"Artículo 46.\",\"reason\":\"El decreto imprime antes de este artículo el encabezado 'Capítulo V / Se deroga' (Título IV del Libro Primero derogado). No se muestra el texto vigente del encabezado; verificar cómo debe quedar la denominación del Capítulo V.\"},{\"article\":\"Artículo 47.\",\"reason\":\"Se renombró la denominación del Título V del Libro Primero sin conocer el texto vigente del encabezado (current_heading). Verificar que corresponde al encabezado anterior al artículo 47.\"},{\"article\":\"Artículo 59.\",\"reason\":\"Se renombró la denominación de la Sección II del Capítulo V del Título Único del Libro Segundo sin conocer el texto vigente del encabezado (current_heading). Verificar.\"}]}",
+ "duration_ms": 31525,
+ "total_cost_usd": 0.1655858,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 4486,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 9407,
+   "webSearchRequests": 0,
+   "costUSD": 0.1655858,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 952,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 9407,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

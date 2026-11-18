@@ -1,0 +1,164 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 51.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en el Código Nacional de Procedimientos Civiles y Familiares, y siempre que se registren en la Oficina que corresponda de la Ciudad de México o de los Estados."
+    ]
+   },
+   {
+    "article": "Artículo 89.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Pronunciado el auto de discernimiento de la tutela y publicado en los términos que previene el Código Nacional de Procedimientos Civiles y Familiares, el Juez de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil para que levante el acta respectiva. El Curador cuidará del cumplimiento de este artículo."
+    ]
+   },
+   {
+    "article": "Artículo 137.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El juicio de rectificación de acta se seguirá en la forma que establezca en el Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   },
+   {
+    "article": "Artículo 206.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   },
+   {
+    "article": "Artículo 272.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "cuarto párrafo",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   },
+   {
+    "article": "Artículo 282.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "II. Proceder a la separación de los cónyuges de conformidad con el Código Nacional de Procedimientos Civiles y Familiares;"
+    ]
+   },
+   {
+    "article": "Artículo 283.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo párrafo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "La protección para los menores incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 178 del Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   },
+   {
+    "article": "Artículo 399.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El procedimiento para hacer la adopción será fijado en el Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   },
+   {
+    "article": "Artículo 416.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primer párrafo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el Juez de lo Familiar resolverá lo conducente oyendo al Ministerio Público, sin perjuicio de lo previsto en el Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   },
+   {
+    "article": "Artículo 462.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares, el estado de incapacidad de la persona que va a quedar sujeta a ella."
+    ]
+   },
+   {
+    "article": "Artículo 513.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código Nacional de Procedimientos Civiles y Familiares, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa."
+    ]
+   },
+   {
+    "article": "Artículo 1549 Bis.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 810 del Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 51.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en el Código Nacional de Procedimientos Civiles y Familiares, y siempre que se registren en la Oficina que corresponda de la Ciudad de México o de los Estados.\"]},{\"article\":\"Artículo 89.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Pronunciado el auto de discernimiento de la tutela y publicado en los términos que previene el Código Nacional de Procedimientos Civiles y Familiares, el Juez de lo Familiar remitirá copia certificada del auto mencionado al Juez del Registro Civil para que levante el acta respectiva. El Curador cuidará del cumplimiento de este artículo.\"]},{\"article\":\"Artículo 137.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El juicio de rectificación de acta se seguirá en la forma que establezca en el Código Nacional de Procedimientos Civiles y Familiares.\"]},{\"article\":\"Artículo 206.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código Nacional de Procedimientos Civiles y Familiares.\"]},{\"article\":\"Artículo 272.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto párrafo\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código Nacional de Procedimientos Civiles y Familiares.\"]},{\"article\":\"Artículo 282.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"II. Proceder a la separación de los cónyuges de conformidad con el Código Nacional de Procedimientos Civiles y Familiares;\"]},{\"article\":\"Artículo 283.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo párrafo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"La protección para los menores incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 178 del Código Nacional de Procedimientos Civiles y Familiares.\"]},{\"article\":\"Artículo 399.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El procedimiento para hacer la adopción será fijado en el Código Nacional de Procedimientos Civiles y Familiares.\"]},{\"article\":\"Artículo 416.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primer párrafo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el Juez de lo Familiar resolverá lo conducente oyendo al Ministerio Público, sin perjuicio de lo previsto en el Código Nacional de Procedimientos Civiles y Familiares.\"]},{\"article\":\"Artículo 462.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares, el estado de incapacidad de la persona que va a quedar sujeta a ella.\"]},{\"article\":\"Artículo 513.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código Nacional de Procedimientos Civiles y Familiares, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa.\"]},{\"article\":\"Artículo 1549 Bis.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VI\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 810 del Código Nacional de Procedimientos Civiles y Familiares.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 15821,
+ "total_cost_usd": 0.1024538,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 2329,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 6908,
+   "webSearchRequests": 0,
+   "costUSD": 0.1024538,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 81,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 6908,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

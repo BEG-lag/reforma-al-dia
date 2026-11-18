@@ -1,0 +1,42 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 2o.",
+    "operation": "add",
+    "unit_type": "apartado",
+    "unit": "C",
+    "insert_after": 33,
+    "paragraphs": [
+     "C. Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural de la Nación. Tendrán en lo conducente los derechos señalados en los apartados anteriores del presente artículo en los términos que establezcan las leyes, a fin de garantizar su libre determinación, autonomía, desarrollo e inclusión social."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 2o.\",\"operation\":\"add\",\"unit_type\":\"apartado\",\"unit\":\"C\",\"insert_after\":33,\"paragraphs\":[\"C. Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural de la Nación. Tendrán en lo conducente los derechos señalados en los apartados anteriores del presente artículo en los términos que establezcan las leyes, a fin de garantizar su libre determinación, autonomía, desarrollo e inclusión social.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 2974,
+ "total_cost_usd": 0.0452538,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 343,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 4723,
+   "webSearchRequests": 0,
+   "costUSD": 0.0452538,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 44,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 4723,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

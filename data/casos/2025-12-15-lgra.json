@@ -1,0 +1,110 @@
+{
+ "id": "2025-12-15-lgra",
+ "source": "backtest",
+ "law": {
+  "slug": "lgra",
+  "title": "Ley General de Responsabilidades Administrativas",
+  "abbreviation": "LGRA"
+ },
+ "decree": {
+  "code": 5776177,
+  "title": "Decreto por el que se adiciona un artículo 69 Bis a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, y se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas.",
+  "date": "2025-12-15",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5776177&fecha=15/12/2025",
+  "pdf": null,
+  "instruction": [
+   "Artículo Segundo.- Se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "6dfca7b6d9ee70e5cc5ff8bf929832ec6d74bdd9"
+ },
+ "official": {
+  "commit": "dd4f0303a7d014ee9fb47dbcef875d9999025115",
+  "date": "2025-12-15",
+  "same_day": true
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "Artículo 64 Quáter."
+   ],
+   "key": "92d3be434983cdf397889f2cb945ea4613f21d4881c0ca6167e11239160906b8",
+   "cached": true,
+   "duration_ms": 2534,
+   "cost_usd": 0.0155458,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "64 quater": {
+   "label": "Artículo 64 Quáter.",
+   "headings": [],
+   "lines": [
+    "Artículo 64 Quáter. Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional o en las leyes equivalentes de las entidades federativas."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "Artículo 64 Quáter.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 64 Quáter.",
+    "paragraphs": [
+     "Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional o en las leyes equivalentes de las entidades federativas."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": null,
+    "batch": 1
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "needs_review": [],
+ "counts": {
+  "exact": 1,
+  "normalized": 0,
+  "mismatch": 0,
+  "not_applied": 0,
+  "outside_decree": 0,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 0,
+  "notes_match": 1
+ },
+ "transitorios": "normalized",
+ "body_identical": true,
+ "articles": [
+  {
+   "key": "64 quater",
+   "label": "Artículo 64 Quáter.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [],
+   "ai": [
+    "Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional o en las leyes equivalentes de las entidades federativas.",
+    "Artículo adicionado DOF 15-12-2025"
+   ],
+   "official": [
+    "Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional o en las leyes equivalentes de las entidades federativas.",
+    "Artículo adicionado DOF 15-12-2025"
+   ],
+   "diff": [],
+   "cause": null
+  }
+ ]
+}

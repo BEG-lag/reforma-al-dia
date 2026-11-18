@@ -1,0 +1,95 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 82.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Para ser Presidente o Presidenta se requiere:"
+    ]
+   },
+   {
+    "article": "Artículo 82.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "fracción I, párrafo primero",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Ser ciudadano o ciudadana mexicana por nacimiento, en pleno goce de sus derechos, hijo o hija de padre o madre mexicanos; no tener ni adquirir otra nacionalidad y, en caso de tenerla renunciar a ella previo a solicitar su registro como candidato o candidata en los términos que establezca la ley, y haber residido en el país al menos durante veinte años."
+    ]
+   },
+   {
+    "article": "Artículo 82.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "fracción I, párrafo segundo",
+    "insert_after": 2,
+    "paragraphs": [
+     "Quien ejerza el cargo no podrá adquirir ni solicitar otra nacionalidad, ni invocar ante autoridad extranjera una nacionalidad distinta de la mexicana."
+    ]
+   },
+   {
+    "article": "Artículo 82.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "fracción I, párrafo tercero",
+    "insert_after": 2,
+    "paragraphs": [
+     "Quedan comprendidos en esta prohibición el uso de pasaporte o documento de identidad expedido por un Estado extranjero, el ejercicio de los derechos políticos inherentes a la ciudadanía ante este y el acogerse a su protección diplomática. La contravención de esta disposición se sancionará en los términos del Título Cuarto de esta Constitución."
+    ]
+   },
+   {
+    "article": "Artículo 116.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo, fracción I, párrafo quinto",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "Sólo podrá ser gobernador o gobernadora constitucional de un Estado un ciudadano o ciudadana mexicana por nacimiento que no tenga ni adquiera otra nacionalidad y, en caso de tenerla renunciar a ella previo a solicitar su registro como candidato o candidata en los términos que establezca la ley, así como ser nativo o nativa de dicho Estado, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios, y tener 30 años cumplidos el día de la elección, o menos, si así lo establece la Constitución Política de la Entidad Federativa."
+    ]
+   },
+   {
+    "article": "Artículo 116.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo, fracción I, párrafo sexto",
+    "insert_after": 14,
+    "paragraphs": [
+     "Quien ejerza el cargo no podrá adquirir ni solicitar otra nacionalidad, ni invocar ante autoridad extranjera una nacionalidad distinta de la mexicana. Quedan comprendidos en esta prohibición, entre otros supuestos, el uso de pasaporte o documento de identidad expedido por un Estado extranjero, el ejercicio de los derechos políticos inherentes a la ciudadanía ante este y el acogerse a su protección diplomática. La contravención de esta disposición se sancionará en los términos del Título Cuarto de esta Constitución, y de las constituciones de las entidades federativas."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 82.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Para ser Presidente o Presidenta se requiere:\"]},{\"article\":\"Artículo 82.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"fracción I, párrafo primero\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Ser ciudadano o ciudadana mexicana por nacimiento, en pleno goce de sus derechos, hijo o hija de padre o madre mexicanos; no tener ni adquirir otra nacionalidad y, en caso de tenerla renunciar a ella previo a solicitar su registro como candidato o candidata en los términos que establezca la ley, y haber residido en el país al menos durante veinte años.\"]},{\"article\":\"Artículo 82.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"fracción I, párrafo segundo\",\"insert_after\":2,\"paragraphs\":[\"Quien ejerza el cargo no podrá adquirir ni solicitar otra nacionalidad, ni invocar ante autoridad extranjera una nacionalidad distinta de la mexicana.\"]},{\"article\":\"Artículo 82.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"fracción I, párrafo tercero\",\"insert_after\":2,\"paragraphs\":[\"Quedan comprendidos en esta prohibición el uso de pasaporte o documento de identidad expedido por un Estado extranjero, el ejercicio de los derechos políticos inherentes a la ciudadanía ante este y el acogerse a su protección diplomática. La contravención de esta disposición se sancionará en los términos del Título Cuarto de esta Constitución.\"]},{\"article\":\"Artículo 116.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo, fracción I, párrafo quinto\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"Sólo podrá ser gobernador o gobernadora constitucional de un Estado un ciudadano o ciudadana mexicana por nacimiento que no tenga ni adquiera otra nacionalidad y, en caso de tenerla renunciar a ella previo a solicitar su registro como candidato o candidata en los términos que establezca la ley, así como ser nativo o nativa de dicho Estado, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios, y tener 30 años cumplidos el día de la elección, o menos, si así lo establece la Constitución Política de la Entidad Federativa.\"]},{\"article\":\"Artículo 116.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo, fracción I, párrafo sexto\",\"insert_after\":14,\"paragraphs\":[\"Quien ejerza el cargo no podrá adquirir ni solicitar otra nacionalidad, ni invocar ante autoridad extranjera una nacionalidad distinta de la mexicana. Quedan comprendidos en esta prohibición, entre otros supuestos, el uso de pasaporte o documento de identidad expedido por un Estado extranjero, el ejercicio de los derechos políticos inherentes a la ciudadanía ante este y el acogerse a su protección diplomática. La contravención de esta disposición se sancionará en los términos del Título Cuarto de esta Constitución, y de las constituciones de las entidades federativas.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 16576,
+ "total_cost_usd": 0.1425338,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 2077,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 12548,
+   "webSearchRequests": 0,
+   "costUSD": 0.1425338,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 777,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 12548,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

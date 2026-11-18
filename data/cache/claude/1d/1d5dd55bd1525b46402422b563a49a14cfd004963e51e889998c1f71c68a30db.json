@@ -1,0 +1,54 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 25.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo décimo",
+    "from_block": 15,
+    "to_block": 15,
+    "paragraphs": [
+     "A fin de contribuir al desarrollo y bienestar de las personas, grupos, comunidades y sectores sociales y económicos, las autoridades de todos los órdenes de gobierno deberán implementar políticas públicas de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas y los demás objetivos que establezca la ley nacional en la materia."
+    ]
+   },
+   {
+    "article": "Artículo 73.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XXIX-Y",
+    "from_block": 160,
+    "to_block": 160,
+    "paragraphs": [
+     "XXIX-Y. Para expedir la ley nacional que establezca los principios y obligaciones a los que deberán sujetarse los órdenes de gobierno, en materia de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas;"
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 25.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo décimo\",\"from_block\":15,\"to_block\":15,\"paragraphs\":[\"A fin de contribuir al desarrollo y bienestar de las personas, grupos, comunidades y sectores sociales y económicos, las autoridades de todos los órdenes de gobierno deberán implementar políticas públicas de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas y los demás objetivos que establezca la ley nacional en la materia.\"]},{\"article\":\"Artículo 73.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XXIX-Y\",\"from_block\":160,\"to_block\":160,\"paragraphs\":[\"XXIX-Y. Para expedir la ley nacional que establezca los principios y obligaciones a los que deberán sujetarse los órdenes de gobierno, en materia de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas;\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 5166,
+ "total_cost_usd": 0.1394698,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 615,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 15820,
+   "webSearchRequests": 0,
+   "costUSD": 0.1394698,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 98,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 15820,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

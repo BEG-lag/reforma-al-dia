@@ -1,0 +1,324 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "ARTÍCULO 48.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Las personas ejidatarias, comuneras y pequeñas propietarias, así como los ejidos, comunidades, sociedades y demás personas que sean titulares o poseedoras de tierras agrícolas, ganaderas o forestales dispondrán del derecho de explotación, uso o aprovechamiento de las aguas nacionales que se les hubieren concesionado en los términos de la presente Ley.",
+     "Cuando se trate de concesiones de agua para riego, \"la Autoridad del Agua\" podrá autorizar su aprovechamiento total o parcial en terrenos distintos de los señalados en la concesión, cuando la nueva persona adquirente de los derechos sea su propietaria o poseedora, siempre y cuando no se causen perjuicios a terceras personas."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 49.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Cuando se transmita el dominio de tierras vinculadas con un título de concesión para el uso del agua a que se refiere el presente Capítulo, la nueva persona propietaria conservará los derechos sobre la explotación, uso o aprovechamiento de las aguas correspondientes. \"La Autoridad del Agua\", una vez efectuado el cambio de dominio, expedirá un nuevo título de concesión conforme a las características de uso y volumen del título original y por el plazo remanente de su vigencia, en los términos previstos en la presente Ley, exceptuando el análisis de la disponibilidad.",
+     "Cuando se trate de unidades, distritos o sistemas de riego, la explotación, uso o aprovechamiento y distribución interna de agua se hará cumpliendo con los términos de los reglamentos respectivos que estos expidan, sin que en ningún caso se pueda variar parcial o totalmente el uso concesionado.",
+     "Tratándose de actividades primarias de uso agrícola, pecuario o acuícola la combinación de éstas no implicará un cambio de uso."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 51.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. La forma de garantizar y proteger los derechos individuales de las personas integrantes o de las usuarias del servicio de riego y su participación en la administración y vigilancia del sistema;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 51.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. La forma de operación, conservación y mantenimiento, así como para efectuar inversiones para el mejoramiento de la infraestructura o sistema común, y la forma en que se recuperarán los costos incurridos a través de cuotas de autosuficiencia. Será obligatorio para las personas integrantes o usuarias el pago de las cuotas de autosuficiencia fijadas para seguir recibiendo el servicio o efectuar el aprovechamiento;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 51.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Los derechos y obligaciones de las personas integrantes o usuarias, así como las sanciones por incumplimiento;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 51.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "V. La forma y condiciones a las que se sujetará el uso o aprovechamiento de aguas entre las personas integrantes o usuarias del sistema común;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 51.",
+    "operation": "repeal",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "VI. Derogada"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 51.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VII",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "VII. El procedimiento por el cual se sustanciarán las inconformidades de las personas integrantes o usuarias;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 51.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IX",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "IX. La forma y términos en que llevará el padrón de las personas usuarias;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 51.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIII",
+    "from_block": 14,
+    "to_block": 14,
+    "paragraphs": [
+     "XIII. Los demás que se desprendan de la presente Ley y sus reglamentos o acuerden las personas integrantes o usuarias."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 51.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 16,
+    "to_block": 16,
+    "paragraphs": [
+     "Los volúmenes ahorrados por el incremento en la eficiencia en el uso del agua no serán motivo de reducción de los volúmenes de agua concesionados, cuando las inversiones y la modernización de la infraestructura y tecnificación del riego las hayan realizado por las concesionarias, y no exista financiamiento o subsidio mayoritariamente del Estado, en cuyo caso existirá una reducción convenida y proporcional con la inversión estatal realizada."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 52.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El derecho de explotación, uso o aprovechamiento de aguas por las personas integrantes o usuarias de las personas morales a que se refiere la Fracción II del Artículo 50 de la presente Ley, deberá precisarse en el padrón que al efecto la persona concesionaria deberá llevar, en los términos del reglamento a que se refiere el Artículo anterior."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 52.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Los derechos inscritos en el padrón no se podrán afectar, sin previa audiencia de la posible persona afectada."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 52.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Las personas integrantes o usuarias registradas en el padrón tendrán la obligación de proporcionar periódicamente la información y documentación que permita su actualización."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 52 BIS.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El Ejecutivo Federal, a través de \"la Comisión\" por medio de los Organismos de Cuenca, promoverá la organización de las personas usuarias del agua materia del presente Capítulo y la construcción de la infraestructura necesaria para el aprovechamiento del agua para fines agrícolas y se considerará al respecto:"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 52 BIS.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "VI. El censo de personas propietarias o poseedoras de tierras, y"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 53.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Los ejidos o comunidades que no estén incluidos en las unidades o distritos de riego, se considerarán concesionarios para efectos de la presente Ley y, en caso de tener sistemas comunes de riego o de hacer aprovechamientos comunes de agua, se aplicará respecto de estos sistemas o aprovechamientos lo dispuesto en los Artículos 51 y 52 de la presente Ley; en este caso serán las personas ejidatarias o comuneras que usen o aprovechen dichos sistemas o aprovechamientos los que establezcan el reglamento interior respectivo."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 54.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las unidades y distritos de riego deben reportar a \"la Autoridad del Agua\", cada año y en los plazos establecidos por ésta, el volumen bruto extraído de cada fuente de aguas superficiales o subterráneas con fines de riego, el volumen de agua utilizada, la superficie total cultivada, los cultivos que se regaron y la producción obtenida de la superficie anual cultivada.",
+     "En su caso, \"la Autoridad del Agua\", en coordinación con las instancias que correspondan, deben implementar las medidas para la eficiencia del uso del agua en el riego con base en los reportes a que se refiere el párrafo anterior."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 55.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Cuando se hubiere parcelado un ejido o comunidad, corresponde a las personas ejidatarias o comuneras la explotación, uso o aprovechamiento del agua necesaria para el riego de la parcela respectiva."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 55.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "En ningún caso la asamblea o el comisariado ejidal podrán usar, disponer o determinar la explotación, uso o aprovechamiento de aguas destinadas a las parcelas sin el previo y expreso consentimiento de las personas ejidatarias titulares de dichas parcelas, excepto cuando se trate de aguas indispensables para las necesidades domésticas del asentamiento humano."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 56.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 4,
+    "paragraphs": [
+     "Cuando la asamblea general del ejido resuelva que las personas ejidatarias pueden adoptar el dominio pleno de la parcela, conservarán los derechos de explotación, uso o aprovechamiento de las aguas necesarias para el riego de la tierra parcelada mediante el procedimiento de reasignación de volúmenes que establece el Artículo 37 BIS 1 de esta Ley, y precisará las fuentes, tomando en cuenta los derechos de agua que hayan venido disfrutando. En su caso, establecerá las modalidades o servidumbres requeridas.",
+     "La adopción del dominio pleno sobre las parcelas ejidales implica que la persona ejidataria o comunera explotará, usará o aprovechará las aguas como concesionaria, por lo cual deberá contar con el título respectivo, en los términos de la presente Ley y sus reglamentos.",
+     "Las personas ejidatarias que, conforme a la Ley Agraria, asuman el dominio pleno sobre sus parcelas conservarán los derechos a explotar, usar o aprovechar las aguas que venían usando. \"La Autoridad del Agua\" otorgará la concesión correspondiente a solicitud de la persona interesada, quien debe contar con la constancia oficial de la cancelación de la inscripción de la parcela de que se trate.",
+     "Al otorgar la concesión al solicitante, \"la Autoridad del Agua\" restará del volumen de agua asentado en la dotación, restitución o accesión ejidales, el volumen que será amparado en la concesión solicitada. La concesión y la reducción del volumen referido se inscribirán en el Registro Público Nacional del Agua."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 56 BIS.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En los casos en que las personas ejidatarias o comuneras transmitan la titularidad de la tierra conforme a la Ley y éstas cuenten con un título de concesión de agua, deberán solicitar a \"la Autoridad del Agua\" la reasignación de volúmenes para la nueva persona titular."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 56 BIS.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "insert_after": 1,
+    "paragraphs": [
+     "\"La Autoridad del Agua\" expedirá un nuevo título mediante un procedimiento abreviado, exceptuando el análisis de la disponibilidad."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 56 BIS.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "cuarto (actual tercero)",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Cuando las personas ejidatarias y comuneras en las unidades y distritos de riego asuman el dominio individual pleno sobre sus parcelas, sus derechos de agua correspondientes se inscribirán en el Registro Público Nacional del Agua y en el padrón de las asociaciones o sociedades de personas usuarias titulares de las concesiones para la explotación, uso o aprovechamiento de aguas nacionales, cuando así corresponda."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 57.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "artículo",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando se transmita el dominio de tierras ejidales o de uso común o se aporte el usufructo de parcelas, a sociedades civiles o mercantiles o a cualquier otra persona moral, en los términos de la Ley Agraria, dichas personas o sociedades adquirentes conservarán los derechos sobre la explotación, uso o aprovechamiento de las aguas correspondientes, debiendo solicitar la autorización respectiva ante \"la Autoridad del Agua\"."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 61.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "En el mismo supuesto, \"la Comisión\" emitirá la normatividad para la construcción, conservación y mantenimiento de las obras de infraestructura requeridas por las unidades de riego, y podrá construirlas parcial o totalmente por medio del Organismo de Cuenca competente o por sí, en los casos previstos en la Fracción IX del Artículo 9 de la presente Ley, previa concertación con los productores y, en su caso, con la celebración previa del acuerdo o convenio con los gobiernos de los estados, de la Ciudad de México y de los municipios correspondientes."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"ARTÍCULO 48.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Las personas ejidatarias, comuneras y pequeñas propietarias, así como los ejidos, comunidades, sociedades y demás personas que sean titulares o poseedoras de tierras agrícolas, ganaderas o forestales dispondrán del derecho de explotación, uso o aprovechamiento de las aguas nacionales que se les hubieren concesionado en los términos de la presente Ley.\",\"Cuando se trate de concesiones de agua para riego, \\\"la Autoridad del Agua\\\" podrá autorizar su aprovechamiento total o parcial en terrenos distintos de los señalados en la concesión, cuando la nueva persona adquirente de los derechos sea su propietaria o poseedora, siempre y cuando no se causen perjuicios a terceras personas.\"]},{\"article\":\"ARTÍCULO 49.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Cuando se transmita el dominio de tierras vinculadas con un título de concesión para el uso del agua a que se refiere el presente Capítulo, la nueva persona propietaria conservará los derechos sobre la explotación, uso o aprovechamiento de las aguas correspondientes. \\\"La Autoridad del Agua\\\", una vez efectuado el cambio de dominio, expedirá un nuevo título de concesión conforme a las características de uso y volumen del título original y por el plazo remanente de su vigencia, en los términos previstos en la presente Ley, exceptuando el análisis de la disponibilidad.\",\"Cuando se trate de unidades, distritos o sistemas de riego, la explotación, uso o aprovechamiento y distribución interna de agua se hará cumpliendo con los términos de los reglamentos respectivos que estos expidan, sin que en ningún caso se pueda variar parcial o totalmente el uso concesionado.\",\"Tratándose de actividades primarias de uso agrícola, pecuario o acuícola la combinación de éstas no implicará un cambio de uso.\"]},{\"article\":\"ARTÍCULO 51.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. La forma de garantizar y proteger los derechos individuales de las personas integrantes o de las usuarias del servicio de riego y su participación en la administración y vigilancia del sistema;\"]},{\"article\":\"ARTÍCULO 51.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. La forma de operación, conservación y mantenimiento, así como para efectuar inversiones para el mejoramiento de la infraestructura o sistema común, y la forma en que se recuperarán los costos incurridos a través de cuotas de autosuficiencia. Será obligatorio para las personas integrantes o usuarias el pago de las cuotas de autosuficiencia fijadas para seguir recibiendo el servicio o efectuar el aprovechamiento;\"]},{\"article\":\"ARTÍCULO 51.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Los derechos y obligaciones de las personas integrantes o usuarias, así como las sanciones por incumplimiento;\"]},{\"article\":\"ARTÍCULO 51.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"V. La forma y condiciones a las que se sujetará el uso o aprovechamiento de aguas entre las personas integrantes o usuarias del sistema común;\"]},{\"article\":\"ARTÍCULO 51.\",\"operation\":\"repeal\",\"unit_type\":\"fraccion\",\"unit\":\"VI\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"VI. Derogada\"]},{\"article\":\"ARTÍCULO 51.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VII\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"VII. El procedimiento por el cual se sustanciarán las inconformidades de las personas integrantes o usuarias;\"]},{\"article\":\"ARTÍCULO 51.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IX\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"IX. La forma y términos en que llevará el padrón de las personas usuarias;\"]},{\"article\":\"ARTÍCULO 51.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XIII\",\"from_block\":14,\"to_block\":14,\"paragraphs\":[\"XIII. Los demás que se desprendan de la presente Ley y sus reglamentos o acuerden las personas integrantes o usuarias.\"]},{\"article\":\"ARTÍCULO 51.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":16,\"to_block\":16,\"paragraphs\":[\"Los volúmenes ahorrados por el incremento en la eficiencia en el uso del agua no serán motivo de reducción de los volúmenes de agua concesionados, cuando las inversiones y la modernización de la infraestructura y tecnificación del riego las hayan realizado por las concesionarias, y no exista financiamiento o subsidio mayoritariamente del Estado, en cuyo caso existirá una reducción convenida y proporcional con la inversión estatal realizada.\"]},{\"article\":\"ARTÍCULO 52.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El derecho de explotación, uso o aprovechamiento de aguas por las personas integrantes o usuarias de las personas morales a que se refiere la Fracción II del Artículo 50 de la presente Ley, deberá precisarse en el padrón que al efecto la persona concesionaria deberá llevar, en los términos del reglamento a que se refiere el Artículo anterior.\"]},{\"article\":\"ARTÍCULO 52.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Los derechos inscritos en el padrón no se podrán afectar, sin previa audiencia de la posible persona afectada.\"]},{\"article\":\"ARTÍCULO 52.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Las personas integrantes o usuarias registradas en el padrón tendrán la obligación de proporcionar periódicamente la información y documentación que permita su actualización.\"]},{\"article\":\"ARTÍCULO 52 BIS.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El Ejecutivo Federal, a través de \\\"la Comisión\\\" por medio de los Organismos de Cuenca, promoverá la organización de las personas usuarias del agua materia del presente Capítulo y la construcción de la infraestructura necesaria para el aprovechamiento del agua para fines agrícolas y se considerará al respecto:\"]},{\"article\":\"ARTÍCULO 52 BIS.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VI\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"VI. El censo de personas propietarias o poseedoras de tierras, y\"]},{\"article\":\"ARTÍCULO 53.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Los ejidos o comunidades que no estén incluidos en las unidades o distritos de riego, se considerarán concesionarios para efectos de la presente Ley y, en caso de tener sistemas comunes de riego o de hacer aprovechamientos comunes de agua, se aplicará respecto de estos sistemas o aprovechamientos lo dispuesto en los Artículos 51 y 52 de la presente Ley; en este caso serán las personas ejidatarias o comuneras que usen o aprovechen dichos sistemas o aprovechamientos los que establezcan el reglamento interior respectivo.\"]},{\"article\":\"ARTÍCULO 54.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las unidades y distritos de riego deben reportar a \\\"la Autoridad del Agua\\\", cada año y en los plazos establecidos por ésta, el volumen bruto extraído de cada fuente de aguas superficiales o subterráneas con fines de riego, el volumen de agua utilizada, la superficie total cultivada, los cultivos que se regaron y la producción obtenida de la superficie anual cultivada.\",\"En su caso, \\\"la Autoridad del Agua\\\", en coordinación con las instancias que correspondan, deben implementar las medidas para la eficiencia del uso del agua en el riego con base en los reportes a que se refiere el párrafo anterior.\"]},{\"article\":\"ARTÍCULO 55.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Cuando se hubiere parcelado un ejido o comunidad, corresponde a las personas ejidatarias o comuneras la explotación, uso o aprovechamiento del agua necesaria para el riego de la parcela respectiva.\"]},{\"article\":\"ARTÍCULO 55.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"En ningún caso la asamblea o el comisariado ejidal podrán usar, disponer o determinar la explotación, uso o aprovechamiento de aguas destinadas a las parcelas sin el previo y expreso consentimiento de las personas ejidatarias titulares de dichas parcelas, excepto cuando se trate de aguas indispensables para las necesidades domésticas del asentamiento humano.\"]},{\"article\":\"ARTÍCULO 56.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":4,\"paragraphs\":[\"Cuando la asamblea general del ejido resuelva que las personas ejidatarias pueden adoptar el dominio pleno de la parcela, conservarán los derechos de explotación, uso o aprovechamiento de las aguas necesarias para el riego de la tierra parcelada mediante el procedimiento de reasignación de volúmenes que establece el Artículo 37 BIS 1 de esta Ley, y precisará las fuentes, tomando en cuenta los derechos de agua que hayan venido disfrutando. En su caso, establecerá las modalidades o servidumbres requeridas.\",\"La adopción del dominio pleno sobre las parcelas ejidales implica que la persona ejidataria o comunera explotará, usará o aprovechará las aguas como concesionaria, por lo cual deberá contar con el título respectivo, en los términos de la presente Ley y sus reglamentos.\",\"Las personas ejidatarias que, conforme a la Ley Agraria, asuman el dominio pleno sobre sus parcelas conservarán los derechos a explotar, usar o aprovechar las aguas que venían usando. \\\"La Autoridad del Agua\\\" otorgará la concesión correspondiente a solicitud de la persona interesada, quien debe contar con la constancia oficial de la cancelación de la inscripción de la parcela de que se trate.\",\"Al otorgar la concesión al solicitante, \\\"la Autoridad del Agua\\\" restará del volumen de agua asentado en la dotación, restitución o accesión ejidales, el volumen que será amparado en la concesión solicitada. La concesión y la reducción del volumen referido se inscribirán en el Registro Público Nacional del Agua.\"]},{\"article\":\"ARTÍCULO 56 BIS.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En los casos en que las personas ejidatarias o comuneras transmitan la titularidad de la tierra conforme a la Ley y éstas cuenten con un título de concesión de agua, deberán solicitar a \\\"la Autoridad del Agua\\\" la reasignación de volúmenes para la nueva persona titular.\"]},{\"article\":\"ARTÍCULO 56 BIS.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"insert_after\":1,\"paragraphs\":[\"\\\"La Autoridad del Agua\\\" expedirá un nuevo título mediante un procedimiento abreviado, exceptuando el análisis de la disponibilidad.\"]},{\"article\":\"ARTÍCULO 56 BIS.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto (actual tercero)\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Cuando las personas ejidatarias y comuneras en las unidades y distritos de riego asuman el dominio individual pleno sobre sus parcelas, sus derechos de agua correspondientes se inscribirán en el Registro Público Nacional del Agua y en el padrón de las asociaciones o sociedades de personas usuarias titulares de las concesiones para la explotación, uso o aprovechamiento de aguas nacionales, cuando así corresponda.\"]},{\"article\":\"ARTÍCULO 57.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"artículo\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando se transmita el dominio de tierras ejidales o de uso común o se aporte el usufructo de parcelas, a sociedades civiles o mercantiles o a cualquier otra persona moral, en los términos de la Ley Agraria, dichas personas o sociedades adquirentes conservarán los derechos sobre la explotación, uso o aprovechamiento de las aguas correspondientes, debiendo solicitar la autorización respectiva ante \\\"la Autoridad del Agua\\\".\"]},{\"article\":\"ARTÍCULO 61.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"En el mismo supuesto, \\\"la Comisión\\\" emitirá la normatividad para la construcción, conservación y mantenimiento de las obras de infraestructura requeridas por las unidades de riego, y podrá construirlas parcial o totalmente por medio del Organismo de Cuenca competente o por sí, en los casos previstos en la Fracción IX del Artículo 9 de la presente Ley, previa concertación con los productores y, en su caso, con la celebración previa del acuerdo o convenio con los gobiernos de los estados, de la Ciudad de México y de los municipios correspondientes.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 36867,
+ "total_cost_usd": 0.2180378,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 5645,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 13066,
+   "webSearchRequests": 0,
+   "costUSD": 0.2180378,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 341,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 13066,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

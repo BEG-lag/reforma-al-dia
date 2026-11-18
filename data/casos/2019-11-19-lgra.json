@@ -1,0 +1,1146 @@
+{
+ "id": "2019-11-19-lgra",
+ "source": "backtest",
+ "law": {
+  "slug": "lgra",
+  "title": "Ley General de Responsabilidades Administrativas",
+  "abbreviation": "LGRA"
+ },
+ "decree": {
+  "code": 5579141,
+  "title": "Decreto por el que se expide la Ley Federal de Austeridad Republicana; y se reforman y adicionan diversas disposiciones de la Ley General de Responsabilidades Administrativas y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.",
+  "date": "2019-11-19",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5579141&fecha=19/11/2019",
+  "pdf": null,
+  "instruction": [
+   "Artículo Primero.- Se expide la Ley Federal de Austeridad Republicana LEY FEDERAL DE AUSTERIDAD REPUBLICANA TÍTULO PRIMERO DISPOSICIONES GENERALES Capítulo Único Artículo 1. Esta Ley es de orden público e interés social. Tiene por objeto regular y normar las medidas de austeridad que deberá observar el ejercicio del gasto público federal y coadyuvar a que los recursos económicos de que se dispongan se administren con eficacia, eficiencia, economía, transparencia y honradez, conforme lo establece el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos. Sus disposiciones son aplicables a todas las dependencias, entidades, organismos y demás entes que integran la Administración Pública Federal. Los Poderes Legislativo y Judicial, así como los órganos constitucionales autónomos tomarán las acciones necesarias para dar cumplimiento a la presente Ley, de acuerdo con la normatividad aplicable a cada uno de ellos, cuando se les asignen recursos del Presupuesto de Egresos de la Federación. Artículo 2. A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria y en lo conducente la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, la Ley de Obras Públicas y Servicios Relacionados con las Mismas, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Procedimiento Administrativo, y la Ley General de Responsabilidades Administrativas, en ese orden. Artículo 3. Son objetivos de la presente Ley:",
+   "Artículo Segundo.- Se adicionan los artículos 7, con las fracciones X, XI y XII, recorriéndose la actual X, para quedar como XIII, y un segundo párrafo; 49, con una fracción X; 53, con un segundo párrafo; 59, con un segundo párrafo; 60 Bis; 63 Bis y 64 Bis de la Ley General de Responsabilidades Administrativas, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "54d2d83bf41f079d8b5078cf34b65ca1283088cb"
+ },
+ "official": {
+  "commit": "2c98dd8f48c1a1b75bdb5758648644c433f45c9e",
+  "date": "2019-11-19",
+  "same_day": true
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "Artículo 4.",
+    "Artículo 5.",
+    "Artículo 6.",
+    "Artículo 7.",
+    "Artículo 8.",
+    "Artículo 9.",
+    "Artículo 10.",
+    "Artículo 11.",
+    "Artículo 12.",
+    "Artículo 13.",
+    "Artículo 14.",
+    "Artículo 15."
+   ],
+   "key": "ff346e62d6683cd004a70245d315b14f30716392b34cb71e6373366323922d43",
+   "cached": true,
+   "duration_ms": 19099,
+   "cost_usd": 0.1412138,
+   "model": "claude-opus-5-5",
+   "error": null
+  },
+  {
+   "batch": 2,
+   "articles": [
+    "Artículo 16.",
+    "Artículo 17.",
+    "Artículo 18.",
+    "Artículo 19.",
+    "Artículo 20.",
+    "Artículo 21.",
+    "Artículo 22.",
+    "Artículo 23.",
+    "Artículo 24.",
+    "Artículo 25.",
+    "Artículo 26.",
+    "Artículo 27."
+   ],
+   "key": "6c6456e5ee910181092c7447c9c8961ab07d34e4346ddf786d151e429604e37b",
+   "cached": true,
+   "duration_ms": 13266,
+   "cost_usd": 0.1197658,
+   "model": "claude-opus-5-5",
+   "error": null
+  },
+  {
+   "batch": 3,
+   "articles": [
+    "Artículo 28.",
+    "Artículo 29.",
+    "Artículo 30.",
+    "Artículo 49.",
+    "Artículo 53.",
+    "Artículo 59.",
+    "Artículo 60 Bis.",
+    "Artículo 63 Bis.",
+    "Artículo 64 Bis."
+   ],
+   "key": "fd0615a14e7d43bec427dd320db79960cde5db638553350fe3fafa6854ad1164",
+   "cached": true,
+   "duration_ms": 17999,
+   "cost_usd": 0.0980298,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "4": {
+   "label": "Artículo 4.",
+   "headings": [],
+   "lines": [
+    "Artículo 4. Para los efectos de la presente Ley se entenderá por:",
+    "I. Austeridad Republicana: Conducta republicana y política de Estado que los entes públicos así como los Poderes Legislativo y Judicial, las empresas productivas del Estado y sus empresas subsidiarias, y los órganos constitucionales autónomos están obligados a acatar de conformidad con su orden jurídico, para combatir la desigualdad social, la corrupción, la avaricia y el despilfarro de los bienes y recursos nacionales, administrando los recursos con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que están destinados;",
+    "II. Comité de Evaluación: Órgano Colegiado Interinstitucional encargado en el ámbito de la Administración Pública Federal de, entre otros, evaluar las medidas de austeridad republicana;",
+    "III. Ley: Ley Federal de Austeridad Republicana;",
+    "IV. Nepotismo: La designación, otorgamiento de nombramiento o contratación que realice un servidor público de personas con las que tenga lazos de parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato para que preste sus servicios en la misma institución, dependencia o ente público en que éste labore;",
+    "V. Remuneración: Toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones económicas, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales, y",
+    "VI. Secretaría: Secretaría de la Función Pública del Poder Ejecutivo Federal."
+   ]
+  },
+  "5": {
+   "label": "Artículo 5.",
+   "headings": [],
+   "lines": [
+    "Artículo 5. El cumplimiento de la presente Ley recaerá sobre cada uno de los entes públicos, quienes para su vigilancia se apoyarán de la instancia encargada del control interno.",
+    "La Secretaría y la Secretaría de Hacienda y Crédito Público estarán facultadas, en el ámbito de sus atribuciones, para interpretar esta Ley."
+   ]
+  },
+  "6": {
+   "label": "Artículo 6.",
+   "headings": [
+    "TÍTULO SEGUNDO",
+    "DE LA AUSTERIDAD REPUBLICANA DE ESTADO",
+    "Capítulo Único"
+   ],
+   "lines": [
+    "Artículo 6. Para dar cumplimiento a los fines de esta Ley, los entes públicos sujetarán su gasto corriente y de capital a los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en la Ley de Ingresos de la Federación, en el Presupuesto de Egresos de la Federación, y en la Ley Federal de Transparencia y Acceso a la Información Pública, conforme a los objetivos señalados en la presente Ley y de acuerdo con las demás disposiciones aplicables en la materia."
+   ]
+  },
+  "7": {
+   "label": "Artículo 7.",
+   "headings": [],
+   "lines": [
+    "Artículo 7. La política de austeridad republicana de Estado deberá partir de un diagnóstico de las medidas a aplicar, su compatibilidad con la planeación democrática, y el respeto a los programas sectoriales, institucionales, regionales y especiales que se establezcan de conformidad con la Ley de Planeación. Además, se deberán desarrollar indicadores de desempeño para evaluar dicha política.",
+    "Al final de cada año fiscal los entes públicos obligados entregarán al Comité de Evaluación y a la Cámara de Diputados un \"Informe de Austeridad Republicana\" en el cual se reportarán los ahorros obtenidos por la aplicación de la presente Ley, y serán evaluados en términos de los propios lineamientos y demás normatividad aplicable.",
+    "Para aplicar la política de la austeridad republicana de Estado, los entes públicos deberán:",
+    "I. Abstenerse de afectar negativamente los derechos sociales de los mexicanos, previstos en la Constitución Política de los Estados Unidos Mexicanos y Tratados Internacionales de los que México sea parte;",
+    "II. Enfocar las medidas de austeridad republicana preferente en el gasto corriente no prioritario en los términos de la presente Ley, y",
+    "III. Evitar reducir la inversión en la atención a emergencias y desastres naturales o provenientes de la actividad humana.",
+    "Los ahorros obtenidos con motivo de la aplicación de la presente Ley se destinarán conforme a lo establecido en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y en el Presupuesto de Egresos de la Federación correspondiente.",
+    "Artículo 7. ...",
+    "I. a VIII. ...",
+    "IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones;",
+    "X. Se abstendrán de asociarse con inversionistas, contratistas o empresarios nacionales o extranjeros, para establecer cualquier tipo de negocio privado que afecte el desempeño imparcial y objetivo en razón de intereses personales o familiares, hasta el cuarto grado por consanguinidad o afinidad;",
+    "XI. Separarse legalmente de los activos e intereses económicos que afecten de manera directa el ejercicio de sus responsabilidades en el servicio público y que constituyan conflicto de intereses, de acuerdo con lo establecido en esta Ley, en forma previa a la asunción de cualquier empleo, cargo o comisión;",
+    "XII. Abstenerse de intervenir o promover, por sí o por interpósita persona, en la selección, nombramiento o designación para el servicio público de personas con quienes tenga parentesco por filiación hasta el cuarto grado o por afinidad hasta el segundo grado, y",
+    "XIII. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano.",
+    "La separación de activos o intereses económicos a que se refiere la fracción XI de este artículo, deberá comprobarse mediante la exhibición de los instrumentos legales conducentes, mismos que deberán incluir una cláusula que garantice la vigencia de la separación durante el tiempo de ejercicio del cargo y hasta por un año posterior a haberse retirado del empleo, cargo o comisión."
+   ]
+  },
+  "8": {
+   "label": "Artículo 8.",
+   "headings": [],
+   "lines": [
+    "Artículo 8. En la adquisición de bienes muebles e inmuebles, su arrendamiento o contratación de servicios y obra pública se buscará la máxima economía, eficiencia y funcionalidad, observando los principios de austeridad, ejerciendo estrictamente los recursos públicos en apego a las disposiciones legales aplicables.",
+    "Las adquisiciones, arrendamientos y servicios se adjudicarán, por regla general y de manera prioritaria, a través de licitaciones públicas, de conformidad con lo establecido en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público. Las excepciones a esta regla deberán estar plenamente justificadas ante el órgano encargado del control interno que corresponda."
+   ]
+  },
+  "9": {
+   "label": "Artículo 9.",
+   "headings": [],
+   "lines": [
+    "Artículo 9. Los contratos suscritos con empresas nacionales o extranjeras que hayan sido otorgados mediante el tráfico de influencias, corrupción o que causen daño a la Hacienda Pública serán nulos de pleno derecho, de conformidad con el marco normativo aplicable.",
+    "La nulidad de dichos contratos sólo se podrá declarar por la autoridad judicial competente.",
+    "Los órganos encargados del control interno o de la fiscalización en cada ente público, iniciarán los procesos correspondientes para sancionar a los responsables y resarcir el daño ocasionado de acuerdo con la legislación aplicable."
+   ]
+  },
+  "10": {
+   "label": "Artículo 10.",
+   "headings": [],
+   "lines": [
+    "Artículo 10. En tanto no se autoricen nuevos programas o se amplíen las metas de los existentes, los gastos por concepto de telefonía, telefonía celular, fotocopiado, combustibles, arrendamientos, viáticos, alimentación, mobiliario, remodelación de oficinas, equipo de telecomunicaciones, bienes informáticos, papelería, pasajes, congresos, convenciones, exposiciones y seminarios, necesarios para cumplir la función de cada dependencia y organismo, no podrán exceder de los montos erogados en el ejercicio presupuestal inmediato anterior, una vez considerados los incrementos en precios y tarifas oficiales o la inflación. Lo anterior, salvo las autorizaciones presupuestales que otorgue la Secretaría de Hacienda y Crédito Público, previa justificación.",
+    "Las secretarías de Hacienda y Crédito Público y de la Función Pública, en sus respectivos ámbitos de competencia, emitirán los lineamientos para la adquisición de bienes y servicios de uso generalizado de los entes públicos, de manera consolidada, con objeto de obtener las mejores condiciones con relación a precio, calidad y oportunidad, pudiendo ampliar los supuestos regulados en este artículo, en caso de estimarlo conveniente, sin perjuicio de lo previsto en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y otros ordenamientos legales."
+   ]
+  },
+  "11": {
+   "label": "Artículo 11.",
+   "headings": [],
+   "lines": [
+    "Artículo 11. Las erogaciones por concepto de congresos y convenciones se sujetarán a los lineamientos que, en términos del artículo 16 del presente ordenamiento, emitan la Secretaría y la Secretaría de Hacienda y Crédito Público, atendiendo las disposiciones de austeridad republicana y en el ámbito de sus respectivas atribuciones."
+   ]
+  },
+  "12": {
+   "label": "Artículo 12.",
+   "headings": [],
+   "lines": [
+    "Artículo 12. Los entes públicos ajustarán sus estructuras orgánicas y ocupacionales de conformidad con los principios de racionalidad y austeridad republicana. Se eliminarán todo tipo de duplicidades y se atenderán las necesidades de mejora y modernización de la gestión pública.",
+    "Para dar cumplimiento a lo anterior, en el ámbito del Poder Ejecutivo Federal, se observará lo siguiente:",
+    "I. Se asigna secretario particular únicamente a los titulares de dependencia o entidad;",
+    "II. Sólo se permitirá la asignación de chofer a subsecretarios de Estado, y superiores, así como a titulares de entidades de control directo;",
+    "III. Se prohíben las plazas con nivel de Dirección General Adjunta que no ejerzan facultades contempladas expresamente en ley o reglamento;",
+    "IV. Los representantes gremiales en los órganos tripartitos, con excepción de aquellos que se desempeñen en los Tribunales Laborales, ocuparán cargos honoríficos, por lo que no recibirán remuneración alguna por el desempeño de su función, y",
+    "V. La contratación de servicios de consultoría, asesoría y de todo tipo de despachos externos para elaborar estudios, investigaciones, proyectos de ley, planes de desarrollo, o cualquier tipo de análisis y recomendaciones, se realizará exclusivamente cuando las personas físicas o morales que presten los servicios no desempeñen funciones similares, iguales o equivalentes a las del personal de plaza presupuestaria, no puedan realizarse con la fuerza de trabajo y capacidad profesional de los servidores públicos y sean indispensables para el cumplimiento de los programas autorizados, considerando lo establecido en los artículos 19 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 62 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria."
+   ]
+  },
+  "13": {
+   "label": "Artículo 13.",
+   "headings": [],
+   "lines": [
+    "Artículo 13. Queda prohibida toda duplicidad de funciones en las unidades que conforman la Administración Pública Federal de acuerdo con lo establecido en su Ley Orgánica.",
+    "No serán consideradas duplicadas las funciones complementarias y transversales realizadas por las Unidades de Igualdad de Género."
+   ]
+  },
+  "14": {
+   "label": "Artículo 14.",
+   "headings": [],
+   "lines": [
+    "Artículo 14. El gasto neto total asignado anualmente a la difusión de propaganda o publicidad oficial por los entes públicos, se sujetará a las disposiciones que para el efecto emitan la Secretaría y la Secretaría de Hacienda y Crédito Público. Dicho gasto se ajustará a lo estrictamente indispensable para dar cumplimiento a los fines informativos, educativos o de orientación social cuya difusión se determine necesaria.",
+    "Las asignaciones dispuestas en el párrafo anterior, no podrán ser objeto de incrementos durante el ejercicio fiscal correspondiente, salvo el necesario para atender situaciones de carácter emergente, caso fortuito o fuerza mayor."
+   ]
+  },
+  "15": {
+   "label": "Artículo 15.",
+   "headings": [],
+   "lines": [
+    "Artículo 15. Quedan prohibidas las delegaciones de los entes públicos en el extranjero, salvo las correspondientes a las áreas de seguridad nacional e impartición de justicia. La representación del Estado Mexicano en el extranjero, la ejecución de la política exterior, su dirección y administración, corresponderán únicamente a la Secretaría de Relaciones Exteriores."
+   ]
+  },
+  "16": {
+   "label": "Artículo 16.",
+   "headings": [],
+   "lines": [
+    "Artículo 16. Son medidas de austeridad republicana, de manera enunciativa y no limitativa, las siguientes:",
+    "I. Se prohíbe la compra o arrendamiento de vehículos de lujo o cuyo valor comercial supere las cuatro mil trescientas cuarenta y tres Unidades de Medida y Actualización diaria vigente para el transporte y traslado de los servidores públicos. Cuando resulte necesario adquirir o arrendar un tipo de vehículo específico para desarrollar tareas indispensables vinculadas con el cumplimiento de las obligaciones de los entes públicos, su adquisición o arrendamiento se realizará previa justificación que al efecto realice la autoridad compradora, misma que se someterá a la consideración del órgano encargado del control interno que corresponda, y se deberá optar preferentemente por tecnologías que generen menores daños ambientales;",
+    "II. Los vehículos oficiales sólo podrán destinarse a actividades que permitan el cumplimiento de las funciones de la Administración Pública Federal. Queda prohibido cualquier uso privado de dichos vehículos;",
+    "III. Las adquisiciones y arrendamientos de equipos y sistemas de cómputo se realizarán previa justificación, con base en planes de modernización y priorizando el uso de software libre, siempre y cuando cumpla con las características requeridas para el ejercicio de las funciones públicas;",
+    "IV. Se prohíben contrataciones de seguros de ahorro en beneficio de los servidores públicos con recursos del Estado, tal como el Seguro de Separación Individualizado, o las cajas de ahorro especiales; lo anterior, con excepción de aquellos cuya obligación de otorgarlos derive de ley, contratos colectivos de trabajo o Condiciones Generales de Trabajo;",
+    "V. Los vehículos aéreos propiedad del Poder Ejecutivo Federal, atendiendo a las particularidades del bien correspondiente, serán destinados a actividades de seguridad, defensa, marina, fuerza aérea, de protección civil, así como al traslado de enfermos. Los que no cumplan con esta función serán enajenados asegurando las mejores condiciones para el Estado;",
+    "VI. No se realizarán gastos de oficina innecesarios. En ningún caso se autorizará la compra de bienes e insumos mientras haya suficiencia de los mismos en las oficinas o almacenes, considerando el tiempo de reposición;",
+    "VII. Se prohíbe remodelar oficinas por cuestiones estéticas o comprar mobiliario de lujo, y",
+    "VIII. Se prohíbe el derroche en energía eléctrica, agua, servicios de telefonía fija y móvil, gasolinas e insumos financiados por el erario.",
+    "La Secretaría y la Secretaría de Hacienda y Crédito Público elaborarán y emitirán de manera conjunta los lineamientos necesarios para regular lo previsto en el presente artículo, de acuerdo con sus atribuciones y considerando las disposiciones de la Ley, pudiendo ampliar los supuestos regulados en este artículo, en caso de estimarlo conveniente.",
+    "Corresponderá a la Secretaría de Hacienda y Crédito Público en el ámbito del Poder Ejecutivo, emitir las disposiciones que en materia de control presupuestal regirán la implementación de la presente Ley."
+   ]
+  },
+  "17": {
+   "label": "Artículo 17.",
+   "headings": [],
+   "lines": [
+    "Artículo 17. La constitución o celebración de fideicomisos o mandatos, queda prohibida en las siguientes materias:",
+    "I. Salud;",
+    "II. Educación;",
+    "III. Procuración de Justicia;",
+    "IV. Seguridad Social, y",
+    "V. Seguridad Pública.",
+    "Lo anterior, no será aplicable cuando dichos fideicomisos o mandatos se encuentren previstos en ley, decreto o tratado internacional.",
+    "Para los demás casos, los entes públicos de la Administración Pública Federal sólo podrán constituir fideicomisos o mandatos cuando sean autorizados por la Secretaría de Hacienda y Crédito Público, en términos de lo previsto en la Ley Federal del Presupuesto y Responsabilidad Hacendaria.",
+    "Bajo ninguna circunstancia se podrán hacer aportaciones, transferencias, o pagos de cualquier naturaleza utilizando instrumentos que permitan evadir las reglas de disciplina financiera, transparencia y fiscalización del gasto.",
+    "Los recursos en numerario, así como los activos, derechos, títulos, certificados o cualquier otro documento análogo que los entes públicos de la Administración Pública Federal aporten o incorporen al patrimonio de fondos o fideicomisos serán públicos y no gozarán de la protección del secreto o reserva fiduciarios para efectos de su fiscalización."
+   ]
+  },
+  "18": {
+   "label": "Artículo 18.",
+   "headings": [],
+   "lines": [
+    "Artículo 18. Todos los fideicomisos, fondos, mandatos o contratos análogos que reciban recursos públicos en la Administración Pública Federal Centralizada, sin excepción deberán:",
+    "I. Ser constituidos por la Secretaría de Hacienda y Crédito Público, como fideicomitente único, sólo para el caso de los constituidos por Dependencias;",
+    "II. Ofrecer información regular cada trimestre en forma oportuna y veraz, con objeto de dar cumplimiento a las obligaciones de transparencia, y observar el principio de rendición de cuentas, de conformidad con la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley General de Responsabilidades Administrativas, la Ley de Fiscalización y Rendición de Cuentas de la Federación y demás disposiciones aplicables;",
+    "III. Publicar trimestralmente sus estados financieros;",
+    "IV. Reportar la información que le requiera la Secretaría de Hacienda y Crédito Público para su integración en los apartados correspondientes de los informes trimestrales y de la Cuenta de la Hacienda Pública Federal, y",
+    "V. Contar con las autorizaciones y opiniones que corresponda emitir a la Secretaría de Hacienda y Crédito Público en términos de la normatividad aplicable."
+   ]
+  },
+  "19": {
+   "label": "Artículo 19.",
+   "headings": [],
+   "lines": [
+    "Artículo 19. La Secretaría de Hacienda y Crédito Público contará con un sistema de información de fideicomisos, mandatos o contratos análogos que manejen recursos públicos en el cual las dependencias y entidades inscribirán la información de la totalidad de los instrumentos a que se refiere el artículo anterior. Asimismo, concentrará el reporte de la información respectiva, misma que se hará de conocimiento en los informes trimestrales a que se refiere la Ley Federal de Presupuesto y Responsabilidad Hacendaria.",
+    "La Secretaría y la Auditoría Superior de la Federación desarrollarán, en el ámbito de sus respectivas competencias, las actividades de fiscalización a todo fideicomiso, mandato o contrato análogo que maneje recursos públicos, para verificar el cumplimiento de lo dispuesto en la presente Ley.",
+    "Las autoridades competentes en materia de fiscalización incluirán en su planeación de auditorías, visitas e inspecciones a cualquier fideicomiso, mandato o contrato análogo que maneje recursos públicos, y darán seguimiento y evaluación rigurosa del cumplimiento de los fines para los cuales fueron constituidos."
+   ]
+  },
+  "20": {
+   "label": "Artículo 20.",
+   "headings": [
+    "TÍTULO TERCERO",
+    "DEL COMPORTAMIENTO AUSTERO Y PROBO DE LOS SERVIDORES PÚBLICOS",
+    "Capítulo Único"
+   ],
+   "lines": [
+    "Artículo 20. Los servidores públicos se sujetarán a la remuneración adecuada y proporcional que conforme a sus responsabilidades se determine en los presupuestos de egresos, considerando lo establecido en los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables. Por ende, queda prohibida la obtención de algún privilegio económico adicional a lo establecido en la ley."
+   ]
+  },
+  "21": {
+   "label": "Artículo 21.",
+   "headings": [],
+   "lines": [
+    "Artículo 21. Para administrar los recursos humanos con eficiencia, eficacia, economía, transparencia, honradez y mejorar la prestación del servicio público, los servidores públicos del Poder Ejecutivo Federal desempeñarán sus actividades con apego a lo previsto en la Ley General de Responsabilidades Administrativas y de conformidad con las disposiciones contenidas en los lineamientos que emita la Secretaría. Dichos servidores públicos:",
+    "I. Están obligados a cuidar los bienes muebles e inmuebles que utilicen o estén bajo su resguardo y que les sean otorgados para el cumplimiento de sus funciones;",
+    "II. Deberán brindar en todo momento un trato expedito, digno, respetuoso y amable a las personas que requieran sus servicios, honrando así el principio del derecho humano a la buena administración pública;",
+    "III. Tienen prohibido asistir al trabajo en estado de ebriedad e ingerir bebidas alcohólicas en el horario y centro de trabajo;",
+    "IV. Tienen prohibido recibir con motivo del desempeño de su empleo, cargo o comisión, cualquier tipo de pago, regalo, dádiva, viaje o servicio que beneficie a su persona o sus familiares hasta el cuarto grado por consanguinidad o afinidad, y",
+    "V. Tienen prohibido utilizar las atribuciones, facultades o influencia que tengan por razón de su empleo, cargo o comisión, para que de manera directa o indirecta designen, nombren o intervengan para que se contrate como personal de confianza, de estructura, de base o por honorarios en el servicio público a personas con las que tenga lazos de parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato."
+   ]
+  },
+  "22": {
+   "label": "Artículo 22.",
+   "headings": [],
+   "lines": [
+    "Artículo 22. Queda prohibido contratar con recursos públicos cualquier tipo de jubilaciones, pensiones y regímenes especiales de retiro, de separación individualizada o colectiva, así como seguros de gastos médicos privados, seguros de vida o de pensiones que se otorguen en contravención a lo dispuesto en decreto o alguna disposición general, Condiciones Generales de Trabajo o contratos colectivos de trabajo.",
+    "Por ningún motivo se autorizarán pensiones de retiro al titular del Ejecutivo Federal adicionales a la provista por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, correspondiente al seguro de retiro, cesantía en edad avanzada y vejez."
+   ]
+  },
+  "23": {
+   "label": "Artículo 23.",
+   "headings": [],
+   "lines": [
+    "Artículo 23. Ningún servidor público podrá utilizar recursos humanos, materiales o financieros institucionales para fines distintos a los relacionados con sus funciones; su contravención será causa de responsabilidad administrativa en los términos que establezca la Ley General de Responsabilidades Administrativas.",
+    "Los entes públicos deberán emitir su correspondiente código de conducta en concordancia con la presente Ley y cada servidor público debe protestar cumplirlo."
+   ]
+  },
+  "24": {
+   "label": "Artículo 24.",
+   "headings": [],
+   "lines": [
+    "Artículo 24. Para ocupar cualquier empleo, cargo o comisión en algún ente público, las personas interesadas se verán obligadas a separarse legalmente de los activos e intereses económicos particulares que estén relacionados con la materia o afecten de manera directa el ejercicio de sus responsabilidades públicas, y que signifiquen un conflicto de interés conforme a lo establecido en la Ley General de Responsabilidades Administrativas.",
+    "Los servidores públicos comprendidos en los grupos jerárquicos de mando superior a que se refiere el manual de percepciones previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria del Gobierno Federal, que por cualquier motivo se separen de su cargo, no podrán ocupar puestos en empresas que hayan supervisado, regulado o respecto de las cuales hayan tenido información privilegiada en el ejercicio de su cargo público, salvo que hubiesen transcurrido al menos diez años."
+   ]
+  },
+  "25": {
+   "label": "Artículo 25.",
+   "headings": [],
+   "lines": [
+    "Artículo 25. Queda prohibido a cualquier persona física o moral el uso de su personalidad jurídica para eludir el cumplimiento de obligaciones y perjudicar intereses públicos o privados. Para ello, se aplicarán acciones fiscalizadoras y políticas de transparencia en el sector privado cuando participe de recursos públicos, incluyendo el levantamiento del velo corporativo, a efecto de evitar como causal excluyente de responsabilidad del servidor público o sus familiares hasta el cuarto grado por consanguinidad o afinidad, el empleo de una personalidad jurídico colectiva.",
+    "Lo anterior, de conformidad con lo establecido en el marco normativo aplicable."
+   ]
+  },
+  "26": {
+   "label": "Artículo 26.",
+   "headings": [],
+   "lines": [
+    "Artículo 26. La Secretaría de Hacienda y Crédito Público y la Secretaría emitirán los lineamientos aplicables en materia de austeridad republicana, sin que éstos limiten o interfieran en el cumplimiento de la prestación de servicios al público y de los objetivos de la Administración Pública Federal."
+   ]
+  },
+  "27": {
+   "label": "Artículo 27.",
+   "headings": [
+    "TÍTULO CUARTO",
+    "DE LA EVALUACIÓN DE LA POLÍTICA DE AUSTERIDAD REPUBLICANA Y DEL FINCAMIENTO DE RESPONSABILIDADES",
+    "Capítulo Primero",
+    "De la Evaluación"
+   ],
+   "lines": [
+    "Artículo 27. Se formará un Comité de Evaluación, el cual será responsable de promover y evaluar las políticas y medidas de austeridad republicana de los entes públicos.",
+    "El Comité de Evaluación deberá entregar informes de evaluación de forma anual, los cuales deberán ser remitidos a la Cámara de Diputados para su conocimiento y contener al menos los siguientes elementos:",
+    "I. Medidas tomadas por la Administración Pública Federal;",
+    "II. Impacto presupuestal de las medidas;",
+    "III. Temporalidad de los efectos de ahorro;",
+    "IV. Posibles mejoras a las medidas de austeridad republicana, y",
+    "V. Destino del ahorro obtenido.",
+    "Los resultados de dicha evaluación serán presentados ante el Ejecutivo Federal y deberán servir para retroalimentar y mejorar futuras medidas de austeridad republicana."
+   ]
+  },
+  "28": {
+   "label": "Artículo 28.",
+   "headings": [
+    "Capítulo Segundo",
+    "De las Responsabilidades"
+   ],
+   "lines": [
+    "Artículo 28. El órgano encargado del control interno estará facultado en todo momento para vigilar y fiscalizar la gestión gubernamental de los entes públicos, verificando que las medidas de austeridad republicana se apliquen de conformidad con lo establecido en esta Ley y demás disposiciones aplicables."
+   ]
+  },
+  "29": {
+   "label": "Artículo 29.",
+   "headings": [],
+   "lines": [
+    "Artículo 29. En caso de encontrar violaciones a las medidas de austeridad republicana, las autoridades competentes deberán iniciar los procedimientos que establece la Ley General de Responsabilidades Administrativas."
+   ]
+  },
+  "30": {
+   "label": "Artículo 30.",
+   "headings": [],
+   "lines": [
+    "Artículo 30. Los recursos presupuestarios federales que sean asignados bajo cualquier rubro a las entidades federativas y a los municipios, serán sujetos de seguimiento y fiscalización por parte de la Auditoría Superior de la Federación."
+   ]
+  },
+  "49": {
+   "label": "Artículo 49.",
+   "headings": [],
+   "lines": [
+    "Artículo 49. ...",
+    "I. a VII. ...",
+    "VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;",
+    "IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad, y",
+    "X. Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.",
+    "..."
+   ]
+  },
+  "53": {
+   "label": "Artículo 53.",
+   "headings": [],
+   "lines": [
+    "Artículo 53. ...",
+    "En términos de lo dispuesto por el párrafo anterior, los servidores públicos no podrán disponer del servicio de miembros de alguna corporación policiaca, seguridad pública o de las fuerzas armadas, en el ejercicio de sus funciones, para otorgar seguridad personal, salvo en los casos en que la normativa que regule su actividad lo contemple o por las circunstancias se considere necesario proveer de dicha seguridad, siempre que se encuentre debidamente justificada a juicio del titular de las propias corporaciones de seguridad y previo informe al Órgano interno de control respectivo o a la Secretaría."
+   ]
+  },
+  "59": {
+   "label": "Artículo 59.",
+   "headings": [],
+   "lines": [
+    "Artículo 59. ...",
+    "Incurrirá en la responsabilidad dispuesta en el párrafo anterior, el servidor público que intervenga o promueva, por sí o por interpósita persona, en la selección, nombramiento o designación de personas para el servicio público en función de intereses de negocios."
+   ]
+  },
+  "60 bis": {
+   "label": "Artículo 60 Bis.",
+   "headings": [],
+   "lines": [
+    "Artículo 60 Bis. Comete simulación de acto jurídico el servidor público que utilice personalidad jurídica distinta a la suya para obtener, en beneficio propio o de algún familiar hasta el cuarto grado por consanguinidad o afinidad, recursos públicos en forma contraria a la ley.",
+    "Esta falta administrativa se sancionará con inhabilitación de cinco a diez años."
+   ]
+  },
+  "63 bis": {
+   "label": "Artículo 63 Bis.",
+   "headings": [],
+   "lines": [
+    "Artículo 63 Bis. Cometerá nepotismo el servidor público que, valiéndose de las atribuciones o facultades de su empleo, cargo o comisión, directa o indirectamente, designe, nombre o intervenga para que se contrate como personal de confianza, de estructura, de base o por honorarios en el ente público en que ejerza sus funciones, a personas con las que tenga lazos de parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato."
+   ]
+  },
+  "64 bis": {
+   "label": "Artículo 64 Bis.",
+   "headings": [],
+   "lines": [
+    "Artículo 64 Bis. Son faltas administrativas graves las violaciones a las disposiciones sobre fideicomisos establecidas en la Ley Federal de Austeridad Republicana."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "Artículo 7.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IX",
+    "paragraphs": [
+     "IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones;"
+    ],
+    "from_block": 11,
+    "to_block": 11,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 7.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "X",
+    "paragraphs": [
+     "X. Se abstendrán de asociarse con inversionistas, contratistas o empresarios nacionales o extranjeros, para establecer cualquier tipo de negocio privado que afecte el desempeño imparcial y objetivo en razón de intereses personales o familiares, hasta el cuarto grado por consanguinidad o afinidad;"
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 11,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 7.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XI",
+    "paragraphs": [
+     "XI. Separarse legalmente de los activos e intereses económicos que afecten de manera directa el ejercicio de sus responsabilidades en el servicio público y que constituyan conflicto de intereses, de acuerdo con lo establecido en esta Ley, en forma previa a la asunción de cualquier empleo, cargo o comisión;"
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 11,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 7.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XII",
+    "paragraphs": [
+     "XII. Abstenerse de intervenir o promover, por sí o por interpósita persona, en la selección, nombramiento o designación para el servicio público de personas con quienes tenga parentesco por filiación hasta el cuarto grado o por afinidad hasta el segundo grado, y"
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 11,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 7.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIII",
+    "paragraphs": [
+     "XIII. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano."
+    ],
+    "from_block": 12,
+    "to_block": 12,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 7.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "paragraphs": [
+     "La separación de activos o intereses económicos a que se refiere la fracción XI de este artículo, deberá comprobarse mediante la exhibición de los instrumentos legales conducentes, mismos que deberán incluir una cláusula que garantice la vigencia de la separación durante el tiempo de ejercicio del cargo y hasta por un año posterior a haberse retirado del empleo, cargo o comisión."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 12,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 49.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VIII",
+    "paragraphs": [
+     "VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;"
+    ],
+    "from_block": 10,
+    "to_block": 10,
+    "insert_after": null,
+    "batch": 3
+   },
+   {
+    "article": "Artículo 49.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IX",
+    "paragraphs": [
+     "IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad, y"
+    ],
+    "from_block": 11,
+    "to_block": 11,
+    "insert_after": null,
+    "batch": 3
+   },
+   {
+    "article": "Artículo 49.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "X",
+    "paragraphs": [
+     "X. Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 11,
+    "batch": 3
+   },
+   {
+    "article": "Artículo 53.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "paragraphs": [
+     "En términos de lo dispuesto por el párrafo anterior, los servidores públicos no podrán disponer del servicio de miembros de alguna corporación policiaca, seguridad pública o de las fuerzas armadas, en el ejercicio de sus funciones, para otorgar seguridad personal, salvo en los casos en que la normativa que regule su actividad lo contemple o por las circunstancias se considere necesario proveer de dicha seguridad, siempre que se encuentre debidamente justificada a juicio del titular de las propias corporaciones de seguridad y previo informe al Órgano interno de control respectivo o a la Secretaría."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 1,
+    "batch": 3
+   },
+   {
+    "article": "Artículo 59.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "paragraphs": [
+     "Incurrirá en la responsabilidad dispuesta en el párrafo anterior, el servidor público que intervenga o promueva, por sí o por interpósita persona, en la selección, nombramiento o designación de personas para el servicio público en función de intereses de negocios."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 1,
+    "batch": 3
+   },
+   {
+    "article": "Artículo 60 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 60 Bis.",
+    "paragraphs": [
+     "Comete simulación de acto jurídico el servidor público que utilice personalidad jurídica distinta a la suya para obtener, en beneficio propio o de algún familiar hasta el cuarto grado por consanguinidad o afinidad, recursos públicos en forma contraria a la ley.",
+     "Esta falta administrativa se sancionará con inhabilitación de cinco a diez años."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": null,
+    "batch": 3
+   },
+   {
+    "article": "Artículo 63 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 63 Bis.",
+    "paragraphs": [
+     "Cometerá nepotismo el servidor público que, valiéndose de las atribuciones o facultades de su empleo, cargo o comisión, directa o indirectamente, designe, nombre o intervenga para que se contrate como personal de confianza, de estructura, de base o por honorarios en el ente público en que ejerza sus funciones, a personas con las que tenga lazos de parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": null,
+    "batch": 3
+   },
+   {
+    "article": "Artículo 64 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 64 Bis.",
+    "paragraphs": [
+     "Son faltas administrativas graves las violaciones a las disposiciones sobre fideicomisos establecidas en la Ley Federal de Austeridad Republicana."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": null,
+    "batch": 3
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "Artículo 7.",
+    "reason": "El texto del decreto mezcla el artículo 7 de la nueva Ley Federal de Austeridad Republicana (Artículo Primero) con el artículo 7 de la LGRA (Artículo Segundo). Sólo se aplicó la parte que inicia con 'Artículo 7. ...' a la LGRA. Además, la fracción IX no se menciona en la instrucción, pero el decreto la imprime sin la conjunción final 'y'; se reformó para coincidir con el texto publicado. Conviene verificarlo.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 4.",
+    "reason": "El texto corresponde al artículo 4 de la Ley Federal de Austeridad Republicana (Artículo Primero del decreto), no a la LGRA; la instrucción del Artículo Segundo no menciona este artículo. No se hizo ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 5.",
+    "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 5 de la LGRA no se modifica. No se hizo ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 6.",
+    "reason": "El texto y los encabezados (Título Segundo, Capítulo Único) corresponden a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio ni se agregaron divisiones.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 8.",
+    "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 9.",
+    "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 10.",
+    "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 11.",
+    "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 12.",
+    "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 13.",
+    "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 14.",
+    "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 15.",
+    "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 16.",
+    "reason": "El texto del decreto corresponde al artículo 16 de la Ley Federal de Austeridad Republicana (Artículo Primero del decreto), no a la LGRA; el Artículo Segundo sólo modifica los artículos 7, 49, 53, 59, 60 Bis, 63 Bis y 64 Bis de la LGRA. No se aplica ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 17.",
+    "reason": "El texto del decreto corresponde al artículo 17 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 17 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 18.",
+    "reason": "El texto del decreto corresponde al artículo 18 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 18 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 19.",
+    "reason": "El texto del decreto corresponde al artículo 19 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 19 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 20.",
+    "reason": "El texto del decreto (y los encabezados Título Tercero/Capítulo Único) corresponden a la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 20 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 21.",
+    "reason": "El texto del decreto corresponde al artículo 21 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 21 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 22.",
+    "reason": "El texto del decreto corresponde al artículo 22 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 22 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 23.",
+    "reason": "El texto del decreto corresponde al artículo 23 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 23 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 24.",
+    "reason": "El texto del decreto corresponde al artículo 24 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 24 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 25.",
+    "reason": "El texto del decreto corresponde al artículo 25 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 25 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 26.",
+    "reason": "El texto del decreto corresponde al artículo 26 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 26 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 27.",
+    "reason": "El texto del decreto (y los encabezados Título Cuarto/Capítulo Primero) corresponden a la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 27 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 28.",
+    "reason": "El texto del decreto para el artículo 28 pertenece a la Ley Federal de Austeridad Republicana que expide el Artículo Primero del decreto (Capítulo Segundo 'De las Responsabilidades'), no a la LGRA; el Artículo Segundo no menciona el artículo 28 de la LGRA. No se aplica ninguna edición.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 29.",
+    "reason": "El texto del decreto para el artículo 29 pertenece a la Ley Federal de Austeridad Republicana (remite a la 'Ley General de Responsabilidades Administrativas' como otra ley); el Artículo Segundo no reforma el artículo 29 de la LGRA. No se aplica ninguna edición.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 30.",
+    "reason": "El texto del decreto para el artículo 30 pertenece a la Ley Federal de Austeridad Republicana; el Artículo Segundo no reforma el artículo 30 de la LGRA, cuyo texto vigente trata de la verificación de declaraciones patrimoniales. No se aplica ninguna edición.",
+    "source": "model"
+   },
+   {
+    "article": "Artículo 49.",
+    "reason": "La instrucción sólo adiciona la fracción X, pero el decreto vuelve a imprimir las fracciones VIII y IX con la puntuación cambiada (se quita la 'y' de la VIII y se añade ', y' al final de la IX). Se aplicaron como reformas; conviene verificarlo contra el texto consolidado.",
+    "source": "model"
+   }
+  ]
+ },
+ "needs_review": [
+  {
+   "article": "Artículo 7.",
+   "reason": "El texto del decreto mezcla el artículo 7 de la nueva Ley Federal de Austeridad Republicana (Artículo Primero) con el artículo 7 de la LGRA (Artículo Segundo). Sólo se aplicó la parte que inicia con 'Artículo 7. ...' a la LGRA. Además, la fracción IX no se menciona en la instrucción, pero el decreto la imprime sin la conjunción final 'y'; se reformó para coincidir con el texto publicado. Conviene verificarlo.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 4.",
+   "reason": "El texto corresponde al artículo 4 de la Ley Federal de Austeridad Republicana (Artículo Primero del decreto), no a la LGRA; la instrucción del Artículo Segundo no menciona este artículo. No se hizo ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 5.",
+   "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 5 de la LGRA no se modifica. No se hizo ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 6.",
+   "reason": "El texto y los encabezados (Título Segundo, Capítulo Único) corresponden a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio ni se agregaron divisiones.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 8.",
+   "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 9.",
+   "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 10.",
+   "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 11.",
+   "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 12.",
+   "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 13.",
+   "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 14.",
+   "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 15.",
+   "reason": "El texto corresponde a la Ley Federal de Austeridad Republicana, no a la LGRA. No se hizo ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 16.",
+   "reason": "El texto del decreto corresponde al artículo 16 de la Ley Federal de Austeridad Republicana (Artículo Primero del decreto), no a la LGRA; el Artículo Segundo sólo modifica los artículos 7, 49, 53, 59, 60 Bis, 63 Bis y 64 Bis de la LGRA. No se aplica ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 17.",
+   "reason": "El texto del decreto corresponde al artículo 17 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 17 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 18.",
+   "reason": "El texto del decreto corresponde al artículo 18 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 18 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 19.",
+   "reason": "El texto del decreto corresponde al artículo 19 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 19 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 20.",
+   "reason": "El texto del decreto (y los encabezados Título Tercero/Capítulo Único) corresponden a la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 20 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 21.",
+   "reason": "El texto del decreto corresponde al artículo 21 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 21 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 22.",
+   "reason": "El texto del decreto corresponde al artículo 22 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 22 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 23.",
+   "reason": "El texto del decreto corresponde al artículo 23 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 23 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 24.",
+   "reason": "El texto del decreto corresponde al artículo 24 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 24 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 25.",
+   "reason": "El texto del decreto corresponde al artículo 25 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 25 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 26.",
+   "reason": "El texto del decreto corresponde al artículo 26 de la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 26 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 27.",
+   "reason": "El texto del decreto (y los encabezados Título Cuarto/Capítulo Primero) corresponden a la Ley Federal de Austeridad Republicana, no a la LGRA; el artículo 27 de la LGRA no es objeto de reforma. No se aplica ningún cambio.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 28.",
+   "reason": "El texto del decreto para el artículo 28 pertenece a la Ley Federal de Austeridad Republicana que expide el Artículo Primero del decreto (Capítulo Segundo 'De las Responsabilidades'), no a la LGRA; el Artículo Segundo no menciona el artículo 28 de la LGRA. No se aplica ninguna edición.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 29.",
+   "reason": "El texto del decreto para el artículo 29 pertenece a la Ley Federal de Austeridad Republicana (remite a la 'Ley General de Responsabilidades Administrativas' como otra ley); el Artículo Segundo no reforma el artículo 29 de la LGRA. No se aplica ninguna edición.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 30.",
+   "reason": "El texto del decreto para el artículo 30 pertenece a la Ley Federal de Austeridad Republicana; el Artículo Segundo no reforma el artículo 30 de la LGRA, cuyo texto vigente trata de la verificación de declaraciones patrimoniales. No se aplica ninguna edición.",
+   "source": "model"
+  },
+  {
+   "article": "Artículo 49.",
+   "reason": "La instrucción sólo adiciona la fracción X, pero el decreto vuelve a imprimir las fracciones VIII y IX con la puntuación cambiada (se quita la 'y' de la VIII y se añade ', y' al final de la IX). Se aplicaron como reformas; conviene verificarlo contra el texto consolidado.",
+   "source": "model"
+  }
+ ],
+ "counts": {
+  "exact": 7,
+  "normalized": 0,
+  "mismatch": 0,
+  "not_applied": 0,
+  "outside_decree": 0,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 0,
+  "notes_match": 6
+ },
+ "transitorios": "mismatch",
+ "body_identical": false,
+ "articles": [
+  {
+   "key": "7",
+   "label": "Artículo 7.",
+   "status": "exact",
+   "notes_match": false,
+   "before": [
+    "Los Servidores Públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los Servidores Públicos observarán las siguientes directrices:",
+    "I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;",
+    "II. Conducirse con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización;",
+    "III. Satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;",
+    "IV. Dar a las personas en general el mismo trato, por lo que no concederán privilegios o preferencias a organizaciones o personas, ni permitirán que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva;",
+    "V. Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades;",
+    "VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de austeridad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados;",
+    "Fracción reformada DOF 12-04-2019",
+    "VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos en la Constitución;",
+    "VIII. Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;",
+    "IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones, y",
+    "X. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano."
+   ],
+   "ai": [
+    "Los Servidores Públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los Servidores Públicos observarán las siguientes directrices:",
+    "I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;",
+    "II. Conducirse con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización;",
+    "III. Satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;",
+    "IV. Dar a las personas en general el mismo trato, por lo que no concederán privilegios o preferencias a organizaciones o personas, ni permitirán que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva;",
+    "V. Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades;",
+    "VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de austeridad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados;",
+    "Fracción reformada DOF 12-04-2019",
+    "VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos en la Constitución;",
+    "VIII. Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;",
+    "IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones;",
+    "Fracción reformada DOF 19-11-2019",
+    "X. Se abstendrán de asociarse con inversionistas, contratistas o empresarios nacionales o extranjeros, para establecer cualquier tipo de negocio privado que afecte el desempeño imparcial y objetivo en razón de intereses personales o familiares, hasta el cuarto grado por consanguinidad o afinidad;",
+    "Fracción adicionada DOF 19-11-2019",
+    "XI. Separarse legalmente de los activos e intereses económicos que afecten de manera directa el ejercicio de sus responsabilidades en el servicio público y que constituyan conflicto de intereses, de acuerdo con lo establecido en esta Ley, en forma previa a la asunción de cualquier empleo, cargo o comisión;",
+    "Fracción adicionada DOF 19-11-2019",
+    "XII. Abstenerse de intervenir o promover, por sí o por interpósita persona, en la selección, nombramiento o designación para el servicio público de personas con quienes tenga parentesco por filiación hasta el cuarto grado o por afinidad hasta el segundo grado, y",
+    "Fracción adicionada DOF 19-11-2019",
+    "XIII. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano.",
+    "Fracción reformada DOF 19-11-2019",
+    "La separación de activos o intereses económicos a que se refiere la fracción XI de este artículo, deberá comprobarse mediante la exhibición de los instrumentos legales conducentes, mismos que deberán incluir una cláusula que garantice la vigencia de la separación durante el tiempo de ejercicio del cargo y hasta por un año posterior a haberse retirado del empleo, cargo o comisión.",
+    "Párrafo adicionado DOF 19-11-2019"
+   ],
+   "official": [
+    "Los Servidores Públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los Servidores Públicos observarán las siguientes directrices:",
+    "I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;",
+    "II. Conducirse con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización;",
+    "III. Satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;",
+    "IV. Dar a las personas en general el mismo trato, por lo que no concederán privilegios o preferencias a organizaciones o personas, ni permitirán que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva;",
+    "V. Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades;",
+    "VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de austeridad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados;",
+    "Fracción reformada DOF 12-04-2019",
+    "VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos en la Constitución;",
+    "VIII. Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;",
+    "IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones;",
+    "Fracción reformada DOF 19-11-2019",
+    "X. Se abstendrán de asociarse con inversionistas, contratistas o empresarios nacionales o extranjeros, para establecer cualquier tipo de negocio privado que afecte el desempeño imparcial y objetivo en razón de intereses personales o familiares, hasta el cuarto grado por consanguinidad o afinidad;",
+    "Fracción adicionada DOF 19-11-2019",
+    "XI. Separarse legalmente de los activos e intereses económicos que afecten de manera directa el ejercicio de sus responsabilidades en el servicio público y que constituyan conflicto de intereses, de acuerdo con lo establecido en esta Ley, en forma previa a la asunción de cualquier empleo, cargo o comisión;",
+    "Fracción adicionada DOF 19-11-2019",
+    "XII. Abstenerse de intervenir o promover, por sí o por interpósita persona, en la selección, nombramiento o designación para el servicio público de personas con quienes tenga parentesco por filiación hasta el cuarto grado o por afinidad hasta el segundo grado, y",
+    "Fracción adicionada DOF 19-11-2019",
+    "XIII. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano.",
+    "Fracción recorrida DOF 19-11-2019",
+    "La separación de activos o intereses económicos a que se refiere la fracción XI de este artículo, deberá comprobarse mediante la exhibición de los instrumentos legales conducentes, mismos que deberán incluir una cláusula que garantice la vigencia de la separación durante el tiempo de ejercicio del cargo y hasta por un año posterior a haberse retirado del empleo, cargo o comisión.",
+    "Párrafo adicionado DOF 19-11-2019"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "49",
+   "label": "Artículo 49.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Incurrirá en Falta administrativa no grave el servidor público cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:",
+    "I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a los demás Servidores Públicos como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley;",
+    "II. Denunciar los actos u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir Faltas administrativas, en términos del artículo 93 de la presente Ley;",
+    "III. Atender las instrucciones de sus superiores, siempre que éstas sean acordes con las disposiciones relacionadas con el servicio público.",
+    "En caso de recibir instrucción o encomienda contraria a dichas disposiciones, deberá denunciar esta circunstancia en términos del artículo 93 de la presente Ley;",
+    "IV. Presentar en tiempo y forma las declaraciones de situación patrimonial y de intereses, en los términos establecidos por esta Ley;",
+    "V. Registrar, integrar, custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, divulgación, sustracción, destrucción, ocultamiento o inutilización indebidos;",
+    "VI. Supervisar que los Servidores Públicos sujetos a su dirección, cumplan con las disposiciones de este artículo;",
+    "VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las normas aplicables;",
+    "VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte, y",
+    "IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad.",
+    "Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales."
+   ],
+   "ai": [
+    "Incurrirá en Falta administrativa no grave el servidor público cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:",
+    "I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a los demás Servidores Públicos como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley;",
+    "II. Denunciar los actos u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir Faltas administrativas, en términos del artículo 93 de la presente Ley;",
+    "III. Atender las instrucciones de sus superiores, siempre que éstas sean acordes con las disposiciones relacionadas con el servicio público.",
+    "En caso de recibir instrucción o encomienda contraria a dichas disposiciones, deberá denunciar esta circunstancia en términos del artículo 93 de la presente Ley;",
+    "IV. Presentar en tiempo y forma las declaraciones de situación patrimonial y de intereses, en los términos establecidos por esta Ley;",
+    "V. Registrar, integrar, custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, divulgación, sustracción, destrucción, ocultamiento o inutilización indebidos;",
+    "VI. Supervisar que los Servidores Públicos sujetos a su dirección, cumplan con las disposiciones de este artículo;",
+    "VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las normas aplicables;",
+    "VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;",
+    "Fracción reformada DOF 19-11-2019",
+    "IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad, y",
+    "Fracción reformada DOF 19-11-2019",
+    "X. Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.",
+    "Fracción adicionada DOF 19-11-2019",
+    "Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales."
+   ],
+   "official": [
+    "Incurrirá en Falta administrativa no grave el servidor público cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:",
+    "I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a los demás Servidores Públicos como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley;",
+    "II. Denunciar los actos u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir Faltas administrativas, en términos del artículo 93 de la presente Ley;",
+    "III. Atender las instrucciones de sus superiores, siempre que éstas sean acordes con las disposiciones relacionadas con el servicio público.",
+    "En caso de recibir instrucción o encomienda contraria a dichas disposiciones, deberá denunciar esta circunstancia en términos del artículo 93 de la presente Ley;",
+    "IV. Presentar en tiempo y forma las declaraciones de situación patrimonial y de intereses, en los términos establecidos por esta Ley;",
+    "V. Registrar, integrar, custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, divulgación, sustracción, destrucción, ocultamiento o inutilización indebidos;",
+    "VI. Supervisar que los Servidores Públicos sujetos a su dirección, cumplan con las disposiciones de este artículo;",
+    "VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las normas aplicables;",
+    "VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;",
+    "Fracción reformada DOF 19-11-2019",
+    "IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad, y",
+    "Fracción reformada DOF 19-11-2019",
+    "X. Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.",
+    "Fracción adicionada DOF 19-11-2019",
+    "Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales."
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "53",
+   "label": "Artículo 53.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Cometerá peculado el servidor público que autorice, solicite o realice actos para el uso o apropiación para sí o para las personas a las que se refiere el artículo anterior, de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables."
+   ],
+   "ai": [
+    "Cometerá peculado el servidor público que autorice, solicite o realice actos para el uso o apropiación para sí o para las personas a las que se refiere el artículo anterior, de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables.",
+    "En términos de lo dispuesto por el párrafo anterior, los servidores públicos no podrán disponer del servicio de miembros de alguna corporación policiaca, seguridad pública o de las fuerzas armadas, en el ejercicio de sus funciones, para otorgar seguridad personal, salvo en los casos en que la normativa que regule su actividad lo contemple o por las circunstancias se considere necesario proveer de dicha seguridad, siempre que se encuentre debidamente justificada a juicio del titular de las propias corporaciones de seguridad y previo informe al Órgano interno de control respectivo o a la Secretaría.",
+    "Párrafo adicionado DOF 19-11-2019"
+   ],
+   "official": [
+    "Cometerá peculado el servidor público que autorice, solicite o realice actos para el uso o apropiación para sí o para las personas a las que se refiere el artículo anterior, de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables.",
+    "En términos de lo dispuesto por el párrafo anterior, los servidores públicos no podrán disponer del servicio de miembros de alguna corporación policiaca, seguridad pública o de las fuerzas armadas, en el ejercicio de sus funciones, para otorgar seguridad personal, salvo en los casos en que la normativa que regule su actividad lo contemple o por las circunstancias se considere necesario proveer de dicha seguridad, siempre que se encuentre debidamente justificada a juicio del titular de las propias corporaciones de seguridad y previo informe al Órgano interno de control respectivo o a la Secretaría.",
+    "Párrafo adicionado DOF 19-11-2019"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "59",
+   "label": "Artículo 59.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Será responsable de contratación indebida el servidor público que autorice cualquier tipo de contratación, así como la selección, nombramiento o designación, de quien se encuentre impedido por disposición legal o inhabilitado por resolución de autoridad competente para ocupar un empleo, cargo o comisión en el servicio público o inhabilitado para realizar contrataciones con los entes públicos, siempre que en el caso de las inhabilitaciones, al momento de la autorización, éstas se encuentren inscritas en el sistema nacional de servidores públicos y particulares sancionados de la Plataforma digital nacional."
+   ],
+   "ai": [
+    "Será responsable de contratación indebida el servidor público que autorice cualquier tipo de contratación, así como la selección, nombramiento o designación, de quien se encuentre impedido por disposición legal o inhabilitado por resolución de autoridad competente para ocupar un empleo, cargo o comisión en el servicio público o inhabilitado para realizar contrataciones con los entes públicos, siempre que en el caso de las inhabilitaciones, al momento de la autorización, éstas se encuentren inscritas en el sistema nacional de servidores públicos y particulares sancionados de la Plataforma digital nacional.",
+    "Incurrirá en la responsabilidad dispuesta en el párrafo anterior, el servidor público que intervenga o promueva, por sí o por interpósita persona, en la selección, nombramiento o designación de personas para el servicio público en función de intereses de negocios.",
+    "Párrafo adicionado DOF 19-11-2019"
+   ],
+   "official": [
+    "Será responsable de contratación indebida el servidor público que autorice cualquier tipo de contratación, así como la selección, nombramiento o designación, de quien se encuentre impedido por disposición legal o inhabilitado por resolución de autoridad competente para ocupar un empleo, cargo o comisión en el servicio público o inhabilitado para realizar contrataciones con los entes públicos, siempre que en el caso de las inhabilitaciones, al momento de la autorización, éstas se encuentren inscritas en el sistema nacional de servidores públicos y particulares sancionados de la Plataforma digital nacional.",
+    "Incurrirá en la responsabilidad dispuesta en el párrafo anterior, el servidor público que intervenga o promueva, por sí o por interpósita persona, en la selección, nombramiento o designación de personas para el servicio público en función de intereses de negocios.",
+    "Párrafo adicionado DOF 19-11-2019"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "60 bis",
+   "label": "Artículo 60 Bis.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [],
+   "ai": [
+    "Comete simulación de acto jurídico el servidor público que utilice personalidad jurídica distinta a la suya para obtener, en beneficio propio o de algún familiar hasta el cuarto grado por consanguinidad o afinidad, recursos públicos en forma contraria a la ley.",
+    "Esta falta administrativa se sancionará con inhabilitación de cinco a diez años.",
+    "Artículo adicionado DOF 19-11-2019"
+   ],
+   "official": [
+    "Comete simulación de acto jurídico el servidor público que utilice personalidad jurídica distinta a la suya para obtener, en beneficio propio o de algún familiar hasta el cuarto grado por consanguinidad o afinidad, recursos públicos en forma contraria a la ley.",
+    "Esta falta administrativa se sancionará con inhabilitación de cinco a diez años.",
+    "Artículo adicionado DOF 19-11-2019"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "63 bis",
+   "label": "Artículo 63 Bis.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [],
+   "ai": [
+    "Cometerá nepotismo el servidor público que, valiéndose de las atribuciones o facultades de su empleo, cargo o comisión, directa o indirectamente, designe, nombre o intervenga para que se contrate como personal de confianza, de estructura, de base o por honorarios en el ente público en que ejerza sus funciones, a personas con las que tenga lazos de parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato.",
+    "Artículo adicionado DOF 19-11-2019"
+   ],
+   "official": [
+    "Cometerá nepotismo el servidor público que, valiéndose de las atribuciones o facultades de su empleo, cargo o comisión, directa o indirectamente, designe, nombre o intervenga para que se contrate como personal de confianza, de estructura, de base o por honorarios en el ente público en que ejerza sus funciones, a personas con las que tenga lazos de parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato.",
+    "Artículo adicionado DOF 19-11-2019"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "64 bis",
+   "label": "Artículo 64 Bis.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [],
+   "ai": [
+    "Son faltas administrativas graves las violaciones a las disposiciones sobre fideicomisos establecidas en la Ley Federal de Austeridad Republicana.",
+    "Artículo adicionado DOF 19-11-2019"
+   ],
+   "official": [
+    "Son faltas administrativas graves las violaciones a las disposiciones sobre fideicomisos establecidas en la Ley Federal de Austeridad Republicana.",
+    "Artículo adicionado DOF 19-11-2019"
+   ],
+   "diff": [],
+   "cause": null
+  }
+ ]
+}

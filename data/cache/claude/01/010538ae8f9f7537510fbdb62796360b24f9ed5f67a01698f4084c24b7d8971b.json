@@ -1,0 +1,298 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 29.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. El nombre de la persona quejosa;"
+    ]
+   },
+   {
+    "article": "Artículo 29.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "El actuario o actuaria asentará en el expediente la razón respectiva."
+    ]
+   },
+   {
+    "article": "Artículo 30.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción I, párrafo primero",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. A las y los representantes de las autoridades responsables y a las autoridades que tengan el carácter de terceras interesadas, así como cualesquier otra que tuviere intervención en el juicio, la primera notificación deberá hacerse por oficio impreso, en los términos precisados en el artículo 28 de esta Ley y excepcionalmente a través de oficio digitalizado mediante la utilización de la Firma Electrónica."
+    ]
+   },
+   {
+    "article": "Artículo 30.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción I, párrafo quinto",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "De no generarse la constancia de consulta antes mencionada, el órgano jurisdiccional que corresponda tendrá por hecha la notificación y se dará por no cumplida por la autoridad responsable la resolución que contenga. Cuando el órgano jurisdiccional lo estime conveniente por la naturaleza del acto podrá ordenar que las notificaciones se hagan por conducto del actuario o la actuaria, quien, además, asentará en el expediente cualquiera de las situaciones anteriores."
+    ]
+   },
+   {
+    "article": "Artículo 30.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 9,
+    "to_block": 10,
+    "paragraphs": [
+     "II. Las personas quejosas o terceras interesadas que cuenten con Firma Electrónica están obligadas a ingresar al sistema electrónico del Poder Judicial de la Federación todos los días y obtener la constancia a que se refiere la fracción III del artículo 31 de esta Ley, en un plazo máximo de dos días a partir de que el órgano jurisdiccional la hubiere enviado, con excepción de las determinaciones dictadas en el incidente de suspensión, en cuyo caso, el plazo será de veinticuatro horas.",
+     "De no ingresar al sistema electrónico del Poder Judicial de la Federación dentro de los plazos señalados, el órgano jurisdiccional que corresponda tendrá por hecha la notificación. Cuando el órgano jurisdiccional lo estime conveniente por la naturaleza del acto podrá ordenar que las notificaciones se hagan por conducto del actuario o actuaria, quien, además, hará constar en el expediente cualquiera de las situaciones anteriores, y"
+    ]
+   },
+   {
+    "article": "Artículo 31.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción I, párrafo primero",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Las que correspondan a las autoridades responsables y a las autoridades que tengan el carácter de terceras interesadas, desde el momento en que hayan quedado legalmente hechas."
+    ]
+   },
+   {
+    "article": "Artículo 31.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "II. Las demás, desde el día siguiente al de la notificación personal o al de la fijación y publicación de la lista que se realice en los términos de la presente Ley. Tratándose de aquellas personas usuarias que cuenten con Firma Electrónica, la notificación por lista surtirá sus efectos cuando llegado el término al que se refiere la fracción II del artículo 30, no hubieren generado la constancia electrónica que acredite la consulta de los archivos respectivos, debiendo asentar el actuario o actuaria la razón correspondiente, y"
+    ]
+   },
+   {
+    "article": "Artículo 33.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "V. Los órganos jurisdiccionales de los poderes judiciales de los Estados y de la Ciudad de México, en los casos previstos por esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 37.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 37.",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "Es jueza o juez competente la o el que tenga jurisdicción en el lugar donde el acto que se reclame deba tener ejecución, trate de ejecutarse, se esté ejecutando o se haya ejecutado.",
+     "Si el acto reclamado puede tener ejecución en más de un distrito o ha comenzado a ejecutarse en uno de ellos y sigue ejecutándose en otro, es competente el juez o jueza de distrito ante el o la que se presente la demanda.",
+     "Cuando el acto reclamado no requiera ejecución material es competente el juez o jueza de distrito en cuya jurisdicción se haya presentado la demanda."
+    ]
+   },
+   {
+    "article": "Artículo 38.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 38.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Es competente para conocer del juicio de amparo indirecto que se promueva contra los actos de un juez o jueza de distrito, otro u otra del mismo distrito y especialización en su caso y, si no lo hubiera, el más cercano o cercana dentro de la jurisdicción del circuito al que pertenezca."
+    ]
+   },
+   {
+    "article": "Artículo 39.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 39.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Cuando se trate de amparos contra actos de autoridades que actúen en auxilio de la justicia federal, no podrá conocer el juez o jueza de distrito que deba avocarse al conocimiento del asunto en que se haya originado el acto reclamado.",
+     "En este caso, conocerá otro u otra del mismo distrito y especialización, en su caso, y si no lo hubiera, el más cercano o cercana dentro de la jurisdicción del circuito a que pertenezca."
+    ]
+   },
+   {
+    "article": "Artículo 40.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 40.",
+    "from_block": 1,
+    "to_block": 7,
+    "paragraphs": [
+     "El Pleno de la Suprema Corte de Justicia de la Nación podrá ejercer, de manera oficiosa o a solicitud de la persona titular de la Fiscalía General de la República la facultad de atracción para conocer de un amparo directo que corresponda resolver a los tribunales colegiados de circuito, cuando por su interés y trascendencia lo ameriten, de conformidad con el siguiente procedimiento:",
+     "I. Planteado el caso por cualquiera de las ministras o los ministros, o en su caso hecha la solicitud de la persona titular de la Fiscalía General de la República, el Pleno acordará si procede solicitar los autos al tribunal colegiado de circuito, en cuyo caso, previa suspensión del procedimiento, éste los remitirá dentro del plazo de tres días siguientes a la recepción de la solicitud;",
+     "II. Recibidos los autos se turnará el asunto al ministro o ministra que corresponda, para que dentro del plazo de quince días formule dictamen a efecto de resolver si se ejerce o no dicha facultad, y",
+     "III. Transcurrido el plazo anterior, el dictamen será discutido por el tribunal pleno dentro de los tres días siguientes.",
+     "Si el Pleno decide ejercer la facultad de atracción se avocará al conocimiento; en caso contrario, devolverá los autos al tribunal de origen."
+    ]
+   },
+   {
+    "article": "Artículo 43.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 43.",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "Se deroga."
+    ]
+   },
+   {
+    "article": "Artículo 46.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando un tribunal colegiado de circuito tenga información de que otro conoce de un asunto que a aquél le corresponda, lo requerirá para que le remita los autos. Si el requerido estima no ser competente deberá remitir los autos, dentro de los tres días siguientes a la recepción del requerimiento. Si considera que lo es, en igual plazo hará saber su resolución al requirente, suspenderá el procedimiento y remitirá los autos a la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación, quien lo turnará a la ministra o ministro ponente que corresponda, para que aquella resuelva lo que proceda dentro del plazo de ocho días."
+    ]
+   },
+   {
+    "article": "Artículo 48.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Recibida la demanda y sus anexos por el órgano requerido, éste decidirá de plano, dentro de las cuarenta y ocho horas siguientes, si acepta o no el conocimiento del asunto. Si acepta, comunicará su resolución a la persona requirente, previa notificación de las partes. En caso contrario, devolverá la demanda a la persona requirente, quien deberá resolver dentro de las cuarenta y ocho horas siguientes si insiste o no en declinar su competencia. Si no insiste, se limitará a comunicar su resolución a la persona requerida y se dará por terminado el conflicto competencial. Si insiste en declinar su competencia y la cuestión se plantea entre órganos de la jurisdicción de un mismo tribunal colegiado de circuito, remitirá los autos al tribunal colegiado de circuito de su jurisdicción, el cual dará aviso a la persona requerida para que exponga lo que estime pertinente."
+    ]
+   },
+   {
+    "article": "Artículo 48.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Si el conflicto competencial se plantea entre órganos que no sean de la jurisdicción de un mismo tribunal colegiado de circuito, lo resolverá el que ejerza jurisdicción sobre el o la requirente, quien remitirá los autos y dará aviso a la persona requerida para que exponga lo conducente, debiéndose estar a lo que se dispone en el artículo anterior."
+    ]
+   },
+   {
+    "article": "Artículo 48.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "cuarto",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Recibidos los autos y el oficio relativo, el tribunal colegiado de circuito tramitará el expediente y resolverá dentro de los ocho días siguientes quién debe conocer del juicio; comunicará su resolución a las o los involucrados y remitirá los autos al órgano declarado competente."
+    ]
+   },
+   {
+    "article": "Artículo 51.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Los ministros y las ministras de la Suprema Corte de Justicia de la Nación, los magistrados y magistradas de circuito, los jueces y juezas de distrito, así como las autoridades que conozcan de los juicios de amparo, deberán excusarse cuando ocurra cualquiera de las siguientes causas de impedimento:"
+    ]
+   },
+   {
+    "article": "Artículo 51.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Si son cónyuges o parientes de alguna de las partes, de sus abogados o abogadas o representantes, en línea recta por consanguinidad o afinidad sin limitación de grado; en la colateral por consanguinidad dentro del cuarto grado, o en la colateral por afinidad dentro del segundo;"
+    ]
+   },
+   {
+    "article": "Artículo 51.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Si han sido abogados, abogadas, apoderados o apoderadas de alguna de las partes en el asunto que haya motivado el acto reclamado o en el juicio de amparo;"
+    ]
+   },
+   {
+    "article": "Artículo 51.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Si hubieren tenido el carácter de autoridades responsables en el juicio de amparo, o hubieren emitido en otra instancia o jurisdicción el acto reclamado o la resolución impugnada, excepto cuando se trate de la persona titular de la presidencia del órgano jurisdiccional de amparo en las resoluciones materia del recurso de reclamación;"
+    ]
+   },
+   {
+    "article": "Artículo 51.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "V. Si hubieren aconsejado como asesores o asesoras la resolución reclamada;"
+    ]
+   },
+   {
+    "article": "Artículo 51.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VII",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "VII. Si tuvieren amistad estrecha o enemistad manifiesta con alguna de las partes, sus abogados, abogadas o representantes, y"
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "Artículo 29.",
+    "reason": "La instrucción menciona el 'párrafo primero', pero el decreto lo deja intacto ('Artículo 29. ...'). Se interpretó que se refiere a la fracción II que forma parte de ese párrafo, así que sólo se reformaron la fracción II y el párrafo segundo."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 29.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. El nombre de la persona quejosa;\"]},{\"article\":\"Artículo 29.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"El actuario o actuaria asentará en el expediente la razón respectiva.\"]},{\"article\":\"Artículo 30.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción I, párrafo primero\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. A las y los representantes de las autoridades responsables y a las autoridades que tengan el carácter de terceras interesadas, así como cualesquier otra que tuviere intervención en el juicio, la primera notificación deberá hacerse por oficio impreso, en los términos precisados en el artículo 28 de esta Ley y excepcionalmente a través de oficio digitalizado mediante la utilización de la Firma Electrónica.\"]},{\"article\":\"Artículo 30.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción I, párrafo quinto\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"De no generarse la constancia de consulta antes mencionada, el órgano jurisdiccional que corresponda tendrá por hecha la notificación y se dará por no cumplida por la autoridad responsable la resolución que contenga. Cuando el órgano jurisdiccional lo estime conveniente por la naturaleza del acto podrá ordenar que las notificaciones se hagan por conducto del actuario o la actuaria, quien, además, asentará en el expediente cualquiera de las situaciones anteriores.\"]},{\"article\":\"Artículo 30.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":9,\"to_block\":10,\"paragraphs\":[\"II. Las personas quejosas o terceras interesadas que cuenten con Firma Electrónica están obligadas a ingresar al sistema electrónico del Poder Judicial de la Federación todos los días y obtener la constancia a que se refiere la fracción III del artículo 31 de esta Ley, en un plazo máximo de dos días a partir de que el órgano jurisdiccional la hubiere enviado, con excepción de las determinaciones dictadas en el incidente de suspensión, en cuyo caso, el plazo será de veinticuatro horas.\",\"De no ingresar al sistema electrónico del Poder Judicial de la Federación dentro de los plazos señalados, el órgano jurisdiccional que corresponda tendrá por hecha la notificación. Cuando el órgano jurisdiccional lo estime conveniente por la naturaleza del acto podrá ordenar que las notificaciones se hagan por conducto del actuario o actuaria, quien, además, hará constar en el expediente cualquiera de las situaciones anteriores, y\"]},{\"article\":\"Artículo 31.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción I, párrafo primero\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Las que correspondan a las autoridades responsables y a las autoridades que tengan el carácter de terceras interesadas, desde el momento en que hayan quedado legalmente hechas.\"]},{\"article\":\"Artículo 31.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"II. Las demás, desde el día siguiente al de la notificación personal o al de la fijación y publicación de la lista que se realice en los términos de la presente Ley. Tratándose de aquellas personas usuarias que cuenten con Firma Electrónica, la notificación por lista surtirá sus efectos cuando llegado el término al que se refiere la fracción II del artículo 30, no hubieren generado la constancia electrónica que acredite la consulta de los archivos respectivos, debiendo asentar el actuario o actuaria la razón correspondiente, y\"]},{\"article\":\"Artículo 33.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"V. Los órganos jurisdiccionales de los poderes judiciales de los Estados y de la Ciudad de México, en los casos previstos por esta Ley.\"]},{\"article\":\"Artículo 37.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 37.\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"Es jueza o juez competente la o el que tenga jurisdicción en el lugar donde el acto que se reclame deba tener ejecución, trate de ejecutarse, se esté ejecutando o se haya ejecutado.\",\"Si el acto reclamado puede tener ejecución en más de un distrito o ha comenzado a ejecutarse en uno de ellos y sigue ejecutándose en otro, es competente el juez o jueza de distrito ante el o la que se presente la demanda.\",\"Cuando el acto reclamado no requiera ejecución material es competente el juez o jueza de distrito en cuya jurisdicción se haya presentado la demanda.\"]},{\"article\":\"Artículo 38.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 38.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Es competente para conocer del juicio de amparo indirecto que se promueva contra los actos de un juez o jueza de distrito, otro u otra del mismo distrito y especialización en su caso y, si no lo hubiera, el más cercano o cercana dentro de la jurisdicción del circuito al que pertenezca.\"]},{\"article\":\"Artículo 39.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 39.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Cuando se trate de amparos contra actos de autoridades que actúen en auxilio de la justicia federal, no podrá conocer el juez o jueza de distrito que deba avocarse al conocimiento del asunto en que se haya originado el acto reclamado.\",\"En este caso, conocerá otro u otra del mismo distrito y especialización, en su caso, y si no lo hubiera, el más cercano o cercana dentro de la jurisdicción del circuito a que pertenezca.\"]},{\"article\":\"Artículo 40.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 40.\",\"from_block\":1,\"to_block\":7,\"paragraphs\":[\"El Pleno de la Suprema Corte de Justicia de la Nación podrá ejercer, de manera oficiosa o a solicitud de la persona titular de la Fiscalía General de la República la facultad de atracción para conocer de un amparo directo que corresponda resolver a los tribunales colegiados de circuito, cuando por su interés y trascendencia lo ameriten, de conformidad con el siguiente procedimiento:\",\"I. Planteado el caso por cualquiera de las ministras o los ministros, o en su caso hecha la solicitud de la persona titular de la Fiscalía General de la República, el Pleno acordará si procede solicitar los autos al tribunal colegiado de circuito, en cuyo caso, previa suspensión del procedimiento, éste los remitirá dentro del plazo de tres días siguientes a la recepción de la solicitud;\",\"II. Recibidos los autos se turnará el asunto al ministro o ministra que corresponda, para que dentro del plazo de quince días formule dictamen a efecto de resolver si se ejerce o no dicha facultad, y\",\"III. Transcurrido el plazo anterior, el dictamen será discutido por el tribunal pleno dentro de los tres días siguientes.\",\"Si el Pleno decide ejercer la facultad de atracción se avocará al conocimiento; en caso contrario, devolverá los autos al tribunal de origen.\"]},{\"article\":\"Artículo 43.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 43.\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"Se deroga.\"]},{\"article\":\"Artículo 46.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando un tribunal colegiado de circuito tenga información de que otro conoce de un asunto que a aquél le corresponda, lo requerirá para que le remita los autos. Si el requerido estima no ser competente deberá remitir los autos, dentro de los tres días siguientes a la recepción del requerimiento. Si considera que lo es, en igual plazo hará saber su resolución al requirente, suspenderá el procedimiento y remitirá los autos a la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación, quien lo turnará a la ministra o ministro ponente que corresponda, para que aquella resuelva lo que proceda dentro del plazo de ocho días.\"]},{\"article\":\"Artículo 48.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Recibida la demanda y sus anexos por el órgano requerido, éste decidirá de plano, dentro de las cuarenta y ocho horas siguientes, si acepta o no el conocimiento del asunto. Si acepta, comunicará su resolución a la persona requirente, previa notificación de las partes. En caso contrario, devolverá la demanda a la persona requirente, quien deberá resolver dentro de las cuarenta y ocho horas siguientes si insiste o no en declinar su competencia. Si no insiste, se limitará a comunicar su resolución a la persona requerida y se dará por terminado el conflicto competencial. Si insiste en declinar su competencia y la cuestión se plantea entre órganos de la jurisdicción de un mismo tribunal colegiado de circuito, remitirá los autos al tribunal colegiado de circuito de su jurisdicción, el cual dará aviso a la persona requerida para que exponga lo que estime pertinente.\"]},{\"article\":\"Artículo 48.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Si el conflicto competencial se plantea entre órganos que no sean de la jurisdicción de un mismo tribunal colegiado de circuito, lo resolverá el que ejerza jurisdicción sobre el o la requirente, quien remitirá los autos y dará aviso a la persona requerida para que exponga lo conducente, debiéndose estar a lo que se dispone en el artículo anterior.\"]},{\"article\":\"Artículo 48.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"cuarto\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Recibidos los autos y el oficio relativo, el tribunal colegiado de circuito tramitará el expediente y resolverá dentro de los ocho días siguientes quién debe conocer del juicio; comunicará su resolución a las o los involucrados y remitirá los autos al órgano declarado competente.\"]},{\"article\":\"Artículo 51.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Los ministros y las ministras de la Suprema Corte de Justicia de la Nación, los magistrados y magistradas de circuito, los jueces y juezas de distrito, así como las autoridades que conozcan de los juicios de amparo, deberán excusarse cuando ocurra cualquiera de las siguientes causas de impedimento:\"]},{\"article\":\"Artículo 51.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Si son cónyuges o parientes de alguna de las partes, de sus abogados o abogadas o representantes, en línea recta por consanguinidad o afinidad sin limitación de grado; en la colateral por consanguinidad dentro del cuarto grado, o en la colateral por afinidad dentro del segundo;\"]},{\"article\":\"Artículo 51.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Si han sido abogados, abogadas, apoderados o apoderadas de alguna de las partes en el asunto que haya motivado el acto reclamado o en el juicio de amparo;\"]},{\"article\":\"Artículo 51.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Si hubieren tenido el carácter de autoridades responsables en el juicio de amparo, o hubieren emitido en otra instancia o jurisdicción el acto reclamado o la resolución impugnada, excepto cuando se trate de la persona titular de la presidencia del órgano jurisdiccional de amparo en las resoluciones materia del recurso de reclamación;\"]},{\"article\":\"Artículo 51.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"V. Si hubieren aconsejado como asesores o asesoras la resolución reclamada;\"]},{\"article\":\"Artículo 51.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VII\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"VII. Si tuvieren amistad estrecha o enemistad manifiesta con alguna de las partes, sus abogados, abogadas o representantes, y\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"Artículo 29.\",\"reason\":\"La instrucción menciona el 'párrafo primero', pero el decreto lo deja intacto ('Artículo 29. ...'). Se interpretó que se refiere a la fracción II que forma parte de ese párrafo, así que sólo se reformaron la fracción II y el párrafo segundo.\"}]}",
+ "duration_ms": 36537,
+ "total_cost_usd": 0.2190298,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 5421,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 13750,
+   "webSearchRequests": 0,
+   "costUSD": 0.2190298,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 478,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 13750,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

@@ -1,0 +1,133 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 428.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 428.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El monto de la reparación del daño a la que se refiere el artículo 30 de este Código, en ningún caso podrá ser inferior al cuarenta por ciento del precio de venta al público de cada producto o servicio legítimo correspondiente a aquellos que sean objeto de la conducta."
+    ]
+   },
+   {
+    "article": "Artículo 428 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 428 Bis.",
+    "insert_after": null,
+    "paragraphs": [
+     "Para efectos de la reparación del daño, la víctima u ofendido podrá optar por recibir una cantidad resarcitoria.",
+     "El monto de la cantidad resarcitoria a que refiere el párrafo anterior se fijará independientemente del valor o cantidad de los productos o servicios involucrados y no podrá ser menor a trescientas cuarenta ni mayor a cincuenta mil Unidades de Medida y Actualización, considerando:",
+     "I. Los medios empleados y las circunstancias de modo, tiempo y lugar de la comisión de la conducta;",
+     "II. El alcance de la difusión y el impacto en la explotación normal del derecho afectado, y",
+     "III. La magnitud del perjuicio causado o el beneficio económico probable que se pretendía obtener mediante la comisión del hecho delictuoso."
+    ]
+   },
+   {
+    "article": "Artículo 429.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 429.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Los delitos previstos en este Título se considerarán de comisión dolosa y se perseguirán de oficio, excepto los previstos en los artículos 424, fracción II y 427."
+    ]
+   },
+   {
+    "article": "Artículo 430.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 430.",
+    "insert_after": null,
+    "paragraphs": [
+     "Para efectos de este Título, la escala comercial incluye:",
+     "I. Los actos de comercio o actividades que busquen un beneficio económico o ganancia financiera, cuando sean:",
+     "a) Una consecuencia directa o inmediata de la explotación de las obras o derechos protegidos por la Ley Federal del Derecho de Autor, o",
+     "b) Una ventaja competitiva o un valor agregado para la actividad preponderante que el agente desarrolle en un establecimiento industrial, comercial o de servicios, incluida la obtención, uso o disposición de datos personales, o",
+     "II. Los actos que causen un impacto perjudicial significativo en el interés de la persona titular del derecho de autor o derechos conexos en relación con su posición en el mercado, aunque no se realicen para obtener un beneficio comercial o ganancia financiera.",
+     "Para determinar la escala comercial a que se refiere este Título se requerirá que el umbral económico de la conducta sea igual o superior a ciento setenta Unidades de Medida y Actualización, calculado conforme al precio de venta al público del producto o servicio legítimo.",
+     "En el caso de envíos en cantidades que individualmente no superen dicho monto, su valor se acumulará cuando se realicen en un periodo de hasta noventa días naturales y exista coincidencia o vinculación entre el remitente, destinatario, domicilio de entrega o red de distribución."
+    ]
+   },
+   {
+    "article": "Artículo 431.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 431.",
+    "insert_after": null,
+    "paragraphs": [
+     "Quedarán exceptuadas de lo previsto en este Título las mercancías que formen parte del equipaje personal de los viajeros, conforme a las disposiciones fiscales."
+    ]
+   },
+   {
+    "article": "Artículo 432.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 432.",
+    "insert_after": null,
+    "paragraphs": [
+     "Lo dispuesto en el presente Título será aplicable a los objetos introducidos al país que se encuentren bajo control aduanero, incluyendo aquellos en tránsito o transbordo, las ubicadas en una zona de libre comercio o bajo el régimen de depósito fiscal en almacenes generales de depósito."
+    ]
+   },
+   {
+    "article": "Artículo 433.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 433.",
+    "insert_after": null,
+    "paragraphs": [
+     "Cuando derivado del ejercicio de las actividades inherentes de una autoridad competente, se ubiquen mercancías en establecimientos comerciales, locales fijos, puestos temporales o semifijos o en vías o lugares públicos, cuya procedencia tenga que verificarse, las diligencias se entenderán con la persona que sea encontrada en posesión de las mercancías quien fungirá como responsable de estas."
+    ]
+   },
+   {
+    "article": "Artículo 434.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 434.",
+    "insert_after": null,
+    "paragraphs": [
+     "Para los efectos de los artículos 427 Bis, 427 Ter y 427 Quáter del presente Título, se entenderá por medida tecnológica de protección efectiva lo previsto por la Ley Federal del Derecho de Autor.",
+     "No se considerará medida tecnológica de protección efectiva aquella que, en el curso ordinario de su operación, pueda ser eludida de manera accidental."
+    ]
+   }
+  ],
+  "divisions": [
+   {
+    "operation": "add",
+    "kind": "capitulo",
+    "label": "CAPITULO II",
+    "name": "Disposiciones Generales",
+    "before_article": "Artículo 428."
+   }
+  ],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 428.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 428.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El monto de la reparación del daño a la que se refiere el artículo 30 de este Código, en ningún caso podrá ser inferior al cuarenta por ciento del precio de venta al público de cada producto o servicio legítimo correspondiente a aquellos que sean objeto de la conducta.\"]},{\"article\":\"Artículo 428 Bis.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 428 Bis.\",\"insert_after\":null,\"paragraphs\":[\"Para efectos de la reparación del daño, la víctima u ofendido podrá optar por recibir una cantidad resarcitoria.\",\"El monto de la cantidad resarcitoria a que refiere el párrafo anterior se fijará independientemente del valor o cantidad de los productos o servicios involucrados y no podrá ser menor a trescientas cuarenta ni mayor a cincuenta mil Unidades de Medida y Actualización, considerando:\",\"I. Los medios empleados y las circunstancias de modo, tiempo y lugar de la comisión de la conducta;\",\"II. El alcance de la difusión y el impacto en la explotación normal del derecho afectado, y\",\"III. La magnitud del perjuicio causado o el beneficio económico probable que se pretendía obtener mediante la comisión del hecho delictuoso.\"]},{\"article\":\"Artículo 429.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 429.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Los delitos previstos en este Título se considerarán de comisión dolosa y se perseguirán de oficio, excepto los previstos en los artículos 424, fracción II y 427.\"]},{\"article\":\"Artículo 430.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 430.\",\"insert_after\":null,\"paragraphs\":[\"Para efectos de este Título, la escala comercial incluye:\",\"I. Los actos de comercio o actividades que busquen un beneficio económico o ganancia financiera, cuando sean:\",\"a) Una consecuencia directa o inmediata de la explotación de las obras o derechos protegidos por la Ley Federal del Derecho de Autor, o\",\"b) Una ventaja competitiva o un valor agregado para la actividad preponderante que el agente desarrolle en un establecimiento industrial, comercial o de servicios, incluida la obtención, uso o disposición de datos personales, o\",\"II. Los actos que causen un impacto perjudicial significativo en el interés de la persona titular del derecho de autor o derechos conexos en relación con su posición en el mercado, aunque no se realicen para obtener un beneficio comercial o ganancia financiera.\",\"Para determinar la escala comercial a que se refiere este Título se requerirá que el umbral económico de la conducta sea igual o superior a ciento setenta Unidades de Medida y Actualización, calculado conforme al precio de venta al público del producto o servicio legítimo.\",\"En el caso de envíos en cantidades que individualmente no superen dicho monto, su valor se acumulará cuando se realicen en un periodo de hasta noventa días naturales y exista coincidencia o vinculación entre el remitente, destinatario, domicilio de entrega o red de distribución.\"]},{\"article\":\"Artículo 431.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 431.\",\"insert_after\":null,\"paragraphs\":[\"Quedarán exceptuadas de lo previsto en este Título las mercancías que formen parte del equipaje personal de los viajeros, conforme a las disposiciones fiscales.\"]},{\"article\":\"Artículo 432.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 432.\",\"insert_after\":null,\"paragraphs\":[\"Lo dispuesto en el presente Título será aplicable a los objetos introducidos al país que se encuentren bajo control aduanero, incluyendo aquellos en tránsito o transbordo, las ubicadas en una zona de libre comercio o bajo el régimen de depósito fiscal en almacenes generales de depósito.\"]},{\"article\":\"Artículo 433.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 433.\",\"insert_after\":null,\"paragraphs\":[\"Cuando derivado del ejercicio de las actividades inherentes de una autoridad competente, se ubiquen mercancías en establecimientos comerciales, locales fijos, puestos temporales o semifijos o en vías o lugares públicos, cuya procedencia tenga que verificarse, las diligencias se entenderán con la persona que sea encontrada en posesión de las mercancías quien fungirá como responsable de estas.\"]},{\"article\":\"Artículo 434.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 434.\",\"insert_after\":null,\"paragraphs\":[\"Para los efectos de los artículos 427 Bis, 427 Ter y 427 Quáter del presente Título, se entenderá por medida tecnológica de protección efectiva lo previsto por la Ley Federal del Derecho de Autor.\",\"No se considerará medida tecnológica de protección efectiva aquella que, en el curso ordinario de su operación, pueda ser eludida de manera accidental.\"]}],\"divisions\":[{\"operation\":\"add\",\"kind\":\"capitulo\",\"label\":\"CAPITULO II\",\"name\":\"Disposiciones Generales\",\"before_article\":\"Artículo 428.\"}],\"needs_review\":[]}",
+ "duration_ms": 15163,
+ "total_cost_usd": 0.0740138,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 2167,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 3758,
+   "webSearchRequests": 0,
+   "costUSD": 0.0740138,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 174,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 3758,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

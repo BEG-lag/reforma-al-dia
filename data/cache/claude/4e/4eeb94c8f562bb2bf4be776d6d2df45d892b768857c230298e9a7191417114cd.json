@@ -1,0 +1,437 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "ARTÍCULO 22.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "El otorgamiento de una concesión o asignación se sujetará a lo dispuesto por esta Ley y sus reglamentos y tomará en cuenta la disponibilidad media anual del agua, que se revisará al menos cada dos años, conforme a la programación hídrica; los derechos de explotación, uso o aprovechamiento de agua inscritos en el Registro Público Nacional del Agua; el reglamento de la cuenca hidrológica que se haya expedido, en su caso; la normatividad en materia de control de la extracción así como de la explotación, uso o aprovechamiento de las aguas; y la normatividad relativa a las zonas reglamentadas, vedas y reservas de aguas nacionales existentes en el acuífero, cuenca hidrológica o región hidrológica de que se trate."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 22.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "insert_after": 2,
+    "paragraphs": [
+     "Los derechos amparados en las concesiones y asignaciones no serán objeto de transmisión. Los derechos preferentes derivados de la transmisión de propiedad, fusión y escisión de sociedades civiles o mercantiles, y derechos sucesorios, se reasignarán de conformidad con el Artículo 37 BIS 1 de esta Ley."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 22.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "insert_after": 2,
+    "paragraphs": [
+     "\"La Autoridad del Agua\" reasignará volúmenes a través de procedimientos ordinarios o expeditos, en términos de lo establecido por esta Ley y la Ley Nacional para Eliminar Trámites Burocráticos, en cuyos casos se emitirá un nuevo título de concesión o asignación."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 22.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "I. \"La Autoridad del Agua\" podrá reservar para concesionar ciertas aguas por medio de concurso, cuando se prevea la concurrencia de varias personas interesadas; la reglamentación para tales casos será publicada previamente en cada caso, y"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 22.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "II. Cuando no se reserven las aguas en términos de la fracción anterior, \"la Autoridad del Agua\" podrá otorgar la concesión a quien la solicite en primer lugar. Si distintas personas solicitantes concurrieran simultáneamente, \"la Autoridad del Agua\" podrá proceder a seleccionar la solicitud que ofrezca los mejores términos y condiciones que garanticen el uso racional, el reúso y la restauración del recurso hídrico."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 22.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "actual párrafo séptimo",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "Además de lo dispuesto anteriormente para el trámite de títulos de concesión, los municipios, los estados y la Ciudad de México, en su caso, en su solicitud de asignación presentarán ante \"la Autoridad del Agua\" lo siguiente:"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 22.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "d)",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "d) La asunción de las obligaciones de usar racional y eficientemente el agua; respetar las reservas y los derechos de terceras personas, aguas abajo, inscritas en el Registro Público Nacional del Agua; cumplir con las normas y condiciones de calidad en el suministro de agua y en la descarga de agua residual a cuerpos receptores; y pagar oportunamente y en forma completa las contribuciones o aprovechamientos federales a su cargo, con motivo de la explotación, uso o aprovechamiento de aguas nacionales, la descarga de aguas residuales y los servicios ambientales que correspondan, y"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 22.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "actual párrafo octavo",
+    "from_block": 15,
+    "to_block": 15,
+    "paragraphs": [
+     "Para efectos de lo dispuesto en el presente Artículo, \"la Comisión\" publicará dentro de los primeros tres meses de al menos cada dos años, en los términos de las disposiciones reglamentarias de esta Ley, la disponibilidad de aguas nacionales por cuenca hidrológica, región hidrológica o localidad, que podrá ser consultada a través del Registro Público Nacional del Agua y del Sistema Nacional de Información sobre cantidad, calidad, usos y conservación del agua."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 23.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El título de concesión o asignación que otorgue \"la Autoridad del Agua\" deberá expresar por lo menos: Nombre y domicilio de la persona titular; la cuenca hidrológica, acuífero en su caso, región hidrológica, municipio y localidad a que se refiere; el punto de extracción de las aguas nacionales; el volumen de extracción y consumo autorizados; se referirán explícitamente el uso o usos, caudales y volúmenes correspondientes; el punto de descarga de las aguas residuales con las condiciones de cantidad y calidad; la duración de la concesión o asignación, y como anexo el proyecto aprobado de las obras a realizar o las características de las obras existentes para la extracción de las aguas y para su explotación, uso o aprovechamiento, así como las respectivas para su descarga, incluyendo tratamiento de las aguas residuales y los procesos y medidas para el reúso del agua, en su caso, y restauración del recurso hídrico."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 23.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "En ningún caso la persona titular de una concesión o asignación podrá disponer del agua en volúmenes mayores que los autorizados por \"la Autoridad del Agua\". Para incrementar o modificar de manera permanente la extracción de agua en volumen, caudal o uso específico, invariablemente se deberá tramitar la expedición del título de concesión o asignación respectivo."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 23 BIS.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "ARTÍCULO 23 BIS.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 24.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Las concesiones o asignaciones en los términos del Artículo 22 de esta Ley, serán objeto de prórroga hasta por igual término y características del título vigente por el que se hubieren otorgado, siempre y cuando sus titulares no incurrieren en las causales de terminación previstas en la presente Ley, se cumpla con lo dispuesto en el párrafo segundo del Artículo 22 de esta Ley y en el presente Artículo y lo soliciten entre los tres años previos al término de su vigencia y seis meses antes de su vencimiento."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 24.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Para decidir sobre las características en el otorgamiento de la prórroga se considerará la responsabilidad hídrica y el cumplimiento de obligaciones respecto del pago de derechos de agua."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 24.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo quinto",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "\"La Autoridad del Agua\" notificará personalmente la resolución sobre las solicitudes respectivas referidas en el presente Capítulo, o bien, a través de medios electrónicos proporcionados por la persona solicitante, conforme al plazo establecido en el Artículo 22 de la presente Ley."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 25.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Una vez expedido el título de concesión o asignación, la persona concesionaria o asignataria tendrá el derecho de explotar, usar o aprovechar las aguas nacionales durante el término, uso y condiciones de la concesión o asignación autorizadas por \"la Autoridad del Agua\", conforme a lo dispuesto en esta Ley y sus reglamentos. Dicha expedición será inscrita en el Registro Público Nacional del Agua."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 25.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "La vigencia del título de concesión o asignación inicia a partir del día siguiente a aquel en que sea notificado. Cuando el título de concesión provenga del otorgamiento de una prórroga, su vigencia iniciará el día siguiente al del vencimiento del plazo del título inmediato anterior."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 25.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "El derecho de la persona concesionaria o asignataria sólo podrá ser afectado por causas establecidas en la presente Ley y demás ordenamientos aplicables, debidamente fundadas y motivadas."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 25.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "La concesión, asignación y sus prórrogas se entenderán otorgadas sin perjuicio de los derechos de terceros inscritos en el Registro Público Nacional del Agua y no garantizan la existencia o invariabilidad del volumen de agua concesionada o asignada. Las concesionarias o asignatarias quedarán obligados a dar cumplimiento a las disposiciones de esta Ley, los reglamentos correspondientes u otros ordenamientos aplicables, así como a las condiciones del título, permisos y las prórrogas, en su caso y a responder por los daños y perjuicios que causen a terceras personas y les sean imputables."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 25.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "párrafo quinto",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 25.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "párrafo sexto",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 25.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "párrafo séptimo",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 25.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "párrafo octavo",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 25.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "párrafo noveno",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "Derogado"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 28.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las personas concesionarias tendrán los siguientes derechos:"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 28.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Solicitar a \"la Autoridad del Agua\" la reasignación de volúmenes, ajustándose a lo dispuesto por esta Ley;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las personas concesionarias tendrán las siguientes obligaciones, en adición a las demás asentadas en el presente Título:"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Instalar dentro de los cuarenta y cinco días hábiles siguientes a la notificación del título respectivo a la persona concesionaria, los medidores de agua o los demás dispositivos o procedimientos de medición directa que señalen las disposiciones legales y reglamentarias aplicables, así como las Normas Oficiales Mexicanas;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "X",
+    "from_block": 11,
+    "to_block": 11,
+    "paragraphs": [
+     "X. Cumplir con los requisitos de uso racional y eficiente del agua y realizar su reúso en los términos de esta Ley, las Normas Oficiales Mexicanas, la normatividad aplicable o de las condiciones particulares que al efecto se emitan;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XII",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "XII. Permitir a \"la Autoridad del Agua\" con cargo a las personas concesionarias, asignatarias o permisionarias y con el carácter de crédito fiscal para su cobro, la instalación de dispositivos para la medición del agua explotada, usada o aprovechada, en el caso de que por sí mismos no la realicen, sin menoscabo de la aplicación de las sanciones previstas en esta Ley y sus respectivos reglamentos;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIII",
+    "from_block": 14,
+    "to_block": 14,
+    "paragraphs": [
+     "XIII. Dar aviso inmediato por escrito a \"la Autoridad del Agua\" en caso de que los dispositivos de medición dejen de funcionar, debiendo la persona concesionaria o asignataria reparar o en su caso reemplazar dichos dispositivos dentro del plazo de 30 días naturales;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XVI",
+    "from_block": 17,
+    "to_block": 17,
+    "paragraphs": [
+     "XVI. Presentar cada dos años un informe que contenga los análisis cronológicos e indicadores de la calidad del agua que descarga, realizados en laboratorios certificados por el Instituto Mexicano de Tecnología del Agua o ante una entidad de acreditación autorizada por la Secretaría de Economía, en términos de la normativa aplicable, y"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Además de lo previsto en el Artículo anterior, las personas asignatarias tendrán las siguientes obligaciones:"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 1.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las personas asignatarias tendrán los siguientes derechos:"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 2.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se suspenderá la concesión o asignación para la explotación, uso o aprovechamiento de aguas y bienes nacionales a cargo del Ejecutivo Federal, independientemente de la aplicación de las sanciones que procedan, cuando la persona usufructuaria del título:"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 2.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "No se aplicará la suspensión si dentro de los diez días hábiles siguientes a aquel en que la autoridad en ejercicio de sus facultades haya notificado a la persona usufructuaria del título y ésta acredite haber cubierto los pagos o los créditos a que se refieren las fracciones I y II respectivamente, o demuestra que el incumplimiento que prevén las fracciones IV y V no le son imputables, casos en los que \"la Autoridad del Agua\" resolverá dentro de los cinco días hábiles siguientes a la presentación de pruebas por parte de la persona concesionaria o asignataria, si debe o no aplicarse la suspensión, sin perjuicio de lo establecido en esta Ley en lo relativo a prevención y control de la contaminación de las aguas y responsabilidad por el daño ambiental."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 2.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "En el caso que prevé la fracción III, la suspensión durará hasta que la persona concesionaria o asignataria acredite que han cesado los actos que le dieron origen, caso en el que \"la Autoridad del Agua\" reiniciará sus facultades de inspección, medición y verificación."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 29 BIS 2.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "La suspensión sólo subsistirá en tanto la persona infractora no regularice su situación administrativa o se dicte resolución por autoridad competente que decrete su levantamiento."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"ARTÍCULO 22.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"El otorgamiento de una concesión o asignación se sujetará a lo dispuesto por esta Ley y sus reglamentos y tomará en cuenta la disponibilidad media anual del agua, que se revisará al menos cada dos años, conforme a la programación hídrica; los derechos de explotación, uso o aprovechamiento de agua inscritos en el Registro Público Nacional del Agua; el reglamento de la cuenca hidrológica que se haya expedido, en su caso; la normatividad en materia de control de la extracción así como de la explotación, uso o aprovechamiento de las aguas; y la normatividad relativa a las zonas reglamentadas, vedas y reservas de aguas nacionales existentes en el acuífero, cuenca hidrológica o región hidrológica de que se trate.\"]},{\"article\":\"ARTÍCULO 22.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"insert_after\":2,\"paragraphs\":[\"Los derechos amparados en las concesiones y asignaciones no serán objeto de transmisión. Los derechos preferentes derivados de la transmisión de propiedad, fusión y escisión de sociedades civiles o mercantiles, y derechos sucesorios, se reasignarán de conformidad con el Artículo 37 BIS 1 de esta Ley.\"]},{\"article\":\"ARTÍCULO 22.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"insert_after\":2,\"paragraphs\":[\"\\\"La Autoridad del Agua\\\" reasignará volúmenes a través de procedimientos ordinarios o expeditos, en términos de lo establecido por esta Ley y la Ley Nacional para Eliminar Trámites Burocráticos, en cuyos casos se emitirá un nuevo título de concesión o asignación.\"]},{\"article\":\"ARTÍCULO 22.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"I. \\\"La Autoridad del Agua\\\" podrá reservar para concesionar ciertas aguas por medio de concurso, cuando se prevea la concurrencia de varias personas interesadas; la reglamentación para tales casos será publicada previamente en cada caso, y\"]},{\"article\":\"ARTÍCULO 22.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"II. Cuando no se reserven las aguas en términos de la fracción anterior, \\\"la Autoridad del Agua\\\" podrá otorgar la concesión a quien la solicite en primer lugar. Si distintas personas solicitantes concurrieran simultáneamente, \\\"la Autoridad del Agua\\\" podrá proceder a seleccionar la solicitud que ofrezca los mejores términos y condiciones que garanticen el uso racional, el reúso y la restauración del recurso hídrico.\"]},{\"article\":\"ARTÍCULO 22.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"actual párrafo séptimo\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"Además de lo dispuesto anteriormente para el trámite de títulos de concesión, los municipios, los estados y la Ciudad de México, en su caso, en su solicitud de asignación presentarán ante \\\"la Autoridad del Agua\\\" lo siguiente:\"]},{\"article\":\"ARTÍCULO 22.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"d)\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"d) La asunción de las obligaciones de usar racional y eficientemente el agua; respetar las reservas y los derechos de terceras personas, aguas abajo, inscritas en el Registro Público Nacional del Agua; cumplir con las normas y condiciones de calidad en el suministro de agua y en la descarga de agua residual a cuerpos receptores; y pagar oportunamente y en forma completa las contribuciones o aprovechamientos federales a su cargo, con motivo de la explotación, uso o aprovechamiento de aguas nacionales, la descarga de aguas residuales y los servicios ambientales que correspondan, y\"]},{\"article\":\"ARTÍCULO 22.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"actual párrafo octavo\",\"from_block\":15,\"to_block\":15,\"paragraphs\":[\"Para efectos de lo dispuesto en el presente Artículo, \\\"la Comisión\\\" publicará dentro de los primeros tres meses de al menos cada dos años, en los términos de las disposiciones reglamentarias de esta Ley, la disponibilidad de aguas nacionales por cuenca hidrológica, región hidrológica o localidad, que podrá ser consultada a través del Registro Público Nacional del Agua y del Sistema Nacional de Información sobre cantidad, calidad, usos y conservación del agua.\"]},{\"article\":\"ARTÍCULO 23.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El título de concesión o asignación que otorgue \\\"la Autoridad del Agua\\\" deberá expresar por lo menos: Nombre y domicilio de la persona titular; la cuenca hidrológica, acuífero en su caso, región hidrológica, municipio y localidad a que se refiere; el punto de extracción de las aguas nacionales; el volumen de extracción y consumo autorizados; se referirán explícitamente el uso o usos, caudales y volúmenes correspondientes; el punto de descarga de las aguas residuales con las condiciones de cantidad y calidad; la duración de la concesión o asignación, y como anexo el proyecto aprobado de las obras a realizar o las características de las obras existentes para la extracción de las aguas y para su explotación, uso o aprovechamiento, así como las respectivas para su descarga, incluyendo tratamiento de las aguas residuales y los procesos y medidas para el reúso del agua, en su caso, y restauración del recurso hídrico.\"]},{\"article\":\"ARTÍCULO 23.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"En ningún caso la persona titular de una concesión o asignación podrá disponer del agua en volúmenes mayores que los autorizados por \\\"la Autoridad del Agua\\\". Para incrementar o modificar de manera permanente la extracción de agua en volumen, caudal o uso específico, invariablemente se deberá tramitar la expedición del título de concesión o asignación respectivo.\"]},{\"article\":\"ARTÍCULO 23 BIS.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"ARTÍCULO 23 BIS.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Derogado\"]},{\"article\":\"ARTÍCULO 24.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Las concesiones o asignaciones en los términos del Artículo 22 de esta Ley, serán objeto de prórroga hasta por igual término y características del título vigente por el que se hubieren otorgado, siempre y cuando sus titulares no incurrieren en las causales de terminación previstas en la presente Ley, se cumpla con lo dispuesto en el párrafo segundo del Artículo 22 de esta Ley y en el presente Artículo y lo soliciten entre los tres años previos al término de su vigencia y seis meses antes de su vencimiento.\"]},{\"article\":\"ARTÍCULO 24.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Para decidir sobre las características en el otorgamiento de la prórroga se considerará la responsabilidad hídrica y el cumplimiento de obligaciones respecto del pago de derechos de agua.\"]},{\"article\":\"ARTÍCULO 24.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo quinto\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"\\\"La Autoridad del Agua\\\" notificará personalmente la resolución sobre las solicitudes respectivas referidas en el presente Capítulo, o bien, a través de medios electrónicos proporcionados por la persona solicitante, conforme al plazo establecido en el Artículo 22 de la presente Ley.\"]},{\"article\":\"ARTÍCULO 25.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Una vez expedido el título de concesión o asignación, la persona concesionaria o asignataria tendrá el derecho de explotar, usar o aprovechar las aguas nacionales durante el término, uso y condiciones de la concesión o asignación autorizadas por \\\"la Autoridad del Agua\\\", conforme a lo dispuesto en esta Ley y sus reglamentos. Dicha expedición será inscrita en el Registro Público Nacional del Agua.\"]},{\"article\":\"ARTÍCULO 25.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"La vigencia del título de concesión o asignación inicia a partir del día siguiente a aquel en que sea notificado. Cuando el título de concesión provenga del otorgamiento de una prórroga, su vigencia iniciará el día siguiente al del vencimiento del plazo del título inmediato anterior.\"]},{\"article\":\"ARTÍCULO 25.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"El derecho de la persona concesionaria o asignataria sólo podrá ser afectado por causas establecidas en la presente Ley y demás ordenamientos aplicables, debidamente fundadas y motivadas.\"]},{\"article\":\"ARTÍCULO 25.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"La concesión, asignación y sus prórrogas se entenderán otorgadas sin perjuicio de los derechos de terceros inscritos en el Registro Público Nacional del Agua y no garantizan la existencia o invariabilidad del volumen de agua concesionada o asignada. Las concesionarias o asignatarias quedarán obligados a dar cumplimiento a las disposiciones de esta Ley, los reglamentos correspondientes u otros ordenamientos aplicables, así como a las condiciones del título, permisos y las prórrogas, en su caso y a responder por los daños y perjuicios que causen a terceras personas y les sean imputables.\"]},{\"article\":\"ARTÍCULO 25.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo quinto\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Derogado\"]},{\"article\":\"ARTÍCULO 25.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo sexto\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"Derogado\"]},{\"article\":\"ARTÍCULO 25.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo séptimo\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"Derogado\"]},{\"article\":\"ARTÍCULO 25.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo octavo\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"Derogado\"]},{\"article\":\"ARTÍCULO 25.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo noveno\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"Derogado\"]},{\"article\":\"ARTÍCULO 28.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las personas concesionarias tendrán los siguientes derechos:\"]},{\"article\":\"ARTÍCULO 28.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Solicitar a \\\"la Autoridad del Agua\\\" la reasignación de volúmenes, ajustándose a lo dispuesto por esta Ley;\"]},{\"article\":\"ARTÍCULO 29.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las personas concesionarias tendrán las siguientes obligaciones, en adición a las demás asentadas en el presente Título:\"]},{\"article\":\"ARTÍCULO 29.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Instalar dentro de los cuarenta y cinco días hábiles siguientes a la notificación del título respectivo a la persona concesionaria, los medidores de agua o los demás dispositivos o procedimientos de medición directa que señalen las disposiciones legales y reglamentarias aplicables, así como las Normas Oficiales Mexicanas;\"]},{\"article\":\"ARTÍCULO 29.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"X\",\"from_block\":11,\"to_block\":11,\"paragraphs\":[\"X. Cumplir con los requisitos de uso racional y eficiente del agua y realizar su reúso en los términos de esta Ley, las Normas Oficiales Mexicanas, la normatividad aplicable o de las condiciones particulares que al efecto se emitan;\"]},{\"article\":\"ARTÍCULO 29.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XII\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"XII. Permitir a \\\"la Autoridad del Agua\\\" con cargo a las personas concesionarias, asignatarias o permisionarias y con el carácter de crédito fiscal para su cobro, la instalación de dispositivos para la medición del agua explotada, usada o aprovechada, en el caso de que por sí mismos no la realicen, sin menoscabo de la aplicación de las sanciones previstas en esta Ley y sus respectivos reglamentos;\"]},{\"article\":\"ARTÍCULO 29.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XIII\",\"from_block\":14,\"to_block\":14,\"paragraphs\":[\"XIII. Dar aviso inmediato por escrito a \\\"la Autoridad del Agua\\\" en caso de que los dispositivos de medición dejen de funcionar, debiendo la persona concesionaria o asignataria reparar o en su caso reemplazar dichos dispositivos dentro del plazo de 30 días naturales;\"]},{\"article\":\"ARTÍCULO 29.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XVI\",\"from_block\":17,\"to_block\":17,\"paragraphs\":[\"XVI. Presentar cada dos años un informe que contenga los análisis cronológicos e indicadores de la calidad del agua que descarga, realizados en laboratorios certificados por el Instituto Mexicano de Tecnología del Agua o ante una entidad de acreditación autorizada por la Secretaría de Economía, en términos de la normativa aplicable, y\"]},{\"article\":\"ARTÍCULO 29 BIS.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Además de lo previsto en el Artículo anterior, las personas asignatarias tendrán las siguientes obligaciones:\"]},{\"article\":\"ARTÍCULO 29 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las personas asignatarias tendrán los siguientes derechos:\"]},{\"article\":\"ARTÍCULO 29 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se suspenderá la concesión o asignación para la explotación, uso o aprovechamiento de aguas y bienes nacionales a cargo del Ejecutivo Federal, independientemente de la aplicación de las sanciones que procedan, cuando la persona usufructuaria del título:\"]},{\"article\":\"ARTÍCULO 29 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"No se aplicará la suspensión si dentro de los diez días hábiles siguientes a aquel en que la autoridad en ejercicio de sus facultades haya notificado a la persona usufructuaria del título y ésta acredite haber cubierto los pagos o los créditos a que se refieren las fracciones I y II respectivamente, o demuestra que el incumplimiento que prevén las fracciones IV y V no le son imputables, casos en los que \\\"la Autoridad del Agua\\\" resolverá dentro de los cinco días hábiles siguientes a la presentación de pruebas por parte de la persona concesionaria o asignataria, si debe o no aplicarse la suspensión, sin perjuicio de lo establecido en esta Ley en lo relativo a prevención y control de la contaminación de las aguas y responsabilidad por el daño ambiental.\"]},{\"article\":\"ARTÍCULO 29 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"En el caso que prevé la fracción III, la suspensión durará hasta que la persona concesionaria o asignataria acredite que han cesado los actos que le dieron origen, caso en el que \\\"la Autoridad del Agua\\\" reiniciará sus facultades de inspección, medición y verificación.\"]},{\"article\":\"ARTÍCULO 29 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"La suspensión sólo subsistirá en tanto la persona infractora no regularice su situación administrativa o se dicte resolución por autoridad competente que decrete su levantamiento.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 47101,
+ "total_cost_usd": 0.2948218,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 7249,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 18654,
+   "webSearchRequests": 0,
+   "costUSD": 0.2948218,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 596,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 18654,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

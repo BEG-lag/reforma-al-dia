@@ -1,0 +1,55 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 76.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 76.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Las personas trabajadoras que tengan más de un año de servicios disfrutarán de un periodo anual de vacaciones pagadas, que en ningún caso podrá ser inferior a doce días laborables, y que aumentará en dos días laborables, hasta llegar a veinte, por cada año subsecuente de servicios.",
+     "A partir del sexto año, el periodo de vacaciones aumentará en dos días por cada cinco de servicios."
+    ]
+   },
+   {
+    "article": "Artículo 78.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 78.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Del total del periodo que le corresponda conforme a lo previsto en el artículo 76 de esta Ley, la persona trabajadora disfrutará de doce días de vacaciones continuos, por lo menos. Dicho periodo, a potestad de la persona trabajadora podrá ser distribuido en la forma y tiempo que así lo requiera."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 76.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 76.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Las personas trabajadoras que tengan más de un año de servicios disfrutarán de un periodo anual de vacaciones pagadas, que en ningún caso podrá ser inferior a doce días laborables, y que aumentará en dos días laborables, hasta llegar a veinte, por cada año subsecuente de servicios.\",\"A partir del sexto año, el periodo de vacaciones aumentará en dos días por cada cinco de servicios.\"]},{\"article\":\"Artículo 78.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 78.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Del total del periodo que le corresponda conforme a lo previsto en el artículo 76 de esta Ley, la persona trabajadora disfrutará de doce días de vacaciones continuos, por lo menos. Dicho periodo, a potestad de la persona trabajadora podrá ser distribuido en la forma y tiempo que así lo requiera.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 4410,
+ "total_cost_usd": 0.0225618,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 516,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 1454,
+   "webSearchRequests": 0,
+   "costUSD": 0.0225618,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 0,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 1454,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

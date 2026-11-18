@@ -1,0 +1,297 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 106.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 106.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La reclamación fundada deja sin efectos el acuerdo recurrido y obliga a la persona titular de la presidencia que lo hubiere emitido a dictar el que corresponda."
+    ]
+   },
+   {
+    "article": "Artículo 107.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción I, párrafo primero",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Contra normas generales que por su sola entrada en vigor o con motivo del primer acto de su aplicación causen perjuicio a la persona quejosa."
+    ]
+   },
+   {
+    "article": "Artículo 107.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción I, inciso d)",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "d) Las leyes de los Estados y de la Ciudad de México;"
+    ]
+   },
+   {
+    "article": "Artículo 107.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción III, inciso a)",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "a) La resolución definitiva por violaciones cometidas en la misma resolución o durante el procedimiento si por virtud de estas últimas hubiere quedado sin defensa la persona quejosa, trascendiendo al resultado de la resolución, y"
+    ]
+   },
+   {
+    "article": "Artículo 107.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción IV, párrafo segundo",
+    "from_block": 16,
+    "to_block": 16,
+    "paragraphs": [
+     "Si se trata de actos de ejecución de sentencia sólo podrá promoverse el amparo contra la última resolución dictada en el procedimiento respectivo, entendida como aquélla que aprueba o reconoce el cumplimiento total de lo sentenciado o declara la imposibilidad material o jurídica para darle cumplimiento, o las que ordenan el archivo definitivo del expediente, pudiendo reclamarse en la misma demanda las violaciones cometidas durante ese procedimiento que hubieren dejado sin defensa a la persona quejosa y trascendido al resultado de la resolución."
+    ]
+   },
+   {
+    "article": "Artículo 107.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VII",
+    "from_block": 20,
+    "to_block": 20,
+    "paragraphs": [
+     "VII. Contra las omisiones del o la Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal, o por suspensión de procedimiento cuando no esté satisfecha la reparación del daño;"
+    ]
+   },
+   {
+    "article": "Artículo 108.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. El nombre y domicilio de la persona quejosa y de la que promueve en su nombre, quien deberá acreditar su representación;"
+    ]
+   },
+   {
+    "article": "Artículo 108.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. El nombre y domicilio de la persona tercera interesada, y si no los conoce, manifestarlo así bajo protesta de decir verdad;"
+    ]
+   },
+   {
+    "article": "Artículo 108.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. La autoridad o autoridades responsables. En caso de que se impugnen normas generales, la persona quejosa deberá señalar a los titulares de los órganos de Estado a los que la ley encomiende su promulgación. En el caso de las autoridades que hubieren intervenido en el refrendo del decreto promulgatorio de la ley o en su publicación, la persona quejosa deberá señalarlas con el carácter de autoridades responsables, únicamente cuando impugne sus actos por vicios propios;"
+    ]
+   },
+   {
+    "article": "Artículo 108.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VII",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "VII. Si el amparo se promueve con fundamento en la fracción II del artículo 1o. de esta Ley, deberá precisarse la facultad reservada a los estados u otorgada a la Ciudad de México que haya sido invadida por la autoridad federal; si el amparo se promueve con apoyo en la fracción III de dicho artículo, se señalará el precepto de la Constitución General de la República que contenga la facultad de la autoridad federal que haya sido vulnerada o restringida, y"
+    ]
+   },
+   {
+    "article": "Artículo 109.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. En su caso, el lugar en que se encuentre la persona quejosa."
+    ]
+   },
+   {
+    "article": "Artículo 110.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "El órgano jurisdiccional de amparo, de oficio, mandará expedir las copias cuando el amparo se promueva por comparecencia, por vía telegráfica o por medios electrónicos, lo mismo que en asuntos del orden penal, laboral tratándose de los trabajadores, cuando se puedan afectar intereses de menores de edad o incapaces, así como los derechos agrarios de los núcleos de población comunal o ejidal o de las personas ejidatarias o comuneras, así como cuando se trate de quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio."
+    ]
+   },
+   {
+    "article": "Artículo 111.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Con independencia de lo previsto en la fracción anterior, la persona quejosa tenga conocimiento de actos de autoridad que guarden estrecha relación con los actos reclamados en la demanda inicial. En este caso, la ampliación deberá presentarse dentro de los plazos previstos en el artículo 17 de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 114.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El órgano jurisdiccional mandará requerir al o la promovente que aclare la demanda, señalando con precisión en el auto relativo las deficiencias, irregularidades u omisiones que deban corregirse, cuando:"
+    ]
+   },
+   {
+    "article": "Artículo 115.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "De no existir prevención, o cumplida ésta, el órgano jurisdiccional admitirá la demanda; señalará día y hora para la audiencia constitucional, que se celebrará dentro de los treinta días siguientes; pedirá informe con justificación a las autoridades responsables, apercibiéndolas de las consecuencias que implica su falta en términos del artículo 117 de esta Ley; ordenará correr traslado a la persona tercera interesada, y, en su caso, tramitará el incidente de suspensión."
+    ]
+   },
+   {
+    "article": "Artículo 116.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "A la persona tercera interesada se le entregará copia de la demanda al notificársele del juicio. Si reside fuera de la jurisdicción del órgano que conoce del amparo se le notificará por medio de exhorto o despacho que podrán ser enviados y recibidos haciendo uso de la Firma Electrónica o, en caso de residir en zona conurbada, podrá hacerse por conducto del actuario o actuaria."
+    ]
+   },
+   {
+    "article": "Artículo 117.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Entre la fecha de notificación a la persona quejosa del informe justificado y la de celebración de la audiencia constitucional, deberá mediar un plazo de por lo menos ocho días; de lo contrario, se acordará diferir o suspender la audiencia, según proceda, a solicitud de la persona quejosa o de la persona tercera interesada."
+    ]
+   },
+   {
+    "article": "Artículo 117.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Los informes rendidos fuera de los plazos establecidos en el párrafo primero podrán ser tomados en cuenta si la persona quejosa estuvo en posibilidad de conocerlos. Si no se rindió informe justificado, se presumirá cierto el acto reclamado, salvo prueba en contrario, quedando a cargo de la persona quejosa acreditar su inconstitucionalidad cuando dicho acto no sea en sí mismo violatorio de los derechos humanos y garantías a que se refiere el artículo 1o. de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 117.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo sexto",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "En amparos en materia agraria, además, se expresarán nombre y domicilio de la persona tercera interesada, los preceptos legales que justifiquen los actos que en realidad hayan ejecutado o pretendan ejecutar y si las responsables son autoridades agrarias, la fecha en que se hayan dictado las resoluciones que amparen los derechos agrarios de la persona quejosa y de la tercera, en su caso, y la forma y términos en que las mismas hayan sido ejecutadas, así como los actos por virtud de los cuales aquéllos hayan adquirido sus derechos, de todo lo cual también acompañarán al informe copias certificadas, así como de las actas de posesión, planos de ejecución, censos agrarios, certificados de derechos agrarios, títulos de parcela y demás constancias necesarias para precisar los derechos de las partes."
+    ]
+   },
+   {
+    "article": "Artículo 117.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo séptimo",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "No procederá que la autoridad responsable al rendir el informe pretenda variar o mejorar la fundamentación y motivación del acto reclamado, ni que ofrezca pruebas distintas de las consideradas al pronunciarlo, salvo las relacionadas con las nuevas pretensiones deducidas por la persona quejosa."
+    ]
+   },
+   {
+    "article": "Artículo 117.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo octavo",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "Tratándose de actos materialmente administrativos, cuando en la demanda se aduzca la falta o insuficiencia de fundamentación y motivación, en su informe justificado la autoridad deberá complementar en esos aspectos el acto reclamado. En esos casos, deberá correrse traslado con el informe a la persona quejosa, para que en el plazo de quince días realice la ampliación de la demanda, la que se limitará a cuestiones derivadas de la referida complementación. Con la ampliación se dará vista a las responsables así como a la persona tercera interesada y, en su caso, se emplazará a las diversas autoridades que en ampliación se señalen. Para tales efectos deberá diferirse la audiencia constitucional."
+    ]
+   },
+   {
+    "article": "Artículo 119.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "La documental podrá presentarse con anterioridad, sin perjuicio de que el órgano jurisdiccional haga relación de ella en la audiencia y la tenga como recibida en ese acto, aunque no exista gestión expresa de la persona interesada."
+    ]
+   },
+   {
+    "article": "Artículo 119.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo quinto",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Para el ofrecimiento de las pruebas testimonial, pericial o inspección judicial, se deberán exhibir original y copias para cada una de las partes de los interrogatorios al tenor de los cuales deberán ser examinados los y las testigos, proporcionando el nombre y en su caso el domicilio cuando no los pueda presentar; el cuestionario para los peritos o peritas o de los puntos sobre los que deba versar la inspección. No se admitirán más de tres testigos por cada hecho."
+    ]
+   },
+   {
+    "article": "Artículo 120.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 120.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Al admitirse la prueba pericial, se hará la designación de una persona perita o de las que estime convenientes para la práctica de la diligencia, sin perjuicio de que cada parte pueda designar a una para que se asocie al nombrado por el órgano jurisdiccional o rinda dictamen por separado, designación que deberá hacer dentro de los tres días siguientes a aquél en que surta sus efectos la notificación del auto admisorio de la prueba.",
+     "Las personas peritas no son recusables, pero la nombrada por el órgano jurisdiccional de amparo deberá excusarse de dictaminar cuando exista alguna de las causas de impedimento a que se refiere el artículo 51 de esta Ley. Al aceptar su nombramiento manifestará bajo protesta de decir verdad que no se encuentra en la hipótesis de esos impedimentos."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 106.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 106.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La reclamación fundada deja sin efectos el acuerdo recurrido y obliga a la persona titular de la presidencia que lo hubiere emitido a dictar el que corresponda.\"]},{\"article\":\"Artículo 107.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción I, párrafo primero\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Contra normas generales que por su sola entrada en vigor o con motivo del primer acto de su aplicación causen perjuicio a la persona quejosa.\"]},{\"article\":\"Artículo 107.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción I, inciso d)\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"d) Las leyes de los Estados y de la Ciudad de México;\"]},{\"article\":\"Artículo 107.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción III, inciso a)\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"a) La resolución definitiva por violaciones cometidas en la misma resolución o durante el procedimiento si por virtud de estas últimas hubiere quedado sin defensa la persona quejosa, trascendiendo al resultado de la resolución, y\"]},{\"article\":\"Artículo 107.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción IV, párrafo segundo\",\"from_block\":16,\"to_block\":16,\"paragraphs\":[\"Si se trata de actos de ejecución de sentencia sólo podrá promoverse el amparo contra la última resolución dictada en el procedimiento respectivo, entendida como aquélla que aprueba o reconoce el cumplimiento total de lo sentenciado o declara la imposibilidad material o jurídica para darle cumplimiento, o las que ordenan el archivo definitivo del expediente, pudiendo reclamarse en la misma demanda las violaciones cometidas durante ese procedimiento que hubieren dejado sin defensa a la persona quejosa y trascendido al resultado de la resolución.\"]},{\"article\":\"Artículo 107.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VII\",\"from_block\":20,\"to_block\":20,\"paragraphs\":[\"VII. Contra las omisiones del o la Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal, o por suspensión de procedimiento cuando no esté satisfecha la reparación del daño;\"]},{\"article\":\"Artículo 108.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. El nombre y domicilio de la persona quejosa y de la que promueve en su nombre, quien deberá acreditar su representación;\"]},{\"article\":\"Artículo 108.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. El nombre y domicilio de la persona tercera interesada, y si no los conoce, manifestarlo así bajo protesta de decir verdad;\"]},{\"article\":\"Artículo 108.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. La autoridad o autoridades responsables. En caso de que se impugnen normas generales, la persona quejosa deberá señalar a los titulares de los órganos de Estado a los que la ley encomiende su promulgación. En el caso de las autoridades que hubieren intervenido en el refrendo del decreto promulgatorio de la ley o en su publicación, la persona quejosa deberá señalarlas con el carácter de autoridades responsables, únicamente cuando impugne sus actos por vicios propios;\"]},{\"article\":\"Artículo 108.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VII\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"VII. Si el amparo se promueve con fundamento en la fracción II del artículo 1o. de esta Ley, deberá precisarse la facultad reservada a los estados u otorgada a la Ciudad de México que haya sido invadida por la autoridad federal; si el amparo se promueve con apoyo en la fracción III de dicho artículo, se señalará el precepto de la Constitución General de la República que contenga la facultad de la autoridad federal que haya sido vulnerada o restringida, y\"]},{\"article\":\"Artículo 109.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. En su caso, el lugar en que se encuentre la persona quejosa.\"]},{\"article\":\"Artículo 110.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"El órgano jurisdiccional de amparo, de oficio, mandará expedir las copias cuando el amparo se promueva por comparecencia, por vía telegráfica o por medios electrónicos, lo mismo que en asuntos del orden penal, laboral tratándose de los trabajadores, cuando se puedan afectar intereses de menores de edad o incapaces, así como los derechos agrarios de los núcleos de población comunal o ejidal o de las personas ejidatarias o comuneras, así como cuando se trate de quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio.\"]},{\"article\":\"Artículo 111.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Con independencia de lo previsto en la fracción anterior, la persona quejosa tenga conocimiento de actos de autoridad que guarden estrecha relación con los actos reclamados en la demanda inicial. En este caso, la ampliación deberá presentarse dentro de los plazos previstos en el artículo 17 de esta Ley.\"]},{\"article\":\"Artículo 114.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El órgano jurisdiccional mandará requerir al o la promovente que aclare la demanda, señalando con precisión en el auto relativo las deficiencias, irregularidades u omisiones que deban corregirse, cuando:\"]},{\"article\":\"Artículo 115.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"De no existir prevención, o cumplida ésta, el órgano jurisdiccional admitirá la demanda; señalará día y hora para la audiencia constitucional, que se celebrará dentro de los treinta días siguientes; pedirá informe con justificación a las autoridades responsables, apercibiéndolas de las consecuencias que implica su falta en términos del artículo 117 de esta Ley; ordenará correr traslado a la persona tercera interesada, y, en su caso, tramitará el incidente de suspensión.\"]},{\"article\":\"Artículo 116.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"A la persona tercera interesada se le entregará copia de la demanda al notificársele del juicio. Si reside fuera de la jurisdicción del órgano que conoce del amparo se le notificará por medio de exhorto o despacho que podrán ser enviados y recibidos haciendo uso de la Firma Electrónica o, en caso de residir en zona conurbada, podrá hacerse por conducto del actuario o actuaria.\"]},{\"article\":\"Artículo 117.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Entre la fecha de notificación a la persona quejosa del informe justificado y la de celebración de la audiencia constitucional, deberá mediar un plazo de por lo menos ocho días; de lo contrario, se acordará diferir o suspender la audiencia, según proceda, a solicitud de la persona quejosa o de la persona tercera interesada.\"]},{\"article\":\"Artículo 117.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Los informes rendidos fuera de los plazos establecidos en el párrafo primero podrán ser tomados en cuenta si la persona quejosa estuvo en posibilidad de conocerlos. Si no se rindió informe justificado, se presumirá cierto el acto reclamado, salvo prueba en contrario, quedando a cargo de la persona quejosa acreditar su inconstitucionalidad cuando dicho acto no sea en sí mismo violatorio de los derechos humanos y garantías a que se refiere el artículo 1o. de esta Ley.\"]},{\"article\":\"Artículo 117.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo sexto\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"En amparos en materia agraria, además, se expresarán nombre y domicilio de la persona tercera interesada, los preceptos legales que justifiquen los actos que en realidad hayan ejecutado o pretendan ejecutar y si las responsables son autoridades agrarias, la fecha en que se hayan dictado las resoluciones que amparen los derechos agrarios de la persona quejosa y de la tercera, en su caso, y la forma y términos en que las mismas hayan sido ejecutadas, así como los actos por virtud de los cuales aquéllos hayan adquirido sus derechos, de todo lo cual también acompañarán al informe copias certificadas, así como de las actas de posesión, planos de ejecución, censos agrarios, certificados de derechos agrarios, títulos de parcela y demás constancias necesarias para precisar los derechos de las partes.\"]},{\"article\":\"Artículo 117.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo séptimo\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"No procederá que la autoridad responsable al rendir el informe pretenda variar o mejorar la fundamentación y motivación del acto reclamado, ni que ofrezca pruebas distintas de las consideradas al pronunciarlo, salvo las relacionadas con las nuevas pretensiones deducidas por la persona quejosa.\"]},{\"article\":\"Artículo 117.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo octavo\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"Tratándose de actos materialmente administrativos, cuando en la demanda se aduzca la falta o insuficiencia de fundamentación y motivación, en su informe justificado la autoridad deberá complementar en esos aspectos el acto reclamado. En esos casos, deberá correrse traslado con el informe a la persona quejosa, para que en el plazo de quince días realice la ampliación de la demanda, la que se limitará a cuestiones derivadas de la referida complementación. Con la ampliación se dará vista a las responsables así como a la persona tercera interesada y, en su caso, se emplazará a las diversas autoridades que en ampliación se señalen. Para tales efectos deberá diferirse la audiencia constitucional.\"]},{\"article\":\"Artículo 119.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"La documental podrá presentarse con anterioridad, sin perjuicio de que el órgano jurisdiccional haga relación de ella en la audiencia y la tenga como recibida en ese acto, aunque no exista gestión expresa de la persona interesada.\"]},{\"article\":\"Artículo 119.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo quinto\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Para el ofrecimiento de las pruebas testimonial, pericial o inspección judicial, se deberán exhibir original y copias para cada una de las partes de los interrogatorios al tenor de los cuales deberán ser examinados los y las testigos, proporcionando el nombre y en su caso el domicilio cuando no los pueda presentar; el cuestionario para los peritos o peritas o de los puntos sobre los que deba versar la inspección. No se admitirán más de tres testigos por cada hecho.\"]},{\"article\":\"Artículo 120.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 120.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Al admitirse la prueba pericial, se hará la designación de una persona perita o de las que estime convenientes para la práctica de la diligencia, sin perjuicio de que cada parte pueda designar a una para que se asocie al nombrado por el órgano jurisdiccional o rinda dictamen por separado, designación que deberá hacer dentro de los tres días siguientes a aquél en que surta sus efectos la notificación del auto admisorio de la prueba.\",\"Las personas peritas no son recusables, pero la nombrada por el órgano jurisdiccional de amparo deberá excusarse de dictaminar cuando exista alguna de las causas de impedimento a que se refiere el artículo 51 de esta Ley. Al aceptar su nombramiento manifestará bajo protesta de decir verdad que no se encuentra en la hipótesis de esos impedimentos.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 34899,
+ "total_cost_usd": 0.2174498,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 5212,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 14075,
+   "webSearchRequests": 0,
+   "costUSD": 0.2174498,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 341,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 14075,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

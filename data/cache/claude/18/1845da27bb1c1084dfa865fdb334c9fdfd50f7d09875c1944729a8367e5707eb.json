@@ -1,0 +1,73 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 22.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "fracción II, inciso a), párrafo tercero",
+    "insert_after": 5,
+    "paragraphs": [
+     "Los intereses devengados no pagados y el impuesto al valor agregado correspondientes a pasivos capitalizados no formarán parte del costo comprobado de adquisición de las acciones."
+    ]
+   },
+   {
+    "article": "Artículo 22.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "fracción II, inciso a), párrafo cuarto",
+    "insert_after": 5,
+    "paragraphs": [
+     "Tratándose de aportaciones en especie consistentes en cuentas por cobrar, cesión de derechos de cobro o de títulos de crédito, estas se adicionarán al costo comprobado de adquisición hasta el momento en que se materialicen y hasta por el importe que se cobre en efectivo."
+    ]
+   },
+   {
+    "article": "Artículo 22.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo noveno",
+    "from_block": 24,
+    "to_block": 24,
+    "paragraphs": [
+     "Cuando en este artículo se haga referencia a reembolsos pagados, se entenderán incluidas las amortizaciones de pérdidas y las reducciones de capital a que se refiere el artículo 78 del presente ordenamiento. En estos casos, los contribuyentes únicamente considerarán las amortizaciones, reembolsos o reducciones de capital, que les correspondan a las acciones que no se hayan cancelado, con motivo de dichas operaciones."
+    ]
+   },
+   {
+    "article": "Artículo 25.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "insert_after": 12,
+    "paragraphs": [
+     "Tratándose de anticipos por la prestación de servicios y el otorgamiento del uso o goce temporal de bienes, la deducción procederá únicamente en el ejercicio en que se preste el servicio o transcurra el periodo de uso o goce correspondiente. Cuando la prestación de servicios o el otorgamiento del uso o goce temporal de bienes comprenda más de un ejercicio fiscal, la deducción procederá solo en la parte efectivamente recibida u otorgada."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 22.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"fracción II, inciso a), párrafo tercero\",\"insert_after\":5,\"paragraphs\":[\"Los intereses devengados no pagados y el impuesto al valor agregado correspondientes a pasivos capitalizados no formarán parte del costo comprobado de adquisición de las acciones.\"]},{\"article\":\"Artículo 22.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"fracción II, inciso a), párrafo cuarto\",\"insert_after\":5,\"paragraphs\":[\"Tratándose de aportaciones en especie consistentes en cuentas por cobrar, cesión de derechos de cobro o de títulos de crédito, estas se adicionarán al costo comprobado de adquisición hasta el momento en que se materialicen y hasta por el importe que se cobre en efectivo.\"]},{\"article\":\"Artículo 22.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo noveno\",\"from_block\":24,\"to_block\":24,\"paragraphs\":[\"Cuando en este artículo se haga referencia a reembolsos pagados, se entenderán incluidas las amortizaciones de pérdidas y las reducciones de capital a que se refiere el artículo 78 del presente ordenamiento. En estos casos, los contribuyentes únicamente considerarán las amortizaciones, reembolsos o reducciones de capital, que les correspondan a las acciones que no se hayan cancelado, con motivo de dichas operaciones.\"]},{\"article\":\"Artículo 25.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"insert_after\":12,\"paragraphs\":[\"Tratándose de anticipos por la prestación de servicios y el otorgamiento del uso o goce temporal de bienes, la deducción procederá únicamente en el ejercicio en que se preste el servicio o transcurra el periodo de uso o goce correspondiente. Cuando la prestación de servicios o el otorgamiento del uso o goce temporal de bienes comprenda más de un ejercicio fiscal, la deducción procederá solo en la parte efectivamente recibida u otorgada.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 9835,
+ "total_cost_usd": 0.0906938,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 1225,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 8198,
+   "webSearchRequests": 0,
+   "costUSD": 0.0906938,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 370,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 8198,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

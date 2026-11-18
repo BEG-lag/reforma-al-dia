@@ -1,0 +1,181 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 5.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XI",
+    "from_block": 16,
+    "to_block": 16,
+    "paragraphs": [
+     "XI.- Emitir los dictámenes técnicos en las materias de su competencia que le sean requeridos por las personas particulares, por el Ministerio Público Federal o por cualquier otra autoridad judicial o administrativa, los cuales no prejuzgarán sobre las acciones legales que procedan; efectuar las diligencias y recabar las pruebas que sean necesarias para su emisión;"
+    ]
+   },
+   {
+    "article": "Artículo 402.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción I, párrafo primero",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I.- Falsificar una marca a escala comercial."
+    ]
+   },
+   {
+    "article": "Artículo 402.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "II.- Producir, almacenar, transportar, introducir al país, exportar, distribuir o vender a escala comercial, objetos que ostenten falsificaciones de marcas.",
+     "Igual pena se impondrá a quienes, a sabiendas y de cualquier forma, aporten o provean materias primas o insumos destinados a la producción de objetos que ostenten dichas falsificaciones, o suministren recursos económicos o de cualquier especie, para financiar la realización de las conductas descritas en esta fracción;"
+    ]
+   },
+   {
+    "article": "Artículo 402.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "último párrafo",
+    "from_block": 24,
+    "to_block": 24,
+    "paragraphs": [
+     "Los delitos previstos en las fracciones III a VI del presente artículo se perseguirán por querella de parte ofendida. Los delitos contemplados en las fracciones I, II, VII y VIII se perseguirán de oficio por el Ministerio Público de la Federación."
+    ]
+   },
+   {
+    "article": "Artículo 403 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 403 Bis.",
+    "insert_after": null,
+    "paragraphs": [
+     "Se impondrá de uno a cinco años de prisión y multa de mil a diez mil Unidades de Medida y Actualización vigente al momento en que se cometa el delito, a quien utilice, reproduzca, imite o incorpore, a escala comercial, la identidad gráfica institucional, dominios electrónicos o cualquier documento de carácter oficial, perteneciente a cualquier institución pública de los tres órdenes de gobierno, para inducir al error o engaño con la intención de cometer un ilícito sobre el origen oficial de una comunicación, documento, plataforma, servicio, sistema informático o cualquier otra actuación atribuible a una institución pública, a través de cualquier medio."
+    ]
+   },
+   {
+    "article": "Artículo 404.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 404.",
+    "from_block": 1,
+    "to_block": 4,
+    "paragraphs": [
+     "Se impondrá de dos a seis años de prisión y multa de mil a cien mil Unidades de Medida y Actualización, vigente al momento en que se cometa el delito, a la persona que venda u ofrezca en venta, a escala comercial, a cualquier persona consumidora final en vías o en lugares públicos, objetos que ostenten falsificaciones de marcas protegidas por esta Ley.",
+     "Si la venta o la oferta en venta, a escala comercial, se realiza en establecimientos comerciales, locales fijos, puestos temporales o semifijos, de forma física o empleando medios electrónicos; o si dicha actividad se ejecuta de manera organizada, sistemática o reiterada, se impondrá la pena de cuatro a diez años de prisión y multa de dos mil a doscientas cincuenta mil Unidades de Medida y Actualización, vigente al momento en que se cometa el ilícito."
+    ]
+   },
+   {
+    "article": "Artículo 405.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 405.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Derogado."
+    ]
+   },
+   {
+    "article": "Artículo 406.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 406.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El monto de la reparación del daño a la que se refiere el artículo 30 del Código Penal Federal, en ningún caso podrá ser inferior al cuarenta por ciento del precio de venta al público de cada producto o servicio legítimo correspondiente a aquellos que sean objeto de la conducta."
+    ]
+   },
+   {
+    "article": "Artículo 406 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 406 Bis.",
+    "insert_after": null,
+    "paragraphs": [
+     "Para efectos de la reparación del daño, la víctima u ofendido podrá optar por recibir una cantidad resarcitoria.",
+     "El monto de la cantidad resarcitoria a que refiere el párrafo anterior se fijará independientemente del valor o cantidad de los productos o servicios involucrados y no podrá ser menor a trescientas cuarenta ni mayor a cincuenta mil Unidades de Medida y Actualización, considerando:",
+     "I. Los medios empleados y las circunstancias de modo, tiempo y lugar de la comisión de la conducta;",
+     "II. El alcance de la difusión e impacto en la explotación normal del derecho afectado, y",
+     "III. La magnitud del perjuicio causado o el beneficio económico probable que se pretendía obtener mediante la comisión del hecho delictuoso."
+    ]
+   },
+   {
+    "article": "Artículo 406 Ter.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 406 Ter.",
+    "insert_after": null,
+    "paragraphs": [
+     "Para efectos de este Capítulo, la escala comercial incluye:",
+     "I. Los actos de comercio o actividades que busquen un beneficio económico o ganancia financiera, cuando sean:",
+     "a) Una consecuencia directa o inmediata por la explotación de los derechos protegidos por esta Ley, o",
+     "b) Una ventaja competitiva o un valor agregado para la actividad preponderante que el agente desarrolle en un establecimiento industrial, comercial o de servicios, incluida la obtención, uso o disposición de datos personales, o",
+     "II. Los actos que causen un impacto perjudicial significativo en el interés de la persona titular del derecho en relación con su posición en el mercado, aunque no se realicen para obtener un beneficio comercial o ganancia financiera.",
+     "Para determinar la escala comercial a que se refiere este Capítulo se requerirá que el umbral económico de la conducta sea igual o superior a ciento setenta Unidades de Medida y Actualización, calculado conforme al precio de venta al público del producto o servicio legítimo.",
+     "En el caso de envíos en cantidades que individualmente no superen dicho monto, su valor se acumulará cuando se realicen en un periodo de hasta noventa días naturales y exista coincidencia o vinculación entre el remitente, destinatario, domicilio de entrega o red de distribución."
+    ]
+   },
+   {
+    "article": "Artículo 406 Quáter.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 406 Quáter.",
+    "insert_after": null,
+    "paragraphs": [
+     "Quedarán exceptuadas de lo previsto en este Título las mercancías que formen parte del equipaje personal de los viajeros, conforme a las disposiciones fiscales."
+    ]
+   },
+   {
+    "article": "Artículo 406 Quinquies.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 406 Quinquies.",
+    "insert_after": null,
+    "paragraphs": [
+     "Lo dispuesto en el presente Capítulo será aplicable a las mercancías introducidas al país que se encuentren bajo control aduanero, incluyendo aquellas en tránsito o transbordo, las ubicadas en una zona de libre comercio o bajo el régimen de depósito fiscal en almacenes generales de depósito."
+    ]
+   },
+   {
+    "article": "Artículo 406 Sexies.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 406 Sexies.",
+    "insert_after": null,
+    "paragraphs": [
+     "Cuando derivado del ejercicio de las actividades inherentes de una autoridad competente, se ubiquen mercancías en establecimientos comerciales, locales fijos, puestos temporales o semifijos o en vías o lugares públicos, cuya procedencia tenga que verificarse, las diligencias se entenderán con la persona que sea encontrada en posesión de las mercancías quien fungirá como responsable de estas."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 5.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XI\",\"from_block\":16,\"to_block\":16,\"paragraphs\":[\"XI.- Emitir los dictámenes técnicos en las materias de su competencia que le sean requeridos por las personas particulares, por el Ministerio Público Federal o por cualquier otra autoridad judicial o administrativa, los cuales no prejuzgarán sobre las acciones legales que procedan; efectuar las diligencias y recabar las pruebas que sean necesarias para su emisión;\"]},{\"article\":\"Artículo 402.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción I, párrafo primero\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I.- Falsificar una marca a escala comercial.\"]},{\"article\":\"Artículo 402.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"II.- Producir, almacenar, transportar, introducir al país, exportar, distribuir o vender a escala comercial, objetos que ostenten falsificaciones de marcas.\",\"Igual pena se impondrá a quienes, a sabiendas y de cualquier forma, aporten o provean materias primas o insumos destinados a la producción de objetos que ostenten dichas falsificaciones, o suministren recursos económicos o de cualquier especie, para financiar la realización de las conductas descritas en esta fracción;\"]},{\"article\":\"Artículo 402.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"último párrafo\",\"from_block\":24,\"to_block\":24,\"paragraphs\":[\"Los delitos previstos en las fracciones III a VI del presente artículo se perseguirán por querella de parte ofendida. Los delitos contemplados en las fracciones I, II, VII y VIII se perseguirán de oficio por el Ministerio Público de la Federación.\"]},{\"article\":\"Artículo 403 Bis.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 403 Bis.\",\"insert_after\":null,\"paragraphs\":[\"Se impondrá de uno a cinco años de prisión y multa de mil a diez mil Unidades de Medida y Actualización vigente al momento en que se cometa el delito, a quien utilice, reproduzca, imite o incorpore, a escala comercial, la identidad gráfica institucional, dominios electrónicos o cualquier documento de carácter oficial, perteneciente a cualquier institución pública de los tres órdenes de gobierno, para inducir al error o engaño con la intención de cometer un ilícito sobre el origen oficial de una comunicación, documento, plataforma, servicio, sistema informático o cualquier otra actuación atribuible a una institución pública, a través de cualquier medio.\"]},{\"article\":\"Artículo 404.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 404.\",\"from_block\":1,\"to_block\":4,\"paragraphs\":[\"Se impondrá de dos a seis años de prisión y multa de mil a cien mil Unidades de Medida y Actualización, vigente al momento en que se cometa el delito, a la persona que venda u ofrezca en venta, a escala comercial, a cualquier persona consumidora final en vías o en lugares públicos, objetos que ostenten falsificaciones de marcas protegidas por esta Ley.\",\"Si la venta o la oferta en venta, a escala comercial, se realiza en establecimientos comerciales, locales fijos, puestos temporales o semifijos, de forma física o empleando medios electrónicos; o si dicha actividad se ejecuta de manera organizada, sistemática o reiterada, se impondrá la pena de cuatro a diez años de prisión y multa de dos mil a doscientas cincuenta mil Unidades de Medida y Actualización, vigente al momento en que se cometa el ilícito.\"]},{\"article\":\"Artículo 405.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 405.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Derogado.\"]},{\"article\":\"Artículo 406.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 406.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El monto de la reparación del daño a la que se refiere el artículo 30 del Código Penal Federal, en ningún caso podrá ser inferior al cuarenta por ciento del precio de venta al público de cada producto o servicio legítimo correspondiente a aquellos que sean objeto de la conducta.\"]},{\"article\":\"Artículo 406 Bis.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 406 Bis.\",\"insert_after\":null,\"paragraphs\":[\"Para efectos de la reparación del daño, la víctima u ofendido podrá optar por recibir una cantidad resarcitoria.\",\"El monto de la cantidad resarcitoria a que refiere el párrafo anterior se fijará independientemente del valor o cantidad de los productos o servicios involucrados y no podrá ser menor a trescientas cuarenta ni mayor a cincuenta mil Unidades de Medida y Actualización, considerando:\",\"I. Los medios empleados y las circunstancias de modo, tiempo y lugar de la comisión de la conducta;\",\"II. El alcance de la difusión e impacto en la explotación normal del derecho afectado, y\",\"III. La magnitud del perjuicio causado o el beneficio económico probable que se pretendía obtener mediante la comisión del hecho delictuoso.\"]},{\"article\":\"Artículo 406 Ter.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 406 Ter.\",\"insert_after\":null,\"paragraphs\":[\"Para efectos de este Capítulo, la escala comercial incluye:\",\"I. Los actos de comercio o actividades que busquen un beneficio económico o ganancia financiera, cuando sean:\",\"a) Una consecuencia directa o inmediata por la explotación de los derechos protegidos por esta Ley, o\",\"b) Una ventaja competitiva o un valor agregado para la actividad preponderante que el agente desarrolle en un establecimiento industrial, comercial o de servicios, incluida la obtención, uso o disposición de datos personales, o\",\"II. Los actos que causen un impacto perjudicial significativo en el interés de la persona titular del derecho en relación con su posición en el mercado, aunque no se realicen para obtener un beneficio comercial o ganancia financiera.\",\"Para determinar la escala comercial a que se refiere este Capítulo se requerirá que el umbral económico de la conducta sea igual o superior a ciento setenta Unidades de Medida y Actualización, calculado conforme al precio de venta al público del producto o servicio legítimo.\",\"En el caso de envíos en cantidades que individualmente no superen dicho monto, su valor se acumulará cuando se realicen en un periodo de hasta noventa días naturales y exista coincidencia o vinculación entre el remitente, destinatario, domicilio de entrega o red de distribución.\"]},{\"article\":\"Artículo 406 Quáter.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 406 Quáter.\",\"insert_after\":null,\"paragraphs\":[\"Quedarán exceptuadas de lo previsto en este Título las mercancías que formen parte del equipaje personal de los viajeros, conforme a las disposiciones fiscales.\"]},{\"article\":\"Artículo 406 Quinquies.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 406 Quinquies.\",\"insert_after\":null,\"paragraphs\":[\"Lo dispuesto en el presente Capítulo será aplicable a las mercancías introducidas al país que se encuentren bajo control aduanero, incluyendo aquellas en tránsito o transbordo, las ubicadas en una zona de libre comercio o bajo el régimen de depósito fiscal en almacenes generales de depósito.\"]},{\"article\":\"Artículo 406 Sexies.\",\"operation\":\"add\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 406 Sexies.\",\"insert_after\":null,\"paragraphs\":[\"Cuando derivado del ejercicio de las actividades inherentes de una autoridad competente, se ubiquen mercancías en establecimientos comerciales, locales fijos, puestos temporales o semifijos o en vías o lugares públicos, cuya procedencia tenga que verificarse, las diligencias se entenderán con la persona que sea encontrada en posesión de las mercancías quien fungirá como responsable de estas.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 25572,
+ "total_cost_usd": 0.16717379999999998,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 3615,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 11783,
+   "webSearchRequests": 0,
+   "costUSD": 0.16717379999999998,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 545,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 11783,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

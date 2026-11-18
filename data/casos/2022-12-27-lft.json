@@ -1,0 +1,157 @@
+{
+ "id": "2022-12-27-lft",
+ "source": "backtest",
+ "law": {
+  "slug": "lft",
+  "title": "Ley Federal del Trabajo",
+  "abbreviation": "LFT"
+ },
+ "decree": {
+  "code": 5675889,
+  "title": "Decreto por el que se reforman los artículos 76 y 78 de la Ley Federal del Trabajo, en materia de vacaciones.",
+  "date": "2022-12-27",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5675889&fecha=27/12/2022",
+  "pdf": null,
+  "instruction": [
+   "Artículo Único.- Se reforman los artículos 76 y 78 de la Ley Federal del Trabajo, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "37165dcddae544c48d0f66902075c42fe750a429"
+ },
+ "official": {
+  "commit": "33fcae8b2a8806e974d1d32f7b3a5e120fc5247d",
+  "date": "2022-12-27",
+  "same_day": true
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "Artículo 76.",
+    "Artículo 78."
+   ],
+   "key": "e70b0db0695fbf0ec89e8c619d18c6b3b33200843c2f9c479ca6612145b32d93",
+   "cached": true,
+   "duration_ms": 4410,
+   "cost_usd": 0.0225618,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "76": {
+   "label": "Artículo 76.",
+   "headings": [],
+   "lines": [
+    "Artículo 76.- Las personas trabajadoras que tengan más de un año de servicios disfrutarán de un periodo anual de vacaciones pagadas, que en ningún caso podrá ser inferior a doce días laborables, y que aumentará en dos días laborables, hasta llegar a veinte, por cada año subsecuente de servicios.",
+    "A partir del sexto año, el periodo de vacaciones aumentará en dos días por cada cinco de servicios."
+   ]
+  },
+  "78": {
+   "label": "Artículo 78.",
+   "headings": [],
+   "lines": [
+    "Artículo 78.- Del total del periodo que le corresponda conforme a lo previsto en el artículo 76 de esta Ley, la persona trabajadora disfrutará de doce días de vacaciones continuos, por lo menos. Dicho periodo, a potestad de la persona trabajadora podrá ser distribuido en la forma y tiempo que así lo requiera."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "Artículo 76.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 76.",
+    "paragraphs": [
+     "Las personas trabajadoras que tengan más de un año de servicios disfrutarán de un periodo anual de vacaciones pagadas, que en ningún caso podrá ser inferior a doce días laborables, y que aumentará en dos días laborables, hasta llegar a veinte, por cada año subsecuente de servicios.",
+     "A partir del sexto año, el periodo de vacaciones aumentará en dos días por cada cinco de servicios."
+    ],
+    "from_block": 1,
+    "to_block": 2,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 78.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 78.",
+    "paragraphs": [
+     "Del total del periodo que le corresponda conforme a lo previsto en el artículo 76 de esta Ley, la persona trabajadora disfrutará de doce días de vacaciones continuos, por lo menos. Dicho periodo, a potestad de la persona trabajadora podrá ser distribuido en la forma y tiempo que así lo requiera."
+    ],
+    "from_block": 1,
+    "to_block": 1,
+    "insert_after": null,
+    "batch": 1
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "needs_review": [],
+ "counts": {
+  "exact": 2,
+  "normalized": 0,
+  "mismatch": 0,
+  "not_applied": 0,
+  "outside_decree": 0,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 0,
+  "notes_match": 2
+ },
+ "transitorios": "normalized",
+ "body_identical": true,
+ "articles": [
+  {
+   "key": "76",
+   "label": "Artículo 76.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Los trabajadores que tengan más de un año de servicios disfrutarán de un período anual de vacaciones pagadas, que en ningún caso podrá ser inferior a seis días laborables, y que aumentará en dos días laborables, hasta llegar a doce, por cada año subsecuente de servicios.",
+    "Después del cuarto año, el período de vacaciones aumentará en dos días por cada cinco de servicios."
+   ],
+   "ai": [
+    "Las personas trabajadoras que tengan más de un año de servicios disfrutarán de un periodo anual de vacaciones pagadas, que en ningún caso podrá ser inferior a doce días laborables, y que aumentará en dos días laborables, hasta llegar a veinte, por cada año subsecuente de servicios.",
+    "A partir del sexto año, el periodo de vacaciones aumentará en dos días por cada cinco de servicios.",
+    "Artículo reformado DOF 27-12-2022"
+   ],
+   "official": [
+    "Las personas trabajadoras que tengan más de un año de servicios disfrutarán de un periodo anual de vacaciones pagadas, que en ningún caso podrá ser inferior a doce días laborables, y que aumentará en dos días laborables, hasta llegar a veinte, por cada año subsecuente de servicios.",
+    "A partir del sexto año, el periodo de vacaciones aumentará en dos días por cada cinco de servicios.",
+    "Artículo reformado DOF 27-12-2022"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "78",
+   "label": "Artículo 78.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Los trabajadores deberán disfrutar en forma continua seis días de vacaciones, por lo menos."
+   ],
+   "ai": [
+    "Del total del periodo que le corresponda conforme a lo previsto en el artículo 76 de esta Ley, la persona trabajadora disfrutará de doce días de vacaciones continuos, por lo menos. Dicho periodo, a potestad de la persona trabajadora podrá ser distribuido en la forma y tiempo que así lo requiera.",
+    "Artículo reformado DOF 27-12-2022"
+   ],
+   "official": [
+    "Del total del periodo que le corresponda conforme a lo previsto en el artículo 76 de esta Ley, la persona trabajadora disfrutará de doce días de vacaciones continuos, por lo menos. Dicho periodo, a potestad de la persona trabajadora podrá ser distribuido en la forma y tiempo que así lo requiera.",
+    "Artículo reformado DOF 27-12-2022"
+   ],
+   "diff": [],
+   "cause": null
+  }
+ ]
+}

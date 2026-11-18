@@ -1,0 +1,307 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "ARTÍCULO 12 BIS 1.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Los Organismos de Cuenca, en las regiones hidrológico-administrativas son unidades técnicas, administrativas y jurídicas especializadas, con carácter autónomo que esta Ley les confiere, adscritas directamente a la persona Titular de \"la Comisión\", cuyas atribuciones, naturaleza y ámbito territorial de competencia se establecen en la presente Ley y se detallan en sus reglamentos, y cuyos recursos y presupuesto específicos son determinados por \"la Comisión\"."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 1.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Los Organismos de Cuenca por su carácter especializado y atribuciones específicas que la presente Ley les confiere, actuarán con autonomía ejecutiva, técnica y administrativa, en el ejercicio de sus funciones y en el manejo de los bienes y recursos que se les destinen y ejercerán en el ámbito de la cuenca hidrológica o en el agrupamiento de varias cuencas hidrológicas que determine \"la Comisión\" como de su competencia, las facultades establecidas en esta Ley, sus Reglamentos y el Reglamento Interior de \"la Comisión\", sin menoscabo de la actuación directa por parte de \"la Comisión\" cuando le competa, conforme a lo dispuesto en la Fracción IX del Artículo 9 de la presente Ley y aquellas al cargo de la persona Titular del Poder Ejecutivo Federal."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 2.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cada Organismo de Cuenca estará a cargo de una persona Titular de la Dirección General nombrada por el Consejo Técnico de \"la Comisión\" a propuesta de la persona Titular de la Dirección General de ésta."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 2.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "La persona Titular de la Dirección General del Organismo de Cuenca, quien estará subordinada directamente a la persona Titular de la Dirección General de \"la Comisión\", tendrá las siguientes atribuciones:"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 2.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "III. Presentar informes que le sean solicitados por la persona Titular de la Dirección General de \"la Comisión\" y el Consejo Consultivo del Organismo de Cuenca;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 2.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "V",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "V. Expedir los títulos de concesión, asignación y permisos de descarga, en términos del Reglamento Interior de \"la Comisión\";"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 2.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 11,
+    "to_block": 11,
+    "paragraphs": [
+     "Cada Organismo de Cuenca contará con un Consejo Consultivo, que estará integrado por representantes designados por las personas Titulares de las Secretarías de Hacienda y Crédito Público, de Bienestar, de Energía, de Economía, de Medio Ambiente y Recursos Naturales, de Salud y de Agricultura y Desarrollo Rural, y de la Comisión Nacional Forestal, así como de \"la Comisión\", quien lo presidirá. Asimismo, el Consejo Técnico contará con una persona representante designada por la persona Titular del Poder Ejecutivo Estatal por cada uno de los estados comprendidos en el ámbito de competencia territorial del Organismo de Cuenca, así como de la Ciudad de México cuando así corresponda. Por cada estado comprendido en el ámbito territorial referido, el Consejo Consultivo contará con una persona representante de las Presidencias Municipales correspondientes, para lo cual cada estado se encargará de gestionar la determinación del representante requerido. Los representantes referidos en el presente párrafo, participarán con voz y voto."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 2.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "from_block": 12,
+    "to_block": 12,
+    "paragraphs": [
+     "Por cada persona representante propietaria se designará a las suplentes necesarias, con capacidades suficientes para tomar decisiones y asumir compromisos. La persona Titular de la Dirección General del Organismo de Cuenca fungirá como Titular de la Secretaría Técnica del Consejo referido, el cual se organizará y operará conforme a las reglas que expida para tal efecto."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 2.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo sexto",
+    "from_block": 14,
+    "to_block": 14,
+    "paragraphs": [
+     "El Consejo Consultivo del Organismo de Cuenca, cuando así lo considere conveniente, podrá invitar a sus sesiones a otras dependencias y entidades de las Administraciones Públicas Federal y Estatales y a representantes de los municipios, de las personas usuarias y de la sociedad organizada, los cuales podrán intervenir con voz, pero sin voto."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 3.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Conocer los programas del Organismo de Cuenca, su presupuesto y ejecución y validar los informes que presente la persona Titular de la Dirección General del Organismo de Cuenca;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 4.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Las disposiciones que se emitan para regular la integración, estructura, organización y funcionamiento de los Organismos de Cuenca, adicionales a las dispuestas en el presente Capítulo, respetando las capacidades y autonomía de los órdenes de gobierno, estarán orientadas a contar en su Consejo Consultivo para el consenso de decisiones, así como para la coordinación y concertación, con la participación de representantes provenientes de los estados, de la Ciudad de México, en su caso, y municipios comprendidos dentro del ámbito territorial de competencia del Organismo de Cuenca; asimismo, dichas disposiciones se orientarán a ampliar las facilidades de participación y asunción de compromisos por parte de los usuarios de las aguas nacionales de la cuenca o cuencas hidrológicas de que se trate, así como de grupos organizados y representativos de la sociedad."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 6.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IX",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "IX. Proponer a la persona Titular de la Dirección General de \"la Comisión\", el establecimiento de Distritos de Riego y de Temporal Tecnificado y, en su caso, la expropiación de los bienes inmuebles correspondientes;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 6.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XII",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "XII. Acreditar, promover y apoyar la organización de las personas usuarias para mejorar la explotación, uso o aprovechamiento del agua y la conservación y control de su calidad, e impulsar la participación de éstos a nivel estatal, regional, de cuenca hidrológica o de acuífero en términos de Ley;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 6.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIII",
+    "from_block": 14,
+    "to_block": 14,
+    "paragraphs": [
+     "XIII. Expedir los títulos de concesión, asignación, permisos de descarga y de construcción, en términos del Reglamento Interior de \"la Comisión\"; reconocer derechos y solicitar la inscripción correspondiente en el Registro Público Nacional del Agua;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 6.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIV",
+    "from_block": 16,
+    "to_block": 16,
+    "paragraphs": [
+     "XIV. Conciliar y, en su caso, fungir a petición de las personas usuarias, de los Consejos de Cuenca, o de los estados, como árbitro en la prevención, mitigación y solución de conflictos relacionados con el agua y su gestión, en los términos de los reglamentos de esta Ley;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 6.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XXVI",
+    "from_block": 28,
+    "to_block": 28,
+    "paragraphs": [
+     "XXVI. Proponer a la persona Titular de la Dirección General de \"la Comisión\" los proyectos de Reglamentos para la Extracción y Distribución de Aguas Nacionales y su explotación, uso o aprovechamiento; Decretos de Zonas de Veda y de Zonas Reglamentadas; y Declaratorias de Reserva de Aguas Nacionales;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 6.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XXIX",
+    "from_block": 31,
+    "to_block": 31,
+    "paragraphs": [
+     "XXIX. Integrar el Sistema Regional de Información sobre cantidad, calidad, usos y conservación del agua, en coordinación con los gobiernos de los estados y de la Ciudad de México, cuando corresponda, y con los Consejos de Cuenca, y en concordancia con lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 12 BIS 6.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XXXII",
+    "from_block": 34,
+    "to_block": 34,
+    "paragraphs": [
+     "XXXII. Resolver los trámites relacionados con la regulación y autorización de la reasignación de volúmenes de agua, en los casos que prevé la presente Ley y la normativa aplicable, y"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 13 BIS.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cada Consejo de Cuenca contará con una persona Titular de la Presidencia, una persona Titular de la Secretaría Técnica y vocales, con voz y voto, que representen a los tres órdenes de gobierno, personas usuarias del agua y organizaciones de la sociedad, conforme a lo siguiente:"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 13 BIS.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "La persona Titular de la Presidencia del Consejo de Cuenca será designada conforme lo establezcan las Reglas Generales de Integración, Organización y Funcionamiento de esta instancia y tendrá voz y voto de calidad. La persona Titular de la Dirección General del Organismo de Cuenca fungirá como Titular de la Secretaría Técnica del Consejo de Cuenca, quien tendrá voz y voto."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 13 BIS 1.",
+    "operation": "reform",
+    "unit_type": "apartado",
+    "unit": "A, párrafo primero",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "A. La Asamblea General de Personas Usuarias: la cual estará integrada por los representantes de las personas usuarias del agua de los diferentes usos y de las organizaciones de la sociedad; contará con una persona Titular de la Presidencia de la Asamblea y una persona Secretaria de Actas, quienes serán electas de entre sus integrantes por las propias personas asambleístas conforme a las Reglas Generales de Integración, Organización y Funcionamiento del Consejo de Cuenca."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 13 BIS 1.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "apartado A, párrafo tercero",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "Las disposiciones para determinar la participación de las personas usuarias del agua de los diferentes usos por estado en el contexto de la cuenca hidrológica o región hidrológica y de las organizaciones de la sociedad ante la Asamblea General de Personas Usuarias, estarán contenidas en las Reglas Generales de Integración, Organización y Funcionamiento del Consejo de Cuenca correspondiente, las cuales considerarán la representatividad de los usos en la cuenca hidrológica o región hidrológica."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 13 BIS 1.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "apartado A, párrafo cuarto",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "La Asamblea General de Personas Usuarias tendrá las siguientes funciones:"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 13 BIS 1.",
+    "operation": "reform",
+    "unit_type": "numeral",
+    "unit": "apartado A, numeral 5",
+    "from_block": 12,
+    "to_block": 12,
+    "paragraphs": [
+     "5.- Definir la posición de las personas usuarias del agua de los distintos usos y de las organizaciones de la sociedad, en relación con los asuntos que elevará la Asamblea General al Consejo de Cuenca."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 13 BIS 1.",
+    "operation": "reform",
+    "unit_type": "apartado",
+    "unit": "B",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "B. El Comité Directivo del Consejo de Cuenca: Integrado por las personas Titulares de la Presidencia y de la Secretaría Técnica del Consejo de Cuenca."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"ARTÍCULO 12 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Los Organismos de Cuenca, en las regiones hidrológico-administrativas son unidades técnicas, administrativas y jurídicas especializadas, con carácter autónomo que esta Ley les confiere, adscritas directamente a la persona Titular de \\\"la Comisión\\\", cuyas atribuciones, naturaleza y ámbito territorial de competencia se establecen en la presente Ley y se detallan en sus reglamentos, y cuyos recursos y presupuesto específicos son determinados por \\\"la Comisión\\\".\"]},{\"article\":\"ARTÍCULO 12 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Los Organismos de Cuenca por su carácter especializado y atribuciones específicas que la presente Ley les confiere, actuarán con autonomía ejecutiva, técnica y administrativa, en el ejercicio de sus funciones y en el manejo de los bienes y recursos que se les destinen y ejercerán en el ámbito de la cuenca hidrológica o en el agrupamiento de varias cuencas hidrológicas que determine \\\"la Comisión\\\" como de su competencia, las facultades establecidas en esta Ley, sus Reglamentos y el Reglamento Interior de \\\"la Comisión\\\", sin menoscabo de la actuación directa por parte de \\\"la Comisión\\\" cuando le competa, conforme a lo dispuesto en la Fracción IX del Artículo 9 de la presente Ley y aquellas al cargo de la persona Titular del Poder Ejecutivo Federal.\"]},{\"article\":\"ARTÍCULO 12 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cada Organismo de Cuenca estará a cargo de una persona Titular de la Dirección General nombrada por el Consejo Técnico de \\\"la Comisión\\\" a propuesta de la persona Titular de la Dirección General de ésta.\"]},{\"article\":\"ARTÍCULO 12 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"La persona Titular de la Dirección General del Organismo de Cuenca, quien estará subordinada directamente a la persona Titular de la Dirección General de \\\"la Comisión\\\", tendrá las siguientes atribuciones:\"]},{\"article\":\"ARTÍCULO 12 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"III. Presentar informes que le sean solicitados por la persona Titular de la Dirección General de \\\"la Comisión\\\" y el Consejo Consultivo del Organismo de Cuenca;\"]},{\"article\":\"ARTÍCULO 12 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"V\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"V. Expedir los títulos de concesión, asignación y permisos de descarga, en términos del Reglamento Interior de \\\"la Comisión\\\";\"]},{\"article\":\"ARTÍCULO 12 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":11,\"to_block\":11,\"paragraphs\":[\"Cada Organismo de Cuenca contará con un Consejo Consultivo, que estará integrado por representantes designados por las personas Titulares de las Secretarías de Hacienda y Crédito Público, de Bienestar, de Energía, de Economía, de Medio Ambiente y Recursos Naturales, de Salud y de Agricultura y Desarrollo Rural, y de la Comisión Nacional Forestal, así como de \\\"la Comisión\\\", quien lo presidirá. Asimismo, el Consejo Técnico contará con una persona representante designada por la persona Titular del Poder Ejecutivo Estatal por cada uno de los estados comprendidos en el ámbito de competencia territorial del Organismo de Cuenca, así como de la Ciudad de México cuando así corresponda. Por cada estado comprendido en el ámbito territorial referido, el Consejo Consultivo contará con una persona representante de las Presidencias Municipales correspondientes, para lo cual cada estado se encargará de gestionar la determinación del representante requerido. Los representantes referidos en el presente párrafo, participarán con voz y voto.\"]},{\"article\":\"ARTÍCULO 12 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"from_block\":12,\"to_block\":12,\"paragraphs\":[\"Por cada persona representante propietaria se designará a las suplentes necesarias, con capacidades suficientes para tomar decisiones y asumir compromisos. La persona Titular de la Dirección General del Organismo de Cuenca fungirá como Titular de la Secretaría Técnica del Consejo referido, el cual se organizará y operará conforme a las reglas que expida para tal efecto.\"]},{\"article\":\"ARTÍCULO 12 BIS 2.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo sexto\",\"from_block\":14,\"to_block\":14,\"paragraphs\":[\"El Consejo Consultivo del Organismo de Cuenca, cuando así lo considere conveniente, podrá invitar a sus sesiones a otras dependencias y entidades de las Administraciones Públicas Federal y Estatales y a representantes de los municipios, de las personas usuarias y de la sociedad organizada, los cuales podrán intervenir con voz, pero sin voto.\"]},{\"article\":\"ARTÍCULO 12 BIS 3.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Conocer los programas del Organismo de Cuenca, su presupuesto y ejecución y validar los informes que presente la persona Titular de la Dirección General del Organismo de Cuenca;\"]},{\"article\":\"ARTÍCULO 12 BIS 4.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Las disposiciones que se emitan para regular la integración, estructura, organización y funcionamiento de los Organismos de Cuenca, adicionales a las dispuestas en el presente Capítulo, respetando las capacidades y autonomía de los órdenes de gobierno, estarán orientadas a contar en su Consejo Consultivo para el consenso de decisiones, así como para la coordinación y concertación, con la participación de representantes provenientes de los estados, de la Ciudad de México, en su caso, y municipios comprendidos dentro del ámbito territorial de competencia del Organismo de Cuenca; asimismo, dichas disposiciones se orientarán a ampliar las facilidades de participación y asunción de compromisos por parte de los usuarios de las aguas nacionales de la cuenca o cuencas hidrológicas de que se trate, así como de grupos organizados y representativos de la sociedad.\"]},{\"article\":\"ARTÍCULO 12 BIS 6.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IX\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"IX. Proponer a la persona Titular de la Dirección General de \\\"la Comisión\\\", el establecimiento de Distritos de Riego y de Temporal Tecnificado y, en su caso, la expropiación de los bienes inmuebles correspondientes;\"]},{\"article\":\"ARTÍCULO 12 BIS 6.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XII\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"XII. Acreditar, promover y apoyar la organización de las personas usuarias para mejorar la explotación, uso o aprovechamiento del agua y la conservación y control de su calidad, e impulsar la participación de éstos a nivel estatal, regional, de cuenca hidrológica o de acuífero en términos de Ley;\"]},{\"article\":\"ARTÍCULO 12 BIS 6.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XIII\",\"from_block\":14,\"to_block\":14,\"paragraphs\":[\"XIII. Expedir los títulos de concesión, asignación, permisos de descarga y de construcción, en términos del Reglamento Interior de \\\"la Comisión\\\"; reconocer derechos y solicitar la inscripción correspondiente en el Registro Público Nacional del Agua;\"]},{\"article\":\"ARTÍCULO 12 BIS 6.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XIV\",\"from_block\":16,\"to_block\":16,\"paragraphs\":[\"XIV. Conciliar y, en su caso, fungir a petición de las personas usuarias, de los Consejos de Cuenca, o de los estados, como árbitro en la prevención, mitigación y solución de conflictos relacionados con el agua y su gestión, en los términos de los reglamentos de esta Ley;\"]},{\"article\":\"ARTÍCULO 12 BIS 6.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XXVI\",\"from_block\":28,\"to_block\":28,\"paragraphs\":[\"XXVI. Proponer a la persona Titular de la Dirección General de \\\"la Comisión\\\" los proyectos de Reglamentos para la Extracción y Distribución de Aguas Nacionales y su explotación, uso o aprovechamiento; Decretos de Zonas de Veda y de Zonas Reglamentadas; y Declaratorias de Reserva de Aguas Nacionales;\"]},{\"article\":\"ARTÍCULO 12 BIS 6.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XXIX\",\"from_block\":31,\"to_block\":31,\"paragraphs\":[\"XXIX. Integrar el Sistema Regional de Información sobre cantidad, calidad, usos y conservación del agua, en coordinación con los gobiernos de los estados y de la Ciudad de México, cuando corresponda, y con los Consejos de Cuenca, y en concordancia con lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública;\"]},{\"article\":\"ARTÍCULO 12 BIS 6.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XXXII\",\"from_block\":34,\"to_block\":34,\"paragraphs\":[\"XXXII. Resolver los trámites relacionados con la regulación y autorización de la reasignación de volúmenes de agua, en los casos que prevé la presente Ley y la normativa aplicable, y\"]},{\"article\":\"ARTÍCULO 13 BIS.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cada Consejo de Cuenca contará con una persona Titular de la Presidencia, una persona Titular de la Secretaría Técnica y vocales, con voz y voto, que representen a los tres órdenes de gobierno, personas usuarias del agua y organizaciones de la sociedad, conforme a lo siguiente:\"]},{\"article\":\"ARTÍCULO 13 BIS.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"La persona Titular de la Presidencia del Consejo de Cuenca será designada conforme lo establezcan las Reglas Generales de Integración, Organización y Funcionamiento de esta instancia y tendrá voz y voto de calidad. La persona Titular de la Dirección General del Organismo de Cuenca fungirá como Titular de la Secretaría Técnica del Consejo de Cuenca, quien tendrá voz y voto.\"]},{\"article\":\"ARTÍCULO 13 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"apartado\",\"unit\":\"A, párrafo primero\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"A. La Asamblea General de Personas Usuarias: la cual estará integrada por los representantes de las personas usuarias del agua de los diferentes usos y de las organizaciones de la sociedad; contará con una persona Titular de la Presidencia de la Asamblea y una persona Secretaria de Actas, quienes serán electas de entre sus integrantes por las propias personas asambleístas conforme a las Reglas Generales de Integración, Organización y Funcionamiento del Consejo de Cuenca.\"]},{\"article\":\"ARTÍCULO 13 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"apartado A, párrafo tercero\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"Las disposiciones para determinar la participación de las personas usuarias del agua de los diferentes usos por estado en el contexto de la cuenca hidrológica o región hidrológica y de las organizaciones de la sociedad ante la Asamblea General de Personas Usuarias, estarán contenidas en las Reglas Generales de Integración, Organización y Funcionamiento del Consejo de Cuenca correspondiente, las cuales considerarán la representatividad de los usos en la cuenca hidrológica o región hidrológica.\"]},{\"article\":\"ARTÍCULO 13 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"apartado A, párrafo cuarto\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"La Asamblea General de Personas Usuarias tendrá las siguientes funciones:\"]},{\"article\":\"ARTÍCULO 13 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"numeral\",\"unit\":\"apartado A, numeral 5\",\"from_block\":12,\"to_block\":12,\"paragraphs\":[\"5.- Definir la posición de las personas usuarias del agua de los distintos usos y de las organizaciones de la sociedad, en relación con los asuntos que elevará la Asamblea General al Consejo de Cuenca.\"]},{\"article\":\"ARTÍCULO 13 BIS 1.\",\"operation\":\"reform\",\"unit_type\":\"apartado\",\"unit\":\"B\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"B. El Comité Directivo del Consejo de Cuenca: Integrado por las personas Titulares de la Presidencia y de la Secretaría Técnica del Consejo de Cuenca.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 37419,
+ "total_cost_usd": 0.2539658,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 5649,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 17547,
+   "webSearchRequests": 0,
+   "costUSD": 0.2539658,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 413,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 17547,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

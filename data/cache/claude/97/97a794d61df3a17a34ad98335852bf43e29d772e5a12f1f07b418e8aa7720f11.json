@@ -1,0 +1,80 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "ARTÍCULO 76 BIS.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "VI. El proveedor respetará la decisión del consumidor en cuanto a la cantidad y calidad de los productos que desea recibir, así como la de no recibir avisos comerciales;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 76 BIS.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VII",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, en especial tratándose de prácticas de mercadotecnia dirigidas a la población vulnerable, como los niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 76 BIS.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "VIII",
+    "insert_after": 8,
+    "paragraphs": [
+     "VIII. El proveedor deberá informar de forma clara, destacada y accesible si el servicio contratado implica cobros automáticos recurrentes, su periodicidad, monto y fecha de cobro.",
+     "Los cobros señalados en el párrafo anterior, requerirán consentimiento expreso e informado de la persona consumidora. En los casos en los que, de acuerdo al contrato, proceda la renovación automática del servicio, se deberá notificar al menos con cinco días naturales de anticipación, permitiendo su cancelación sin penalización, y"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 76 BIS.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "IX",
+    "insert_after": 8,
+    "paragraphs": [
+     "IX. El proveedor deberá implementar mecanismos que, sin contravenir a las disposiciones contractuales, permita a la persona consumidora cancelar el servicio, suscripción o membresía de manera inmediata."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "ARTÍCULO 76 BIS.",
+    "reason": "El decreto sólo adiciona las fracciones VIII y IX, pero vuelve a publicar las fracciones VI y VII con la puntuación del final cambiada: la VI termina en ';' en vez de ', y' y la VII en ';' en vez de '.'. Se aplicaron como reformas de puntuación para que la enumeración quede coherente; conviene confirmar que el texto consolidado de la Cámara también las recoge."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"ARTÍCULO 76 BIS.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VI\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"VI. El proveedor respetará la decisión del consumidor en cuanto a la cantidad y calidad de los productos que desea recibir, así como la de no recibir avisos comerciales;\"]},{\"article\":\"ARTÍCULO 76 BIS.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VII\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, en especial tratándose de prácticas de mercadotecnia dirigidas a la población vulnerable, como los niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población;\"]},{\"article\":\"ARTÍCULO 76 BIS.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"VIII\",\"insert_after\":8,\"paragraphs\":[\"VIII. El proveedor deberá informar de forma clara, destacada y accesible si el servicio contratado implica cobros automáticos recurrentes, su periodicidad, monto y fecha de cobro.\",\"Los cobros señalados en el párrafo anterior, requerirán consentimiento expreso e informado de la persona consumidora. En los casos en los que, de acuerdo al contrato, proceda la renovación automática del servicio, se deberá notificar al menos con cinco días naturales de anticipación, permitiendo su cancelación sin penalización, y\"]},{\"article\":\"ARTÍCULO 76 BIS.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"IX\",\"insert_after\":8,\"paragraphs\":[\"IX. El proveedor deberá implementar mecanismos que, sin contravenir a las disposiciones contractuales, permita a la persona consumidora cancelar el servicio, suscripción o membresía de manera inmediata.\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"ARTÍCULO 76 BIS.\",\"reason\":\"El decreto sólo adiciona las fracciones VIII y IX, pero vuelve a publicar las fracciones VI y VII con la puntuación del final cambiada: la VI termina en ';' en vez de ', y' y la VII en ';' en vez de '.'. Se aplicaron como reformas de puntuación para que la enumeración quede coherente; conviene confirmar que el texto consolidado de la Cámara también las recoge.\"}]}",
+ "duration_ms": 11499,
+ "total_cost_usd": 0.04826180000000001,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 1435,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 2369,
+   "webSearchRequests": 0,
+   "costUSD": 0.04826180000000001,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 428,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 2369,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

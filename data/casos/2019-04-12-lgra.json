@@ -1,0 +1,269 @@
+{
+ "id": "2019-04-12-lgra",
+ "source": "backtest",
+ "law": {
+  "slug": "lgra",
+  "title": "Ley General de Responsabilidades Administrativas",
+  "abbreviation": "LGRA"
+ },
+ "decree": {
+  "code": 5557707,
+  "title": "Decreto por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Remuneraciones de los Servidores Públicos, reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, del Código Penal Federal y de la Ley General de Responsabilidades Administrativas.",
+  "date": "2019-04-12",
+  "url": "https://dof.gob.mx/nota_detalle.php?codigo=5557707&fecha=12/04/2019",
+  "pdf": null,
+  "instruction": [
+   "Artículo Tercero.- Se reforma la fracción VI del artículo 7 y se adicionan un párrafo segundo al artículo 52, un párrafo segundo al artículo 54, y un artículo 80 Bis a la Ley General de Responsabilidades Administrativas, para quedar como sigue:"
+  ]
+ },
+ "base": {
+  "commit": "c101a2686387302d6b2ce938d5c3a78c1900fcdb"
+ },
+ "official": {
+  "commit": "54d2d83bf41f079d8b5078cf34b65ca1283088cb",
+  "date": "2019-04-12",
+  "same_day": true
+ },
+ "pipeline": {
+  "version": "0.1.0",
+  "prompt": "2026-11-17.1",
+  "models": [
+   "claude-opus-5-5"
+  ]
+ },
+ "calls": [
+  {
+   "batch": 1,
+   "articles": [
+    "Artículo 7.",
+    "Artículo 52.",
+    "Artículo 54.",
+    "Artículo 80 Bis."
+   ],
+   "key": "dfed504087b244dcf5a43d42da91e0ada78ccc17f8ac4a3c0100f10ed68f3aa1",
+   "cached": true,
+   "duration_ms": 6202,
+   "cost_usd": 0.0435058,
+   "model": "claude-opus-5-5",
+   "error": null
+  }
+ ],
+ "decree_text": {
+  "7": {
+   "label": "Artículo 7.",
+   "headings": [],
+   "lines": [
+    "Artículo 7. ...",
+    "I. a V. ...",
+    "VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de austeridad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados;",
+    "VII. a X. ..."
+   ]
+  },
+  "52": {
+   "label": "Artículo 52.",
+   "headings": [],
+   "lines": [
+    "Artículo 52. ...",
+    "También incurrirá en cohecho, el servidor público que se abstenga de devolver el pago en demasía de su legítima remuneración de acuerdo a los tabuladores que al efecto resulten aplicables, dentro de los 30 días naturales siguientes a su recepción."
+   ]
+  },
+  "54": {
+   "label": "Artículo 54.",
+   "headings": [],
+   "lines": [
+    "Artículo 54. ...",
+    "Se considerará desvío de recursos públicos, el otorgamiento o autorización, para sí o para otros, del pago de una remuneración en contravención con los tabuladores que al efecto resulten aplicables, así como el otorgamiento o autorización, para sí o para otros, de pagos de jubilaciones, pensiones o haberes de retiro, liquidaciones por servicios prestados, préstamos o créditos que no estén previstos en ley, decreto legislativo, contrato colectivo, contrato ley o condiciones generales de trabajo."
+   ]
+  },
+  "80 bis": {
+   "label": "Artículo 80 Bis.",
+   "headings": [],
+   "lines": [
+    "Artículo 80 Bis. Si el beneficio indebidamente obtenido u otorgado a que hacen referencia los artículos 52, segundo párrafo, y 54, segundo párrafo, de esta Ley, no excede el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, y además se ha devuelto la cantidad entregada o depositada en demasía conforme al tabulador aplicable, la falta administrativa será considerada no grave."
+   ]
+  }
+ },
+ "plan": {
+  "edits": [
+   {
+    "article": "Artículo 7.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "paragraphs": [
+     "VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de austeridad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados;"
+    ],
+    "from_block": 7,
+    "to_block": 7,
+    "insert_after": null,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 52.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "paragraphs": [
+     "También incurrirá en cohecho, el servidor público que se abstenga de devolver el pago en demasía de su legítima remuneración de acuerdo a los tabuladores que al efecto resulten aplicables, dentro de los 30 días naturales siguientes a su recepción."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 1,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 54.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "paragraphs": [
+     "Se considerará desvío de recursos públicos, el otorgamiento o autorización, para sí o para otros, del pago de una remuneración en contravención con los tabuladores que al efecto resulten aplicables, así como el otorgamiento o autorización, para sí o para otros, de pagos de jubilaciones, pensiones o haberes de retiro, liquidaciones por servicios prestados, préstamos o créditos que no estén previstos en ley, decreto legislativo, contrato colectivo, contrato ley o condiciones generales de trabajo."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": 1,
+    "batch": 1
+   },
+   {
+    "article": "Artículo 80 Bis.",
+    "operation": "add",
+    "unit_type": "articulo",
+    "unit": "Artículo 80 Bis.",
+    "paragraphs": [
+     "Si el beneficio indebidamente obtenido u otorgado a que hacen referencia los artículos 52, segundo párrafo, y 54, segundo párrafo, de esta Ley, no excede el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, y además se ha devuelto la cantidad entregada o depositada en demasía conforme al tabulador aplicable, la falta administrativa será considerada no grave."
+    ],
+    "from_block": null,
+    "to_block": null,
+    "insert_after": null,
+    "batch": 1
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "needs_review": [],
+ "counts": {
+  "exact": 4,
+  "normalized": 0,
+  "mismatch": 0,
+  "not_applied": 0,
+  "outside_decree": 0,
+  "mismatch_repeal_placeholder": 0,
+  "mismatch_numbering": 0,
+  "mismatch_official_annotation": 0,
+  "mismatch_text": 0,
+  "notes_match": 4
+ },
+ "transitorios": "mismatch",
+ "body_identical": false,
+ "articles": [
+  {
+   "key": "7",
+   "label": "Artículo 7.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Los Servidores Públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los Servidores Públicos observarán las siguientes directrices:",
+    "I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;",
+    "II. Conducirse con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización;",
+    "III. Satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;",
+    "IV. Dar a las personas en general el mismo trato, por lo que no concederán privilegios o preferencias a organizaciones o personas, ni permitirán que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva;",
+    "V. Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades;",
+    "VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados;",
+    "VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos en la Constitución;",
+    "VIII. Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;",
+    "IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones, y",
+    "X. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano."
+   ],
+   "ai": [
+    "Los Servidores Públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los Servidores Públicos observarán las siguientes directrices:",
+    "I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;",
+    "II. Conducirse con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización;",
+    "III. Satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;",
+    "IV. Dar a las personas en general el mismo trato, por lo que no concederán privilegios o preferencias a organizaciones o personas, ni permitirán que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva;",
+    "V. Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades;",
+    "VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de austeridad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados;",
+    "Fracción reformada DOF 12-04-2019",
+    "VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos en la Constitución;",
+    "VIII. Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;",
+    "IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones, y",
+    "X. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano."
+   ],
+   "official": [
+    "Los Servidores Públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los Servidores Públicos observarán las siguientes directrices:",
+    "I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;",
+    "II. Conducirse con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización;",
+    "III. Satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población;",
+    "IV. Dar a las personas en general el mismo trato, por lo que no concederán privilegios o preferencias a organizaciones o personas, ni permitirán que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva;",
+    "V. Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones a fin de alcanzar las metas institucionales según sus responsabilidades;",
+    "VI. Administrar los recursos públicos que estén bajo su responsabilidad, sujetándose a los principios de austeridad, eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados;",
+    "Fracción reformada DOF 12-04-2019",
+    "VII. Promover, respetar, proteger y garantizar los derechos humanos establecidos en la Constitución;",
+    "VIII. Corresponder a la confianza que la sociedad les ha conferido; tendrán una vocación absoluta de servicio a la sociedad, y preservarán el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;",
+    "IX. Evitar y dar cuenta de los intereses que puedan entrar en conflicto con el desempeño responsable y objetivo de sus facultades y obligaciones, y",
+    "X. Abstenerse de realizar cualquier trato o promesa privada que comprometa al Estado mexicano."
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "52",
+   "label": "Artículo 52.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Incurrirá en cohecho el servidor público que exija, acepte, obtenga o pretenda obtener, por sí o a través de terceros, con motivo de sus funciones, cualquier beneficio no comprendido en su remuneración como servidor público, que podría consistir en dinero; valores; bienes muebles o inmuebles, incluso mediante enajenación en precio notoriamente inferior al que se tenga en el mercado; donaciones; servicios; empleos y demás beneficios indebidos para sí o para su cónyuge, parientes consanguíneos, parientes civiles o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen parte."
+   ],
+   "ai": [
+    "Incurrirá en cohecho el servidor público que exija, acepte, obtenga o pretenda obtener, por sí o a través de terceros, con motivo de sus funciones, cualquier beneficio no comprendido en su remuneración como servidor público, que podría consistir en dinero; valores; bienes muebles o inmuebles, incluso mediante enajenación en precio notoriamente inferior al que se tenga en el mercado; donaciones; servicios; empleos y demás beneficios indebidos para sí o para su cónyuge, parientes consanguíneos, parientes civiles o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen parte.",
+    "También incurrirá en cohecho, el servidor público que se abstenga de devolver el pago en demasía de su legítima remuneración de acuerdo a los tabuladores que al efecto resulten aplicables, dentro de los 30 días naturales siguientes a su recepción.",
+    "Párrafo adicionado DOF 12-04-2019"
+   ],
+   "official": [
+    "Incurrirá en cohecho el servidor público que exija, acepte, obtenga o pretenda obtener, por sí o a través de terceros, con motivo de sus funciones, cualquier beneficio no comprendido en su remuneración como servidor público, que podría consistir en dinero; valores; bienes muebles o inmuebles, incluso mediante enajenación en precio notoriamente inferior al que se tenga en el mercado; donaciones; servicios; empleos y demás beneficios indebidos para sí o para su cónyuge, parientes consanguíneos, parientes civiles o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen parte.",
+    "También incurrirá en cohecho, el servidor público que se abstenga de devolver el pago en demasía de su legítima remuneración de acuerdo a los tabuladores que al efecto resulten aplicables, dentro de los 30 días naturales siguientes a su recepción.",
+    "Párrafo adicionado DOF 12-04-2019"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "54",
+   "label": "Artículo 54.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [
+    "Será responsable de desvío de recursos públicos el servidor público que autorice, solicite o realice actos para la asignación o desvío de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables."
+   ],
+   "ai": [
+    "Será responsable de desvío de recursos públicos el servidor público que autorice, solicite o realice actos para la asignación o desvío de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables.",
+    "Se considerará desvío de recursos públicos, el otorgamiento o autorización, para sí o para otros, del pago de una remuneración en contravención con los tabuladores que al efecto resulten aplicables, así como el otorgamiento o autorización, para sí o para otros, de pagos de jubilaciones, pensiones o haberes de retiro, liquidaciones por servicios prestados, préstamos o créditos que no estén previstos en ley, decreto legislativo, contrato colectivo, contrato ley o condiciones generales de trabajo.",
+    "Párrafo adicionado DOF 12-04-2019"
+   ],
+   "official": [
+    "Será responsable de desvío de recursos públicos el servidor público que autorice, solicite o realice actos para la asignación o desvío de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables.",
+    "Se considerará desvío de recursos públicos, el otorgamiento o autorización, para sí o para otros, del pago de una remuneración en contravención con los tabuladores que al efecto resulten aplicables, así como el otorgamiento o autorización, para sí o para otros, de pagos de jubilaciones, pensiones o haberes de retiro, liquidaciones por servicios prestados, préstamos o créditos que no estén previstos en ley, decreto legislativo, contrato colectivo, contrato ley o condiciones generales de trabajo.",
+    "Párrafo adicionado DOF 12-04-2019"
+   ],
+   "diff": [],
+   "cause": null
+  },
+  {
+   "key": "80 bis",
+   "label": "Artículo 80 Bis.",
+   "status": "exact",
+   "notes_match": true,
+   "before": [],
+   "ai": [
+    "Si el beneficio indebidamente obtenido u otorgado a que hacen referencia los artículos 52, segundo párrafo, y 54, segundo párrafo, de esta Ley, no excede el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, y además se ha devuelto la cantidad entregada o depositada en demasía conforme al tabulador aplicable, la falta administrativa será considerada no grave.",
+    "Artículo adicionado DOF 12-04-2019"
+   ],
+   "official": [
+    "Si el beneficio indebidamente obtenido u otorgado a que hacen referencia los artículos 52, segundo párrafo, y 54, segundo párrafo, de esta Ley, no excede el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, y además se ha devuelto la cantidad entregada o depositada en demasía conforme al tabulador aplicable, la falta administrativa será considerada no grave.",
+    "Artículo adicionado DOF 12-04-2019"
+   ],
+   "diff": [],
+   "cause": null
+  }
+ ]
+}

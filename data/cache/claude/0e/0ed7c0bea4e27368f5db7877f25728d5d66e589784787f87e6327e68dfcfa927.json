@@ -1,0 +1,176 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 231.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando el Pleno de la Suprema Corte de Justicia de la Nación, en los juicios de amparo indirecto en revisión, resuelvan la inconstitucionalidad de una norma general, la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación deberá informarlo a la autoridad emisora de la norma en un plazo de quince días."
+    ]
+   },
+   {
+    "article": "Artículo 232.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando el Pleno de la Suprema Corte de Justicia de la Nación, en los juicios de amparo indirecto en revisión, establezcan jurisprudencia en la que determinen la inconstitucionalidad de una norma general, se procederá a la notificación a que se refiere el tercer párrafo de la fracción II del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos."
+    ]
+   },
+   {
+    "article": "Artículo 232.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Una vez que se hubiere notificado al órgano emisor de la norma y transcurrido el plazo de 90 días naturales sin que se modifique o derogue la norma declarada inconstitucional, el Pleno de la Suprema Corte de Justicia de la Nación emitirá la declaratoria general de inconstitucionalidad correspondiente siempre que hubiera sido aprobada por mayoría de cuando menos seis votos."
+    ]
+   },
+   {
+    "article": "Artículo 236.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Para mantener el orden y exigir respeto, los órganos jurisdiccionales de amparo mediante una prudente apreciación de acuerdo con la conducta realizada, podrán imponer a las partes y a las personas asistentes al juzgado o tribunal, y previo apercibimiento, cualquiera de las siguientes medidas disciplinarias:"
+    ]
+   },
+   {
+    "article": "Artículo 237.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Ordenar que se ponga a la persona infractora a disposición del o la Ministerio Público por la probable comisión de delito en el supuesto de flagrancia; en caso contrario, levantar el acta respectiva y hacer la denuncia ante la representación social federal. Cuando la autoridad infractora sea el o la Ministerio Público de la Federación, la infracción se hará del conocimiento de la o el Fiscal General de la República."
+    ]
+   },
+   {
+    "article": "Artículo 238.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 238.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Las multas previstas en esta Ley se impondrán a razón del monto de Unidad de Medida y Actualización vigente al momento de realizarse la conducta sancionada, salvo las previstas en el Capítulo III de este Título, las cuales se regirán por lo previsto en el artículo 270 de esta Ley. Podrán aplicarse a la persona quejosa y a la persona tercera interesada, y en ambos supuestos, según el caso, de manera conjunta o indistinta con quienes promuevan en su nombre, sus apoderados o apoderadas o sus abogados o abogadas, según lo resuelva el órgano jurisdiccional de amparo.",
+     "Si la persona infractora fuera jornalera, obrera o trabajadora, la multa no podrá exceder de su jornal o salario de un día."
+    ]
+   },
+   {
+    "article": "Artículo 239.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 239.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "No se aplicarán las multas establecidas en esta Ley cuando la persona quejosa impugne actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales."
+    ]
+   },
+   {
+    "article": "Artículo 240.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 240.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En el caso del artículo 11 de esta Ley, si quien promueve no tiene la representación que afirma, se le impondrá multa de setenta a seiscientos noventa Unidades de Medida y Actualización."
+    ]
+   },
+   {
+    "article": "Artículo 241.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 241.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Tratándose de lo previsto en el artículo 14 de esta Ley, si quien afirma ser defensor o defensora no lo demuestra, se le impondrá una multa de ciento quince a mil ciento cuarenta y cinco Unidades de Medida y Actualización."
+    ]
+   },
+   {
+    "article": "Artículo 242.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 242.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En el caso del párrafo tercero del artículo 16 de esta Ley, a la parte que teniendo conocimiento del fallecimiento de la persona quejosa o de la persona tercera interesada no lo comunique al órgano jurisdiccional de amparo, se le impondrá multa de ciento quince a mil ciento cuarenta y cinco Unidades de Medida y Actualización."
+    ]
+   },
+   {
+    "article": "Artículo 243.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 243.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En el caso de los artículos 20, párrafo segundo y 24 de esta Ley, si las personas jefas o encargadas de las oficinas públicas de comunicaciones se niegan a recibir o transmitir los mensajes de referencia, se les impondrá multa de doscientos treinta a dos mil doscientos noventa y cinco Unidades de Medida y Actualización."
+    ]
+   },
+   {
+    "article": "Artículo 244.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 244.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En el caso del artículo 27, fracción III, inciso b) de esta Ley, a la autoridad responsable que no proporcione el domicilio de la persona tercera interesada se le impondrá multa de doscientos treinta a dos mil doscientos noventa y cinco Unidades de Medida y Actualización."
+    ]
+   },
+   {
+    "article": "Artículo 245.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 245.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En el caso del artículo 28, fracción I de esta Ley, a la autoridad responsable que se niegue a recibir la notificación se le impondrá multa de doscientos treinta a dos mil doscientos noventa y cinco Unidades de Medida y Actualización."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 231.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando el Pleno de la Suprema Corte de Justicia de la Nación, en los juicios de amparo indirecto en revisión, resuelvan la inconstitucionalidad de una norma general, la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación deberá informarlo a la autoridad emisora de la norma en un plazo de quince días.\"]},{\"article\":\"Artículo 232.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando el Pleno de la Suprema Corte de Justicia de la Nación, en los juicios de amparo indirecto en revisión, establezcan jurisprudencia en la que determinen la inconstitucionalidad de una norma general, se procederá a la notificación a que se refiere el tercer párrafo de la fracción II del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos.\"]},{\"article\":\"Artículo 232.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Una vez que se hubiere notificado al órgano emisor de la norma y transcurrido el plazo de 90 días naturales sin que se modifique o derogue la norma declarada inconstitucional, el Pleno de la Suprema Corte de Justicia de la Nación emitirá la declaratoria general de inconstitucionalidad correspondiente siempre que hubiera sido aprobada por mayoría de cuando menos seis votos.\"]},{\"article\":\"Artículo 236.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Para mantener el orden y exigir respeto, los órganos jurisdiccionales de amparo mediante una prudente apreciación de acuerdo con la conducta realizada, podrán imponer a las partes y a las personas asistentes al juzgado o tribunal, y previo apercibimiento, cualquiera de las siguientes medidas disciplinarias:\"]},{\"article\":\"Artículo 237.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Ordenar que se ponga a la persona infractora a disposición del o la Ministerio Público por la probable comisión de delito en el supuesto de flagrancia; en caso contrario, levantar el acta respectiva y hacer la denuncia ante la representación social federal. Cuando la autoridad infractora sea el o la Ministerio Público de la Federación, la infracción se hará del conocimiento de la o el Fiscal General de la República.\"]},{\"article\":\"Artículo 238.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 238.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Las multas previstas en esta Ley se impondrán a razón del monto de Unidad de Medida y Actualización vigente al momento de realizarse la conducta sancionada, salvo las previstas en el Capítulo III de este Título, las cuales se regirán por lo previsto en el artículo 270 de esta Ley. Podrán aplicarse a la persona quejosa y a la persona tercera interesada, y en ambos supuestos, según el caso, de manera conjunta o indistinta con quienes promuevan en su nombre, sus apoderados o apoderadas o sus abogados o abogadas, según lo resuelva el órgano jurisdiccional de amparo.\",\"Si la persona infractora fuera jornalera, obrera o trabajadora, la multa no podrá exceder de su jornal o salario de un día.\"]},{\"article\":\"Artículo 239.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 239.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"No se aplicarán las multas establecidas en esta Ley cuando la persona quejosa impugne actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales.\"]},{\"article\":\"Artículo 240.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 240.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En el caso del artículo 11 de esta Ley, si quien promueve no tiene la representación que afirma, se le impondrá multa de setenta a seiscientos noventa Unidades de Medida y Actualización.\"]},{\"article\":\"Artículo 241.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 241.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Tratándose de lo previsto en el artículo 14 de esta Ley, si quien afirma ser defensor o defensora no lo demuestra, se le impondrá una multa de ciento quince a mil ciento cuarenta y cinco Unidades de Medida y Actualización.\"]},{\"article\":\"Artículo 242.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 242.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En el caso del párrafo tercero del artículo 16 de esta Ley, a la parte que teniendo conocimiento del fallecimiento de la persona quejosa o de la persona tercera interesada no lo comunique al órgano jurisdiccional de amparo, se le impondrá multa de ciento quince a mil ciento cuarenta y cinco Unidades de Medida y Actualización.\"]},{\"article\":\"Artículo 243.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 243.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En el caso de los artículos 20, párrafo segundo y 24 de esta Ley, si las personas jefas o encargadas de las oficinas públicas de comunicaciones se niegan a recibir o transmitir los mensajes de referencia, se les impondrá multa de doscientos treinta a dos mil doscientos noventa y cinco Unidades de Medida y Actualización.\"]},{\"article\":\"Artículo 244.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 244.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En el caso del artículo 27, fracción III, inciso b) de esta Ley, a la autoridad responsable que no proporcione el domicilio de la persona tercera interesada se le impondrá multa de doscientos treinta a dos mil doscientos noventa y cinco Unidades de Medida y Actualización.\"]},{\"article\":\"Artículo 245.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 245.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En el caso del artículo 28, fracción I de esta Ley, a la autoridad responsable que se niegue a recibir la notificación se le impondrá multa de doscientos treinta a dos mil doscientos noventa y cinco Unidades de Medida y Actualización.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 18476,
+ "total_cost_usd": 0.1196258,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 2754,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 7992,
+   "webSearchRequests": 0,
+   "costUSD": 0.1196258,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 53,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 7992,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

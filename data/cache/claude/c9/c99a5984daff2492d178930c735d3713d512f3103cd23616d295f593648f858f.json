@@ -1,0 +1,211 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 177.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 177.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Cuando no se exhiban las copias a que se refiere el artículo anterior o no se presenten todas las necesarias, la autoridad responsable prevendrá a la persona promovente para que lo haga dentro del plazo de cinco días, a menos de que la demanda se haya presentado en forma electrónica. Transcurrido éste sin que se haya subsanado la omisión, remitirá la demanda con el informe relativo al tribunal colegiado de circuito, cuya persona titular de la presidencia la tendrá por no presentada. Si la persona titular de la presidencia determina que no existe incumplimiento, o que éste no es imputable a la persona quejosa, devolverá los autos a la autoridad responsable para que siga el trámite que corresponda.",
+     "La autoridad responsable, de oficio, mandará sacar las copias en asuntos del orden penal, laboral tratándose de los trabajadores, cuando se puedan afectar intereses de menores de edad o incapaces, así como los derechos agrarios de los núcleos de población comunal o ejidal o de los ejidatarios o ejidatarias o comuneros o comuneras, o de quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, o cuando la demanda sea presentada por vía electrónica."
+    ]
+   },
+   {
+    "article": "Artículo 178.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I, párrafo primero",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Certificar al pie de la demanda, la fecha de notificación a la persona quejosa de la resolución reclamada, la de su presentación y los días inhábiles que mediaron entre ambas fechas."
+    ]
+   },
+   {
+    "article": "Artículo 178.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "II. Correr traslado a la o el tercero interesado, en el último domicilio que haya designado para oír notificaciones en los autos del juicio de origen o en el que señale la persona quejosa, y"
+    ]
+   },
+   {
+    "article": "Artículo 179.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 179.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La persona titular de la presidencia del tribunal colegiado de circuito deberá resolver en el plazo de tres días si admite la demanda, previene a la persona quejosa para su regularización, o la desecha por encontrar motivo manifiesto e indudable de improcedencia."
+    ]
+   },
+   {
+    "article": "Artículo 180.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 180.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Si hubiera irregularidades en el escrito de demanda por no haber satisfecho los requisitos que establece el artículo 175 de esta Ley, la persona titular de la presidencia del tribunal colegiado de circuito señalará a la persona promovente un plazo que no excederá de cinco días, para que subsane las omisiones o corrija los defectos precisados en la providencia relativa.",
+     "Si la persona quejosa no cumple el requerimiento, la persona titular de la presidencia del tribunal tendrá por no presentada la demanda y lo comunicará a la autoridad responsable."
+    ]
+   },
+   {
+    "article": "Artículo 181.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 181.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Si la persona titular de la presidencia del tribunal colegiado de circuito no encuentra motivo de improcedencia o defecto en el escrito de demanda, o si este último fuera subsanado, la admitirá y mandará notificar a las partes el acuerdo relativo, para que en el plazo de quince días presenten sus alegatos o promuevan amparo adhesivo."
+    ]
+   },
+   {
+    "article": "Artículo 182.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "I. Cuando el o la adherente trate de fortalecer las consideraciones vertidas en el fallo definitivo, a fin de no quedar indefenso o indefensa, y"
+    ]
+   },
+   {
+    "article": "Artículo 182.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "II. Cuando existan violaciones al procedimiento que pudieran afectar las defensas del o la adherente, trascendiendo al resultado del fallo."
+    ]
+   },
+   {
+    "article": "Artículo 182.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Los conceptos de violación en el amparo adhesivo deberán estar encaminados, por tanto, a fortalecer las consideraciones de la sentencia definitiva, laudo o resolución que pone fin al juicio, que determinaron el resolutivo favorable a los intereses del o la adherente, o a impugnar las que concluyan en un punto decisorio que le perjudica. Se deberán hacer valer todas las violaciones procesales que se hayan cometido, siempre que pudieran trascender al resultado del fallo y que respecto de ellas, el o la adherente hubiese agotado los medios ordinarios de defensa, a menos que se trate de menores de edad, incapaces, ejidatarios o ejidatarias, trabajadores o trabajadoras, núcleos de población ejidal o comunal, o de quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, y en materia penal tratándose de la persona imputada y de la ofendida o víctima."
+    ]
+   },
+   {
+    "article": "Artículo 183.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 183.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Transcurridos los plazos a que se refiere el artículo 181, dentro de los tres días siguientes la persona titular de la presidencia del tribunal colegiado turnará el expediente a la persona magistrada ponente que corresponda, a efecto de que formule el proyecto de resolución, dentro de los noventa días siguientes. El auto de turno hace las veces de citación para sentencia."
+    ]
+   },
+   {
+    "article": "Artículo 185.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 185.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El día señalado para la sesión, que se celebrará con la presencia de la persona secretaria quien dará fe, la persona magistrada ponente dará cuenta de los proyectos de resolución; la persona titular de la presidencia pondrá a discusión cada asunto; se dará lectura a las constancias que señalen las personas magistradas, y, estando suficientemente debatido, se procederá a la votación; acto continuo, la persona titular de la presidencia hará la declaración que corresponda y la persona secretaria publicará la lista en los estrados del tribunal."
+    ]
+   },
+   {
+    "article": "Artículo 186.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La resolución se tomará por unanimidad o mayoría de votos. En este último caso, el magistrado o magistrada que no esté conforme con el sentido de la resolución deberá formular su voto particular dentro del plazo de diez días siguientes al de la firma del engrose, voto en el que expresará cuando menos sucintamente las razones que lo fundamentan."
+    ]
+   },
+   {
+    "article": "Artículo 187.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Si no fuera aprobado el proyecto, pero el magistrado o magistrada ponente aceptare las adiciones o reformas propuestas en la sesión, procederá a redactar la sentencia con base en los términos de la discusión."
+    ]
+   },
+   {
+    "article": "Artículo 187.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Si el voto de la mayoría de los magistrados o magistradas fuera en sentido distinto al del proyecto, uno de ellos o ellas redactará la sentencia."
+    ]
+   },
+   {
+    "article": "Artículo 188.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Cuando por cualquier motivo cambiare el personal del tribunal que haya dictado una ejecutoria conforme a los artículos anteriores, antes de que haya podido ser firmada por los magistrados o magistradas que la hubiesen dictado, si fue aprobado el proyecto de la magistrada o magistrado relator, la sentencia será autorizada válidamente por los magistrados o magistradas que integran aquél, haciéndose constar las circunstancias que hubiesen concurrido."
+    ]
+   },
+   {
+    "article": "Artículo 189.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 189.",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "El órgano jurisdiccional de amparo procederá al estudio de los conceptos de violación atendiendo a su prelación lógica y privilegiando en todo caso el estudio de aquellos que, de resultar fundados, redunden en el mayor beneficio para la persona quejosa. En todas las materias, se privilegiará el estudio de los conceptos de violación de fondo por encima de los de procedimiento y forma, a menos que invertir el orden redunde en un mayor beneficio para la persona quejosa.",
+     "En los asuntos del orden penal, cuando se desprendan violaciones de fondo de las cuales pudiera derivarse la extinción de la acción persecutoria o la inocencia de la persona quejosa, se le dará preferencia al estudio de aquéllas aún de oficio."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 177.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 177.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Cuando no se exhiban las copias a que se refiere el artículo anterior o no se presenten todas las necesarias, la autoridad responsable prevendrá a la persona promovente para que lo haga dentro del plazo de cinco días, a menos de que la demanda se haya presentado en forma electrónica. Transcurrido éste sin que se haya subsanado la omisión, remitirá la demanda con el informe relativo al tribunal colegiado de circuito, cuya persona titular de la presidencia la tendrá por no presentada. Si la persona titular de la presidencia determina que no existe incumplimiento, o que éste no es imputable a la persona quejosa, devolverá los autos a la autoridad responsable para que siga el trámite que corresponda.\",\"La autoridad responsable, de oficio, mandará sacar las copias en asuntos del orden penal, laboral tratándose de los trabajadores, cuando se puedan afectar intereses de menores de edad o incapaces, así como los derechos agrarios de los núcleos de población comunal o ejidal o de los ejidatarios o ejidatarias o comuneros o comuneras, o de quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, o cuando la demanda sea presentada por vía electrónica.\"]},{\"article\":\"Artículo 178.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I, párrafo primero\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Certificar al pie de la demanda, la fecha de notificación a la persona quejosa de la resolución reclamada, la de su presentación y los días inhábiles que mediaron entre ambas fechas.\"]},{\"article\":\"Artículo 178.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"II. Correr traslado a la o el tercero interesado, en el último domicilio que haya designado para oír notificaciones en los autos del juicio de origen o en el que señale la persona quejosa, y\"]},{\"article\":\"Artículo 179.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 179.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La persona titular de la presidencia del tribunal colegiado de circuito deberá resolver en el plazo de tres días si admite la demanda, previene a la persona quejosa para su regularización, o la desecha por encontrar motivo manifiesto e indudable de improcedencia.\"]},{\"article\":\"Artículo 180.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 180.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Si hubiera irregularidades en el escrito de demanda por no haber satisfecho los requisitos que establece el artículo 175 de esta Ley, la persona titular de la presidencia del tribunal colegiado de circuito señalará a la persona promovente un plazo que no excederá de cinco días, para que subsane las omisiones o corrija los defectos precisados en la providencia relativa.\",\"Si la persona quejosa no cumple el requerimiento, la persona titular de la presidencia del tribunal tendrá por no presentada la demanda y lo comunicará a la autoridad responsable.\"]},{\"article\":\"Artículo 181.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 181.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Si la persona titular de la presidencia del tribunal colegiado de circuito no encuentra motivo de improcedencia o defecto en el escrito de demanda, o si este último fuera subsanado, la admitirá y mandará notificar a las partes el acuerdo relativo, para que en el plazo de quince días presenten sus alegatos o promuevan amparo adhesivo.\"]},{\"article\":\"Artículo 182.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"I. Cuando el o la adherente trate de fortalecer las consideraciones vertidas en el fallo definitivo, a fin de no quedar indefenso o indefensa, y\"]},{\"article\":\"Artículo 182.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"II. Cuando existan violaciones al procedimiento que pudieran afectar las defensas del o la adherente, trascendiendo al resultado del fallo.\"]},{\"article\":\"Artículo 182.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Los conceptos de violación en el amparo adhesivo deberán estar encaminados, por tanto, a fortalecer las consideraciones de la sentencia definitiva, laudo o resolución que pone fin al juicio, que determinaron el resolutivo favorable a los intereses del o la adherente, o a impugnar las que concluyan en un punto decisorio que le perjudica. Se deberán hacer valer todas las violaciones procesales que se hayan cometido, siempre que pudieran trascender al resultado del fallo y que respecto de ellas, el o la adherente hubiese agotado los medios ordinarios de defensa, a menos que se trate de menores de edad, incapaces, ejidatarios o ejidatarias, trabajadores o trabajadoras, núcleos de población ejidal o comunal, o de quienes por sus condiciones de pobreza o marginación se encuentren en clara desventaja social para emprender un juicio, y en materia penal tratándose de la persona imputada y de la ofendida o víctima.\"]},{\"article\":\"Artículo 183.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 183.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Transcurridos los plazos a que se refiere el artículo 181, dentro de los tres días siguientes la persona titular de la presidencia del tribunal colegiado turnará el expediente a la persona magistrada ponente que corresponda, a efecto de que formule el proyecto de resolución, dentro de los noventa días siguientes. El auto de turno hace las veces de citación para sentencia.\"]},{\"article\":\"Artículo 185.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 185.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El día señalado para la sesión, que se celebrará con la presencia de la persona secretaria quien dará fe, la persona magistrada ponente dará cuenta de los proyectos de resolución; la persona titular de la presidencia pondrá a discusión cada asunto; se dará lectura a las constancias que señalen las personas magistradas, y, estando suficientemente debatido, se procederá a la votación; acto continuo, la persona titular de la presidencia hará la declaración que corresponda y la persona secretaria publicará la lista en los estrados del tribunal.\"]},{\"article\":\"Artículo 186.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La resolución se tomará por unanimidad o mayoría de votos. En este último caso, el magistrado o magistrada que no esté conforme con el sentido de la resolución deberá formular su voto particular dentro del plazo de diez días siguientes al de la firma del engrose, voto en el que expresará cuando menos sucintamente las razones que lo fundamentan.\"]},{\"article\":\"Artículo 187.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Si no fuera aprobado el proyecto, pero el magistrado o magistrada ponente aceptare las adiciones o reformas propuestas en la sesión, procederá a redactar la sentencia con base en los términos de la discusión.\"]},{\"article\":\"Artículo 187.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Si el voto de la mayoría de los magistrados o magistradas fuera en sentido distinto al del proyecto, uno de ellos o ellas redactará la sentencia.\"]},{\"article\":\"Artículo 188.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Cuando por cualquier motivo cambiare el personal del tribunal que haya dictado una ejecutoria conforme a los artículos anteriores, antes de que haya podido ser firmada por los magistrados o magistradas que la hubiesen dictado, si fue aprobado el proyecto de la magistrada o magistrado relator, la sentencia será autorizada válidamente por los magistrados o magistradas que integran aquél, haciéndose constar las circunstancias que hubiesen concurrido.\"]},{\"article\":\"Artículo 189.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 189.\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"El órgano jurisdiccional de amparo procederá al estudio de los conceptos de violación atendiendo a su prelación lógica y privilegiando en todo caso el estudio de aquellos que, de resultar fundados, redunden en el mayor beneficio para la persona quejosa. En todas las materias, se privilegiará el estudio de los conceptos de violación de fondo por encima de los de procedimiento y forma, a menos que invertir el orden redunde en un mayor beneficio para la persona quejosa.\",\"En los asuntos del orden penal, cuando se desprendan violaciones de fondo de las cuales pudiera derivarse la extinción de la acción persecutoria o la inocencia de la persona quejosa, se le dará preferencia al estudio de aquéllas aún de oficio.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 26386,
+ "total_cost_usd": 0.16094579999999997,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 3932,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 10212,
+   "webSearchRequests": 0,
+   "costUSD": 0.16094579999999997,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 341,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 10212,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

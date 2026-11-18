@@ -1,0 +1,76 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 32.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "fracción I, inciso c)",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "c) Atención preponderante a los derechos de la niñez, de la juventud, de los adultos mayores, de los pueblos y comunidades indígenas y afromexicanas y de las personas con discapacidad;"
+    ]
+   },
+   {
+    "article": "Artículo 32.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIII",
+    "from_block": 32,
+    "to_block": 32,
+    "paragraphs": [
+     "XIII. Coadyuvar en las políticas públicas que garanticen el pleno ejercicio de los derechos y el desarrollo de los pueblos y comunidades indígenas y afromexicanas;"
+    ]
+   },
+   {
+    "article": "Artículo 34.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XXVII",
+    "from_block": 49,
+    "to_block": 49,
+    "paragraphs": [
+     "XXVII. Formular y conducir la política nacional en materia minera, así como promover en zonas de producción minera la construcción de obras de infraestructura social, en coordinación con los gobiernos estatales, municipales y con la participación de los pueblos y comunidades indígenas y afromexicanas, así como de los sectores social y privado, de acuerdo con el artículo 32, fracción XIII de esta ley;"
+    ]
+   },
+   {
+    "article": "Artículo 41 Bis.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IX",
+    "from_block": 16,
+    "to_block": 16,
+    "paragraphs": [
+     "IX. Promover, difundir y conservar las lenguas indígenas, las manifestaciones culturales, las creaciones en lenguas indígenas, así como los derechos culturales y de propiedad que de forma comunitaria detentan sobre sus creaciones artísticas los pueblos y comunidades indígenas y afromexicanas;"
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 32.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"fracción I, inciso c)\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"c) Atención preponderante a los derechos de la niñez, de la juventud, de los adultos mayores, de los pueblos y comunidades indígenas y afromexicanas y de las personas con discapacidad;\"]},{\"article\":\"Artículo 32.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XIII\",\"from_block\":32,\"to_block\":32,\"paragraphs\":[\"XIII. Coadyuvar en las políticas públicas que garanticen el pleno ejercicio de los derechos y el desarrollo de los pueblos y comunidades indígenas y afromexicanas;\"]},{\"article\":\"Artículo 34.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XXVII\",\"from_block\":49,\"to_block\":49,\"paragraphs\":[\"XXVII. Formular y conducir la política nacional en materia minera, así como promover en zonas de producción minera la construcción de obras de infraestructura social, en coordinación con los gobiernos estatales, municipales y con la participación de los pueblos y comunidades indígenas y afromexicanas, así como de los sectores social y privado, de acuerdo con el artículo 32, fracción XIII de esta ley;\"]},{\"article\":\"Artículo 41 Bis.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IX\",\"from_block\":16,\"to_block\":16,\"paragraphs\":[\"IX. Promover, difundir y conservar las lenguas indígenas, las manifestaciones culturales, las creaciones en lenguas indígenas, así como los derechos culturales y de propiedad que de forma comunitaria detentan sobre sus creaciones artísticas los pueblos y comunidades indígenas y afromexicanas;\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 5393,
+ "total_cost_usd": 0.11182980000000001,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 749,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 12030,
+   "webSearchRequests": 0,
+   "costUSD": 0.11182980000000001,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 0,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 12030,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

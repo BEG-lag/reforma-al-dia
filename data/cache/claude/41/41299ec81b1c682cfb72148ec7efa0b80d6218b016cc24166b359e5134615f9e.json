@@ -1,0 +1,43 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 148.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 148.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las personas representantes de elección popular, ministras, ministros, magistradas, magistrados, juezas y jueces del Poder Judicial de la Federación, magistrados y magistradas del Tribunal de Disciplina Judicial, las y los miembros del Órgano de Administración Judicial, las personas Servidoras Públicas que sean ratificadas o nombradas con la intervención de cualquiera de las Cámaras del Congreso de la Unión o los congresos locales, las Secretarias y los Secretarios de Despacho del Poder Ejecutivo Federal y los equivalentes en las entidades federativas, las y los titulares de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos otorgue autonomía, las magistradas, magistrados, juezas y jueces de los Tribunales de Justicia de las entidades federativas, magistrados y magistradas de los Tribunales de Disciplina Judicial, las y los miembros de los órganos de administración judicial de las entidades federativas, y las y los titulares de los órganos a los que las constituciones locales les otorguen autonomía, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 148.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 148.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las personas representantes de elección popular, ministras, ministros, magistradas, magistrados, juezas y jueces del Poder Judicial de la Federación, magistrados y magistradas del Tribunal de Disciplina Judicial, las y los miembros del Órgano de Administración Judicial, las personas Servidoras Públicas que sean ratificadas o nombradas con la intervención de cualquiera de las Cámaras del Congreso de la Unión o los congresos locales, las Secretarias y los Secretarios de Despacho del Poder Ejecutivo Federal y los equivalentes en las entidades federativas, las y los titulares de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos otorgue autonomía, las magistradas, magistrados, juezas y jueces de los Tribunales de Justicia de las entidades federativas, magistrados y magistradas de los Tribunales de Disciplina Judicial, las y los miembros de los órganos de administración judicial de las entidades federativas, y las y los titulares de los órganos a los que las constituciones locales les otorguen autonomía, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 6250,
+ "total_cost_usd": 0.0306458,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 779,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 1807,
+   "webSearchRequests": 0,
+   "costUSD": 0.0306458,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 189,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 1807,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

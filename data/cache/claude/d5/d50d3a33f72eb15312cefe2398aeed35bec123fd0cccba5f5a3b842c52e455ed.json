@@ -1,0 +1,43 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 27.",
+    "operation": "repeal",
+    "unit_type": "inciso",
+    "unit": "fracción I, inciso f)",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "f) Se deroga."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 27.\",\"operation\":\"repeal\",\"unit_type\":\"inciso\",\"unit\":\"fracción I, inciso f)\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"f) Se deroga.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 2364,
+ "total_cost_usd": 0.09502179999999999,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 179,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 11354,
+   "webSearchRequests": 0,
+   "costUSD": 0.09502179999999999,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 0,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 11354,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

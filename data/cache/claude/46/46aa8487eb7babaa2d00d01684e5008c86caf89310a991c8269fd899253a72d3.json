@@ -1,0 +1,411 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 15.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 15",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 16.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 16",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 17.",
+    "operation": "repeal",
+    "unit_type": "articulo",
+    "unit": "Artículo 17",
+    "from_block": 1,
+    "to_block": 3,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 18.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "Las sesiones del Pleno serán de carácter público, a través de la versión estenográfica que se publicará en el sitio de Internet de la Comisión, excepto aquellas porciones en que se traten temas con Información Confidencial o Reservada. Sólo será considerada Información Confidencial la declarada como tal bajo los supuestos establecidos en esta Ley y demás disposiciones aplicables. El Pleno deberá fundar y motivar la resolución en la que determine que una sesión no será pública."
+    ]
+   },
+   {
+    "article": "Artículo 18.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo quinto",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "La Comisión deberá hacer público el posicionamiento de cada una de las Personas Comisionadas sobre los asuntos listados en el orden del día, el cual será redactado en lenguaje ciudadano, que deberá contener una descripción de los hechos de cada asunto en cuestión, así como el sentido del voto y el razonamiento que lo sustenta."
+    ]
+   },
+   {
+    "article": "Artículo 18.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo séptimo",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "Corresponde al Pleno el ejercicio de las atribuciones señaladas en las fracciones II, VI, VIII, IX, X, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX, XXIII, XXIV, XXV, XXXI, XXXII, XXXIII, XXXIV y XXXVI del artículo 12 de esta Ley, y las demás atribuciones concedidas expresamente al Pleno en esta Ley. Las atribuciones señaladas en el artículo 12, fracción II, cuando deriven del procedimiento previsto en el artículo 94 de esta Ley; así como las previstas en sus fracciones XVII, XXII, XXXII y XXXIII, solo podrán ser ejercidas por el Pleno cuando las mismas sean resueltas con el voto afirmativo de cuando menos cuatro Personas Comisionadas."
+    ]
+   },
+   {
+    "article": "Artículo 19.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 19",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La Persona Comisionada Presidente presidirá el Pleno y a la Comisión. En caso de ausencia, le suplirá la Persona Comisionada de mayor antigüedad y, a igualdad de antigüedad, la de mayor edad."
+    ]
+   },
+   {
+    "article": "Artículo 20.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Corresponde a la Persona Comisionada Presidente:"
+    ]
+   },
+   {
+    "article": "Artículo 20.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Otorgar poderes a nombre de la Comisión para actos de dominio, de administración, pleitos y cobranzas y para ser representada ante cualquier autoridad administrativa o judicial, ante tribunales laborales o ante particulares; así como acordar la delegación de las facultades que correspondan, en los términos que establezca el estatuto orgánico. Tratándose de actos de dominio sobre inmuebles destinados a la Comisión o para otorgar poderes para dichos efectos, se requerirá la autorización previa del Pleno;"
+    ]
+   },
+   {
+    "article": "Artículo 20.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VII",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "VII. Dar cuenta a la persona titular del Ejecutivo Federal de las vacantes que se produzcan en el Pleno, a efectos de su nombramiento;"
+    ]
+   },
+   {
+    "article": "Artículo 20.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VIII",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "VIII. Proponer anualmente al Pleno el anteproyecto de presupuesto de la Comisión para su aprobación;"
+    ]
+   },
+   {
+    "article": "Artículo 23.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La persona titular del Ejecutivo Federal podrá remover a las Personas Comisionadas de su encargo, por las siguientes causas graves:"
+    ]
+   },
+   {
+    "article": "Artículo 23.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 23.",
+    "operation": "repeal",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 12,
+    "to_block": 16,
+    "paragraphs": [
+     "Se deroga"
+    ]
+   },
+   {
+    "article": "Artículo 23.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "from_block": 17,
+    "to_block": 17,
+    "paragraphs": [
+     "La remoción requerirá del voto de la mayoría de las personas integrantes presentes del Senado de la República o, en sus recesos, de la Comisión Permanente."
+    ]
+   },
+   {
+    "article": "Artículo 24.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Las Personas Comisionadas estarán impedidas y deberán excusarse inmediatamente de conocer asuntos en los que existan una o varias situaciones que razonablemente le impidan resolver un asunto de su competencia con plena independencia, profesionalismo e imparcialidad. Para efectos de lo anterior, las Personas Comisionadas estarán impedidas para conocer de un asunto en el que tengan interés directo o indirecto."
+    ]
+   },
+   {
+    "article": "Artículo 24.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Se considerará que existe interés directo o indirecto cuando una Persona Comisionada:"
+    ]
+   },
+   {
+    "article": "Artículo 24.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "II. Tenga interés personal, familiar o de negocios en el asunto, incluyendo aquellos de los que pueda resultar algún beneficio para la Persona Comisionada, su cónyuge o sus parientes en los grados que expresa la fracción I de este artículo;"
+    ]
+   },
+   {
+    "article": "Artículo 24.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "III. La Persona Comisionada, su cónyuge o alguno de sus parientes en línea recta sin limitación de grado, sea heredera, legataria, donataria o fiadora de alguna de las personas interesadas o sus representantes, si aquéllas han aceptado la herencia, el legado o la donación;"
+    ]
+   },
+   {
+    "article": "Artículo 24.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo cuarto",
+    "from_block": 9,
+    "to_block": 9,
+    "paragraphs": [
+     "Las Personas Comisionadas deberán excusarse del conocimiento de los asuntos en que se presente alguno de los impedimentos señalados en este artículo en cuanto tengan conocimiento de su impedimento, expresando concretamente la causa del impedimento en que se funde, en cuyo caso el Pleno calificará la excusa, sin necesidad de dar intervención a los Agentes Económicos con interés en el asunto."
+    ]
+   },
+   {
+    "article": "Artículo 25.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafos cuarto y quinto",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Las entrevistas serán grabadas y almacenadas en medios electrónicos, ópticos o de cualquier otra tecnología, manteniéndose como información reservada, salvo para las otras partes en el procedimiento en forma de juicio, las demás Personas Comisionadas, la persona titular del Órgano Interno de Control y el Senado de la República en caso de que esté sustanciando un procedimiento de remoción de una Persona Comisionada.",
+     "La grabación de cada entrevista deberá estar a disposición de las demás Personas Comisionadas."
+    ]
+   },
+   {
+    "article": "Artículo 25.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo sexto",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "Las Personas Comisionadas no podrán ser recusadas por las manifestaciones que realicen durante las entrevistas, salvo que de éstas se advierta que se vulnera el principio de imparcialidad. En su caso, la recusación deberá ser calificada por el Pleno."
+    ]
+   },
+   {
+    "article": "Artículo 25.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo séptimo",
+    "from_block": 8,
+    "to_block": 8,
+    "paragraphs": [
+     "Lo dispuesto en este artículo será sin perjuicio de la participación de las Personas Comisionadas en foros y eventos públicos."
+    ]
+   },
+   {
+    "article": "Artículo 28.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. Recibir y, en su caso, dar trámite o desechar por notoriamente improcedentes las denuncias o solicitudes en términos de los artículos 94 y 96 de esta Ley que se presenten ante la Comisión por probables violaciones a esta Ley o restricciones al funcionamiento eficiente del mercado;"
+    ]
+   },
+   {
+    "article": "Artículo 28.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Conducir las investigaciones sobre probables violaciones a esta Ley, así como los procedimientos previstos en los artículos 94 y 96 de esta Ley, para lo cual podrá requerir informes y documentos necesarios, realizar diligencias de inspección, realizar encuestas o recolectar datos a través de cualquier herramienta, citar a declarar a quienes tengan relación con los asuntos y, en su caso, realizar visitas de verificación;"
+    ]
+   },
+   {
+    "article": "Artículo 28.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "II Bis",
+    "insert_after": 3,
+    "paragraphs": [
+     "II Bis. Participar en el procedimiento seguido en forma de juicio, en términos de esta Ley y su Reglamento;"
+    ]
+   },
+   {
+    "article": "Artículo 28.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "II Bis 1",
+    "insert_after": 3,
+    "paragraphs": [
+     "II Bis 1. Tramitar las etapas que le correspondan del procedimiento previsto en el artículo 141 de esta Ley, de conformidad con lo establecido en el estatuto orgánico;"
+    ]
+   },
+   {
+    "article": "Artículo 28.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "X",
+    "from_block": 12,
+    "to_block": 12,
+    "paragraphs": [
+     "X. Coadyuvar con el Pleno en la elaboración de Disposiciones Regulatorias, así como los proyectos de guías, lineamientos y criterios técnicos a que se refiere esta Ley;"
+    ]
+   },
+   {
+    "article": "Artículo 28.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XI",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "XI. Tramitar el Procedimiento de Calificación, en el ámbito de su competencia;"
+    ]
+   },
+   {
+    "article": "Artículo 28.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XII",
+    "insert_after": 13,
+    "paragraphs": [
+     "XII. Tramitar los procedimientos previstos en los artículos 100, 102 y 103 de esta Ley, en el ámbito de sus atribuciones;"
+    ]
+   },
+   {
+    "article": "Artículo 28.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XIII",
+    "insert_after": 13,
+    "paragraphs": [
+     "XIII. Tramitar incidentes que puedan derivarse del ejercicio de sus atribuciones, en términos de lo previsto en la presente Ley y su Reglamento, y"
+    ]
+   },
+   {
+    "article": "Artículo 28.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XIV",
+    "insert_after": 13,
+    "paragraphs": [
+     "XIV. Ejercer las demás atribuciones que se establezcan en la presente Ley, su Reglamento, las Disposiciones Regulatorias y en el estatuto orgánico de la Comisión."
+    ]
+   },
+   {
+    "article": "Artículo 29.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 29",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Para el desempeño de sus funciones, la Autoridad Investigadora podrá aplicar separada o indistintamente las medidas de apremio establecidas en esta Ley, según corresponda."
+    ]
+   },
+   {
+    "article": "Artículo 30.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 30",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La persona titular de la Autoridad Investigadora será designada y removida por el Pleno de la Comisión por mayoría de tres Personas Comisionadas, siendo necesario el voto favorable de la Persona Comisionada Presidente."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "Artículo 25.",
+    "reason": "El decreto sólo pone tres '...' antes de 'Las entrevistas...' y lo llama párrafo cuarto, pero en el texto vigente es el quinto. Antes está el bloque 4 ('Esta información deberá publicarse en el sitio de Internet de la Comisión.'). Parece que el decreto cuenta los bloques 3 y 4 como un solo párrafo. Se alineó por contenido: el bloque 5 se reformó y se dividió en dos párrafos, se reformaron los bloques 7 y 8 y se conservó el bloque 4. Verificar contra el texto oficial que el bloque 4 siga vigente."
+   },
+   {
+    "article": "Artículo 23.",
+    "reason": "Se derogó el párrafo tercero ('En estos casos, la Cámara de Senadores resolverá...') junto con sus incisos a) a d) (bloques 12 a 16). El decreto imprime 'Se deroga' y pasa directo al párrafo final sin conservar los incisos. Confirmar que los incisos quedan comprendidos en la derogación."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 15.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 15\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 16.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 16\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 17.\",\"operation\":\"repeal\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 17\",\"from_block\":1,\"to_block\":3,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 18.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"Las sesiones del Pleno serán de carácter público, a través de la versión estenográfica que se publicará en el sitio de Internet de la Comisión, excepto aquellas porciones en que se traten temas con Información Confidencial o Reservada. Sólo será considerada Información Confidencial la declarada como tal bajo los supuestos establecidos en esta Ley y demás disposiciones aplicables. El Pleno deberá fundar y motivar la resolución en la que determine que una sesión no será pública.\"]},{\"article\":\"Artículo 18.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo quinto\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"La Comisión deberá hacer público el posicionamiento de cada una de las Personas Comisionadas sobre los asuntos listados en el orden del día, el cual será redactado en lenguaje ciudadano, que deberá contener una descripción de los hechos de cada asunto en cuestión, así como el sentido del voto y el razonamiento que lo sustenta.\"]},{\"article\":\"Artículo 18.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo séptimo\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"Corresponde al Pleno el ejercicio de las atribuciones señaladas en las fracciones II, VI, VIII, IX, X, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX, XXIII, XXIV, XXV, XXXI, XXXII, XXXIII, XXXIV y XXXVI del artículo 12 de esta Ley, y las demás atribuciones concedidas expresamente al Pleno en esta Ley. Las atribuciones señaladas en el artículo 12, fracción II, cuando deriven del procedimiento previsto en el artículo 94 de esta Ley; así como las previstas en sus fracciones XVII, XXII, XXXII y XXXIII, solo podrán ser ejercidas por el Pleno cuando las mismas sean resueltas con el voto afirmativo de cuando menos cuatro Personas Comisionadas.\"]},{\"article\":\"Artículo 19.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 19\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La Persona Comisionada Presidente presidirá el Pleno y a la Comisión. En caso de ausencia, le suplirá la Persona Comisionada de mayor antigüedad y, a igualdad de antigüedad, la de mayor edad.\"]},{\"article\":\"Artículo 20.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Corresponde a la Persona Comisionada Presidente:\"]},{\"article\":\"Artículo 20.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Otorgar poderes a nombre de la Comisión para actos de dominio, de administración, pleitos y cobranzas y para ser representada ante cualquier autoridad administrativa o judicial, ante tribunales laborales o ante particulares; así como acordar la delegación de las facultades que correspondan, en los términos que establezca el estatuto orgánico. Tratándose de actos de dominio sobre inmuebles destinados a la Comisión o para otorgar poderes para dichos efectos, se requerirá la autorización previa del Pleno;\"]},{\"article\":\"Artículo 20.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VII\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"VII. Dar cuenta a la persona titular del Ejecutivo Federal de las vacantes que se produzcan en el Pleno, a efectos de su nombramiento;\"]},{\"article\":\"Artículo 20.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VIII\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"VIII. Proponer anualmente al Pleno el anteproyecto de presupuesto de la Comisión para su aprobación;\"]},{\"article\":\"Artículo 23.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La persona titular del Ejecutivo Federal podrá remover a las Personas Comisionadas de su encargo, por las siguientes causas graves:\"]},{\"article\":\"Artículo 23.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 23.\",\"operation\":\"repeal\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":12,\"to_block\":16,\"paragraphs\":[\"Se deroga\"]},{\"article\":\"Artículo 23.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"from_block\":17,\"to_block\":17,\"paragraphs\":[\"La remoción requerirá del voto de la mayoría de las personas integrantes presentes del Senado de la República o, en sus recesos, de la Comisión Permanente.\"]},{\"article\":\"Artículo 24.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Las Personas Comisionadas estarán impedidas y deberán excusarse inmediatamente de conocer asuntos en los que existan una o varias situaciones que razonablemente le impidan resolver un asunto de su competencia con plena independencia, profesionalismo e imparcialidad. Para efectos de lo anterior, las Personas Comisionadas estarán impedidas para conocer de un asunto en el que tengan interés directo o indirecto.\"]},{\"article\":\"Artículo 24.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Se considerará que existe interés directo o indirecto cuando una Persona Comisionada:\"]},{\"article\":\"Artículo 24.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"II. Tenga interés personal, familiar o de negocios en el asunto, incluyendo aquellos de los que pueda resultar algún beneficio para la Persona Comisionada, su cónyuge o sus parientes en los grados que expresa la fracción I de este artículo;\"]},{\"article\":\"Artículo 24.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"III. La Persona Comisionada, su cónyuge o alguno de sus parientes en línea recta sin limitación de grado, sea heredera, legataria, donataria o fiadora de alguna de las personas interesadas o sus representantes, si aquéllas han aceptado la herencia, el legado o la donación;\"]},{\"article\":\"Artículo 24.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo cuarto\",\"from_block\":9,\"to_block\":9,\"paragraphs\":[\"Las Personas Comisionadas deberán excusarse del conocimiento de los asuntos en que se presente alguno de los impedimentos señalados en este artículo en cuanto tengan conocimiento de su impedimento, expresando concretamente la causa del impedimento en que se funde, en cuyo caso el Pleno calificará la excusa, sin necesidad de dar intervención a los Agentes Económicos con interés en el asunto.\"]},{\"article\":\"Artículo 25.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafos cuarto y quinto\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Las entrevistas serán grabadas y almacenadas en medios electrónicos, ópticos o de cualquier otra tecnología, manteniéndose como información reservada, salvo para las otras partes en el procedimiento en forma de juicio, las demás Personas Comisionadas, la persona titular del Órgano Interno de Control y el Senado de la República en caso de que esté sustanciando un procedimiento de remoción de una Persona Comisionada.\",\"La grabación de cada entrevista deberá estar a disposición de las demás Personas Comisionadas.\"]},{\"article\":\"Artículo 25.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo sexto\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"Las Personas Comisionadas no podrán ser recusadas por las manifestaciones que realicen durante las entrevistas, salvo que de éstas se advierta que se vulnera el principio de imparcialidad. En su caso, la recusación deberá ser calificada por el Pleno.\"]},{\"article\":\"Artículo 25.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo séptimo\",\"from_block\":8,\"to_block\":8,\"paragraphs\":[\"Lo dispuesto en este artículo será sin perjuicio de la participación de las Personas Comisionadas en foros y eventos públicos.\"]},{\"article\":\"Artículo 28.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. Recibir y, en su caso, dar trámite o desechar por notoriamente improcedentes las denuncias o solicitudes en términos de los artículos 94 y 96 de esta Ley que se presenten ante la Comisión por probables violaciones a esta Ley o restricciones al funcionamiento eficiente del mercado;\"]},{\"article\":\"Artículo 28.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Conducir las investigaciones sobre probables violaciones a esta Ley, así como los procedimientos previstos en los artículos 94 y 96 de esta Ley, para lo cual podrá requerir informes y documentos necesarios, realizar diligencias de inspección, realizar encuestas o recolectar datos a través de cualquier herramienta, citar a declarar a quienes tengan relación con los asuntos y, en su caso, realizar visitas de verificación;\"]},{\"article\":\"Artículo 28.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"II Bis\",\"insert_after\":3,\"paragraphs\":[\"II Bis. Participar en el procedimiento seguido en forma de juicio, en términos de esta Ley y su Reglamento;\"]},{\"article\":\"Artículo 28.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"II Bis 1\",\"insert_after\":3,\"paragraphs\":[\"II Bis 1. Tramitar las etapas que le correspondan del procedimiento previsto en el artículo 141 de esta Ley, de conformidad con lo establecido en el estatuto orgánico;\"]},{\"article\":\"Artículo 28.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"X\",\"from_block\":12,\"to_block\":12,\"paragraphs\":[\"X. Coadyuvar con el Pleno en la elaboración de Disposiciones Regulatorias, así como los proyectos de guías, lineamientos y criterios técnicos a que se refiere esta Ley;\"]},{\"article\":\"Artículo 28.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XI\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"XI. Tramitar el Procedimiento de Calificación, en el ámbito de su competencia;\"]},{\"article\":\"Artículo 28.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"XII\",\"insert_after\":13,\"paragraphs\":[\"XII. Tramitar los procedimientos previstos en los artículos 100, 102 y 103 de esta Ley, en el ámbito de sus atribuciones;\"]},{\"article\":\"Artículo 28.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"XIII\",\"insert_after\":13,\"paragraphs\":[\"XIII. Tramitar incidentes que puedan derivarse del ejercicio de sus atribuciones, en términos de lo previsto en la presente Ley y su Reglamento, y\"]},{\"article\":\"Artículo 28.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"XIV\",\"insert_after\":13,\"paragraphs\":[\"XIV. Ejercer las demás atribuciones que se establezcan en la presente Ley, su Reglamento, las Disposiciones Regulatorias y en el estatuto orgánico de la Comisión.\"]},{\"article\":\"Artículo 29.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 29\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Para el desempeño de sus funciones, la Autoridad Investigadora podrá aplicar separada o indistintamente las medidas de apremio establecidas en esta Ley, según corresponda.\"]},{\"article\":\"Artículo 30.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 30\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La persona titular de la Autoridad Investigadora será designada y removida por el Pleno de la Comisión por mayoría de tres Personas Comisionadas, siendo necesario el voto favorable de la Persona Comisionada Presidente.\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"Artículo 25.\",\"reason\":\"El decreto sólo pone tres '...' antes de 'Las entrevistas...' y lo llama párrafo cuarto, pero en el texto vigente es el quinto. Antes está el bloque 4 ('Esta información deberá publicarse en el sitio de Internet de la Comisión.'). Parece que el decreto cuenta los bloques 3 y 4 como un solo párrafo. Se alineó por contenido: el bloque 5 se reformó y se dividió en dos párrafos, se reformaron los bloques 7 y 8 y se conservó el bloque 4. Verificar contra el texto oficial que el bloque 4 siga vigente.\"},{\"article\":\"Artículo 23.\",\"reason\":\"Se derogó el párrafo tercero ('En estos casos, la Cámara de Senadores resolverá...') junto con sus incisos a) a d) (bloques 12 a 16). El decreto imprime 'Se deroga' y pasa directo al párrafo final sin conservar los incisos. Confirmar que los incisos quedan comprendidos en la derogación.\"}]}",
+ "duration_ms": 52417,
+ "total_cost_usd": 0.2568378,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 7205,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 14016,
+   "webSearchRequests": 0,
+   "costUSD": 0.2568378,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 1785,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 14016,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

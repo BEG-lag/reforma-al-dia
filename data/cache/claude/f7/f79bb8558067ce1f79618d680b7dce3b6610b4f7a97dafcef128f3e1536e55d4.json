@@ -1,0 +1,43 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 214.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Los contribuyentes que no cumplan los requisitos para continuar tributando en términos de este Capítulo u opten por dejar de aplicar lo dispuesto en el régimen establecido en dicho Capítulo, deberán cumplir con las obligaciones previstas en el Título II de esta Ley, a partir del ejercicio inmediato siguiente a aquel en que esto suceda."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 214.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Los contribuyentes que no cumplan los requisitos para continuar tributando en términos de este Capítulo u opten por dejar de aplicar lo dispuesto en el régimen establecido en dicho Capítulo, deberán cumplir con las obligaciones previstas en el Título II de esta Ley, a partir del ejercicio inmediato siguiente a aquel en que esto suceda.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 4628,
+ "total_cost_usd": 0.3292858,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 409,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 40062,
+   "webSearchRequests": 0,
+   "costUSD": 0.3292858,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 110,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 40062,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

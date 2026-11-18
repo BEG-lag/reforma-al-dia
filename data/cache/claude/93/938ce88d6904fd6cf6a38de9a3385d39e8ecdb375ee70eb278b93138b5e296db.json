@@ -1,0 +1,221 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 137.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 137",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La Federación, los Estados, la Ciudad de México y los municipios estarán exentos de otorgar las garantías que esta Ley exige."
+    ]
+   },
+   {
+    "article": "Artículo 139.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 139",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "En los casos en que proceda la suspensión conforme a los artículos 128 y 131 de esta Ley, si hubiere peligro inminente de que se ejecute el acto reclamado con perjuicios de difícil reparación para la persona quejosa, el órgano jurisdiccional, con la presentación de la demanda, deberá ordenar que las cosas se mantengan en el estado que guarden hasta que se notifique a la autoridad responsable la resolución que se dicte sobre la suspensión definitiva, tomando las medidas que estime convenientes para que no se defrauden derechos de tercero y se eviten perjuicios a las personas interesadas, hasta donde sea posible, ni quede sin materia el juicio de amparo.",
+     "Cuando en autos surjan elementos que modifiquen la valoración que se realizó respecto de la afectación que la medida cautelar puede provocar al interés social y el orden público, la persona juzgadora, con vista a la persona quejosa por veinticuatro horas, podrá modificar o revocar la suspensión provisional."
+    ]
+   },
+   {
+    "article": "Artículo 145.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 145",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando apareciere debidamente probado que ya se resolvió sobre la suspensión en otro juicio de amparo, promovido con anterioridad por la misma persona quejosa o por otra persona en su nombre o representación, contra el mismo acto reclamado y contra las propias autoridades, se declarará sin materia el incidente de suspensión."
+    ]
+   },
+   {
+    "article": "Artículo 147.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Atendiendo a la naturaleza del acto reclamado, ordenará que las cosas se mantengan en el estado que guarden y, de ser jurídica y materialmente posible, restablecerá provisionalmente a la persona quejosa en el goce del derecho violado mientras se dicta sentencia ejecutoria en el juicio de amparo."
+    ]
+   },
+   {
+    "article": "Artículo 147.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "El órgano jurisdiccional tomará las medidas que estime necesarias para evitar que se defrauden los derechos de los menores de edad o incapaces, en tanto se dicte sentencia definitiva en el juicio de amparo."
+    ]
+   },
+   {
+    "article": "Artículo 148.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En los juicios de amparo en que se reclame una norma general autoaplicativa sin señalar un acto concreto de aplicación, la suspensión se otorgará para impedir los efectos y consecuencias de la norma en la esfera jurídica de la persona quejosa."
+    ]
+   },
+   {
+    "article": "Artículo 150.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 150",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En los casos en que la suspensión sea procedente, se concederá en forma tal que no impida la continuación del procedimiento en el asunto que haya motivado el acto reclamado, hasta dictarse resolución firme en él; a no ser que la continuación de dicho procedimiento deje irreparablemente consumado el daño o perjuicio que pueda ocasionarse a la persona quejosa."
+    ]
+   },
+   {
+    "article": "Artículo 152.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 152",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Tratándose de la última resolución que se dicte en el procedimiento de ejecución de un laudo en materia laboral la suspensión se concederá en los casos en que, a juicio de la persona titular de la presidencia del tribunal respectivo, no se ponga a la parte que obtuvo, si es la obrera, en peligro de no poder subsistir mientras se resuelve el juicio de amparo, en los cuales sólo se suspenderá la ejecución en cuanto exceda de lo necesario para asegurar tal subsistencia."
+    ]
+   },
+   {
+    "article": "Artículo 159.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En los lugares donde no resida juez o jueza de distrito y especialmente cuando se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, el juez o jueza de primera instancia dentro de cuya jurisdicción radique la autoridad que ejecute o trate de ejecutar el acto reclamado, deberá recibir la demanda de amparo y acordar de plano sobre la suspensión de oficio conforme a las siguientes reglas:"
+    ]
+   },
+   {
+    "article": "Artículo 159.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "fracción II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Ordenará a la autoridad responsable que mantenga las cosas en el estado en que se encuentren o que, en su caso, proceda inmediatamente a poner en libertad o a disposición del o la Ministerio Público a la persona quejosa y que rinda al juez o jueza de distrito el informe previo, y"
+    ]
+   },
+   {
+    "article": "Artículo 159.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "fracción III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Remitirá de inmediato el original de las actuaciones al juez o jueza de distrito competente y conservará el duplicado para vigilar el cumplimiento de sus resoluciones, hasta en tanto el juez o jueza de distrito provea lo conducente, con plena jurisdicción."
+    ]
+   },
+   {
+    "article": "Artículo 159.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "En caso de la probable comisión del delito de desaparición forzada, el juez o jueza de primera instancia procederá conforme lo establecido por el artículo 15 de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 159.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo tercero",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "Cuando el amparo se promueva contra actos de un juez o jueza de primera instancia y no haya otro en el lugar, o cuando se impugnen actos de otras autoridades y aquél no pueda ser habido, la demanda de amparo podrá presentarse ante cualquiera de los órganos judiciales que ejerzan jurisdicción en el mismo lugar, siempre que en él resida la autoridad ejecutora o, en su defecto, ante el órgano jurisdiccional más próximo."
+    ]
+   },
+   {
+    "article": "Artículo 160.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 160",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando el acto reclamado sea la orden de deportación, expulsión o extradición, la suspensión tiene por efecto que no se ejecute y la persona interesada quede en el lugar donde se encuentre a disposición del órgano jurisdiccional de amparo, sólo en lo que se refiere a su libertad personal."
+    ]
+   },
+   {
+    "article": "Artículo 161.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 161",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando el acto reclamado consista en la orden de traslado de la persona quejosa de un centro penitenciario a otro, la suspensión, si procede, tendrá por efecto que éste no se lleve a cabo."
+    ]
+   },
+   {
+    "article": "Artículo 162.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 162",
+    "from_block": 1,
+    "to_block": 2,
+    "paragraphs": [
+     "Cuando el acto reclamado consista en una orden de privación de la libertad o en la prohibición de abandonar una demarcación geográfica, la suspensión tendrá por efecto que no se ejecute o cese inmediatamente, según sea el caso. El órgano jurisdiccional de amparo tomará las medidas que aseguren que la persona quejosa no evada la acción de la justicia, entre ellas, la obligación de presentarse ante la autoridad y ante quien concedió la suspensión cuantas veces le sea exigida.",
+     "De acuerdo con las circunstancias del caso, la suspensión podrá tener como efecto que la privación de la libertad se ejecute en el domicilio de la persona quejosa."
+    ]
+   },
+   {
+    "article": "Artículo 163.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 163",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando el amparo se pida contra actos que afecten la libertad personal dentro de un procedimiento del orden penal, de conformidad con lo dispuesto en el artículo 166 de esta Ley, la suspensión producirá el efecto de que la persona quejosa quede a disposición del órgano jurisdiccional que conozca del amparo, sólo en lo que se refiere a dicha libertad, pero a disposición de la autoridad que deba juzgarlo, para la continuación del procedimiento."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 137.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 137\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La Federación, los Estados, la Ciudad de México y los municipios estarán exentos de otorgar las garantías que esta Ley exige.\"]},{\"article\":\"Artículo 139.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 139\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"En los casos en que proceda la suspensión conforme a los artículos 128 y 131 de esta Ley, si hubiere peligro inminente de que se ejecute el acto reclamado con perjuicios de difícil reparación para la persona quejosa, el órgano jurisdiccional, con la presentación de la demanda, deberá ordenar que las cosas se mantengan en el estado que guarden hasta que se notifique a la autoridad responsable la resolución que se dicte sobre la suspensión definitiva, tomando las medidas que estime convenientes para que no se defrauden derechos de tercero y se eviten perjuicios a las personas interesadas, hasta donde sea posible, ni quede sin materia el juicio de amparo.\",\"Cuando en autos surjan elementos que modifiquen la valoración que se realizó respecto de la afectación que la medida cautelar puede provocar al interés social y el orden público, la persona juzgadora, con vista a la persona quejosa por veinticuatro horas, podrá modificar o revocar la suspensión provisional.\"]},{\"article\":\"Artículo 145.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 145\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando apareciere debidamente probado que ya se resolvió sobre la suspensión en otro juicio de amparo, promovido con anterioridad por la misma persona quejosa o por otra persona en su nombre o representación, contra el mismo acto reclamado y contra las propias autoridades, se declarará sin materia el incidente de suspensión.\"]},{\"article\":\"Artículo 147.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Atendiendo a la naturaleza del acto reclamado, ordenará que las cosas se mantengan en el estado que guarden y, de ser jurídica y materialmente posible, restablecerá provisionalmente a la persona quejosa en el goce del derecho violado mientras se dicta sentencia ejecutoria en el juicio de amparo.\"]},{\"article\":\"Artículo 147.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"El órgano jurisdiccional tomará las medidas que estime necesarias para evitar que se defrauden los derechos de los menores de edad o incapaces, en tanto se dicte sentencia definitiva en el juicio de amparo.\"]},{\"article\":\"Artículo 148.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En los juicios de amparo en que se reclame una norma general autoaplicativa sin señalar un acto concreto de aplicación, la suspensión se otorgará para impedir los efectos y consecuencias de la norma en la esfera jurídica de la persona quejosa.\"]},{\"article\":\"Artículo 150.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 150\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En los casos en que la suspensión sea procedente, se concederá en forma tal que no impida la continuación del procedimiento en el asunto que haya motivado el acto reclamado, hasta dictarse resolución firme en él; a no ser que la continuación de dicho procedimiento deje irreparablemente consumado el daño o perjuicio que pueda ocasionarse a la persona quejosa.\"]},{\"article\":\"Artículo 152.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 152\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Tratándose de la última resolución que se dicte en el procedimiento de ejecución de un laudo en materia laboral la suspensión se concederá en los casos en que, a juicio de la persona titular de la presidencia del tribunal respectivo, no se ponga a la parte que obtuvo, si es la obrera, en peligro de no poder subsistir mientras se resuelve el juicio de amparo, en los cuales sólo se suspenderá la ejecución en cuanto exceda de lo necesario para asegurar tal subsistencia.\"]},{\"article\":\"Artículo 159.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En los lugares donde no resida juez o jueza de distrito y especialmente cuando se trate de actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento, incomunicación, deportación o expulsión, proscripción o destierro, extradición, desaparición forzada de personas o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como la incorporación forzosa al Ejército, Armada o Fuerza Aérea nacionales, el juez o jueza de primera instancia dentro de cuya jurisdicción radique la autoridad que ejecute o trate de ejecutar el acto reclamado, deberá recibir la demanda de amparo y acordar de plano sobre la suspensión de oficio conforme a las siguientes reglas:\"]},{\"article\":\"Artículo 159.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"fracción II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Ordenará a la autoridad responsable que mantenga las cosas en el estado en que se encuentren o que, en su caso, proceda inmediatamente a poner en libertad o a disposición del o la Ministerio Público a la persona quejosa y que rinda al juez o jueza de distrito el informe previo, y\"]},{\"article\":\"Artículo 159.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"fracción III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Remitirá de inmediato el original de las actuaciones al juez o jueza de distrito competente y conservará el duplicado para vigilar el cumplimiento de sus resoluciones, hasta en tanto el juez o jueza de distrito provea lo conducente, con plena jurisdicción.\"]},{\"article\":\"Artículo 159.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"En caso de la probable comisión del delito de desaparición forzada, el juez o jueza de primera instancia procederá conforme lo establecido por el artículo 15 de esta Ley.\"]},{\"article\":\"Artículo 159.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo tercero\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"Cuando el amparo se promueva contra actos de un juez o jueza de primera instancia y no haya otro en el lugar, o cuando se impugnen actos de otras autoridades y aquél no pueda ser habido, la demanda de amparo podrá presentarse ante cualquiera de los órganos judiciales que ejerzan jurisdicción en el mismo lugar, siempre que en él resida la autoridad ejecutora o, en su defecto, ante el órgano jurisdiccional más próximo.\"]},{\"article\":\"Artículo 160.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 160\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando el acto reclamado sea la orden de deportación, expulsión o extradición, la suspensión tiene por efecto que no se ejecute y la persona interesada quede en el lugar donde se encuentre a disposición del órgano jurisdiccional de amparo, sólo en lo que se refiere a su libertad personal.\"]},{\"article\":\"Artículo 161.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 161\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando el acto reclamado consista en la orden de traslado de la persona quejosa de un centro penitenciario a otro, la suspensión, si procede, tendrá por efecto que éste no se lleve a cabo.\"]},{\"article\":\"Artículo 162.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 162\",\"from_block\":1,\"to_block\":2,\"paragraphs\":[\"Cuando el acto reclamado consista en una orden de privación de la libertad o en la prohibición de abandonar una demarcación geográfica, la suspensión tendrá por efecto que no se ejecute o cese inmediatamente, según sea el caso. El órgano jurisdiccional de amparo tomará las medidas que aseguren que la persona quejosa no evada la acción de la justicia, entre ellas, la obligación de presentarse ante la autoridad y ante quien concedió la suspensión cuantas veces le sea exigida.\",\"De acuerdo con las circunstancias del caso, la suspensión podrá tener como efecto que la privación de la libertad se ejecute en el domicilio de la persona quejosa.\"]},{\"article\":\"Artículo 163.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 163\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando el amparo se pida contra actos que afecten la libertad personal dentro de un procedimiento del orden penal, de conformidad con lo dispuesto en el artículo 166 de esta Ley, la suspensión producirá el efecto de que la persona quejosa quede a disposición del órgano jurisdiccional que conozca del amparo, sólo en lo que se refiere a dicha libertad, pero a disposición de la autoridad que deba juzgarlo, para la continuación del procedimiento.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 27702,
+ "total_cost_usd": 0.1571858,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 4064,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 9412,
+   "webSearchRequests": 0,
+   "costUSD": 0.1571858,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 87,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 9412,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

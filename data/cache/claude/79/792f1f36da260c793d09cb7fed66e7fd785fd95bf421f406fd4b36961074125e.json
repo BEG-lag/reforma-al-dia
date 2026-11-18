@@ -1,0 +1,248 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 3o.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 3o.",
+    "from_block": 1,
+    "to_block": 14,
+    "paragraphs": [
+     "En el juicio de amparo las promociones deberán hacerse por escrito. Su presentación puede hacerse de forma electrónica o impresa.",
+     "Si las partes o sus representantes cuentan con un usuario dentro del Portal de Servicios en Línea del Poder Judicial de la Federación, deberán manifestarlo desde su primera actuación en el juicio de amparo, a efecto de que sea a través de dicho medio por el cual se lleven a cabo las notificaciones correspondientes.",
+     "Las autoridades que tengan suscrito Convenio de Interconexión con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación deberán informarlo en su primera promoción, a efecto de que las notificaciones se realicen por medio de dicho sistema.",
+     "La presentación electrónica de promociones será opcional para la parte promovente, por lo que en ningún supuesto podrá condicionarse el acceso al procedimiento a la utilización de medios digitales, cuando la persona haya elegido ejercer su derecho a promover por escrito.",
+     "Únicamente podrán ser orales las promociones que se hagan en las audiencias, notificaciones y comparecencias autorizadas por la ley, dejándose constancia de lo esencial.",
+     "Las copias certificadas que se expidan para la substanciación del juicio de amparo no causarán contribución alguna.",
+     "Los escritos en forma electrónica se presentarán mediante el empleo de las tecnologías de la información, utilizando la Firma Electrónica conforme la regulación que para tal efecto emita el Órgano de Administración Judicial.",
+     "La Firma Electrónica es el medio de ingreso al sistema electrónico del Poder Judicial de la Federación y producirá los mismos efectos jurídicos que la firma autógrafa, como opción para enviar y recibir promociones, documentos, comunicaciones y notificaciones oficiales, así como consultar acuerdos, resoluciones y sentencias relacionadas con los asuntos competencia de los órganos jurisdiccionales.",
+     "El Órgano de Administración Judicial, mediante acuerdos generales, determinará la forma en que deberán integrarse los expedientes físico y electrónico, salvaguardando en todo momento el derecho de las partes para consultarlos.",
+     "Las personas titulares de los órganos jurisdiccionales serán las responsables de vigilar la digitalización de todas las promociones y documentos que presenten en forma física las partes, así como de los acuerdos, resoluciones o sentencias y toda información relacionada con los expedientes en el sistema.",
+     "El Órgano de Administración Judicial, en ejercicio de las facultades que le confiere la Ley Orgánica del Poder Judicial de la Federación, emitirá los acuerdos generales que considere necesarios a efecto de establecer las bases y el correcto funcionamiento de la Firma Electrónica.",
+     "Todas las autoridades que participen en el juicio de amparo están obligadas a generar un usuario dentro del Portal de Servicios en Línea del Poder Judicial de la Federación, a efecto de que por dicho medio actúen dentro del juicio. Las autoridades que tengan suscrito Convenio de Interconexión con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación podrán actuar en el juicio a través de dicho sistema.",
+     "No se requerirá Firma Electrónica cuando el amparo se promueva en los términos del artículo 15 de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 5o.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "fracción I, párrafo segundo",
+    "insert_after": 3,
+    "paragraphs": [
+     "Tratándose del interés legítimo, la norma, acto u omisión reclamado deberá ocasionar en la persona quejosa una lesión jurídica individual o colectiva, real y diferenciada del resto de las personas, de tal forma que su anulación produzca un beneficio cierto y no meramente hipotético o eventual en caso de que se otorgue el amparo."
+    ]
+   },
+   {
+    "article": "Artículo 7o.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Las personas morales oficiales, los organismos descentralizados, las empresas públicas del Estado, las empresas de participación estatal mayoritaria, las instituciones nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y de fianzas, fondos, mandatos y fideicomisos públicos estarán exentos de prestar las garantías que en esta Ley se exige a las partes."
+    ]
+   },
+   {
+    "article": "Artículo 25.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Las notificaciones a las entidades a que se hace referencia en el párrafo anterior deberán ser hechas vía electrónica, con el uso de la Firma Electrónica, a través del Portal de Servicios en Línea del Poder Judicial de la Federación o, en su caso, conforme al Convenio suscrito con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación, y solo excepcionalmente por medio de oficio impreso dirigido al domicilio oficial que corresponda."
+    ]
+   },
+   {
+    "article": "Artículo 26.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 25,
+    "to_block": 25,
+    "paragraphs": [
+     "IV. Por vía electrónica:",
+     "a) A las partes que cuenten con un usuario dentro del Portal de Servicios en Línea del Poder Judicial de la Federación.",
+     "b) A las autoridades, a través de los perfiles institucionales oficiales con que cuenten dentro del Portal de Servicios en Línea del Poder Judicial de la Federación o, en su caso, conforme al Convenio que tengan suscrito con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación.",
+     "Para los supuestos enunciados en los incisos anteriores, la totalidad de las notificaciones del juicio de amparo, ya sean de carácter personal o por lista, deben practicarse por las vías mencionadas."
+    ]
+   },
+   {
+    "article": "Artículo 27.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "insert_after": 21,
+    "paragraphs": [
+     "IV. Cuando obre en autos que la persona cuenta con un usuario dentro del Portal de Servicios en Línea del Poder Judicial de la Federación, la notificación se hará de forma electrónica."
+    ]
+   },
+   {
+    "article": "Artículo 28.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción II, párrafo segundo",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "En casos urgentes, cuando el domicilio se encuentre fuera de la circunscripción territorial del órgano jurisdiccional que conozca del juicio, pero en zona conurbada, podrá ordenarse que la notificación se haga por medio del actuario o actuaria."
+    ]
+   },
+   {
+    "article": "Artículo 28.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "fracción II, párrafo tercero",
+    "insert_after": 7,
+    "paragraphs": [
+     "El Órgano de Administración Judicial será el encargado de desarrollar y actualizar mediante acuerdos generales, el listado de medios electrónicos aptos para practicar notificaciones en el juicio de amparo."
+    ]
+   },
+   {
+    "article": "Artículo 28.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "fracción II, párrafo cuarto",
+    "insert_after": 7,
+    "paragraphs": [
+     "En ningún caso podrán practicarse notificaciones a las partes por un medio diverso al establecido en la presente Ley, en los acuerdos generales emitidos por el Órgano de Administración Judicial o, tratándose de autoridades responsables que tengan Convenio suscrito con el Órgano de Administración Judicial o la Suprema Corte de Justicia de la Nación, según corresponda, en contravención a las formas o medios que se establezcan en dicho convenio, y"
+    ]
+   },
+   {
+    "article": "Artículo 30.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "fracción I, párrafo primero",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. A las y los representantes de las autoridades responsables y a las autoridades que tengan el carácter de terceras interesadas, así como cualesquier otra que tuviere intervención en el juicio, la primera notificación deberá hacerse por oficio digitalizado mediante la utilización de la Firma Electrónica al usuario registrado dentro del Portal de Servicios en Línea del Poder Judicial de la Federación, o en su caso, mediante el sistema establecido en el Convenio suscrito con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación y, excepcionalmente, por oficio impreso en los términos precisados en el artículo 28 de esta Ley."
+    ]
+   },
+   {
+    "article": "Artículo 59.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "insert_after": 1,
+    "paragraphs": [
+     "Asimismo, el órgano jurisdiccional desechará de plano la recusación, cuando:"
+    ]
+   },
+   {
+    "article": "Artículo 59.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "insert_after": 1,
+    "paragraphs": [
+     "I. Se advierta que existan elementos suficientes que demuestren que su promoción se haya dirigido a entorpecer o dilatar el procedimiento en cuestión, o"
+    ]
+   },
+   {
+    "article": "Artículo 59.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "insert_after": 1,
+    "paragraphs": [
+     "II. Sea presentada para que algún Ministro o Ministra, Magistrado o Magistrada se abstenga de conocer de cuestiones accesorias o diversas al fondo de la controversia."
+    ]
+   },
+   {
+    "article": "Artículo 60.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La recusación se presentará ante la persona servidora pública a quien se estime impedida, la que lo comunicará al órgano que deba calificarla. Éste, en su caso, la admitirá y solicitará informe a la persona servidora pública requerida, la que deberá rendirlo dentro de las veinticuatro horas siguientes a su notificación."
+    ]
+   },
+   {
+    "article": "Artículo 60.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "insert_after": 2,
+    "paragraphs": [
+     "El escrito de recusación deberá ser presentado con anterioridad a la publicación de la lista de sesión a que se refiere el artículo 184 de esta Ley. Para el caso de que el asunto sea retirado y/o aplazado conforme al citado artículo 184, no podrá volver a presentarse, salvo que se modifique la integración del órgano jurisdiccional."
+    ]
+   },
+   {
+    "article": "Artículo 82.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "insert_after": 1,
+    "paragraphs": [
+     "La notificación del auto por el cual se admita el recurso deberá efectuarse a las partes en un plazo que no exceda los cinco días siguientes a su emisión."
+    ]
+   },
+   {
+    "article": "Artículo 107.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "II. Contra actos u omisiones que provengan de autoridades distintas de los tribunales judiciales, administrativos o del trabajo."
+    ]
+   },
+   {
+    "article": "Artículo 107.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "fracción II, párrafo segundo",
+    "insert_after": 13,
+    "paragraphs": [
+     "Si se trata de actos de ejecución o cobro de contribuciones de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente, o de resoluciones que resuelvan solicitudes de prescripción de dichos créditos firmes, sólo podrá promoverse el amparo hasta el momento de la publicación de la convocatoria de remate, caso en el cual se harán valer las violaciones cometidas durante el procedimiento. Las normas generales aplicadas durante el procedimiento solo podrán reclamarse en el amparo promovido contra la resolución referida;"
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": [
+   {
+    "article": "Artículo 107.",
+    "reason": "La instrucción sólo adiciona un párrafo segundo a la fracción II, pero el decreto reimprime el párrafo primero de la fracción II con punto final en lugar de punto y coma; se aplicó ese cambio de puntuación como reforma. Verificar contra el texto consolidado."
+   },
+   {
+    "article": "Artículo 28.",
+    "reason": "La instrucción menciona 'párrafo primero, fracción II, párrafo segundo', pero el decreto deja sin cambio el párrafo primero ('Artículo 28. ...'); sólo se reformó el párrafo segundo de la fracción II (se suprime ', y')."
+   },
+   {
+    "article": "Artículo 26.",
+    "reason": "La fracción IV, que era un solo bloque, se sustituye por la fracción con los incisos a) y b) y un párrafo final; se devolvió como una sola reforma con varios párrafos."
+   }
+  ]
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 3o.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 3o.\",\"from_block\":1,\"to_block\":14,\"paragraphs\":[\"En el juicio de amparo las promociones deberán hacerse por escrito. Su presentación puede hacerse de forma electrónica o impresa.\",\"Si las partes o sus representantes cuentan con un usuario dentro del Portal de Servicios en Línea del Poder Judicial de la Federación, deberán manifestarlo desde su primera actuación en el juicio de amparo, a efecto de que sea a través de dicho medio por el cual se lleven a cabo las notificaciones correspondientes.\",\"Las autoridades que tengan suscrito Convenio de Interconexión con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación deberán informarlo en su primera promoción, a efecto de que las notificaciones se realicen por medio de dicho sistema.\",\"La presentación electrónica de promociones será opcional para la parte promovente, por lo que en ningún supuesto podrá condicionarse el acceso al procedimiento a la utilización de medios digitales, cuando la persona haya elegido ejercer su derecho a promover por escrito.\",\"Únicamente podrán ser orales las promociones que se hagan en las audiencias, notificaciones y comparecencias autorizadas por la ley, dejándose constancia de lo esencial.\",\"Las copias certificadas que se expidan para la substanciación del juicio de amparo no causarán contribución alguna.\",\"Los escritos en forma electrónica se presentarán mediante el empleo de las tecnologías de la información, utilizando la Firma Electrónica conforme la regulación que para tal efecto emita el Órgano de Administración Judicial.\",\"La Firma Electrónica es el medio de ingreso al sistema electrónico del Poder Judicial de la Federación y producirá los mismos efectos jurídicos que la firma autógrafa, como opción para enviar y recibir promociones, documentos, comunicaciones y notificaciones oficiales, así como consultar acuerdos, resoluciones y sentencias relacionadas con los asuntos competencia de los órganos jurisdiccionales.\",\"El Órgano de Administración Judicial, mediante acuerdos generales, determinará la forma en que deberán integrarse los expedientes físico y electrónico, salvaguardando en todo momento el derecho de las partes para consultarlos.\",\"Las personas titulares de los órganos jurisdiccionales serán las responsables de vigilar la digitalización de todas las promociones y documentos que presenten en forma física las partes, así como de los acuerdos, resoluciones o sentencias y toda información relacionada con los expedientes en el sistema.\",\"El Órgano de Administración Judicial, en ejercicio de las facultades que le confiere la Ley Orgánica del Poder Judicial de la Federación, emitirá los acuerdos generales que considere necesarios a efecto de establecer las bases y el correcto funcionamiento de la Firma Electrónica.\",\"Todas las autoridades que participen en el juicio de amparo están obligadas a generar un usuario dentro del Portal de Servicios en Línea del Poder Judicial de la Federación, a efecto de que por dicho medio actúen dentro del juicio. Las autoridades que tengan suscrito Convenio de Interconexión con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación podrán actuar en el juicio a través de dicho sistema.\",\"No se requerirá Firma Electrónica cuando el amparo se promueva en los términos del artículo 15 de esta Ley.\"]},{\"article\":\"Artículo 5o.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"fracción I, párrafo segundo\",\"insert_after\":3,\"paragraphs\":[\"Tratándose del interés legítimo, la norma, acto u omisión reclamado deberá ocasionar en la persona quejosa una lesión jurídica individual o colectiva, real y diferenciada del resto de las personas, de tal forma que su anulación produzca un beneficio cierto y no meramente hipotético o eventual en caso de que se otorgue el amparo.\"]},{\"article\":\"Artículo 7o.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Las personas morales oficiales, los organismos descentralizados, las empresas públicas del Estado, las empresas de participación estatal mayoritaria, las instituciones nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y de fianzas, fondos, mandatos y fideicomisos públicos estarán exentos de prestar las garantías que en esta Ley se exige a las partes.\"]},{\"article\":\"Artículo 25.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Las notificaciones a las entidades a que se hace referencia en el párrafo anterior deberán ser hechas vía electrónica, con el uso de la Firma Electrónica, a través del Portal de Servicios en Línea del Poder Judicial de la Federación o, en su caso, conforme al Convenio suscrito con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación, y solo excepcionalmente por medio de oficio impreso dirigido al domicilio oficial que corresponda.\"]},{\"article\":\"Artículo 26.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":25,\"to_block\":25,\"paragraphs\":[\"IV. Por vía electrónica:\",\"a) A las partes que cuenten con un usuario dentro del Portal de Servicios en Línea del Poder Judicial de la Federación.\",\"b) A las autoridades, a través de los perfiles institucionales oficiales con que cuenten dentro del Portal de Servicios en Línea del Poder Judicial de la Federación o, en su caso, conforme al Convenio que tengan suscrito con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación.\",\"Para los supuestos enunciados en los incisos anteriores, la totalidad de las notificaciones del juicio de amparo, ya sean de carácter personal o por lista, deben practicarse por las vías mencionadas.\"]},{\"article\":\"Artículo 27.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"insert_after\":21,\"paragraphs\":[\"IV. Cuando obre en autos que la persona cuenta con un usuario dentro del Portal de Servicios en Línea del Poder Judicial de la Federación, la notificación se hará de forma electrónica.\"]},{\"article\":\"Artículo 28.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción II, párrafo segundo\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"En casos urgentes, cuando el domicilio se encuentre fuera de la circunscripción territorial del órgano jurisdiccional que conozca del juicio, pero en zona conurbada, podrá ordenarse que la notificación se haga por medio del actuario o actuaria.\"]},{\"article\":\"Artículo 28.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"fracción II, párrafo tercero\",\"insert_after\":7,\"paragraphs\":[\"El Órgano de Administración Judicial será el encargado de desarrollar y actualizar mediante acuerdos generales, el listado de medios electrónicos aptos para practicar notificaciones en el juicio de amparo.\"]},{\"article\":\"Artículo 28.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"fracción II, párrafo cuarto\",\"insert_after\":7,\"paragraphs\":[\"En ningún caso podrán practicarse notificaciones a las partes por un medio diverso al establecido en la presente Ley, en los acuerdos generales emitidos por el Órgano de Administración Judicial o, tratándose de autoridades responsables que tengan Convenio suscrito con el Órgano de Administración Judicial o la Suprema Corte de Justicia de la Nación, según corresponda, en contravención a las formas o medios que se establezcan en dicho convenio, y\"]},{\"article\":\"Artículo 30.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"fracción I, párrafo primero\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. A las y los representantes de las autoridades responsables y a las autoridades que tengan el carácter de terceras interesadas, así como cualesquier otra que tuviere intervención en el juicio, la primera notificación deberá hacerse por oficio digitalizado mediante la utilización de la Firma Electrónica al usuario registrado dentro del Portal de Servicios en Línea del Poder Judicial de la Federación, o en su caso, mediante el sistema establecido en el Convenio suscrito con el Órgano de Administración Judicial y la Suprema Corte de Justicia de la Nación y, excepcionalmente, por oficio impreso en los términos precisados en el artículo 28 de esta Ley.\"]},{\"article\":\"Artículo 59.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"insert_after\":1,\"paragraphs\":[\"Asimismo, el órgano jurisdiccional desechará de plano la recusación, cuando:\"]},{\"article\":\"Artículo 59.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"insert_after\":1,\"paragraphs\":[\"I. Se advierta que existan elementos suficientes que demuestren que su promoción se haya dirigido a entorpecer o dilatar el procedimiento en cuestión, o\"]},{\"article\":\"Artículo 59.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"insert_after\":1,\"paragraphs\":[\"II. Sea presentada para que algún Ministro o Ministra, Magistrado o Magistrada se abstenga de conocer de cuestiones accesorias o diversas al fondo de la controversia.\"]},{\"article\":\"Artículo 60.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La recusación se presentará ante la persona servidora pública a quien se estime impedida, la que lo comunicará al órgano que deba calificarla. Éste, en su caso, la admitirá y solicitará informe a la persona servidora pública requerida, la que deberá rendirlo dentro de las veinticuatro horas siguientes a su notificación.\"]},{\"article\":\"Artículo 60.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"insert_after\":2,\"paragraphs\":[\"El escrito de recusación deberá ser presentado con anterioridad a la publicación de la lista de sesión a que se refiere el artículo 184 de esta Ley. Para el caso de que el asunto sea retirado y/o aplazado conforme al citado artículo 184, no podrá volver a presentarse, salvo que se modifique la integración del órgano jurisdiccional.\"]},{\"article\":\"Artículo 82.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"insert_after\":1,\"paragraphs\":[\"La notificación del auto por el cual se admita el recurso deberá efectuarse a las partes en un plazo que no exceda los cinco días siguientes a su emisión.\"]},{\"article\":\"Artículo 107.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"II. Contra actos u omisiones que provengan de autoridades distintas de los tribunales judiciales, administrativos o del trabajo.\"]},{\"article\":\"Artículo 107.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"fracción II, párrafo segundo\",\"insert_after\":13,\"paragraphs\":[\"Si se trata de actos de ejecución o cobro de contribuciones de créditos fiscales determinados en resoluciones liquidatorias que hubieren sido impugnadas y hayan quedado firmes por resolución de autoridad competente, o de resoluciones que resuelvan solicitudes de prescripción de dichos créditos firmes, sólo podrá promoverse el amparo hasta el momento de la publicación de la convocatoria de remate, caso en el cual se harán valer las violaciones cometidas durante el procedimiento. Las normas generales aplicadas durante el procedimiento solo podrán reclamarse en el amparo promovido contra la resolución referida;\"]}],\"divisions\":[],\"needs_review\":[{\"article\":\"Artículo 107.\",\"reason\":\"La instrucción sólo adiciona un párrafo segundo a la fracción II, pero el decreto reimprime el párrafo primero de la fracción II con punto final en lugar de punto y coma; se aplicó ese cambio de puntuación como reforma. Verificar contra el texto consolidado.\"},{\"article\":\"Artículo 28.\",\"reason\":\"La instrucción menciona 'párrafo primero, fracción II, párrafo segundo', pero el decreto deja sin cambio el párrafo primero ('Artículo 28. ...'); sólo se reformó el párrafo segundo de la fracción II (se suprime ', y').\"},{\"article\":\"Artículo 26.\",\"reason\":\"La fracción IV, que era un solo bloque, se sustituye por la fracción con los incisos a) y b) y un párrafo final; se devolvió como una sola reforma con varios párrafos.\"}]}",
+ "duration_ms": 42292,
+ "total_cost_usd": 0.283404,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 5941,
+   "cacheReadInputTokens": 0,
+   "cacheCreationInputTokens": 20572,
+   "webSearchRequests": 0,
+   "costUSD": 0.283404,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 1154,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 20572,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

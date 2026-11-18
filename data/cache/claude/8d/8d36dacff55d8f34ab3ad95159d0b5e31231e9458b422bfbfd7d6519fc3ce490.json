@@ -1,0 +1,169 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "ARTÍCULO 3.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "VI BIS",
+    "insert_after": 9,
+    "paragraphs": [
+     "VI BIS. \"Aguas residuales tratadas\": Aquellas que se han adecuado para su reúso mediante procesos individuales o combinados de tipo físico, químico, biológico u otro;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 3.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VIII",
+    "from_block": 13,
+    "to_block": 13,
+    "paragraphs": [
+     "VIII. \"Asignación\": Título que otorga el Ejecutivo Federal, a través de \"la Comisión\" o del Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para realizar la explotación, uso o aprovechamiento de las aguas nacionales, a los municipios, a los estados o a la Ciudad de México, destinadas a los servicios de agua con carácter público urbano o doméstico;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 3.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "XVI, inciso a.",
+    "from_block": 23,
+    "to_block": 23,
+    "paragraphs": [
+     "a. \"Región hidrológica\": Área territorial conformada en función de sus características morfológicas, orográficas e hidrológicas, en la cual se considera a la cuenca hidrológica como la unidad básica para la gestión de los recursos hídricos, cuya finalidad es el agrupamiento y sistematización de la información, análisis, diagnósticos, programas y acciones en relación con la ocurrencia del agua en cantidad y calidad, así como su explotación, uso o aprovechamiento. Normalmente una región hidrológica está integrada por una o varias cuencas hidrológicas. Por tanto, los límites de la región hidrológica son en general distintos en relación con la división política por estados, Ciudad de México, sus demarcaciones territoriales y municipios. Una o varias regiones hidrológicas integran una región hidrológico-administrativa, y"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 3.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XLII",
+    "from_block": 54,
+    "to_block": 54,
+    "paragraphs": [
+     "XLII. \"Programa Nacional Hídrico\": Documento rector que integra los planes hídricos de las cuencas a nivel nacional, en el cual se definen la disponibilidad, el uso y aprovechamiento del recurso, así como las estrategias, prioridades y políticas, para lograr el equilibrio del desarrollo regional sustentable, avanzar en la gestión integrada de los recursos hídricos priorizando el derecho humano al agua para consumo personal y doméstico;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 3.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XLIII BIS",
+    "insert_after": 55,
+    "paragraphs": [
+     "XLIII BIS. \"Reasignación\": Procedimiento mediante el cual \"la Autoridad del Agua\" dispone de los volúmenes de agua que se encuentran en el fondo de reserva de aguas nacionales y los asigna o concesiona en los términos y condiciones establecidos en esta Ley y las disposiciones reglamentarias correspondientes;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 3.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XLIV",
+    "from_block": 56,
+    "to_block": 56,
+    "paragraphs": [
+     "XLIV. \"Registro Público Nacional del Agua\": (REPNA) Registro que proporciona información y seguridad jurídica a las personas usuarias de aguas nacionales y bienes inherentes a través de la inscripción de los títulos de concesión, asignación y permisos de descarga, así como las modificaciones que se efectúen en las características de los mismos;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 3.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XLV BIS",
+    "insert_after": 59,
+    "paragraphs": [
+     "XLV BIS. \"Responsabilidad Hídrica\": La gestión hídrica responsable y las buenas prácticas por parte de \"la Autoridad del Agua\", personas concesionarias, asignatarias, permisionarias y usuarias en general para mejorar el manejo, explotación, uso, reúso, tecnificación de los sistemas de riego o aprovechamiento eficiente y sostenible de las aguas nacionales; sin exceder volúmenes de agua mayores a los concesionados, para mantener el equilibrio hidrológico de las cuencas y los acuíferos;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 3.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "XLVIII BIS",
+    "insert_after": 62,
+    "paragraphs": [
+     "XLVIII BIS. \"Seguridad Hídrica\": La capacidad del Estado en su conjunto de garantizar el acceso sostenible a cantidades adecuadas de agua de calidad aceptable, para satisfacer necesidades humanas y de los ecosistemas, promover el bienestar y el desarrollo nacional. Esto incluye asegurar la disponibilidad, accesibilidad y asequibilidad del agua para consumo humano de manera intergeneracional; la capacidad de adaptarse y de reducir los riesgos asociados a fenómenos hidrometeorológicos y antropogénicos; garantizar el cuidado del medio ambiente y la protección contra la contaminación transmitida por el agua y los desastres relacionados con ella;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 3.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "L BIS",
+    "insert_after": 64,
+    "paragraphs": [
+     "L BIS. \"Sobreexplotación\": Se produce cuando la extracción de las aguas subterráneas y superficiales sobrepasa su capacidad de recuperación natural que genera efectos adversos, en la proporción variable que determine \"la Autoridad del Agua\";"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 3.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "LIII BIS",
+    "insert_after": 67,
+    "paragraphs": [
+     "LIII BIS. \"Uso agropecuario familiar\": Sistema de producción que incluye actividades agrícolas y pecuarias, cuyo objetivo es el sostenimiento familiar;"
+    ]
+   },
+   {
+    "article": "ARTÍCULO 4.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Cualquier autorización, permiso, concesión, asignación o prórroga que se otorgue conforme a la presente Ley debe priorizar el consumo humano y doméstico del agua bajo los principios establecidos en la Ley General de Aguas."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 4.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "En caso de que exista riesgo de disponibilidad de agua para consumo humano o doméstico, \"la Autoridad del Agua\", previa valoración técnica e información oportuna a las personas usuarias, disminuirá o cancelará el volumen de agua concesionada, en los términos previstos por esta Ley."
+    ]
+   },
+   {
+    "article": "ARTÍCULO 6.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IX",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "IX. Nombrar a las personas Titulares de la Dirección General de \"la Comisión\" y del Instituto Mexicano de Tecnología del Agua;"
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"ARTÍCULO 3.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"VI BIS\",\"insert_after\":9,\"paragraphs\":[\"VI BIS. \\\"Aguas residuales tratadas\\\": Aquellas que se han adecuado para su reúso mediante procesos individuales o combinados de tipo físico, químico, biológico u otro;\"]},{\"article\":\"ARTÍCULO 3.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VIII\",\"from_block\":13,\"to_block\":13,\"paragraphs\":[\"VIII. \\\"Asignación\\\": Título que otorga el Ejecutivo Federal, a través de \\\"la Comisión\\\" o del Organismo de Cuenca que corresponda, conforme a sus respectivas competencias, para realizar la explotación, uso o aprovechamiento de las aguas nacionales, a los municipios, a los estados o a la Ciudad de México, destinadas a los servicios de agua con carácter público urbano o doméstico;\"]},{\"article\":\"ARTÍCULO 3.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"XVI, inciso a.\",\"from_block\":23,\"to_block\":23,\"paragraphs\":[\"a. \\\"Región hidrológica\\\": Área territorial conformada en función de sus características morfológicas, orográficas e hidrológicas, en la cual se considera a la cuenca hidrológica como la unidad básica para la gestión de los recursos hídricos, cuya finalidad es el agrupamiento y sistematización de la información, análisis, diagnósticos, programas y acciones en relación con la ocurrencia del agua en cantidad y calidad, así como su explotación, uso o aprovechamiento. Normalmente una región hidrológica está integrada por una o varias cuencas hidrológicas. Por tanto, los límites de la región hidrológica son en general distintos en relación con la división política por estados, Ciudad de México, sus demarcaciones territoriales y municipios. Una o varias regiones hidrológicas integran una región hidrológico-administrativa, y\"]},{\"article\":\"ARTÍCULO 3.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XLII\",\"from_block\":54,\"to_block\":54,\"paragraphs\":[\"XLII. \\\"Programa Nacional Hídrico\\\": Documento rector que integra los planes hídricos de las cuencas a nivel nacional, en el cual se definen la disponibilidad, el uso y aprovechamiento del recurso, así como las estrategias, prioridades y políticas, para lograr el equilibrio del desarrollo regional sustentable, avanzar en la gestión integrada de los recursos hídricos priorizando el derecho humano al agua para consumo personal y doméstico;\"]},{\"article\":\"ARTÍCULO 3.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"XLIII BIS\",\"insert_after\":55,\"paragraphs\":[\"XLIII BIS. \\\"Reasignación\\\": Procedimiento mediante el cual \\\"la Autoridad del Agua\\\" dispone de los volúmenes de agua que se encuentran en el fondo de reserva de aguas nacionales y los asigna o concesiona en los términos y condiciones establecidos en esta Ley y las disposiciones reglamentarias correspondientes;\"]},{\"article\":\"ARTÍCULO 3.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XLIV\",\"from_block\":56,\"to_block\":56,\"paragraphs\":[\"XLIV. \\\"Registro Público Nacional del Agua\\\": (REPNA) Registro que proporciona información y seguridad jurídica a las personas usuarias de aguas nacionales y bienes inherentes a través de la inscripción de los títulos de concesión, asignación y permisos de descarga, así como las modificaciones que se efectúen en las características de los mismos;\"]},{\"article\":\"ARTÍCULO 3.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"XLV BIS\",\"insert_after\":59,\"paragraphs\":[\"XLV BIS. \\\"Responsabilidad Hídrica\\\": La gestión hídrica responsable y las buenas prácticas por parte de \\\"la Autoridad del Agua\\\", personas concesionarias, asignatarias, permisionarias y usuarias en general para mejorar el manejo, explotación, uso, reúso, tecnificación de los sistemas de riego o aprovechamiento eficiente y sostenible de las aguas nacionales; sin exceder volúmenes de agua mayores a los concesionados, para mantener el equilibrio hidrológico de las cuencas y los acuíferos;\"]},{\"article\":\"ARTÍCULO 3.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"XLVIII BIS\",\"insert_after\":62,\"paragraphs\":[\"XLVIII BIS. \\\"Seguridad Hídrica\\\": La capacidad del Estado en su conjunto de garantizar el acceso sostenible a cantidades adecuadas de agua de calidad aceptable, para satisfacer necesidades humanas y de los ecosistemas, promover el bienestar y el desarrollo nacional. Esto incluye asegurar la disponibilidad, accesibilidad y asequibilidad del agua para consumo humano de manera intergeneracional; la capacidad de adaptarse y de reducir los riesgos asociados a fenómenos hidrometeorológicos y antropogénicos; garantizar el cuidado del medio ambiente y la protección contra la contaminación transmitida por el agua y los desastres relacionados con ella;\"]},{\"article\":\"ARTÍCULO 3.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"L BIS\",\"insert_after\":64,\"paragraphs\":[\"L BIS. \\\"Sobreexplotación\\\": Se produce cuando la extracción de las aguas subterráneas y superficiales sobrepasa su capacidad de recuperación natural que genera efectos adversos, en la proporción variable que determine \\\"la Autoridad del Agua\\\";\"]},{\"article\":\"ARTÍCULO 3.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"LIII BIS\",\"insert_after\":67,\"paragraphs\":[\"LIII BIS. \\\"Uso agropecuario familiar\\\": Sistema de producción que incluye actividades agrícolas y pecuarias, cuyo objetivo es el sostenimiento familiar;\"]},{\"article\":\"ARTÍCULO 4.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Cualquier autorización, permiso, concesión, asignación o prórroga que se otorgue conforme a la presente Ley debe priorizar el consumo humano y doméstico del agua bajo los principios establecidos en la Ley General de Aguas.\"]},{\"article\":\"ARTÍCULO 4.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"En caso de que exista riesgo de disponibilidad de agua para consumo humano o doméstico, \\\"la Autoridad del Agua\\\", previa valoración técnica e información oportuna a las personas usuarias, disminuirá o cancelará el volumen de agua concesionada, en los términos previstos por esta Ley.\"]},{\"article\":\"ARTÍCULO 6.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IX\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"IX. Nombrar a las personas Titulares de la Dirección General de \\\"la Comisión\\\" y del Instituto Mexicano de Tecnología del Agua;\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 21565,
+ "total_cost_usd": 0.2069498,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 3057,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 18150,
+   "webSearchRequests": 0,
+   "costUSD": 0.2069498,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 314,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 18150,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

@@ -1,0 +1,87 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 2965.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 2965.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Procede el concurso de acreedores siempre que el deudor suspenda el pago de sus deudas civiles, líquidas y exigibles. La declaración de concurso será hecha por el juez competente, mediante los trámites fijados en el Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   },
+   {
+    "article": "Artículo 2972.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 2972.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Aprobado el convenio por el juez, será obligatorio para el fallido y para todos los acreedores cuyos créditos daten de época anterior a la declaración, si hubieren sido citados en forma legal, o si habiéndoles notificado la aprobación del convenio no hubieren reclamado contra éste en los términos prevenidos en el Código Nacional de Procedimientos Civiles y Familiares, aunque esos acreedores no estén comprendidos en la lista correspondiente, ni hayan sido parte en el procedimiento."
+    ]
+   },
+   {
+    "article": "Artículo 3039.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   },
+   {
+    "article": "Artículo 3047.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos establecidas en el Libro Segundo, Título Séptimo, Capítulo II del Código Civil, y no tenga título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante el juez competente para acreditar la prescripción rindiendo la información respectiva, en los términos de las disposiciones aplicables del Código Nacional de Procedimientos Civiles y Familiares."
+    ]
+   },
+   {
+    "article": "Artículo 3048.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "párrafo segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "Para lo anterior, se deberá seguir el procedimiento que establece el Código Nacional de Procedimientos Civiles y Familiares para las informaciones a que se refiere el artículo 3047."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 2965.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 2965.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Procede el concurso de acreedores siempre que el deudor suspenda el pago de sus deudas civiles, líquidas y exigibles. La declaración de concurso será hecha por el juez competente, mediante los trámites fijados en el Código Nacional de Procedimientos Civiles y Familiares.\"]},{\"article\":\"Artículo 2972.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 2972.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Aprobado el convenio por el juez, será obligatorio para el fallido y para todos los acreedores cuyos créditos daten de época anterior a la declaración, si hubieren sido citados en forma legal, o si habiéndoles notificado la aprobación del convenio no hubieren reclamado contra éste en los términos prevenidos en el Código Nacional de Procedimientos Civiles y Familiares, aunque esos acreedores no estén comprendidos en la lista correspondiente, ni hayan sido parte en el procedimiento.\"]},{\"article\":\"Artículo 3039.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código Nacional de Procedimientos Civiles y Familiares.\"]},{\"article\":\"Artículo 3047.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos establecidas en el Libro Segundo, Título Séptimo, Capítulo II del Código Civil, y no tenga título de propiedad o, teniéndolo no sea susceptible de inscripción por defectuoso, podrá ocurrir ante el juez competente para acreditar la prescripción rindiendo la información respectiva, en los términos de las disposiciones aplicables del Código Nacional de Procedimientos Civiles y Familiares.\"]},{\"article\":\"Artículo 3048.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"párrafo segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"Para lo anterior, se deberá seguir el procedimiento que establece el Código Nacional de Procedimientos Civiles y Familiares para las informaciones a que se refiere el artículo 3047.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 8338,
+ "total_cost_usd": 0.052621799999999996,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 1193,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 3519,
+   "webSearchRequests": 0,
+   "costUSD": 0.052621799999999996,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 47,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 3519,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

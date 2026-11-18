@@ -1,0 +1,326 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 1.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I. El régimen de los ingresos que debe recibir el Estado Mexicano derivados de las actividades de Exploración y Extracción de Hidrocarburos que se realicen a través de las Asignaciones y Contratos a que se refieren el artículo 27, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos y la Ley del Sector Hidrocarburos, así como las Contraprestaciones que se establecerán en los Contratos;"
+    ]
+   },
+   {
+    "article": "Artículo 2.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "II",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "II. Por Asignación, el derecho a que se refiere el Título Tercero de esta Ley;"
+    ]
+   },
+   {
+    "article": "Artículo 2.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. El impuesto sobre la renta que causen los Contratistas por las actividades que realicen en virtud de un Contrato, de acuerdo con la naturaleza del Contratista, así como por las actividades que realicen los Participantes de Asignaciones para Desarrollo Mixto, y"
+    ]
+   },
+   {
+    "article": "Artículo 2.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "insert_after": 4,
+    "paragraphs": [
+     "IV. Por Área Unificada, los que correspondan respectivamente, de conformidad con las fracciones anteriores."
+    ]
+   },
+   {
+    "article": "Artículo 2.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Los ingresos a que se refieren las fracciones I, II y, en su caso, IV de este artículo deben ser recibidos por el Fondo Mexicano del Petróleo, conforme a lo señalado en esta Ley, en cada Contrato y en las demás disposiciones aplicables. Dichos ingresos se exceptúan de las reglas de concentración contenidas en la Ley de Ingresos de la Federación del ejercicio fiscal de que se trate y demás disposiciones jurídicas aplicables."
+    ]
+   },
+   {
+    "article": "Artículo 3.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Para los efectos de esta Ley, son aplicables, en singular o plural, las definiciones contenidas en el artículo 5 de la Ley del Sector Hidrocarburos, así como las siguientes:"
+    ]
+   },
+   {
+    "article": "Artículo 3.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "I",
+    "insert_after": 1,
+    "paragraphs": [
+     "I. Área Unificada: el área determinada en superficie y profundidad en la que se instruyó la unificación por tratarse de un yacimiento compartido, de conformidad con la Ley del Sector Hidrocarburos;"
+    ]
+   },
+   {
+    "article": "Artículo 3.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "I Bis",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "I Bis. Barril: unidad de medida equivalente a un volumen igual a 158.99 litros a una temperatura de 15.56 grados Celsius;"
+    ]
+   },
+   {
+    "article": "Artículo 3.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "III",
+    "from_block": 4,
+    "to_block": 4,
+    "paragraphs": [
+     "III. Comercializador: aquel que contrate la Secretaría de Energía, a solicitud del Fondo Mexicano del Petróleo, para que preste a la Nación el servicio de comercialización de Hidrocarburos que reciba el Estado como resultado de un Contrato;"
+    ]
+   },
+   {
+    "article": "Artículo 3.",
+    "operation": "add",
+    "unit_type": "fraccion",
+    "unit": "IV Bis",
+    "insert_after": 5,
+    "paragraphs": [
+     "IV Bis. Condición Base: la presión y temperatura con las cuales se miden los volúmenes de petróleo y condensados, las cuales son presión de 101.325 kiloPascales (1 atmósfera) y temperatura de 15.5556 grados Celsius (60 grados Fahrenheit);"
+    ]
+   },
+   {
+    "article": "Artículo 3.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo párrafo de la fracción XI",
+    "from_block": 14,
+    "to_block": 14,
+    "paragraphs": [
+     "Cuando las actividades se realicen en un periodo que no comprenda un mes calendario completo, el periodo será el número de días que efectivamente se operó el Contrato o Área Unificada;"
+    ]
+   },
+   {
+    "article": "Artículo 3.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XVI",
+    "from_block": 19,
+    "to_block": 19,
+    "paragraphs": [
+     "XVI. Producción Contractual: los Hidrocarburos extraídos en el Área Contractual, medidos de conformidad con las disposiciones que emita la Secretaría de Energía en el Punto de Medición, en el Periodo que corresponda;"
+    ]
+   },
+   {
+    "article": "Artículo 3.",
+    "operation": "reform",
+    "unit_type": "inciso",
+    "unit": "a) de la fracción XVII",
+    "from_block": 21,
+    "to_block": 21,
+    "paragraphs": [
+     "a) La medición de cada tipo de Hidrocarburo extraído al amparo del Contrato de conformidad con las disposiciones que al efecto emita la Secretaría de Energía, y"
+    ]
+   },
+   {
+    "article": "Artículo 3.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XXI",
+    "from_block": 26,
+    "to_block": 26,
+    "paragraphs": [
+     "XXI. Valor Contractual de los Condensados: es el resultado de multiplicar, en el Periodo de que se trate: i) el Precio Contractual de los Condensados por ii) el volumen de los condensados en Barriles determinados a Condición Base, en el Punto de Medición del Área Contractual;"
+    ]
+   },
+   {
+    "article": "Artículo 3.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XXIII",
+    "from_block": 28,
+    "to_block": 28,
+    "paragraphs": [
+     "XXIII. Valor Contractual del Gas Natural: es el resultado de multiplicar, en el Periodo de que se trate: i) el Precio Contractual del Gas Natural por ii) el volumen, en millones de BTU de Gas Natural determinados a Condición Base, en el Punto de Medición del Área Contractual, y"
+    ]
+   },
+   {
+    "article": "Artículo 3.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XXIV",
+    "from_block": 29,
+    "to_block": 29,
+    "paragraphs": [
+     "XXIV. Valor Contractual del Petróleo: es el resultado de multiplicar, en el Periodo de que se trate: i) el Precio Contractual del Petróleo por ii) el volumen de Petróleo en Barriles determinados a Condición Base, en el Punto de Medición del Área Contractual."
+    ]
+   },
+   {
+    "article": "Artículo 5.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 5.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La Secretaría debe publicar, dentro de los primeros 20 días naturales de cada año, un reporte en cuyo contenido se establezcan los rangos de valores de los términos económicos que considerará incluir en las bases de licitación de los Contratos para la Exploración y Extracción del año correspondiente, la actualización de los parámetros de cálculo que, conforme a los ajustes estructurales del mercado de hidrocarburos, se prevén en el Anexo 3 de los instrumentos contractuales vigentes, así como las actualizaciones necesarias en materia de ingresos sobre hidrocarburos aplicables al año correspondiente. La Secretaría únicamente puede considerar valores fuera de estos rangos cuando las condiciones de los mercados y de la industria se hayan modificado, lo cual deberá justificar en un alcance al reporte anual. El reporte y sus alcances deben publicarse en la página de Internet de la Secretaría."
+    ]
+   },
+   {
+    "article": "Artículo 9.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 9.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En la migración de áreas bajo Asignación al esquema de Contrato de licencia en términos de la Ley del Sector Hidrocarburos, la Secretaría debe determinar los términos económicos a que se refiere el apartado A del artículo 6 de esta Ley, cuidando que los ingresos a través del tiempo para el Estado no sean inferiores a los que se hubieran obtenido bajo la Asignación original."
+    ]
+   },
+   {
+    "article": "Artículo 14.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 14.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En la migración de áreas bajo Asignación a los esquemas de Contrato de utilidad compartida o de producción compartida, en términos de la Ley del Sector Hidrocarburos, la Secretaría debe determinar los términos económicos a que se refieren los artículos 11 y 12 de esta Ley, cuidando que los ingresos a través del tiempo para el Estado no sean inferiores a los que se hubieran obtenido bajo la Asignación original."
+    ]
+   },
+   {
+    "article": "Artículo 18.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 18.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Cuando los Contratistas utilicen bienes que hubieren sido deducidos parcial o totalmente en otro Contrato o Asignación, sólo se pueden reconocer para efectos del Contrato el saldo pendiente por depreciar de los bienes que correspondan a dicho Contrato en términos de los lineamientos que al respecto emita la Secretaría."
+    ]
+   },
+   {
+    "article": "Artículo 19.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "IV",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "IV. Los costos y gastos por concepto de servidumbres, derechos de vía, ocupaciones temporales o permanentes, arrendamientos o adquisición de terrenos, indemnizaciones y cualquier otra figura análoga, que se derive de lo dispuesto en el artículo 56 y en el Capítulo IV del Título Cuarto de la Ley del Sector Hidrocarburos;"
+    ]
+   },
+   {
+    "article": "Artículo 20.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "El Contratista debe informar a la Secretaría y a la Secretaría de Energía, de las enajenaciones a que se refiere el párrafo anterior, de conformidad con sus competencias."
+    ]
+   },
+   {
+    "article": "Artículo 26.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "quinto",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "En la migración de Asignaciones a Contratos, la Secretaría debe fijar las condiciones económicas relativas a los términos fiscales de los mismos. En caso de que dichos Contratos se modifiquen, en términos de lo establecido en la Ley del Sector Hidrocarburos, la Secretaría debe determinar las nuevas condiciones económicas relativas a los términos fiscales que deben incluirse en el convenio modificatorio respectivo."
+    ]
+   },
+   {
+    "article": "Artículo 26.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "sexto",
+    "from_block": 6,
+    "to_block": 6,
+    "paragraphs": [
+     "Lo dispuesto en el párrafo anterior es sin perjuicio de las facultades que correspondan a la Secretaría de Energía."
+    ]
+   },
+   {
+    "article": "Artículo 27.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 27.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "El Comercializador debe entregar al Fondo Mexicano del Petróleo todos los ingresos derivados de la venta de la Producción Contractual que de acuerdo con cada Contrato corresponda al Estado, una vez descontado el pago por los servicios de aquél, de conformidad con lo establecido en el contrato que formalice con la Secretaría de Energía, en términos del artículo 57 de la Ley del Sector Hidrocarburos."
+    ]
+   },
+   {
+    "article": "Artículo 28.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "VI",
+    "from_block": 7,
+    "to_block": 7,
+    "paragraphs": [
+     "VI. Pagar los derechos y aprovechamientos que se establezcan por la administración y supervisión de los Contratos o la supervisión y vigilancia de las actividades realizadas al amparo de éstos, que realicen la Secretaría de Energía y la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, y"
+    ]
+   },
+   {
+    "article": "Artículo 28.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 10,
+    "to_block": 10,
+    "paragraphs": [
+     "Cada Contrato debe prever expresamente el compromiso del Contratista de pactar con los terceros con los que realice operaciones vinculadas con el objeto del propio Contrato, la obligación de dichos terceros de entregar directamente al Fondo Mexicano del Petróleo, a la Secretaría de Energía y a la Secretaría, cuando lo soliciten, la información sobre sus operaciones con el Contratista por virtud del Contrato."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 1.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I. El régimen de los ingresos que debe recibir el Estado Mexicano derivados de las actividades de Exploración y Extracción de Hidrocarburos que se realicen a través de las Asignaciones y Contratos a que se refieren el artículo 27, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos y la Ley del Sector Hidrocarburos, así como las Contraprestaciones que se establecerán en los Contratos;\"]},{\"article\":\"Artículo 2.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"II\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"II. Por Asignación, el derecho a que se refiere el Título Tercero de esta Ley;\"]},{\"article\":\"Artículo 2.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. El impuesto sobre la renta que causen los Contratistas por las actividades que realicen en virtud de un Contrato, de acuerdo con la naturaleza del Contratista, así como por las actividades que realicen los Participantes de Asignaciones para Desarrollo Mixto, y\"]},{\"article\":\"Artículo 2.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"insert_after\":4,\"paragraphs\":[\"IV. Por Área Unificada, los que correspondan respectivamente, de conformidad con las fracciones anteriores.\"]},{\"article\":\"Artículo 2.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Los ingresos a que se refieren las fracciones I, II y, en su caso, IV de este artículo deben ser recibidos por el Fondo Mexicano del Petróleo, conforme a lo señalado en esta Ley, en cada Contrato y en las demás disposiciones aplicables. Dichos ingresos se exceptúan de las reglas de concentración contenidas en la Ley de Ingresos de la Federación del ejercicio fiscal de que se trate y demás disposiciones jurídicas aplicables.\"]},{\"article\":\"Artículo 3.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Para los efectos de esta Ley, son aplicables, en singular o plural, las definiciones contenidas en el artículo 5 de la Ley del Sector Hidrocarburos, así como las siguientes:\"]},{\"article\":\"Artículo 3.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"I\",\"insert_after\":1,\"paragraphs\":[\"I. Área Unificada: el área determinada en superficie y profundidad en la que se instruyó la unificación por tratarse de un yacimiento compartido, de conformidad con la Ley del Sector Hidrocarburos;\"]},{\"article\":\"Artículo 3.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"I Bis\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"I Bis. Barril: unidad de medida equivalente a un volumen igual a 158.99 litros a una temperatura de 15.56 grados Celsius;\"]},{\"article\":\"Artículo 3.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"III\",\"from_block\":4,\"to_block\":4,\"paragraphs\":[\"III. Comercializador: aquel que contrate la Secretaría de Energía, a solicitud del Fondo Mexicano del Petróleo, para que preste a la Nación el servicio de comercialización de Hidrocarburos que reciba el Estado como resultado de un Contrato;\"]},{\"article\":\"Artículo 3.\",\"operation\":\"add\",\"unit_type\":\"fraccion\",\"unit\":\"IV Bis\",\"insert_after\":5,\"paragraphs\":[\"IV Bis. Condición Base: la presión y temperatura con las cuales se miden los volúmenes de petróleo y condensados, las cuales son presión de 101.325 kiloPascales (1 atmósfera) y temperatura de 15.5556 grados Celsius (60 grados Fahrenheit);\"]},{\"article\":\"Artículo 3.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo párrafo de la fracción XI\",\"from_block\":14,\"to_block\":14,\"paragraphs\":[\"Cuando las actividades se realicen en un periodo que no comprenda un mes calendario completo, el periodo será el número de días que efectivamente se operó el Contrato o Área Unificada;\"]},{\"article\":\"Artículo 3.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XVI\",\"from_block\":19,\"to_block\":19,\"paragraphs\":[\"XVI. Producción Contractual: los Hidrocarburos extraídos en el Área Contractual, medidos de conformidad con las disposiciones que emita la Secretaría de Energía en el Punto de Medición, en el Periodo que corresponda;\"]},{\"article\":\"Artículo 3.\",\"operation\":\"reform\",\"unit_type\":\"inciso\",\"unit\":\"a) de la fracción XVII\",\"from_block\":21,\"to_block\":21,\"paragraphs\":[\"a) La medición de cada tipo de Hidrocarburo extraído al amparo del Contrato de conformidad con las disposiciones que al efecto emita la Secretaría de Energía, y\"]},{\"article\":\"Artículo 3.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XXI\",\"from_block\":26,\"to_block\":26,\"paragraphs\":[\"XXI. Valor Contractual de los Condensados: es el resultado de multiplicar, en el Periodo de que se trate: i) el Precio Contractual de los Condensados por ii) el volumen de los condensados en Barriles determinados a Condición Base, en el Punto de Medición del Área Contractual;\"]},{\"article\":\"Artículo 3.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XXIII\",\"from_block\":28,\"to_block\":28,\"paragraphs\":[\"XXIII. Valor Contractual del Gas Natural: es el resultado de multiplicar, en el Periodo de que se trate: i) el Precio Contractual del Gas Natural por ii) el volumen, en millones de BTU de Gas Natural determinados a Condición Base, en el Punto de Medición del Área Contractual, y\"]},{\"article\":\"Artículo 3.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XXIV\",\"from_block\":29,\"to_block\":29,\"paragraphs\":[\"XXIV. Valor Contractual del Petróleo: es el resultado de multiplicar, en el Periodo de que se trate: i) el Precio Contractual del Petróleo por ii) el volumen de Petróleo en Barriles determinados a Condición Base, en el Punto de Medición del Área Contractual.\"]},{\"article\":\"Artículo 5.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 5.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La Secretaría debe publicar, dentro de los primeros 20 días naturales de cada año, un reporte en cuyo contenido se establezcan los rangos de valores de los términos económicos que considerará incluir en las bases de licitación de los Contratos para la Exploración y Extracción del año correspondiente, la actualización de los parámetros de cálculo que, conforme a los ajustes estructurales del mercado de hidrocarburos, se prevén en el Anexo 3 de los instrumentos contractuales vigentes, así como las actualizaciones necesarias en materia de ingresos sobre hidrocarburos aplicables al año correspondiente. La Secretaría únicamente puede considerar valores fuera de estos rangos cuando las condiciones de los mercados y de la industria se hayan modificado, lo cual deberá justificar en un alcance al reporte anual. El reporte y sus alcances deben publicarse en la página de Internet de la Secretaría.\"]},{\"article\":\"Artículo 9.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 9.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En la migración de áreas bajo Asignación al esquema de Contrato de licencia en términos de la Ley del Sector Hidrocarburos, la Secretaría debe determinar los términos económicos a que se refiere el apartado A del artículo 6 de esta Ley, cuidando que los ingresos a través del tiempo para el Estado no sean inferiores a los que se hubieran obtenido bajo la Asignación original.\"]},{\"article\":\"Artículo 14.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 14.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En la migración de áreas bajo Asignación a los esquemas de Contrato de utilidad compartida o de producción compartida, en términos de la Ley del Sector Hidrocarburos, la Secretaría debe determinar los términos económicos a que se refieren los artículos 11 y 12 de esta Ley, cuidando que los ingresos a través del tiempo para el Estado no sean inferiores a los que se hubieran obtenido bajo la Asignación original.\"]},{\"article\":\"Artículo 18.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 18.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Cuando los Contratistas utilicen bienes que hubieren sido deducidos parcial o totalmente en otro Contrato o Asignación, sólo se pueden reconocer para efectos del Contrato el saldo pendiente por depreciar de los bienes que correspondan a dicho Contrato en términos de los lineamientos que al respecto emita la Secretaría.\"]},{\"article\":\"Artículo 19.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"IV\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"IV. Los costos y gastos por concepto de servidumbres, derechos de vía, ocupaciones temporales o permanentes, arrendamientos o adquisición de terrenos, indemnizaciones y cualquier otra figura análoga, que se derive de lo dispuesto en el artículo 56 y en el Capítulo IV del Título Cuarto de la Ley del Sector Hidrocarburos;\"]},{\"article\":\"Artículo 20.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"El Contratista debe informar a la Secretaría y a la Secretaría de Energía, de las enajenaciones a que se refiere el párrafo anterior, de conformidad con sus competencias.\"]},{\"article\":\"Artículo 26.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"quinto\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"En la migración de Asignaciones a Contratos, la Secretaría debe fijar las condiciones económicas relativas a los términos fiscales de los mismos. En caso de que dichos Contratos se modifiquen, en términos de lo establecido en la Ley del Sector Hidrocarburos, la Secretaría debe determinar las nuevas condiciones económicas relativas a los términos fiscales que deben incluirse en el convenio modificatorio respectivo.\"]},{\"article\":\"Artículo 26.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"sexto\",\"from_block\":6,\"to_block\":6,\"paragraphs\":[\"Lo dispuesto en el párrafo anterior es sin perjuicio de las facultades que correspondan a la Secretaría de Energía.\"]},{\"article\":\"Artículo 27.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 27.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"El Comercializador debe entregar al Fondo Mexicano del Petróleo todos los ingresos derivados de la venta de la Producción Contractual que de acuerdo con cada Contrato corresponda al Estado, una vez descontado el pago por los servicios de aquél, de conformidad con lo establecido en el contrato que formalice con la Secretaría de Energía, en términos del artículo 57 de la Ley del Sector Hidrocarburos.\"]},{\"article\":\"Artículo 28.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"VI\",\"from_block\":7,\"to_block\":7,\"paragraphs\":[\"VI. Pagar los derechos y aprovechamientos que se establezcan por la administración y supervisión de los Contratos o la supervisión y vigilancia de las actividades realizadas al amparo de éstos, que realicen la Secretaría de Energía y la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, y\"]},{\"article\":\"Artículo 28.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":10,\"to_block\":10,\"paragraphs\":[\"Cada Contrato debe prever expresamente el compromiso del Contratista de pactar con los terceros con los que realice operaciones vinculadas con el objeto del propio Contrato, la obligación de dichos terceros de entregar directamente al Fondo Mexicano del Petróleo, a la Secretaría de Energía y a la Secretaría, cuando lo soliciten, la información sobre sus operaciones con el Contratista por virtud del Contrato.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 34743,
+ "total_cost_usd": 0.2085218,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 5236,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 12899,
+   "webSearchRequests": 0,
+   "costUSD": 0.2085218,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 430,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 12899,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}

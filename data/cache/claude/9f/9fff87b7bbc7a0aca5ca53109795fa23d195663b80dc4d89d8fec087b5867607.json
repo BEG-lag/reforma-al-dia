@@ -1,0 +1,173 @@
+{
+ "structured_output": {
+  "edits": [
+   {
+    "article": "Artículo 3.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "insert_after": 1,
+    "paragraphs": [
+     "En la impartición de justicia, las autoridades jurisdiccionales deberán velar en todo momento por garantizar la igualdad sustantiva entre mujeres y hombres, actuando con perspectiva de género y pleno respeto a los derechos humanos."
+    ]
+   },
+   {
+    "article": "Artículo 5.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "En los casos que se involucren derechos de niñas, niños y adolescentes, así como los derechos de las mujeres, la autoridad jurisdiccional deberá actuar y resolver con base en el interés superior de las niñas, niños, o adolescentes, con perspectiva de género de conformidad con las leyes aplicables y los Tratados Internacionales de los que el Estado Mexicano sea parte. En todo momento, la autoridad jurisdiccional estará obligada a garantizar la implementación de deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, en los términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias."
+    ]
+   },
+   {
+    "article": "Artículo 5.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "tercero",
+    "from_block": 3,
+    "to_block": 3,
+    "paragraphs": [
+     "Asimismo, deberán adecuar sus actuaciones a las circunstancias de los grupos sociales en situación de vulnerabilidad mediante formatos alternativos, a fin de garantizar la igualdad sustantiva, la equidad y accesibilidad estructural y de comunicación, durante el procedimiento, en estricto apego al ejercicio de los derechos humanos."
+    ]
+   },
+   {
+    "article": "Artículo 7.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XIV",
+    "from_block": 15,
+    "to_block": 15,
+    "paragraphs": [
+     "XIV. Perspectiva de género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad sustantiva entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;"
+    ]
+   },
+   {
+    "article": "Artículo 40.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "from_block": 2,
+    "to_block": 2,
+    "paragraphs": [
+     "En los procedimientos de reconocimiento de identidad de género, o de reasignación por concordancia sexo genérica, en la sentencia o constancia se deberá ordenar el levantamiento de una nueva acta de nacimiento, y la cancelación del acta de nacimiento primigenia, observando el respeto a los derechos humanos y la perspectiva de género."
+    ]
+   },
+   {
+    "article": "Artículo 89.",
+    "operation": "reform",
+    "unit_type": "fraccion",
+    "unit": "XV",
+    "from_block": 23,
+    "to_block": 23,
+    "paragraphs": [
+     "XV. En los juicios de alimentos, violencia familiar o violencia vicaria, la del domicilio de la persona acreedora alimentaria, la de la receptora de la violencia o la de la parte demandada, a elección de la parte actora;"
+    ]
+   },
+   {
+    "article": "Artículo 150.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "primero",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En los juicios que versen sobre alimentos, derechos de niñas, niños y adolescentes, controversias familiares, cualquier tipo de violencia familiar o violencia vicaria, y los demás que determinen las Leyes, todos los días y horas son hábiles."
+    ]
+   },
+   {
+    "article": "Artículo 271.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "quinto",
+    "from_block": 5,
+    "to_block": 5,
+    "paragraphs": [
+     "Cuando deba recibirse testimonio de menores de edad y se tema por su afectación psicológica o emocional, así como en caso de víctimas de cualquier tipo de violencia, la autoridad jurisdiccional, en cumplimiento de los deberes reforzados del Estado de protección con niñas, niños y adolescentes, ordenará su recepción con el auxilio de familiares o peritos especializados."
+    ]
+   },
+   {
+    "article": "Artículo 553.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 553.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "La admisión de hechos por las partes y el allanamiento de estos sólo vinculan a la autoridad jurisdiccional, cuando no se afecten los derechos de niñas, niños o adolescentes, tratándose de violencia familiar, vicaria, sexual o contra la mujer. Cuando se trate de un delito sexual, la autoridad jurisdiccional estará obligada a dar parte al Ministerio Público, deberá salvaguardarse la integridad y apegarse al principio del interés superior de niñas, niños y adolescentes de manera inmediata."
+    ]
+   },
+   {
+    "article": "Artículo 570.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 570.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "Tratándose de las medidas provisionales y de protección dictadas en favor de víctimas de violencia familiar o violencia vicaria, deberán observarse para su revisión y análisis las condiciones establecidas en este Código Nacional, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y demás leyes aplicables."
+    ]
+   },
+   {
+    "article": "Artículo 572.",
+    "operation": "add",
+    "unit_type": "parrafo",
+    "unit": "segundo",
+    "insert_after": 1,
+    "paragraphs": [
+     "Tratándose de medidas u órdenes de protección para casos de violencias en contra de mujeres, adolescentes, niñas y niños, se observará lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, para su emisión, integración y seguimiento en el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños."
+    ]
+   },
+   {
+    "article": "Artículo 573.",
+    "operation": "reform",
+    "unit_type": "parrafo",
+    "unit": "último",
+    "from_block": 16,
+    "to_block": 16,
+    "paragraphs": [
+     "La autoridad jurisdiccional está obligada a observar aquellos casos en los que pudiera tratarse de violencia vicaria en contra de mujeres, por sí o a través de una tercera persona definida en el artículo 6, fracción VI, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias."
+    ]
+   },
+   {
+    "article": "Artículo 576.",
+    "operation": "reform",
+    "unit_type": "articulo",
+    "unit": "Artículo 576.",
+    "from_block": 1,
+    "to_block": 1,
+    "paragraphs": [
+     "En el caso de violencia en contra de la mujer, serán aplicables las órdenes de protección que dispone la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, sin perjuicio de cualquier otra medida prevista en la legislación Federal y Local, así como en los tratados internacionales aplicables."
+    ]
+   }
+  ],
+  "divisions": [],
+  "needs_review": []
+ },
+ "result": "{\"edits\":[{\"article\":\"Artículo 3.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"insert_after\":1,\"paragraphs\":[\"En la impartición de justicia, las autoridades jurisdiccionales deberán velar en todo momento por garantizar la igualdad sustantiva entre mujeres y hombres, actuando con perspectiva de género y pleno respeto a los derechos humanos.\"]},{\"article\":\"Artículo 5.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"En los casos que se involucren derechos de niñas, niños y adolescentes, así como los derechos de las mujeres, la autoridad jurisdiccional deberá actuar y resolver con base en el interés superior de las niñas, niños, o adolescentes, con perspectiva de género de conformidad con las leyes aplicables y los Tratados Internacionales de los que el Estado Mexicano sea parte. En todo momento, la autoridad jurisdiccional estará obligada a garantizar la implementación de deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, en los términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.\"]},{\"article\":\"Artículo 5.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"tercero\",\"from_block\":3,\"to_block\":3,\"paragraphs\":[\"Asimismo, deberán adecuar sus actuaciones a las circunstancias de los grupos sociales en situación de vulnerabilidad mediante formatos alternativos, a fin de garantizar la igualdad sustantiva, la equidad y accesibilidad estructural y de comunicación, durante el procedimiento, en estricto apego al ejercicio de los derechos humanos.\"]},{\"article\":\"Artículo 7.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XIV\",\"from_block\":15,\"to_block\":15,\"paragraphs\":[\"XIV. Perspectiva de género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad sustantiva entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;\"]},{\"article\":\"Artículo 40.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"from_block\":2,\"to_block\":2,\"paragraphs\":[\"En los procedimientos de reconocimiento de identidad de género, o de reasignación por concordancia sexo genérica, en la sentencia o constancia se deberá ordenar el levantamiento de una nueva acta de nacimiento, y la cancelación del acta de nacimiento primigenia, observando el respeto a los derechos humanos y la perspectiva de género.\"]},{\"article\":\"Artículo 89.\",\"operation\":\"reform\",\"unit_type\":\"fraccion\",\"unit\":\"XV\",\"from_block\":23,\"to_block\":23,\"paragraphs\":[\"XV. En los juicios de alimentos, violencia familiar o violencia vicaria, la del domicilio de la persona acreedora alimentaria, la de la receptora de la violencia o la de la parte demandada, a elección de la parte actora;\"]},{\"article\":\"Artículo 150.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"primero\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En los juicios que versen sobre alimentos, derechos de niñas, niños y adolescentes, controversias familiares, cualquier tipo de violencia familiar o violencia vicaria, y los demás que determinen las Leyes, todos los días y horas son hábiles.\"]},{\"article\":\"Artículo 271.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"quinto\",\"from_block\":5,\"to_block\":5,\"paragraphs\":[\"Cuando deba recibirse testimonio de menores de edad y se tema por su afectación psicológica o emocional, así como en caso de víctimas de cualquier tipo de violencia, la autoridad jurisdiccional, en cumplimiento de los deberes reforzados del Estado de protección con niñas, niños y adolescentes, ordenará su recepción con el auxilio de familiares o peritos especializados.\"]},{\"article\":\"Artículo 553.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 553.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"La admisión de hechos por las partes y el allanamiento de estos sólo vinculan a la autoridad jurisdiccional, cuando no se afecten los derechos de niñas, niños o adolescentes, tratándose de violencia familiar, vicaria, sexual o contra la mujer. Cuando se trate de un delito sexual, la autoridad jurisdiccional estará obligada a dar parte al Ministerio Público, deberá salvaguardarse la integridad y apegarse al principio del interés superior de niñas, niños y adolescentes de manera inmediata.\"]},{\"article\":\"Artículo 570.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 570.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"Tratándose de las medidas provisionales y de protección dictadas en favor de víctimas de violencia familiar o violencia vicaria, deberán observarse para su revisión y análisis las condiciones establecidas en este Código Nacional, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y demás leyes aplicables.\"]},{\"article\":\"Artículo 572.\",\"operation\":\"add\",\"unit_type\":\"parrafo\",\"unit\":\"segundo\",\"insert_after\":1,\"paragraphs\":[\"Tratándose de medidas u órdenes de protección para casos de violencias en contra de mujeres, adolescentes, niñas y niños, se observará lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, para su emisión, integración y seguimiento en el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños.\"]},{\"article\":\"Artículo 573.\",\"operation\":\"reform\",\"unit_type\":\"parrafo\",\"unit\":\"último\",\"from_block\":16,\"to_block\":16,\"paragraphs\":[\"La autoridad jurisdiccional está obligada a observar aquellos casos en los que pudiera tratarse de violencia vicaria en contra de mujeres, por sí o a través de una tercera persona definida en el artículo 6, fracción VI, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.\"]},{\"article\":\"Artículo 576.\",\"operation\":\"reform\",\"unit_type\":\"articulo\",\"unit\":\"Artículo 576.\",\"from_block\":1,\"to_block\":1,\"paragraphs\":[\"En el caso de violencia en contra de la mujer, serán aplicables las órdenes de protección que dispone la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, sin perjuicio de cualquier otra medida prevista en la legislación Federal y Local, así como en los tratados internacionales aplicables.\"]}],\"divisions\":[],\"needs_review\":[]}",
+ "duration_ms": 19267,
+ "total_cost_usd": 0.1464458,
+ "modelUsage": {
+  "claude-opus-5-5": {
+   "inputTokens": 2,
+   "outputTokens": 2803,
+   "cacheReadInputTokens": 3009,
+   "cacheCreationInputTokens": 11222,
+   "webSearchRequests": 0,
+   "costUSD": 0.1464458,
+   "contextWindow": 1000000,
+   "maxOutputTokens": 128000,
+   "thinkingTokens": 117,
+   "cacheCreationEphemeral5mInputTokens": 0,
+   "cacheCreationEphemeral1hInputTokens": 11222,
+   "canonicalModel": "claude-opus-5-5",
+   "provider": "firstParty",
+   "costBasis": "list"
+  }
+ },
+ "num_turns": 2,
+ "is_error": false,
+ "subtype": "success"
+}
