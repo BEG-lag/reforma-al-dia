@@ -1,0 +1,475 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>reforma-al-día · marcador</title>
+<meta name="description" content="Reformas del DOF aplicadas por IA a leyes-mx la misma mañana, con pull request para revisión humana y auditoría pública contra el texto oficial.">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<a class="skip" href="#main">Ir al contenido</a>
+
+<header class="top">
+  <div class="wrap">
+    <div class="kicker"><b>DOF</b> → IA → pull request → revisión humana → <b>auditoría</b></div>
+    <h1>reforma<span>-</span>al<span>-</span>día</h1>
+    <p class="tag">La reforma, aplicada la misma mañana. Auditada después, en público.</p>
+    <p class="lede">Cuando el <strong>Diario Oficial de la Federación</strong> publica un decreto que reforma una ley de
+    <a href="https://github.com/BEG-lag/leyes-mx">leyes-mx</a>, un agente de IA aplica los cambios al texto de la ley esa misma mañana y abre un
+    <strong>pull request</strong> para que una persona lo revise. Semanas después, cuando la Cámara de Diputados publica el texto
+    consolidado oficial, el sistema <strong>se audita a sí mismo</strong>: compara palabra por palabra lo que aplicó la IA con el
+    texto oficial y publica el marcador.</p>
+    <p class="en">In English: the morning the DOF publishes a reform, an AI agent applies it to the law in leyes-mx and opens a
+    pull request for a human to review. When the official consolidated text arrives, it audits itself and keeps this public
+    scoreboard.</p>
+    <div class="loop" role="list">
+      <div class="step" role="listitem"><div class="t">06:00 · DOF</div><div class="h">Se publica el decreto</div><p>Edición matutina del Diario Oficial, vía la API pública de SIDOF.</p></div>
+      <div class="step" role="listitem"><div class="t">08:45 · IA</div><div class="h">Claude propone ediciones</div><p>Por artículo y unidad: reforma, adición o derogación, con el texto exacto. Sin herramientas.</p></div>
+      <div class="step" role="listitem"><div class="t">PR · Humano</div><div class="h">Una persona revisa</div><p>Código determinista aplica, valida y abre el PR marcado como provisional. Lo dudoso va a revisión.</p></div>
+      <div class="step" role="listitem"><div class="t">Semanas · Auditoría</div><div class="h">Llega el texto oficial</div><p>Se compara con lo que aplicó la IA: exacto, normalizado o diferente, con el diff publicado.</p></div>
+    </div>
+    <p class="warn">Texto provisional aplicado por IA. Sólo el DOF es fuente oficial. No es asesoría legal.</p>
+  </div>
+</header>
+<main id="main" class="wrap">
+<section aria-labelledby="marcador">
+  <h2 id="marcador">Marcador de precisión, por artículo</h2>
+  
+<div class="stats">
+  <div class="stat"><div class="n c-exact">90.7%</div><div class="l">exactos, byte por byte<br>582 de 642 artículos aplicados</div></div>
+  <div class="stat"><div class="n c-normalized">95.8%</div><div class="l">exactos o iguales al normalizar<br>espacios y puntuación</div></div>
+  <div class="stat"><div class="n c-mismatch">4.2%</div><div class="l">con diferencias de palabras<br>27 artículos, todos inspeccionables</div></div>
+  <div class="stat"><div class="n c-not_applied">1</div><div class="l">no aplicados: enviados<br>a revisión humana</div></div>
+  <div class="stat"><div class="n">34</div><div class="l">decretos reales del DOF</div></div>
+  <div class="stat"><div class="n">16</div><div class="l">leyes distintas</div></div>
+  <div class="stat"><div class="n">12/35</div><div class="l">leyes completas idénticas<br>a la versión oficial</div></div>
+  <div class="stat"><div class="n">94</div><div class="l">llamadas a Claude<br>(en caché: repetir cuesta 0)</div></div>
+</div>
+<div class="bar" aria-hidden="true"><span class="b-exact" style="width:90.513%"></span><span class="b-normalized" style="width:5.132%"></span><span class="b-mismatch" style="width:4.199%"></span><span class="b-not_applied" style="width:0.156%"></span></div>
+<ul class="legend">
+  <li><i class="b-exact"></i>exacto 582</li><li><i class="b-normalized"></i>normalizado 33</li>
+  <li><i class="b-mismatch"></i>diferente 27</li><li><i class="b-not_applied"></i>a revisión 1</li>
+</ul>
+<p class="note">Backtest: 34 decretos (35 pares decreto-ley) de 2019 a 2026 con versión anterior y posterior en
+<a href="https://github.com/BEG-lag/leyes-mx">leyes-mx</a>. Auditorías en vivo: 0. Se cuentan los artículos que la IA modificó; además,
+22 artículos cambiaron en el texto oficial sin que el decreto los nombre (correcciones de la Cámara o ruido
+entre archivos fuente) y se excluyen. Las notas editoriales («Párrafo reformado DOF …») se miden aparte: coinciden en
+556 de 642 artículos. Definiciones y datos: <a href="data/auditoria.json">auditoria.json</a>.</p>
+<p class="note">Por qué difieren los 27 artículos diferentes:
+<strong>20</strong> sólo por marcadores «Se deroga» / «Derogado» que el decreto imprime y la
+Cámara a veces omite; <strong>0</strong> sólo por la numeración;
+<strong>1</strong> porque el texto oficial agrega anotaciones de la Cámara;
+<strong class="c-mismatch">6</strong> por el texto mismo. Cada uno se puede revisar en su caso.</p>
+</section>
+
+<section aria-labelledby="anatomia">
+  <h2 id="anatomia">Anatomía de una reforma</h2>
+  <h3>CPEUM, Artículo 123. · DOF 03-03-2026</h3>
+  <p class="note">La reducción de la jornada laboral a cuarenta horas. A la izquierda, lo que publicó el Diario Oficial;
+  al centro, lo único que devolvió el modelo (ediciones estructuradas, no un archivo reescrito); a la derecha, el texto
+  consolidado que la Cámara de Diputados publicó después. Resultado: <strong class="c-exact">exacto</strong>.</p>
+  <div class="anatomy">
+    <div class="card"><div class="k">1 · El decreto (DOF)</div>
+      <p>Artículo Único.- Se reforman las fracciones IV y XI del Apartado A, del Artículo 123, de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:</p>
+      <pre>Artículo 123. ...
+...
+...
+A. ...
+I. a III. ...
+IV. La jornada laboral será de cuarenta horas semanales en los términos que establezca la Ley.
+Por cada seis días de trabajo las personas trabajadoras deberán disfrutar por lo menos de un día de descanso con goce de salario íntegro.
+V. a X. ...
+XI. Cuando por circunstancias extraordinarias deban aumentarse las horas de la jornada, se abonará como salario por este tiempo un cien por ciento más de lo fijado para las horas ordinarias. El trabajo extraordinario no excederá de doce horas en una semana, las cuales podrán distribuirse en hasta cuatro horas diarias, en un máximo de cuatro días en ese periodo.
+La prolongación del tiempo extraordinario que supere lo establecido en el párrafo que antecede, obliga a la persona empleadora a pagar doscientos por ciento más del salario que corresponda a las horas de la jornada ordinaria conforme a lo establecido en la Ley de la materia.
+Las personas menores de dieciocho años no podrán laborar tiempo extraordinario.
+XII. a XXXI. ...
+B. ...</pre>
+      <p class="src"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5781417&amp;fecha=03/03/2026">Nota 5781417 en dof.gob.mx</a></p>
+    </div>
+    <div class="card"><div class="k">2 · La edición de la IA</div>
+      <pre>[
+ {
+  &quot;article&quot;: &quot;Artículo 123.&quot;,
+  &quot;operation&quot;: &quot;reform&quot;,
+  &quot;unit_type&quot;: &quot;fraccion&quot;,
+  &quot;unit&quot;: &quot;Apartado A, fracción IV&quot;,
+  &quot;from_block&quot;: 14,
+  &quot;to_block&quot;: 14,
+  &quot;paragraphs&quot;: [
+   &quot;IV. La jornada laboral será de cuarenta horas semanales en los términos que establezca la Ley.&quot;,
+   &quot;Por cada seis días de trabajo las personas trabajadoras deberán disfrutar por lo menos de un día de descanso con goce de salario íntegro.&quot;
+  ]
+ },
+ {
+  &quot;article&quot;: &quot;Artículo 123.&quot;,
+  &quot;operation&quot;: &quot;reform&quot;,
+  &quot;unit_type&quot;: &quot;fraccion&quot;,
+  &quot;unit&quot;: &quot;Apartado A, fracción XI&quot;,
+  &quot;from_block&quot;: 34,
+  &quot;to_block&quot;: 34,
+  &quot;paragraphs&quot;: [
+   &quot;XI. Cuando por circunstancias extraordinarias deban aumentarse las horas de la jornada, se abonará como salario por este tiempo un cien por ciento más de lo fijado para las horas ordinarias. El trabajo extraordinario no excederá de doce horas en una semana, las cuales podrán distribuirse en hasta cuatro horas diarias, en un máximo de cuatro días en ese periodo.&quot;,
+   &quot;La prolongación del tiempo extraordinario que supere lo establecido en el párrafo que antecede, obliga a la persona empleadora a pagar doscientos por ciento más del salario que corresponda a las horas de la jornada ordinaria conforme a lo establecido en la Ley de la materia.&quot;,
+   &quot;Las personas menores de dieciocho años no podrán laborar tiempo extraordinario.&quot;
+  ]
+ }
+]</pre>
+      <p class="src">Un programa determinista aplica esto al Markdown, agrega la nota «Fracción reformada DOF …» y valida que nada más cambie.</p>
+    </div>
+    <div class="card"><div class="k">3 · El texto oficial (Cámara de Diputados)</div>
+      <div class="law"><p class="n">Fracción reformada DOF 21-11-1962, 17-06-2014</p><p>IV. La jornada laboral será de cuarenta horas semanales en los términos que establezca la Ley.</p><p>Por cada seis días de trabajo las personas trabajadoras deberán disfrutar por lo menos de un día de descanso con goce de salario íntegro.</p><p class="n">Fracción reformada DOF 03-03-2026</p><p>V. Las mujeres durante el embarazo no realizarán trabajos que exijan un esfuerzo considerable y signifiquen un peligro para su salud en relación con la gestación; gozarán forzosamente de un descanso de seis semanas anteriores a la fecha fijada aproximadamente para el parto y seis semanas posteriores al mismo, debiendo percibir su salario íntegro y conservar su empleo y los derechos que hubieren adquirido por la relación de trabajo. En el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos;</p><p class="n">Fracción reformada DOF 31-12-1974</p><p>VI. Los salarios mínimos que deberán disfrutar los trabajadores serán generales o profesionales. Los primeros regirán en las áreas geográficas que se determinen; los segundos se aplicarán en ramas determinadas de la actividad económica o en profesiones, oficios o trabajos especiales. El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.</p><p class="n">Párrafo reformado DOF 27-01-2016</p><p>Los salarios mínimos generales deberán ser suficientes para satisfacer las necesidades normales de un jefe de familia, en el orden material, social y cultural, y para proveer a la educación obligatoria de los hijos. Los salarios mínimos profesionales se fijarán considerando, además, las condiciones de las distintas actividades económicas.</p><p>Los salarios mínimos se fijarán por una comisión nacional integrada por representantes de los trabajadores, de los patrones y del gobierno, la que podrá auxiliarse de las comisiones especiales de carácter consultivo que considere indispensables para el mejor desempeño de sus funciones.</p><p class="n">Fracción reformada DOF 21-11-1962, 23-12-1986</p><p>VII. A trabajo igual corresponderá salario igual, sin tener en cuenta sexo, género ni nacionalidad. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género.</p><p class="n">Fracción reformada DOF 15-11-2024</p><p>VIII. El salario mínimo quedará exceptuado de embargo, compensación o descuento.</p><p>IX. Los trabajadores tendrán derecho a una participación en las utilidades de las empresas, regulada de conformidad con las siguientes normas:</p><p>a) Una Comisión Nacional, integrada con representantes de los trabajadores, de los patronos y del Gobierno, fijará el porcentaje de utilidades que deba repartirse entre los trabajadores;</p><p>b) La Comisión Nacional practicará las investigaciones y realizará los estudios necesarios y apropiados para conocer las condiciones generales de la economía nacional. Tomará asimismo en consideración la necesidad de fomentar el desarrollo industrial del País, el interés razonable que debe percibir el capital y la necesaria reinversión de capitales;</p><p>c) La misma Comisión podrá revisar el porcentaje fijado cuando existan nuevos estudios e investigaciones que los justifiquen.</p><p>d) La Ley podrá exceptuar de la obligación de repartir utilidades a las empresas de nueva creación durante un número determinado y limitado de años, a los trabajos de exploración y a otras actividades cuando lo justifique su naturaleza y condiciones particulares;</p><p>e) Para determinar el monto de las utilidades de cada empresa se tomará como base la renta gravable de conformidad con las disposiciones de la Ley del Impuesto sobre la Renta. Los trabajadores podrán formular ante la Oficina correspondiente de la Secretaría de Hacienda y Crédito Público las objeciones que juzguen convenientes, ajustándose al procedimiento que determine la ley;</p><p>f) El derecho de los trabajadores a participar en las utilidades no implica la facultad de intervenir en la dirección o administración de las empresas.</p><p class="n">Fracción reformada DOF 04-11-1933, 21-11-1962</p><p>X. El salario deberá pagarse precisamente en moneda de curso legal, no siendo permitido hacerlo efectivo con mercancías, ni con vales, fichas o cualquier otro signo representativo con que se pretenda substituir la moneda.</p><p>XI. Cuando por circunstancias extraordinarias deban aumentarse las horas de la jornada, se abonará como salario por este tiempo un cien por ciento más de lo fijado para las horas ordinarias. El trabajo extraordinario no excederá de doce horas en una semana, las cuales podrán distribuirse en hasta cuatro horas diarias, en un máximo de cuatro días en ese periodo.</p><p>La prolongación del tiempo extraordinario que supere lo establecido en el párrafo que antecede, obliga a la persona empleadora a pagar doscientos por ciento más del salario que corresponda a las horas de la jornada ordinaria conforme a lo establecido en la Ley de la materia.</p><p>Las personas menores de dieciocho años no podrán laborar tiempo extraordinario.</p><p class="n">Fracción reformada DOF 31-12-1974, 03-03-2026</p><p>XII. Toda empresa agrícola, industrial, minera o de cualquier otra clase de trabajo, estará obligada, según lo determinen las leyes reglamentarias a proporcionar a sus personas trabajadoras viviendas adecuadas. Esta obligación se cumplirá mediante las aportaciones que las empresas hagan a un fondo nacional de la vivienda a fin de constituir depósitos en favor de sus personas trabajadoras.</p></div>
+      <p class="verdict c-exact">EXACTO: idéntico, byte por byte</p>
+      <p class="src"><a href="https://github.com/BEG-lag/leyes-mx/commit/8f635957799dda92b4ea223b4672fb9dd843979c">Commit oficial en leyes-mx</a> · <a href="casos/2026-03-03-cpeum.html">caso completo</a></p>
+    </div>
+  </div>
+</section>
+<section aria-labelledby="decretos">
+  <h2 id="decretos">Cada decreto</h2>
+  <div class="table-wrap">
+  <table>
+    <caption>Artículos aplicados por la IA: exactos / normalizados / diferentes. «A revisión»: el decreto los cambió y la IA no los aplicó, los marcó para revisión humana.</caption>
+    <thead><tr><th scope="col">DOF</th><th scope="col">Ley</th><th scope="col">Decreto</th><th scope="col">Exacto / norm. / dif.</th><th scope="col">A revisión</th><th scope="col">Aplicados</th><th scope="col">Transitorios</th></tr></thead>
+    <tbody>
+<tr>
+<td class="num">07-10-2026<span class="src">backtest</span></td>
+<td><span class="abbr">CPEUM</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5800617&amp;fecha=07/10/2026">Decreto por el que se reforman y adicionan los artículos 82, 116 y 122 de la Constitución Política de los Estados Unidos Mexicanos, en materia de nacionalidad única para el ejercicio de la titularidad de los Poderes Ejecutivos Federal y Locales.</a><span class="src"><a href="casos/2026-10-07-cpeum.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/6cd26a99e6bfbb14d8520164efafd1c181ea4b24">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">3</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">3</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">03-03-2026<span class="src">backtest</span></td>
+<td><span class="abbr">CPEUM</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5781417&amp;fecha=03/03/2026">Decreto por el que se reforman las fracciones IV y XI del Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en materia de reducción de la jornada laboral.</a><span class="src"><a href="casos/2026-03-03-cpeum.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/8f635957799dda92b4ea223b4672fb9dd843979c">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">1</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">1</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">15-01-2026<span class="src">backtest</span></td>
+<td><span class="abbr">CNPCF</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5778297&amp;fecha=15/01/2026">Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social; de la Ley General de Salud; de la Ley General de Educación; de la Ley del Seguro Social; de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Federal del Trabajo; de la Ley Federal del Derecho de Autor; de la Ley Federal de Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.</a><span class="src"><a href="casos/2026-01-15-cnpcf.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/48aab2b2bff888597dd93147b0e82e8df3db18df">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">12</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">12</td>
+<td class="num c-exact">exacto</td>
+</tr>
+<tr>
+<td class="num">15-12-2025<span class="src">backtest</span></td>
+<td><span class="abbr">LGRA</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5776177&amp;fecha=15/12/2025">Decreto por el que se adiciona un artículo 69 Bis a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, y se adiciona un artículo 64 Quáter a la Ley General de Responsabilidades Administrativas.</a><span class="src"><a href="casos/2025-12-15-lgra.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/dd4f0303a7d014ee9fb47dbcef875d9999025115">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">1</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">1</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">12-12-2025<span class="src">backtest</span></td>
+<td><span class="abbr">LFPC</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5775999&amp;fecha=12/12/2025">Decreto por el que se adicionan las fracciones VIII y IX al artículo 76 Bis de la Ley Federal de Protección al Consumidor, en materia de cancelación de suscripciones y membresías con cobro recurrente.</a><span class="src"><a href="casos/2025-12-12-lfpc.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/c84474154643952e41dd22281aef362fd3574b33">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">1</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">1</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">11-12-2025<span class="src">backtest</span></td>
+<td><span class="abbr">LAN</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5775799&amp;fecha=11/12/2025">Decreto por el que se expide la Ley General de Aguas y, se reforman, adicionan y derogan diversas disposiciones de la Ley de Aguas Nacionales.</a><span class="src"><a href="casos/2025-12-11-lan.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/d97d8c517e6b2b462ca4ca5d72e696658c5fd4da">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">109</span> / <span class="c-normalized">32</span> / <span class="c-mismatch">4</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:75.172%"></span><span class="b-normalized" style="width:22.069%"></span><span class="b-mismatch" style="width:2.759%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">145</td>
+<td class="num c-mismatch">diferente</td>
+</tr>
+<tr>
+<td class="num">28-11-2025<span class="src">backtest</span></td>
+<td><span class="abbr">CNPP</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5774377&amp;fecha=28/11/2025">Decreto por el que se expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y, se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación.</a><span class="src"><a href="casos/2025-11-28-cnpp.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/4e3a0e2e057cc742b27dd86b92a80984a5751c04">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">1</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">1</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:50.000%"></span><span class="b-mismatch" style="width:50.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">2</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">14-11-2025<span class="src">backtest</span></td>
+<td><span class="abbr">CCom</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5773097&amp;fecha=14/11/2025">Decreto por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.</a><span class="src"><a href="casos/2025-11-14-ccom.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/b5e1e94708a616dfed0e89cbde6193f3746902f6">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">7</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">7</td>
+<td class="num c-exact">exacto</td>
+</tr>
+<tr>
+<td class="num">14-11-2025<span class="src">backtest</span></td>
+<td><span class="abbr">CCF</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5773097&amp;fecha=14/11/2025">Decreto por el que se reforman diversas disposiciones de diversos ordenamientos legales, en materia de homologación normativa relativa al Código Nacional de Procedimientos Civiles y Familiares.</a><span class="src"><a href="casos/2025-11-14-ccf.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/f00c9ca7f82e231350fd47ed0a2b1ae2a69234b0">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">29</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">29</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">16-10-2025<span class="src">backtest</span></td>
+<td><span class="abbr">LAmp</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5770217&amp;fecha=16/10/2025">Decreto por el que se reforman y adicionan diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa.</a><span class="src"><a href="casos/2025-10-16-lamp.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/f6e9c95f4c45717d5b7247b402545fc6fc2c467d">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">30</span> / <span class="c-normalized">1</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:96.774%"></span><span class="b-normalized" style="width:3.226%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">31</td>
+<td class="num c-mismatch">diferente</td>
+</tr>
+<tr>
+<td class="num">16-07-2025<span class="src">backtest</span></td>
+<td><span class="abbr">LFCE</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5763164&amp;fecha=16/07/2025">Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica y de la Ley Federal de las Entidades Paraestatales.</a><span class="src"><a href="casos/2025-07-16-lfce.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/9aaf06d61417e301be998450e6379137ed4c2f4e">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">81</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">11</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:87.097%"></span><span class="b-mismatch" style="width:11.828%"></span><span class="b-not_applied" style="width:1.075%"></span></div></td>
+<td class="num c-not_applied">1</td>
+<td class="num">92</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">15-04-2025<span class="src">backtest</span></td>
+<td><span class="abbr">CPEUM</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5755157&amp;fecha=15/04/2025">Decreto por el que se reforman el párrafo décimo del artículo 25 y la fracción XXIX-Y del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación administrativa y digitalización.</a><span class="src"><a href="casos/2025-04-15-cpeum.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/93d32c614c81628d66662b56af1b8e8bf8c1dc6b">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">2</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">2</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">18-03-2025<span class="src">backtest</span></td>
+<td><span class="abbr">LIH</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5752330&amp;fecha=18/03/2025">Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ingresos sobre Hidrocarburos.</a><span class="src"><a href="casos/2025-03-18-lih.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/80623a4dbf5db6a5ad129e1c202945b91b0aa2f3">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">32</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">4</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:88.889%"></span><span class="b-mismatch" style="width:11.111%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">36</td>
+<td class="num c-exact">exacto</td>
+</tr>
+<tr>
+<td class="num">13-03-2025<span class="src">backtest</span></td>
+<td><span class="abbr">LAmp</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5751769&amp;fecha=13/03/2025">Decreto por el que se reforman y derogan diversas disposiciones de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.</a><span class="src"><a href="casos/2025-03-13-lamp.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/04286d5308d8d0e556abef222cea924d42797aff">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">175</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">2</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:98.870%"></span><span class="b-mismatch" style="width:1.130%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">177</td>
+<td class="num c-mismatch">diferente</td>
+</tr>
+<tr>
+<td class="num">02-01-2025<span class="src">backtest</span></td>
+<td><span class="abbr">LGRA</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5746626&amp;fecha=02/01/2025">Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Responsabilidades Administrativas.</a><span class="src"><a href="casos/2025-01-02-lgra.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/6dfca7b6d9ee70e5cc5ff8bf929832ec6d74bdd9">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">13</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">13</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">16-12-2024<span class="src">backtest</span></td>
+<td><span class="abbr">CNPP</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5745426&amp;fecha=16/12/2024">Decreto por el que se reforman y adicionan diversas disposiciones del Código Nacional de Procedimientos Penales y de la Ley General del Sistema Nacional de Seguridad Pública, en materia de medidas de protección y derecho de las mujeres a una vida libre de violencia.</a><span class="src"><a href="casos/2024-12-16-cnpp.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/95e4e3bc26931027bdcc6f304c4c78778a24e40f">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">3</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">3</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">15-09-2024<span class="src">backtest</span></td>
+<td><span class="abbr">CPEUM</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5738985&amp;fecha=15/09/2024">Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial.</a><span class="src"><a href="casos/2024-09-15-cpeum.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/e81f049d53aaaa5cba7b217d816cd59f87d5ce16">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">16</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">4</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:80.000%"></span><span class="b-mismatch" style="width:20.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">20</td>
+<td class="num c-exact">exacto</td>
+</tr>
+<tr>
+<td class="num">04-06-2024<span class="src">backtest</span></td>
+<td><span class="abbr">CNPCF</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5729545&amp;fecha=04/06/2024">Decreto por el que se adicionan los artículos 314 y 1144 del Código Nacional de Procedimientos Civiles y Familiares.</a><span class="src"><a href="casos/2024-06-04-cnpcf.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/85f113395cd9586dffccf85f3b5215d8980d7987">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">2</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">2</td>
+<td class="num c-mismatch">diferente</td>
+</tr>
+<tr>
+<td class="num">04-04-2024<span class="src">backtest</span></td>
+<td><span class="abbr">LFT</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5722237&amp;fecha=04/04/2024">Decreto por el que se reforma la fracción III del artículo 994 de la Ley Federal del Trabajo.</a><span class="src"><a href="casos/2024-04-04-lft.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/20f877f7f384cb2d2b3cd6dbd554a07f70b79853">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">1</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">1</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">01-04-2024<span class="src">backtest</span></td>
+<td><span class="abbr">LOAPF</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5721949&amp;fecha=01/04/2024">Decreto por el que se reforman diversos ordenamientos en materia de pueblos y comunidades indígenas y afromexicanas.</a><span class="src"><a href="casos/2024-04-01-loapf.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/8f275709d9af4328ea59b9a5778ca6a5639d3b2b">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">3</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">3</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">17-01-2024<span class="src">backtest</span></td>
+<td><span class="abbr">CCF</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5714605&amp;fecha=17/01/2024">Decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, del Código Civil Federal y del Código Penal Federal, en materia de violencia a través de interpósita persona.</a><span class="src"><a href="casos/2024-01-17-ccf.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/f81d1d0b354b076e21409fab093b7b645867ca14">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">4</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">4</td>
+<td class="num c-exact">exacto</td>
+</tr>
+<tr>
+<td class="num">27-12-2022<span class="src">backtest</span></td>
+<td><span class="abbr">LFT</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5675889&amp;fecha=27/12/2022">Decreto por el que se reforman los artículos 76 y 78 de la Ley Federal del Trabajo, en materia de vacaciones.</a><span class="src"><a href="casos/2022-12-27-lft.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/33fcae8b2a8806e974d1d32f7b3a5e120fc5247d">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">2</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">2</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">01-06-2021<span class="src">backtest</span></td>
+<td><span class="abbr">CPF</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5619905&amp;fecha=01/06/2021">Decreto por el que se adicionan diversas disposiciones a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y al Código Penal Federal.</a><span class="src"><a href="casos/2021-06-01-cpf.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/1ae0082c89b3f0f2c6b5622792886b4e587253db">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">3</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">3</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">11-01-2021<span class="src">backtest</span></td>
+<td><span class="abbr">CCF</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5609666&amp;fecha=11/01/2021">Decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes, y del Código Civil Federal.</a><span class="src"><a href="casos/2021-01-11-ccf.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/f87d2ee659b245489c9d884d45344b8c79b781cc">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">3</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">3</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">08-12-2020<span class="src">backtest</span></td>
+<td><span class="abbr">LISR</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5606951&amp;fecha=08/12/2020">Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto al Valor Agregado y del Código Fiscal de la Federación.</a><span class="src"><a href="casos/2020-12-08-lisr.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/8fe34cee9348d1a39abf9afe2ef1a3623a0a2f96">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">11</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">1</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:91.667%"></span><span class="b-mismatch" style="width:8.333%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">12</td>
+<td class="num c-mismatch">diferente</td>
+</tr>
+<tr>
+<td class="num">01-07-2020<span class="src">backtest</span></td>
+<td><span class="abbr">CPF</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5596005&amp;fecha=01/07/2020">Decreto por el que se reforman y adicionan diversas disposiciones del Código Penal Federal.</a><span class="src"><a href="casos/2020-07-01-cpf.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/6894c095e9e8456ff01b496c53bc5a5d4b931d29">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">8</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">8</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">27-03-2020<span class="src">backtest</span></td>
+<td><span class="abbr">CCF</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5590586&amp;fecha=27/03/2020">Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Instituciones de Crédito y del Código Civil Federal.</a><span class="src"><a href="casos/2020-03-27-ccf.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/9143cd6a7346039e5cd24d578e57bb0b8bec9774">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">3</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">3</td>
+<td class="num c-exact">exacto</td>
+</tr>
+<tr>
+<td class="num">06-03-2020<span class="src">backtest</span></td>
+<td><span class="abbr">CPEUM</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5588597&amp;fecha=06/03/2020">Decreto por el que se declara reformado el primer párrafo del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de condonación de impuestos.</a><span class="src"><a href="casos/2020-03-06-cpeum.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/a7aba43186cd6b393188bf8aaeff2872ce348cb1">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">1</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">1</td>
+<td class="num c-exact">exacto</td>
+</tr>
+<tr>
+<td class="num">24-01-2020<span class="src">backtest</span></td>
+<td><span class="abbr">CPF</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5584749&amp;fecha=24/01/2020">Decreto por el que se adicionan un artículo 190 Bis a la Ley Federal de Telecomunicaciones y Radiodifusión, y un artículo 168 ter al Código Penal Federal.</a><span class="src"><a href="casos/2020-01-24-cpf.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/ec3aaec9711bbb95e51b05ffac7927312badb488">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">1</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">1</td>
+<td class="num c-exact">exacto</td>
+</tr>
+<tr>
+<td class="num">20-12-2019<span class="src">backtest</span></td>
+<td><span class="abbr">CPEUM</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5582486&amp;fecha=20/12/2019">Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Consulta Popular y Revocación de Mandato.</a><span class="src"><a href="casos/2019-12-20-cpeum.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/2ef25e016169b5da0335ee24a820f2d71f2ddd7d">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">8</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">8</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">19-11-2019<span class="src">backtest</span></td>
+<td><span class="abbr">LGRA</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5579141&amp;fecha=19/11/2019">Decreto por el que se expide la Ley Federal de Austeridad Republicana; y se reforman y adicionan diversas disposiciones de la Ley General de Responsabilidades Administrativas y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.</a><span class="src"><a href="casos/2019-11-19-lgra.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/2c98dd8f48c1a1b75bdb5758648644c433f45c9e">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">7</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">7</td>
+<td class="num c-mismatch">diferente</td>
+</tr>
+<tr>
+<td class="num">08-11-2019<span class="src">backtest</span></td>
+<td><span class="abbr">CFF</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5578269&amp;fecha=08/11/2019">Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal.</a><span class="src"><a href="casos/2019-11-08-cff.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/858bc280eb9aac1580f7bb76db5ab7fd664bd88f">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">2</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">2</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">09-08-2019<span class="src">backtest</span></td>
+<td><span class="abbr">CPEUM</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5567623&amp;fecha=09/08/2019">Decreto por el que se adiciona un apartado C al artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.</a><span class="src"><a href="casos/2019-08-09-cpeum.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/4f5705fe4a603abd1dfb1f15f0bbb66e95a0c485">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">1</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">1</td>
+<td class="num c-normalized">normalizado</td>
+</tr>
+<tr>
+<td class="num">16-05-2019<span class="src">backtest</span></td>
+<td><span class="abbr">CFF</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5560466&amp;fecha=16/05/2019">Decreto por el que se reforma la fracción III del artículo 113 y se adiciona un artículo 113 Bis del Código Fiscal de la Federación.</a><span class="src"><a href="casos/2019-05-16-cff.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/8cbef392d17186fb97df9c4f03ef11978b01a6e6">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">2</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">2</td>
+<td class="num c-mismatch">diferente</td>
+</tr>
+<tr>
+<td class="num">12-04-2019<span class="src">backtest</span></td>
+<td><span class="abbr">LGRA</span></td>
+<td class="title"><a href="https://dof.gob.mx/nota_detalle.php?codigo=5557707&amp;fecha=12/04/2019">Decreto por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Remuneraciones de los Servidores Públicos, reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos, del Código Penal Federal y de la Ley General de Responsabilidades Administrativas.</a><span class="src"><a href="casos/2019-04-12-lgra.html">detalle</a> · <a href="https://github.com/BEG-lag/leyes-mx/commit/54d2d83bf41f079d8b5078cf34b65ca1283088cb">commit oficial</a></span></td>
+<td class="num"><span class="c-exact">4</span> / <span class="c-normalized">0</span> / <span class="c-mismatch">0</span><div class="mini" aria-hidden="true"><span class="b-exact" style="width:100.000%"></span></div></td>
+<td class="num c-not_applied">0</td>
+<td class="num">4</td>
+<td class="num c-mismatch">diferente</td>
+</tr>
+    </tbody>
+  </table>
+  </div>
+</section>
+<section aria-labelledby="como">
+  <h2 id="como">Cómo funciona y qué no hace</h2>
+  <div class="anatomy">
+    <div class="card"><div class="k">Humano en el circuito</div><p>Nada se fusiona solo. El PR lleva la etiqueta <code>provisional</code>, enlaza el decreto, resume cada edición y enumera lo que requiere revisión. El dueño de leyes-mx decide.</p></div>
+    <div class="card"><div class="k">La IA no escribe archivos</div><p>Claude se llama sin herramientas, sin MCP y sin configuración personal, y sólo puede devolver JSON validado contra un esquema. Un programa aplica, numera notas, valida que ningún otro artículo cambie y que la numeración siga válida.</p></div>
+    <div class="card"><div class="k">Límites</div><p>Decretos que reforman transitorios de otros decretos, declaratorias de invalidez de la SCJN y textos base desactualizados quedan fuera o van a revisión. La Cámara a veces omite párrafos «Se deroga» o corrige el texto por su cuenta: eso aparece como diferencia.</p></div>
+  </div>
+</section>
+</main>
+<footer>
+  <div class="wrap">
+    <p class="who">Benjamín Esponda García</p>
+    <p>Abogado corporativo mexicano que construye con IA · <a href="https://pivotek.mx">pivotek.mx</a> · <a href="https://github.com/BEG-lag">github.com/BEG-lag</a></p>
+    <p><strong>Texto provisional aplicado por IA. Sólo el DOF es fuente oficial. No es asesoría legal.</strong>
+    Provisional AI-applied text. Only the DOF is authoritative. Not legal advice.</p>
+    <p>reforma-al-dia 0.1.0 · código MIT · textos legales de dominio público (LFDA, art. 14, fr. VIII) ·
+    <a href="https://github.com/BEG-lag/reforma-al-dia">código fuente</a> · <a href="data/auditoria.json">datos (JSON)</a></p>
+  </div>
+</footer>
+</body>
+</html>
