@@ -20,7 +20,7 @@ The agent file is `scheduling/mx.pivotek.reforma-al-dia.plist`. It is **not inst
 repository. To install it:
 
 ```bash
-# 1. Check the paths inside the plist (they assume /Users/esponda/GitHub/reforma-al-dia).
+# 1. Check the paths inside the plist (they assume /Users/YOUR_USER/GitHub/reforma-al-dia).
 # 2. The Mac must be on Mexico City time (System Settings > General > Date & Time).
 cp scheduling/mx.pivotek.reforma-al-dia.plist ~/Library/LaunchAgents/
 launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/mx.pivotek.reforma-al-dia.plist

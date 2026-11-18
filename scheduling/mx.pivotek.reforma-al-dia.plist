@@ -5,7 +5,7 @@
   NOT installed by this repository. To install, see scheduling/README.md:
     cp scheduling/mx.pivotek.reforma-al-dia.plist ~/Library/LaunchAgents/
     launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/mx.pivotek.reforma-al-dia.plist
-  Replace /Users/esponda/GitHub/reforma-al-dia if the repository lives elsewhere.
+  Replace /Users/YOUR_USER/GitHub/reforma-al-dia if the repository lives elsewhere.
 -->
 <plist version="1.0">
 <dict>
@@ -15,7 +15,7 @@
   <array>
     <string>/bin/zsh</string>
     <string>-l</string>
-    <string>/Users/esponda/GitHub/reforma-al-dia/scheduling/run-daily.sh</string>
+    <string>/Users/YOUR_USER/GitHub/reforma-al-dia/scheduling/run-daily.sh</string>
   </array>
   <key>EnvironmentVariables</key>
   <dict>
@@ -33,11 +33,11 @@
     <integer>45</integer>
   </dict>
   <key>WorkingDirectory</key>
-  <string>/Users/esponda/GitHub/reforma-al-dia</string>
+  <string>/Users/YOUR_USER/GitHub/reforma-al-dia</string>
   <key>StandardOutPath</key>
-  <string>/Users/esponda/GitHub/reforma-al-dia/.work/launchd.log</string>
+  <string>/Users/YOUR_USER/GitHub/reforma-al-dia/.work/launchd.log</string>
   <key>StandardErrorPath</key>
-  <string>/Users/esponda/GitHub/reforma-al-dia/.work/launchd.log</string>
+  <string>/Users/YOUR_USER/GitHub/reforma-al-dia/.work/launchd.log</string>
   <key>RunAtLoad</key>
   <false/>
 </dict>
