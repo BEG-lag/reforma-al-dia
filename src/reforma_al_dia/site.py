@@ -58,6 +58,14 @@ a:hover{color:var(--lime)}
 header.top{padding:48px 0 28px;border-bottom:1px solid var(--line)}
 .kicker{font:400 12px/1.4 var(--mono);letter-spacing:.16em;text-transform:uppercase;color:var(--muted)}
 .kicker b{color:var(--lime);font-weight:400}
+/* PIVOTEK logo at the end of the kicker line (orange on ink; isotype on narrow screens) */
+.kicker{display:flex;align-items:center}
+.kicker>span{min-width:0}
+.pvk{display:flex;align-items:center;flex:none;height:22px;margin:-3px 0 -3px 16px;padding-left:16px;border-left:1px solid var(--line);text-decoration:none}
+.pvk:hover{text-decoration:none;opacity:.85}
+.pvk img{display:block;transform:translateY(2px)}
+.pvk-iso{display:none!important}
+@media(max-width:360px){.pvk-logo{display:none!important}.pvk-iso{display:block!important}}
 h1{font:700 clamp(38px,8vw,80px)/1 var(--mono);letter-spacing:-.04em;margin:16px 0 10px;overflow-wrap:anywhere}
 h1 span{color:var(--lime)}
 .tag{font:italic 500 clamp(22px,3.4vw,34px)/1.2 var(--serif);margin:0 0 18px}
@@ -161,6 +169,15 @@ def _looks_note(line: str) -> bool:
     from .legal import is_note
 
     return is_note(line)
+
+
+def _pvk(prefix: str) -> str:
+    """PIVOTEK logo for the header: the logotype, or the isotype on narrow screens."""
+    return (
+        '<a class="pvk" href="https://pivotek.mx" title="PIVOTEK">'
+        f'<img class="pvk-logo" src="{prefix}assets/pivotek-logotipo-naranja.svg" alt="PIVOTEK" width="90" height="34">'
+        f'<img class="pvk-iso" src="{prefix}assets/pivotek-isotipo-naranja.svg" alt="PIVOTEK" width="21" height="24"></a>'
+    )
 
 
 def _page(title: str, body: str, *, prefix: str, description: str) -> str:
@@ -316,7 +333,7 @@ Cámara a veces omite; <strong>{causes.get("numbering", 0)}</strong> sólo por l
     body = f"""
 <header class="top">
   <div class="wrap">
-    <div class="kicker"><b>DOF</b> → IA → pull request → revisión humana → <b>auditoría</b></div>
+    <div class="kicker"><span><b>DOF</b> → IA → pull request → revisión humana → <b>auditoría</b></span>{_pvk("")}</div>
     <h1>reforma<span>-</span>al<span>-</span>día</h1>
     <p class="tag">La reforma, aplicada la misma mañana. Auditada después, en público.</p>
     <p class="lede">Cuando el <strong>Diario Oficial de la Federación</strong> publica un decreto que reforma una ley de
@@ -430,7 +447,7 @@ def case_html(case: dict) -> str:
     seconds = sum(c.get("duration_ms", 0) for c in calls) / 1000
     body = f"""
 <header class="top"><div class="wrap">
-  <div class="kicker"><a href="../index.html">reforma-al-día</a> / <b>{escape(case["law"]["abbreviation"])}</b> / DOF {_dmy(case["decree"]["date"])}</div>
+  <div class="kicker"><span><a href="../index.html">reforma-al-día</a> / <b>{escape(case["law"]["abbreviation"])}</b> / DOF {_dmy(case["decree"]["date"])}</span>{_pvk("../")}</div>
   <h3 style="margin-top:14px">{escape(case["decree"]["title"])}</h3>
   <p class="lede">{escape(case["law"]["title"])} · {" · ".join(links)}</p>
   <div class="stats">

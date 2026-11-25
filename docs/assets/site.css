@@ -20,6 +20,14 @@ a:hover{color:var(--lime)}
 header.top{padding:48px 0 28px;border-bottom:1px solid var(--line)}
 .kicker{font:400 12px/1.4 var(--mono);letter-spacing:.16em;text-transform:uppercase;color:var(--muted)}
 .kicker b{color:var(--lime);font-weight:400}
+/* PIVOTEK logo at the end of the kicker line (orange on ink; isotype on narrow screens) */
+.kicker{display:flex;align-items:center}
+.kicker>span{min-width:0}
+.pvk{display:flex;align-items:center;flex:none;height:22px;margin:-3px 0 -3px 16px;padding-left:16px;border-left:1px solid var(--line);text-decoration:none}
+.pvk:hover{text-decoration:none;opacity:.85}
+.pvk img{display:block;transform:translateY(2px)}
+.pvk-iso{display:none!important}
+@media(max-width:360px){.pvk-logo{display:none!important}.pvk-iso{display:block!important}}
 h1{font:700 clamp(38px,8vw,80px)/1 var(--mono);letter-spacing:-.04em;margin:16px 0 10px;overflow-wrap:anywhere}
 h1 span{color:var(--lime)}
 .tag{font:italic 500 clamp(22px,3.4vw,34px)/1.2 var(--serif);margin:0 0 18px}
