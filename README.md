@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="https://pivotek.mx"><img src="assets/pivotek-logo.svg" alt="PIVOTEK" width="200"></a>
+</p>
+
+<p align="center">
   <img src="assets/banner.svg" alt="reforma-al-dia: the morning the DOF publishes a reform, an AI agent applies it to leyes-mx and opens a pull request for a human to review. Then it audits itself." width="100%">
 </p>
 
